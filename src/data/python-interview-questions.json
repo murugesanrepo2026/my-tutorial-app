@@ -1,0 +1,7 @@
+{
+  "title": "Python Interview Questions",
+  "questions": [
+    { "question": "What is Python?", "answer": "Python is an interpreted, high-level language." },
+    { "question": "What are decorators?", "answer": "Decorators are functions that modify other functions." }
+  ]
+}

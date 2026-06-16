@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Variables – Run Code Online</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background: #f4f7fc;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            padding: 2rem;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+        }
+        h1 { border-left: 6px solid #306998; padding-left: 1rem; margin-bottom: 1rem; }
+        .code-block {
+            position: relative;
+            background: #0f172a;
+            border-radius: 16px;
+            margin: 1rem 0;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            overflow-x: auto;
+            font-family: monospace;
+            margin: 0;
+        }
+        .run-btn {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            background: #306998;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 4px 12px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .run-btn:hover { background: #1f4a6e; }
+        .output {
+            background: #1e1e2f;
+            color: #f1f1f1;
+            padding: 0.8rem;
+            border-radius: 12px;
+            font-family: monospace;
+            margin: 0.5rem 0 1rem 0;
+            white-space: pre-wrap;
+            display: none;
+            border-left: 4px solid #f59e0b;
+        }
+        .output.show { display: block; }
+        .output.error { border-left-color: #ef4444; background: #2d1a1a; }
+        .note {
+            background: #e6f7ec;
+            padding: 1rem;
+            border-radius: 12px;
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🐍 Python Variables – Run Code Online</h1>
+    <p>Click <strong>Run</strong> to execute each snippet. Output appears below the code.</p>
+
+    <div class="code-block">
+        <button class="run-btn" data-code='a = 17\nname = "Daisy"\nprint(a)\nprint(name)'>▶ Run</button>
+        <pre><code>a = 17
+name = "Daisy"
+print(a)
+print(name)</code></pre>
+    </div>
+    <div class="output"></div>
+
+    <div class="code-block">
+        <button class="run-btn" data-code='var_one = 82\nprint(var_one)'>▶ Run</button>
+        <pre><code>var_one = 82
+print(var_one)</code></pre>
+    </div>
+    <div class="output"></div>
+
+    <div class="code-block">
+        <button class="run-btn" data-code='var = 21\nprint(var)\nvar = "Dreamz Touch"\nprint(var)'>▶ Run</button>
+        <pre><code>var = 21
+print(var)
+var = "Dreamz Touch"
+print(var)</code></pre>
+    </div>
+    <div class="output"></div>
+
+    <div class="note">
+        💡 <strong>How it works:</strong> Your code is sent to a free, public Python API (no key required). The API runs Python 3.10 in a sandbox and returns the output.<br>
+        ⚠️ <strong>Important:</strong> You must open this page via <code>http://localhost:8000/Variables.html</code> (not <code>file://</code>). Start a local server with <code>python -m http.server 8000</code>.
+    </div>
+</div>
+
+<script>
+    // Using a reliable, no‑key API endpoint (Piston mirror)
+    const API_URL = "https://api.piston.ga/v2/execute";
+
+    async function runPython(code, outputDiv) {
+        outputDiv.textContent = "⏳ Running...";
+        outputDiv.classList.remove('error');
+        outputDiv.classList.add('show');
+
+        try {
+            const response = await fetch(API_URL, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    language: "python",
+                    version: "3.10",
+                    files: [{ content: code }]
+                })
+            });
+
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status} - ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            if (data.run && data.run.output !== undefined) {
+                let out = data.run.output;
+                if (out === "") out = "(no output)";
+                outputDiv.textContent = out;
+                if (data.run.stderr && data.run.stderr.trim()) {
+                    outputDiv.textContent += "\n\n[stderr]\n" + data.run.stderr;
+                    outputDiv.classList.add('error');
+                }
+            } else if (data.message) {
+                throw new Error(data.message);
+            } else {
+                throw new Error("Unknown API response");
+            }
+        } catch (err) {
+            outputDiv.textContent = `❌ Error: ${err.message}\n\nPossible reasons:\n- No internet connection\n- API is down (try again later)\n- You opened the file directly (file://). Use a local HTTP server.`;
+            outputDiv.classList.add('error');
+        }
+    }
+
+    document.querySelectorAll('.run-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const code = btn.getAttribute('data-code');
+            let outputDiv = btn.parentElement.nextElementSibling;
+            while (outputDiv && !outputDiv.classList.contains('output')) {
+                outputDiv = outputDiv.nextElementSibling;
+            }
+            if (outputDiv) {
+                runPython(code, outputDiv);
+            } else {
+                console.error("Output div not found");
+            }
+        });
+    });
+</script>
+</body>
+</html>

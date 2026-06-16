@@ -1,0 +1,80 @@
+/* src/components/AboutUs.css */
+.about-container {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+.about-card {
+  background: white;
+  border-radius: 24px;
+  padding: 1.8rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+  transition: 0.2s;
+}
+.about-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 30px -12px rgba(0,0,0,0.1);
+}
+h2 {
+  font-size: 1.8rem;
+  color: #0f2c38;
+  border-left: 5px solid #ffb347;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+.feature-grid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+.feature-item {
+  background: #eef2fa;
+  padding: 0.6rem 1.2rem;
+  border-radius: 40px;
+}
+.approach-quote {
+  background: #fef5e7;
+  border-left: 5px solid #ffb347;
+  padding: 1rem;
+  font-style: italic;
+  margin-top: 1rem;
+  border-radius: 12px;
+}
+.two-col {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+.two-col .about-card {
+  flex: 1;
+  margin-bottom: 0;
+}
+.brand-card {
+  background: linear-gradient(145deg, #fff8f0, #fff);
+  border: 1px solid #ffd9a5;
+}
+.cta-card {
+  background: linear-gradient(135deg, #0f2c38, #1a4b5e);
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  border-radius: 24px;
+}
+.cta-card h2 {
+  color: white;
+}
+.cta-button {
+  background: #ffb347;
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+@media (max-width: 768px) {
+  .two-col { flex-direction: column; }
+}

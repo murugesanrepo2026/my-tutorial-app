@@ -1,0 +1,57 @@
+/* Interviews dropdown – grid layout */
+.interviews-menu-content {
+  min-width: 700px;           /* ensures columns have room */
+  max-width: 90vw;
+  padding: 1.2rem;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.menu-column h4 {
+  color: #fbbf24;             /* golden accent */
+  font-weight: 800;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem 0;
+  padding-left: 0.75rem;
+  border-left: 3px solid #fbbf24;
+  letter-spacing: 0.5px;
+}
+
+.menu-column ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-column li {
+  margin-bottom: 0.5rem;
+}
+
+.menu-item {
+  color: #e2e8f0;            /* light gray, readable on dark */
+  text-decoration: none;
+  display: block;
+  padding: 0.3rem 0;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.menu-item:hover {
+  color: #c084fc;             /* purple hover */
+  transform: translateX(5px);
+}
+
+/* Responsive: on narrow screens, reduce min-width */
+@media (max-width: 800px) {
+  .interviews-menu-content {
+    min-width: 300px;
+  }
+  .menu-grid {
+    grid-template-columns: 1fr;
+  }
+}

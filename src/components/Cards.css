@@ -1,0 +1,164 @@
+/* Outer container */
+.carousel-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 320px;       /* adjust card width here */
+  margin: 0 auto;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Fixed-height viewport – all cards same size */
+.viewport {
+  width: 100%;
+  height: 280px;          /* consistent card height */
+  overflow: hidden;
+  border-radius: 28px;
+  box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.35);
+  background: transparent;
+}
+
+/* Vertical stack of cards */
+.card-stack {
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  height: 100%;
+}
+
+/* Each card – identical dimensions */
+.card {
+  flex: 0 0 100%;        /* exactly fills viewport height */
+  width: 100%;
+  background: #ff7e5e;
+  padding: 1.5rem;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  transition: transform 0.2s ease;
+  border-radius: 28px;    /* matches viewport */
+}
+
+/* Hover effect – subtle lift */
+.card:hover {
+  transform: scale(1.01);
+  filter: brightness(1.02);
+}
+
+/* Typography – scales with card height */
+.card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.card p {
+  font-size: 1rem;
+  line-height: 1.4;
+  opacity: 0.92;
+  max-width: 90%;
+}
+
+.ad-badge {
+  display: inline-block;
+  background: rgba(255, 255, 240, 0.2);
+  backdrop-filter: blur(4px);
+  padding: 0.3rem 1rem;
+  border-radius: 40px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  width: auto;
+}
+
+/* Progress bar */
+.progress-track {
+  margin-top: 1rem;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  height: 5px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.progress-fill {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #ffd6b0, #ffffff);
+  border-radius: 60px;
+  animation: shrinkWidth 5s linear forwards;
+}
+
+@keyframes shrinkWidth {
+  from { width: 100%; }
+  to { width: 0%; }
+}
+
+/* Pagination dots */
+.dots-container {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: none;
+  border-radius: 50%;
+  transition: all 0.2s;
+  cursor: pointer;
+  padding: 0;
+}
+
+.dot.active {
+  background-color: #ff7e5e;
+  width: 28px;
+  border-radius: 12px;
+  box-shadow: 0 0 6px #ffaa88;
+}
+
+/* Info note */
+.info-note {
+  text-align: center;
+  font-size: 0.75rem;
+  margin-top: 0.75rem;
+  color: #555;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.info-note span {
+  background: #f0f0f0;
+  padding: 4px 12px;
+  border-radius: 60px;
+}
+
+/* Responsive – maintains same aspect but smaller on mobile */
+@media (max-width: 600px) {
+  .carousel-wrapper {
+    max-width: 280px;     /* slightly narrower on mobile */
+  }
+  .viewport {
+    height: 240px;        /* shorter but consistent for all cards */
+  }
+  .card h3 {
+    font-size: 1.4rem;
+  }
+  .card p {
+    font-size: 0.85rem;
+  }
+  .card {
+    padding: 1rem;
+  }
+}

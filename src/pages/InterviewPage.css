@@ -1,0 +1,139 @@
+/* src/pages/InterviewPage.css */
+.interview-layout {
+  display: flex;
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+/* Sidebar styles – matches Tutorials sidebar */
+.interview-sidebar {
+  flex: 0 0 280px;
+  /* background: rgba(255, 255, 255, 0.05); */
+  backdrop-filter: blur(8px);
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  /* border: 1px solid rgba(192, 132, 252, 0.2); */
+  height: fit-content;
+  position: sticky;
+  top: 100px;
+  background: #ffffff;               /* White background */
+  border: 1px solid #e2e8f0;        /* Light gray border */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar-header h3 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  /* background: linear-gradient(135deg, #e0e0e0, #c084fc); */
+  background-clip: text;
+  -webkit-background-clip: text;
+  /* color: transparent; */
+  color: #1e293b;                    /* Dark slate – almost black */
+  background: none;                  /* Remove gradient */
+  font-weight: 700;
+}
+
+.sidebar-category {
+  margin-bottom: 1.5rem;
+}
+
+.sidebar-category h4 {
+  font-size: 1rem;
+  color: #c084fc;
+  margin-bottom: 0.75rem;
+  border-left: 3px solid #c084fc;
+  padding-left: 0.75rem;
+}
+
+.sidebar-category ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar-category li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-link {
+  display: block;
+  padding: 0.4rem 0.75rem;
+  color: #334155;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+  font-size: 0.9rem;
+}
+
+.sidebar-link:hover {
+  background: #f1f5f9;
+  color: #c084fc;
+  transform: translateX(4px);
+}
+
+.sidebar-link.active {
+  background: #eef2ff;
+  color: #4f46e5;
+  font-weight: 500;
+  border-left: 3px solid #4f46e5;
+}
+
+/* Main content area – same as before but adjust width */
+.interview-content {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Keep all your existing .qa-card, .output-block etc. unchanged */
+.qa-card {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ... rest of your existing InterviewPage.css ... */
+
+@media (max-width: 900px) {
+  .interview-layout {
+    flex-direction: column;
+  }
+  .interview-sidebar {
+    position: static;
+    width: 100%;
+  }
+}
+
+
+/* Interviews dropdown – headings style */
+.interviews-menu-content h4,
+.interviews-menu h4 {
+  color: #fbbf24 !important;      /* Golden yellow – change to any color you like */
+  font-weight: 800 !important;    /* Extra bold */
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+  border-left: 3px solid #fbbf24;
+  padding-left: 0.75rem;
+}
+
+/* Menu items (topics) – ensure they are visible */
+.interviews-menu-content .menu-item,
+.interviews-menu .menu-item {
+  color: #e2e8f0;                /* Light gray, not pure white */
+  text-decoration: none;
+  display: block;
+  padding: 0.3rem 0;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.interviews-menu-content .menu-item:hover,
+.interviews-menu .menu-item:hover {
+  color: #c084fc;                 /* Purple on hover */
+  transform: translateX(5px);
+}

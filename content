@@ -1,0 +1,2848 @@
+C Tutorial | Learn C Programming Language
+
+What is the C programming language?
+
+The C programming language is a general-purpose, procedural, and structured programming language that was developed by Dennis Ritchie at AT&T Bell Labs in the early 1970s. 
+
+It was initially used to develop the UNIX Operating System. Now, it is the most widely used programming language.
+
+
+The C programming language is mainly developed to create system applications that directly interact with the hardware devices, such as drivers, kernels, etc. 
+
+It is considered the base for other programming languages, which is why it is known as the mother language.
+
+
+C Hello World Program:
+
+#include <stdio.h>  
+int main() {  
+    printf("Hello, World!\n");  
+    return 0;  
+}  
+
+
+C Programming Definition:
+
+It can be defined in the following ways:
+
+1) C as a Mother Language
+
+    C language is considered the mother language of all modern programming languages. 
+
+    C is used to develop most of the compilers, JVMs, Kernels, etc., and several programming languages follow C syntax, such as C++, Java, C#, and many others. 
+
+    It provides the core concepts like arrays, strings, functions, file handling, etc., which are used in many languages like C++, Java, C#, etc.
+
+2) C as a System Programming Language
+
+    A system programming language is used to create system software. 
+
+    C language is a system programming language because it can be used to do low-level programming (such as drivers and kernel). 
+
+    It is generally used to create hardware devices, OS, drivers, kernels, etc. 
+
+    For example, the Linux kernel is written in C. It can't be used for internet programming like Java, .Net, PHP, etc.
+
+3) C as a Procedural Language
+
+    A procedure is known as a function, method, routine, subroutine, etc. 
+
+    C is a procedural language that specifies a series of steps for the program to solve the problem. 
+
+    A procedural language breaks the program into functions, data structures, etc. 
+
+    In C, variables and function prototypes must be declared before being used.
+
+4) C as a Structured Programming Language
+
+    A structured programming language is a subset of the procedural language. 
+
+    Structure means to break a program into parts or blocks so that it may be easy to understand. 
+
+    In the C language, we break the program into parts using functions. It makes the program easier to understand and modify.
+
+5) C as a Mid-Level Programming Language
+
+    C is considered a middle-level language because it supports the features of both low-level and high-level languages. 
+
+    A C language program is converted into assembly code, which supports pointer arithmetic (low-level), but it is machine-independent (a feature of high-level).
+
+
+
+Why Learn the C Programming Language?
+
+1) Foundation of Programming
+
+    The C programming language is often known as the Mother of all languages because several other programming languages, such as C++, Java, C#, Python, and JavaScript, are influenced by this language. 
+
+    It helps to create a strong foundation in main concepts, such as variables, data types, loops, functions, and memory management.
+
+2) Fast and Efficient
+
+    The C programming language provides faster execution compared to some other high-level programming languages. 
+
+    It is very fast and efficient because it doesn't contain any additional processing overhead, including garbage collection, preventing memory leaks, and many other features.
+
+3) Embedded Programming
+
+    The C programming language is widely utilized in Embedded Programming. 
+
+    It is also known as microcontroller programming, where a C program is commonly utilized to control microcontrollers. 
+
+    Embedded programming is commonly utilized in several fields, such as automotive, Robotics, Hardware, and many others.
+
+4) Portability
+
+    The C programming language is a highly portable programming language, which means that the same code can be compiled and executed on almost any platform with minimal changes or without modification. 
+
+    This machine independence makes it suitable to create applications that run across different operating systems and hardware. 
+
+    Due to its portability, C programming is widely used in system programming, embedded systems, and cross-platform software development.
+
+5) Ease of Learning
+
+    C programming is an easy-to-learn programming language due to its simple syntax and structured approach. 
+
+    It has simple, straightforward, and common mathematical expressions, which makes it beginner-friendly. 
+
+    It also provides several features, such as functions, loops, and operators, that help developers quickly grasp essential programming concepts.
+
+
+
+Where is C Programming Used?
+
+1) Operating System
+
+    Several operating systems, such as Windows, Linux, and the UNIX operating system, are developed using the C programming language. 
+
+    It provides low-level access to memory and fast execution, which makes it effective to create kernels, drivers, and system-level programs. 
+
+    Due to its better efficiency and portability, it is a better option to develop a modern operating system.
+
+2) Game Development
+
+    Video games and several multimedia applications can be developed using the C language. 
+
+    It provides fast execution speed and efficient memory management, which enables it to manage graphics, calculations, and real-time interactions.
+
+3) Creating Databases
+
+    The C programming language is generally used to create databases (such as Oracle and MySQL), which enable the developer to create, save, access, and manipulate data. 
+
+    It provides speed, efficiency, and low-level memory management, which is important to handle a large amount of data and complicated queries. 
+
+    Because of its portability, it enables these databases to operate on multiple platforms.
+
+4) Compilers and Interpreters
+
+    Compilers and interpreters can be developed using the C programming language, which is used in several programming languages, such as C#, C++, Python, and many others. 
+
+    Due to its better efficiency, portability, and hardware features, it makes it easy to convert high-level code into machine code effectively.
+
+5) Networking
+
+    The C programming language is used to develop several networking protocols and programs that enable developers to communicate among multiple devices on a network. 
+
+    Due to its performance and control over other resources, it is used to develop protocols, routers, and network drivers.
+
+
+--------------------------------------------------------------
+
+
+History of C Language
+
+
+Last Updated : 11 April 2026
+
+The C programming language is an essential and general-purpose programming language that provides procedural implementation to developers who want to develop several applications. 
+
+It was mainly developed as a system programming language to implement the UNIX system. 
+
+Most of us are aware of its popular features that include a modular framework, access to low-level memory, and many more, which make it a simple, versatile, and efficient programming language.
+
+
+Creation of the C Programming Language
+
+
+Dennis Ritchie - founder of C language
+
+
+The C language was created and developed by Dennis Ritchie and Ken Thompson in 1972 at Bell Labs, AT&T (American Telephone & Telegraph), located in the United States of America. 
+
+But before that, we should know that the root of all programming languages is ALGOL (i.e., Algorithmic Language), and it was the first programming language developed in the 1960s. 
+
+Later on, the Basic Combined Programming Language (BCPL) was developed by Martin Richards in 1967, and BCPL was the programming language derived from ALGOL.
+
+In the year 1970, the B language originated from BCPL and was created by Ken Thompson, and both these programming languages were typeless. 
+
+In 1972, the C programming language was developed to overcome the problems of previous languages, such as B, BCPL, etc. 
+
+Initially, it was mainly utilized for rewriting and developing the UNIX operating system, which makes it portable and robust.
+
+Standardization and Evolution of the C Programming Language
+
+Let's see the programming languages that were developed before the C language.
+
+Language          Year             Developed By
+
+Algol             1960            International Group
+
+BCPL              1967            Martin Richard
+
+B                 1970            Ken Thompson
+
+Traditional C     1972            Dennis Ritchie
+
+K & R C           1978            Kernighan & Dennis Ritchie
+
+ANSI C            1989            ANSI Committee
+
+ANSI/ISO C        1990            ISO Committee
+
+C99               1999            Standardization Committee
+
+C11               2011            ISO Committee
+
+C17/C18           2018            ISO Committee
+
+C23               2024            ISO Committee
+
+
+Here, we will discuss all the versions of the C programming language one by one.
+
+K & R C (1978):
+
+In 1978, Brian Kernighan and Dennis Ritchie launched the first edition of their book named as "The C Programming Language". 
+
+It was mainly known as the "K&R" book. It served as the first standardized and popularized C worldwide.
+
+ANSI C (1989):
+
+
+In the 1980s, ANSI, the American National Standards Institute (ANSI), started working on the formal standard for the C language. 
+
+It helps to develop ANSI C very effectively, which was standardized (C89) in 1989. 
+
+It came with several essential features, such as function prototypes, a standard library, better type checking, and a standardized preprocessor. 
+
+It resolved all the issues that were present in the earlier versions of the C language.
+
+
+ANSI/ISO C (1990):
+
+In the 1990s, the ANSI C standard was approved by the International Organization for Standardization (ISO) as C90 (ISO/IEC 9899:1990).  
+
+It was commonly utilized as the basis for compilers and development for many years. 
+
+It came with several new features, such as syntax, semantics, libraries, and many more. 
+
+From then on, every new version of the C programming language was released jointly by the ANSI and ISO.
+
+
+C99 (1999):
+
+
+In the year 1999, the C programming language introduced a new version named C99. 
+
+It came with several features, including variable-length arrays, inline functions, complex numbers, and many more. 
+
+It also included the long long data type and the single-line comments (//).
+
+
+C11 (2011):
+
+
+In the year 2011, C introduced a new version of the C standard programming language, that is published by the International Organization for Standardization (ISO), named C11. 
+
+It included several new features, libraries, and ensured safety and concurrency. 
+
+It introduced several new features, such as anonymous structure and unions, multi-threading support, Generic type-generic programming, and Unicode support.
+
+
+C17/C18 (2018)
+
+
+In the year 2018, the C programming language released a new version of C named C17/C18. 
+
+It is a minor updated version of C11. The ISO published it as C18, while some publishers and compilers call it C17. 
+
+It resolved all the previous issues that came in the C11. It came with some new additional features, such as threading, atomics, bound-checking interfaces, and many others.
+
+
+C23 (2023)
+
+In the year 2023, the C programming language introduced a new version of C named C23. 
+
+It is the latest version of the C programming language. 
+
+It was published by the ISO in 2024 as ISO/IEC 9899:2024. 
+
+It is an upgraded version of C17/C18. 
+
+It includes several important features, such as binary literals, nullptr, static assertions, and many others. 
+
+It introduced 14 new keywords in C. C23 supports modern hardware architecture.
+
+
+
+Applications of the C Programming Language:
+
+There are several applications of the C programming language. Some of them are as follows:
+
+The C programming language is commonly utilized to develop and create embedded systems, system applications, desktop applications, and many others.
+
+It is also utilized for the Internet of Things (IoT).
+
+The C programming language is very useful for developing browsers and several extensions.
+
+It is also useful in Adobe applications.
+
+We can use the C programming language to create databases.
+
+
+Conclusion
+
+
+In conclusion, the C programming language is an essential language that is commonly utilized to create several applications. 
+
+It was initially used to create the UNIX operating system. 
+
+It has remained popular over time due to its simplicity, versatility, efficiency, etc. 
+
+It is very useful to create several applications, software systems, operating systems, and many others. 
+
+It is the basis for several programming languages, including C++, Java, and many more. 
+
+Its clean design, performance, and adaptability make this language very popular worldwide.
+
+
+---------------------------------------------------------------------
+
+
+Features of the C language
+
+Last Updated : 11 April 2026
+
+C language is one of the most widely used and important programming languages since its development. It was developed in the early 1970s by Dennis Ritchie at Bell Labs. It was designed to allow programmers to use both high-level programming and low-level access to hardware.
+
+It has a simple syntax, structured programming, and a large number of operators, which makes it an essential programming language to develop system software, operating systems, and compilers. C programs are very portable and are easily modified to run on another machine.
+
+C provides direct memory access via pointers, supports modular programming in the form of functions, and a wide variety of data types and control structures. The C standard library also includes built-in functions for input/output, string handling, memory allocation, and deallocation. For these reasons, C's speed, reliability, and flexibility have made it the foundation for many modern programming languages (such as C++, Java, and Python), and it is still an essential and useful programming language today.
+
+Main features of the C Programming Language
+The C language is a powerful programming language that supports high-level structured programming principles with low-level memory access, which makes it efficient and simple. Its huge library support offers several built-in functions for routine processes, and its portability enables applications to operate on various machines with minimal modification.
+
+The C programming language provides several important features that help to make a program more efficient. Some main features of the C language are as follows:
+
+1) Simple
+
+C is a simple language because it provides a structured approach, a rich set of library functions, data types, etc. It is simple language due to its hierarchical structure, simple syntax, and a small number of reserved words. It is easy for beginners to understand and use because it has several features for more experienced users and lacks complex concepts such as classes or objects.
+
+Example:
+
+#include <stdio.h>  
+int main() {      
+    printf("Hello, C is a Simple Programming Language!\n");  // Just printing text  
+    return 0;  
+}  
+
+Output:
+
+Hello, C is a Simple Programming Language!
+
+
+2) Machine Independent or Portable
+
+Unlike assembly language, C programs can be executed on different machines with some machine-specific modifications. Therefore, C is a machine-independent language. It is possible because C provides a standard library and well-defined syntax that can be recompiled on several platforms. As a result, developers can write C applications that are easily adaptable across different hardware and operating systems.
+
+3) Mid-level Programming Language
+
+C is a mid-level programming language because it combines the features of both low-level and high-level languages. Like assembly language, it employs pointers to control hardware and shares the same functions, structures, and data types as higher-level programming languages. As a result, C can be used to develop system and application software.
+
+4) Structured Programming Language
+
+The C programming language is a structured programming language because it enables large programs to be broken down into smaller, more manageable components called functions or modules. This modular technique helps to reduce code redundancy, which makes debugging and testing easier. C programming also provides code reusability, as modules and functions can be reused in other projects or applications.
+
+5) Rich Library
+
+Standard libraries for C, such as stdio.h, math.h, and string.h, preserve many of the built-in functions of the language. These libraries help us to perform several mathematical operations, including text manipulation, mathematical procedures, and input/output handling. It takes less time to develop and requires less writing of code from scratch.
+
+6) Memory Management:
+
+The C programming language supports the feature of dynamic memory allocation functions (such as malloc(), calloc(), realloc(), and free() function). In the C language, we can free the allocated memory at any time by calling the free() function. Using the memory effectively is an essential feature of low-level system programming.
+
+7) Fast Speed
+
+The C programming language is a faster and efficient programming language because it gives low-level access to memory. It makes the compilation and execution of code faster due to its compiler-based language. Due to the compiler-based program, its execution is faster than that of interpreter-based languages in C.
+
+8) Pointers
+
+One of the best features of C is using pointers to store the address of a memory location, without keeping the data with that memory location. Pointers can help to directly interact with the memory. Pointers can be utilized in many circumstances, such as a part of a data structure (for instance, linked lists and trees), interaction with arrays, as part of function use, memory allocation, and certainly to gain speed in execution and memory usage.
+
+9) Recursion
+
+C supports recursion, which means that a function can call itself as part of a solution to a problem. It is useful for problems that can be separated into smaller problems, such as factoring numbers, the Fibonacci series, or tree traversals. In some cases, recursion can help to make programs much shorter and simplify the logic into more complex processes.
+
+10) Extensible
+
+C is an extensible language, which means that it enables us to add new functionality or do something new to an existing program. It allows complete flexibility to make adjustments to meet new requirements. Therefore, C is a useful language when developing scalable applications that need to be used long-term.
+
+
+Conclusion
+
+    In conclusion, C is a powerful, efficient, and general-purpose programming language that is very useful in the development of many aspects of modern computer programming. 
+
+    Even beginners and experienced developers can benefit from the important qualities through its simple, portable, structured, and library-supported programming language.
+
+    More advanced features of C, such as dynamic memory allocation, pointers, recursion, and extensibility, provide programmers with more flexibility to develop applications on both the system-level and application-level. 
+
+    Its speed, versatility, and foundational principles make it an ideal choice for more advanced languages like C++, Java, and Python.
+
+
+----------------------------------------------------------------------------------
+
+
+C Hello World Program
+
+Last Updated : 11 April 2026
+
+In the C programming language, a "Hello, world!" program is a simple program that prints only the "Hello, world!" message. This program is commonly utilized to introduce beginners to a new programming language. With the help of this simple program, beginners can understand how the C programming language works. 
+
+Structure of the C Program
+
+The basic structure of a simple C program typically contains several important components. Some of the most utilized components of the C program are as follows:
+
+1) Header Files:
+
+The header files are typically included at the start of the program in C programming with the help of the #include directives. These header files are commonly used to give the prototypes and definitions of the functions that the compiler can understand and make sense of the functions used in the program.
+
+2) Main Function:
+
+The main() function of the program is referred to as the entry point of the program. Its return type is integer because it has to give an integer value to the operating system on completion.
+
+3) Variable Declarations:
+
+If we need to use variables in the program, we need to declare these variables with their data types before using them. It is commonly utilized after the main function's curly opening brace.
+
+4) Statements and Expressions:
+
+This part of the C program holds the program instructions and logic. C programs contain several statements that perform actions and expressions to calculate values. These statements can carry out numerous operations, which include assignments, loops, and functions.
+
+5) Comments:
+
+Comments are mainly used in the C programming language, where they can be used to provide a human-readable description of the code. During the compilation, these comments have no impact on the working of the program. Several types of comments exist in the C programming, among which include Single-line comments denoted by // and multi-line comments denoted by /* */.
+
+6) Functions:
+
+The user-defined functions are also known as blocks of code, which are created to execute particular operations that can be included in C programs. These functions help in modularizing the program, which makes the code more organized, reusable, and manageable.
+
+7) Return Statement:
+
+The C return statement is also used to end a function and return a value back to the calling function. The return statement with a value of 0 typically indicates a successful execution. On the other hand, a non-zero value indicates an error or unexpected termination.
+
+8) Standard Input/Output:
+
+The C program contains several library functions, including the scanf() and printf functions. The scanf() function is used to read the user input, and the printf() function is used to print the output to the console. They are included in C programs, and they are included in the standard I/O library.
+
+C Simple Hello World Example
+Let us take an example to demonstrate the Simple Hello World Example in C.
+
+Example
+
+#include <stdio.h>  //header file  
+  
+int main() {  //main function  
+  
+    // print statement  
+    printf("Hello World!");  
+  
+    return 0;  //return statement  
+}  
+
+Output:
+
+Hello World!
+
+
+Explanation:
+
+Here, we will discuss this program step by step.
+
+#include <stdio.h>:
+
+It is the first line of the program, which contains the standard input/output library (stdio.h). For I/O operations, the stdio.h library contains methods like printf and scanf.
+
+int main() { ... }:
+
+It is the main function of the program, which is also referred to as the entry point of the program. It is a stage of the program where we can start the program execution.
+
+printf("Hello World!\n");:
+
+In C, the printf() function is used to print formatted output to the console. In this example, the string "Hello World!" is displayed, which is followed by a newline character (n). The \n moves the pointer to the following line after the message is displayed.
+
+return 0;:
+
+It returns the value of the program. If the return statement is 0, its execution is successful. If the return statement is non-zero, its execution fails. After compilation and execution, the program ends with a status code 0 and displays "Hello World! " on the console.
+
+
+
+Steps by Step Process to Write the C Program
+
+If we want to write, compile, and run the first C program, we need to follow the following steps:
+
+Step 1: Open a text editor
+
+First, we have to open a text editor of our choice, such as Notepad, Sublime Text, or Visual Studio Code. It will be the place where we write our C code.
+
+Step 2: Write the C program
+
+Now, we have to write the following code into the text editor:
+
+#include <stdio.h>    
+int main() {    
+printf("Hello, C Language");    
+return 0;    
+}    
+
+
+Step 3: Save the file
+
+After that, save the file with a .c extension, such as first_program.c. This extension indicates that it is a C source code file.
+
+
+Step 4: Compile the program
+
+Now, compile the program in the command prompt.
+
+
+Step 5: Run the program
+After successful compilation, we can run the program by executing the generated executable file. Enter the following command into the terminal or command prompt:
+
+./first_program    
+
+The program will execute, and we will see the output on the console:
+
+Output:
+
+Hello World!
+
+
+How to Compile and Run the C program
+
+
+There are two ways to compile and run the C program: by menu and by shortcut.
+
+1. By Menu
+
+Now, click on the compile menu and then the compile sub-menu to compile the C program. After that, click on the run menu and the sub-menu to run the C program.
+
+2. By shortcut
+
+If we want to execute the program via a shortcut, press the Ctrl+F9 keys to compile and run the program directly.
+
+We will see the following output on the user screen.
+We can view the user screen at any time by pressing the Alt+F5 keys.
+Now, press Esc to return to the Turbo C++ console.
+Key Points to Remember in C Programming
+There are several main points in the C programming. Some of them are as follows:
+
+We need to always use a semicolon (;) at the end of a statement.
+We have to use proper double quotes (" ") in the program's statement.
+We need to use the printf() function instead of using print or Print.
+We also have to include <stdio.h> before using the printf() function.
+
+
+Conclusion:
+
+
+In conclusion, the C program is a basic but effective introduction to the language that illustrates the necessary structure of the program and its flow of execution. 
+
+It brings out the basic blocks required to write working programs by introducing the standard input-output library, which makes the main() function the starting point, and using the printf() function to print statements.
+
+
+------------------------------------------------------------------
+
+
+printf() and scanf() in C
+
+
+Last Updated : 7 Jan 2026
+
+
+The C programming language provides many functions for input and output. The most basic functions for input and output are the printf() and scanf(). These two functions are part of the standard input/output library functions of the C language, which are declared in the stdio.h (header file). The printf() function is used to display the output. On the other hand, the scanf() function is used to take input from the user.
+
+Printf() Function
+
+In the C programming language, the printf() function is used to display output. It prints the given statement to the console. It is one of the most commonly used functions in C. It can take any number of arguments. The printf() function can print text, numbers, and variables to the standard output.
+
+Syntax:
+
+
+The syntax of the printf() function is given below:
+
+printf("format string", argument_list);  
+
+
+In this syntax,
+
+Format string: It is used to define the output structure and include several format specifiers, such as %d (integer), %c (character), %s (string), %f (float), and many others.
+Argument_list: It is used to pass the argument (value of variables) that will replace the format specifiers.
+Printf() Function Example in C
+Let us take an example to illustrate the printf() function in C.
+
+Example
+#include <stdio.h>  
+int main() {  //main function  
+    int stu_age = 24;  //using integer   
+    float pi = 3.14159;   //using float with 2 decimals   
+    char grade = 'A';   //using char   
+    char stu_name[] = "Michael Bravo";  
+  
+    printf("Name: %s\n", stu_name);  
+    printf("Age: %d\n", stu_age);  
+    printf("Grade: %c\n", grade);  
+    printf("Pi (2 decimals): %.2f\n", pi);  
+    return 0;  
+}  
+Output:
+
+Name: Michael Bravo
+Age: 24
+Grade: A
+Pi (2 decimals): 3.14
+
+
+Explanation:
+
+In this example, we have taken 4 different data types with their value: integer, floating-point number, character, and string. After that, we use the printf() function to display different data types values in a formatted way.
+
+Important Points about the printf() function
+
+Several important points about the printf() function in the C programming language are as follows:
+
+The printf() function is declared in the stdio.h header file. It is used to display the output in the console.
+It is also used to print a different type of data format on the output string.
+We need to use the "\n" format specifiers in the printf() statement to print a new line on the console.
+
+
+Format Specifier in C
+
+
+In the C programming language, the format specifier is a string that is used in the formatted input and output functions. There are several format specifiers in C. Some of the popular format specifiers are as follows:
+
+Format Specifier
+Meaning
+Results
+%d
+It is used to print the integer value.
+10
+%f
+It is used to print the floating-point value.
+3.141593
+%.2f
+It is used to print the float with 2 decimal values.
+3.14
+%c
+It is used to print the character value.
+A
+%s
+It is used to print the string.
+Hello
+%u
+It is used to print the unsigned integer value.
+25
+%x
+It is used to print the hexadecimal value.
+1a
+%o
+It is used to print the octal value.
+12
+
+Scanf() Function
+
+In the C programming language, the scanf() function is utilized to take input from the user. It reads the input data from the console. It can read different types of data, such as numeric, floating-point numbers, strings, characters, and many others. The scanf() function takes the format string and the variable addresses (using ampersand (&)) where the input data will be stored in C.
+
+Syntax:
+
+It has the following syntax:
+
+scanf("format string", argument_list);  
+
+
+In this syntax,
+
+Format string: It is used to define the input type and include several format specifiers, such as %d (integer), %c (character), %s (string), %f (float), etc.
+argument_list: It is used to provide the addresses of variables (by using &) where the input values will be stored.
+Scanf() Function Example in C
+Let us take an example to illustrate the Scanf() function in C. In this example, we will get the input from the user and print the cube of the given number.
+
+Example
+
+
+#include<stdio.h>      
+int main(){      //main function  
+int num;      
+printf("Enter a number: ");      
+scanf("%d", &num);      
+printf("Cube of a number is: %d ", num*num*num);      
+return 0;    
+}    
+
+
+Output:
+
+Enter a number:15
+Cube of a number is:3375
+
+
+Explanation:
+
+In this example, we can conclude that the scanf("%d", &num) statement reads an integer number from the console and stores the given value in the number variable. After that, the printf("cube of number is: %d ", num*num*num) statement prints the cube of the number on the console.
+
+C Program to print the sum of 2 numbers using both printf() and scanf() functions
+Let us take a simple example of input and output in the C language that prints the sum of 2 numbers.
+
+Example
+
+
+#include<stdio.h>      
+int main(){     //main function  
+int x=0, y=0, result=0;    
+    
+printf("Enter first number: ");    
+scanf("%d", &x);    
+printf("Enter second number: ");    
+scanf("%d", &y);    
+    
+result = x + y;    
+printf("sum of 2 numbers: %d ", result);    
+    
+return 0;    
+}      
+Output:
+
+Enter first number: 15
+Enter second number: 20
+sum of 2 numbers: 35
+
+
+Explanation:
+
+In this example, we calculate the sum of two numbers using the printf() and scanf() functions. Here, we have taken 3 integer variables: x, y, and result. After that, the scanf() function takes input for x and y, calculates their sum, and displays the output using the printf() function.
+
+C Program to Swap Two Numbers
+
+
+Let us take an example to illustrate how to swap two numbers in C.
+
+Example
+
+#include <stdio.h>  
+int main() {   //main function  
+    int a, b, temp;  
+  
+    printf("Enter two numbers: ");  
+    scanf("%d %d", &a, &b);  
+  
+    temp = a;  
+    a = b;  
+    b = temp;  
+  
+    printf("After swapping: a = %d, b = %d\n", a, b);  
+  
+    return 0;  
+}  
+Output:
+
+Enter two numbers: 10
+21
+After swapping: a = 21, b = 10
+
+
+Explanation:
+
+In this example, we have two integers that take input value from the user using the scanf() function, which swaps their values using a temp variable. After that, we use the printf() function to display the swapped values.
+
+Conclusion
+
+    In conclusion, the printf() function is utilized to display output on the console. On the other hand, the scanf() function is utilized to take input from the user. 
+
+    These functions form the foundation of input/output operations in C. 
+
+    By using format specifiers, these functions can handle different data types, such as integers, floats, characters, and strings, which makes them essential to create interactive programs.
+
+---------------------------------------------------------------------
+Variables:
+------------
+
+In C programming language, the term variable is used for holding different types of input data which is provided by the user. 
+
+It is used to store information. Its value can be modified and reused several times. 
+
+It is an important method that is used to represent memory location through symbols so that it can be easily identified.
+
+What are Variables?
+
+    In C, a variable is a designated memory region that stores a specified data type value. 
+
+    Each variable has a unique identifier, its name, and a data type describing the type of data it may hold.
+
+Syntax
+
+The syntax for defining a variable in C is as follows:
+
+data_type variable_name;  
+
+In this syntax,
+
+data_type:It represents the type of data (such as int, char, float, double, etc.) that the variable can hold.
+
+variable_name:It is the identifier for the variable. It represents the name of the variable.
+
+Simple Example of C Variable
+
+Let us take an example to illustrate the variables in C.
+
+Example
+
+#include<stdio.h>  
+int main() {   //main function  
+// Here, value1 and value2 are the variables  
+int value1; // variable declared  
+value1=10; // variable initialized  
+char value2 = 'T'; // variable declared and initialized  
+//Declaring multiple variable of float type together  
+float f1, f2, f3;  
+f1 = 10.9; // Initialized the floating variable f1  
+f2 = 3.5; // Initialized the floating variable f1  
+f3 = 6.1; // Initialized the floating variable f1  
+// Accessing the variables initialized  
+printf("The integer value stored in variable value1 is : %d \n \n ", value1);  
+printf("The character value stored in variable value2 is : %c \n \n ", value2);  
+printf("The float type values stored in variables f1, f2, f3 are : \n %f \n  %f \n  %f \n \n ", f1, f2, f3);  
+return 0;  
+}  
+
+Output:
+
+The integer value stored in variable value1 is : 10
+The character value stored in variable value2 is : T
+The float type values stored in variables f1, f2, f3 are :
+10.900000
+3.500000
+6.100000
+
+Explanation:
+
+In this example, we have created multiple variables that hold different types of data where Value1 holds the integer type of input value, Value2 holds the character type of input value, and F1, f2, and f3 hold the float type of input values. 
+
+All these are the variable names we have used to store the user's input data in the memory without the need to remember the memory addresses for them.
+
+
+Rules for Declaring a C Variable:
+
+In C, Variable names must follow a few rules to be valid. The following are the rules for naming variables in C:
+
+Allowed Characters: Variable names include letters (uppercase and lowercase), digits, and underscores. They must start with a letter (uppercase or lowercase) or an underscore (_).
+
+Case Sensitivity: C is a case-sensitive programming language. It means that uppercase and lowercase letters are considered distinct. For example, myVar, MyVar, and myvar are all considered different variable names.
+
+Keywords: Variable names cannot be the same as C keywords (reserved words) because they have special meanings in the language. For example, we cannot use int, float, char, for, while, etc., as variable names.
+
+Length Limitation: There is no standard limit for the length of variable names in C. It is better to keep them reasonably short and descriptive. Some compilers may impose a maximum length for variable names.
+
+Spaces and Special Characters: Variable names cannot contain spaces or special characters (such as !, @, #, $, %, ^, &, *, (, ), -, +, =, [, ], {, }, |, \, /, <, >,., ?;, ', or "). Underscores are the only allowed special characters in variable names.
+
+Reserved Identifiers: While not strictly a rule, it is advisable to avoid specific patterns or identifiers common in libraries or standard usage. For example, variables starting with __ (double underscores) are typically reserved for system or compiler-specific usage.
+
+
+Valid and invalid variable names in C
+
+There are several valid and invalid variable names. Some of them are as follows:
+
+Valid Variable Names
+
+int age;
+float salary;
+char _status;
+double average_score;
+int studentCount;
+
+
+Invalid Variable Names
+
+int 1stNumber; // Starts with a digit
+float my-salary; // Contains a hyphen (-)
+char int; // Same as a C keyword
+int double; // Same as a C keyword
+float my$var; // Contains an unsupported special character
+Variable Declaration
+In C programming, the process of telling the compiler about a variable's existence and its data type is known as variable declaration. It notifies the compiler that this particular variable with a specific name and data type will be used in the program. Still, no memory for the variable will be allocated at that moment. It is usually seen at the start of a function or block before the variable is utilized.
+
+Syntax
+
+The general syntax for variable declaration is
+
+data_type variable_name;  
+
+
+Example of Variable Declaration
+
+Let us take an example to illustrate the variable declaration in C.
+
+Example
+
+#include <stdio.h>    
+int main() {    
+// Variable declaration    
+int age;    
+float salary;    
+char initial;    
+    
+return 0;    
+}   
+
+
+Variable Definition
+
+
+In C programming, the process of reserving memory space for a variable to keep its assigned value in the memory during program execution is known as a variable definition. 
+
+It is based on the data type we have used for the variable, thus connecting the variable name with a particular memory address of sufficient size. A variable can be declared and defined in the same statement, although they can also be separated if necessary.
+
+
+
+Variable Initialization
+
+
+In C programming, the variable declaration is the act of informing the compiler about the existence and data type of a variable. 
+
+It informs the compiler that a variable with a specific name and data type will be used in the program but that memory for the variable still needs to be allocated. 
+
+Not explicitly, the initialized variables will contain garbage/random data that may result in unexpected program behavior.
+
+
+
+Example of Variable Initialization
+
+
+Let us take an example to illustrate the variable initialization in C.
+
+Example
+
+#include <stdio.h>    
+int main() {    //main function  
+    // Variable definition and initialization    
+    int age = 25;    
+    float salary = 2500.5;    
+    char initial = 'J';    
+      
+    // Display initial values  
+    printf("Initial age: %d\n", age);  
+    printf("Initial salary: %.2f\n", salary);  
+    printf("Initial: %c\n", initial);  
+  
+    // Change the value of the variables    
+    age = 30;    
+    salary = 3000.0;    
+      
+    // Display updated values  
+    printf("Updated age: %d\n", age);  
+    printf("Updated salary: %.2f\n", salary);  
+  
+    return 0;    
+}  
+
+
+Output:
+
+Initial age: 25
+Initial salary: 2500.50
+Initial: J
+Updated age: 30
+Updated salary: 3000.00
+
+
+Explanation:
+
+In the example above, we have taken variables age, salary, and initial declarations. 
+
+After that, we define these variables and initialize them with initial values (e.g., age = 25). Later in the program, we can modify the values of these variables (e.g., age = 30).
+
+
+
+Type of C Variables
+
+
+There are several types of variables in the C programming language. Some of them are as follows:
+
+
+Local Variable
+
+
+In C programming, a local variable is a variable that is declared inside the method or block. 
+
+A local variable must be declared at the start of the block. It means that we need to initialize a local variable before using it.
+
+Example of Using Local Variable
+
+Let us take an example to illustrate the local variable in C.
+
+Example
+
+#include <stdio.h>  
+int main( ) {   //main function  
+    // Defined the local variable x  
+    int x=10;  
+    printf("The value assigned to the local variable is : %d ", x );  
+    return 0;  
+}  
+
+
+Output:
+
+The value assigned to the local variable is : 10
+
+
+Explanation:
+
+In this example, we define a local integer variable x with a value of 10 inside the main() function. 
+
+After that, it uses the printf() function  to display the assigned value of x on the screen.
+
+Global Variable
+
+In C programming, a global variable is a variable that is declared outside the function or block. 
+
+Any function can change the value of the global variable. It is available for all the functions. It must be declared at the start of the block.
+
+
+Example of Using Global Variable
+
+Let us take an example to illustrate the global variable in C.
+
+
+Example
+
+#include <stdio.h>  
+// Defining the global variable  
+int value=20;   
+int main() {     //main function  
+// Defining the local variable  
+int x=10;  
+printf("The value assigned to local variable is : %d\n", value );  
+printf("The value assigned to global variable is : %d", x );  
+}  
+
+
+Output:
+
+The value assigned to local variable is : 20
+The value assigned to global variable is : 10
+
+
+Explanation:
+
+In this example, we have taken the value as a global variable accessible throughout the program, while x is a local variable that is declared inside the main() function. 
+
+After that, the printf function displays the value of both variables.
+
+
+
+Static Variable
+
+In C programming, a static variable is a variable that is declared with the 'static' keyword. 
+
+A static variable retains its value between multiple function calls.
+
+Example of Static Variable in C
+
+Let us take an example to illustrate the use of a static variable in C.
+
+Example
+
+#include <stdio.h>  
+int main( ) {   //main function  
+// Defining the local variable  
+int x=10;  
+// Defining the static variable  
+static int y=10;  
+x=x+1;    
+y=y+1;    
+printf("The value assigned to local variable is : %d\n", x );  
+printf("The value assigned to static variable is : %d ", y );  
+}  
+
+
+Output:
+
+The value assigned to local variable is : 11
+The value assigned to static variable is : 11
+
+
+Explanation:
+
+In this example, we have taken x as a local variable and y as a static variable. Both are incremented by 1, which results in x = 11 and y = 11. 
+
+The key difference is that x is reinitialized every time the function runs, while y retains its value between function calls.
+
+
+
+Automatic Variable
+
+In C programming, all variables that are declared inside the block are automatic variables by default. 
+
+Moreover, we can explicitly declare an automatic variable using the auto keyword.
+
+Example of Automatic Variable in C
+
+Let us take an example to illustrate the automatic variable in C.
+
+
+Example
+
+#include <stdio.h>  
+  
+void display() {   // user-defined function  
+    int x = 10;            // automatic variable (implicitly)  
+    auto int y = 20;      // automatic variable (explicitly using auto)  
+  
+    // Performing operations  
+    x = x + 15;  
+    y = y + 25;  
+  
+    // Displaying values  
+    printf("Value of a (auto by default): %d\n", x);  
+    printf("Value of b (explicit auto): %d\n", y);  
+}  
+  
+int main() {   // main function  
+    display(); // calling the function  
+    return 0;  
+}  
+
+
+Output:
+
+Value of a (auto by default): 25
+Value of b (explicit auto): 45
+
+
+Explanation:
+
+In this example, both a and b are automatic variables, which means their memory is allocated automatically when the function is called and deallocated when it ends.
+
+
+
+External Variable
+
+In C programming, we can share a variable in multiple source files by using an external variable. 
+
+If we want to declare an external variable, we need to use the extern keyword.
+
+
+Syntax
+
+It has the following syntax:
+
+extern data_type var_name //external variable (also global)  
+
+
+Example of Extern Variable in C
+
+Let us take an example to illustrate the extern variable in C.
+
+
+myfile.h
+
+extern int x=10;//external variable (also global)  
+program1.c
+
+Example
+
+#include "myfile.h"    
+#include <stdio.  
+  
+#include "myfile.h"    
+#include <stdio.h>    
+void printValue(){    
+    printf("Global variable: %d", global_variable);    
+}  
+
+
+Scope of Variable in C
+
+    In C, the scope of the variable represents the portion of the program that we can access or use. 
+
+    C provides different types of scopes depending on where and how the variable is declared. 
+    
+    Usually, a scope represents the area inside the {} curly braces.
+
+
+
+Conclusion
+
+    In conclusion, variables are critical components in C that store and manipulate data in the memory. 
+
+    They serve as named placeholders for memory regions, making it simple to identify and retrieve stored data. 
+
+    Following specific rules, such as starting with a letter, underscore, and avoiding reserved keywords, ensures valid variable names.
+
+    In C, variables can be declared without initialization or assigned an initial value at the time of declaration. 
+
+    Once the variable is declared, variables can be used throughout the program to store and manipulate data. 
+
+    They can be reassigned with new values as needed during program execution.
+
+
+-----------------------------------------------------------------------------------
+
+Data Types in C
+
+
+Last Updated : 7 Jan 2026
+
+
+In C programming, a data type specifies the type of data that a variable can store, such as integers, floating-point numbers, characters, etc. 
+
+It also determines the amount of memory allocated for the variable and the operations that can be performed on it. 
+
+Like in most programming languages, C uses data types to define and manage different sets of data. 
+
+Generally, data types in C are classified into four main categories.
+
+
+There are the following data types in C language.
+
+Types                   Data Types     
+
+Basic Data Type         int, char, float, double
+
+Derived Data Type       array, pointer, structure, union
+
+Enumeration Data Type   enum
+
+Void Data Type          void
+
+
+Basic Data Types
+
+
+In C programming, the basic data types are those that are integer-based and floating-point-based. 
+
+These integer and floating-based data types can be either signed or unsigned. 
+
+In C programming language, it supports both signed and unsigned literals.
+
+The memory size of the basic data types may change according to 32 or 64-bit operating systems.
+
+Let's see the basic data types. Its size is given according to 32-bit architecture.
+
+
+Data Types           Memory Size                 Range
+
+char                 1 byte                     −128 to 127
+
+signed char          1 byte                     −128 to 127
+
+unsigned char        1 byte                      0 to 255
+
+short                2 byte                      −32,768 to 32,767
+
+signed short         2 byte                      −32,768 to 32,767
+
+unsigned short       2 byte                      0 to 65,535
+
+int                  2 byte                      −32,768 to 32,767
+
+signed int           2 byte                      −32,768 to 32,767
+
+unsigned int         2 byte                       0 to 65,535
+
+short int            2 byte                       −32,768 to 32,767
+
+signed short int     2 byte                       −32,768 to 32,767 
+
+unsigned short int   2 byte                        0 to 65,535
+
+long int             4 byte                      -2,147,483,648 to 2,147,483,647
+
+signed long int      4 byte                      -2,147,483,648 to 2,147,483,647
+
+unsigned long int    4 byte                      0 to 4,294,967,295
+
+float                4 byte
+ 
+double               8 byte
+ 
+long double          10 byte
+
+ 
+a) Integer Types (Int):
+
+
+    The whole numbers, which are non-fractional and do not contain any decimal values, those numbers are stored under the int data type. 
+
+    We generally make use of the int data type for the variables, such as count, indices, and other variables. 
+
+    The int data type represents both positive and negative numbers as they are signed by default. 
+
+    An int takes up 4 bytes of memory on most devices, which allows it to store values between around -2 billion and +2 billion.
+
+
+Signed Int: 
+
+    This data type has 4 bytes of memory storage used for storing both positive and negative integers. 
+
+    If we want to store such values, we use the signed int data type. If the system is a 32-bit system, it accepts values between the range of -2147483648 and 2,147,483,648.
+
+Example:
+
+signed int x = -20;  
+
+Unsigned int: 
+
+    It stores only the positive integer values, i.e. between 0 and above, in a 4-byte memory storage. 
+    
+    The range of the positive values is two times larger than the signed integer, i.e. from 0 to 4294967295, which is twice the signed integer range.
+
+
+Example:
+
+unsigned int x = 18;  
+
+Short int: 
+
+    If we want to store smaller integer values that mostly need two bytes of memory storage, we can use the short int. 
+    
+    For the signed short int values, it has a limited range of -32768 to 32767. It saves memory in constrained environments.
+
+Example:
+
+short int a = 1000; 
+
+Long int: 
+
+    If we want to store larger numbers than a regular int, we can use the long int, which takes 4 or 8 bytes generally. 
+
+    When we compare on a 32-bit operating system, it can be compared with int data type.
+
+Example:
+
+Long int x = 1000000;  
+
+C Integer Types Example
+
+Let us take an example to illustrate the Integer types in C.
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  //main function  
+    // Integer types  
+    short int a = 45;         // short int  
+    unsigned short int b = 7545; // unsigned short int  
+    int c = 2154455;          // int value  
+    unsigned int d = 441454581; // unsigned int  
+    long int e = 24525366552;     // long int  
+    unsigned long int f = 4294967295; // unsigned long int  
+    long long int g = 854223755457775807; // long long int  
+    unsigned long long int h = 8565225254522331615U; // unsigned long long int  
+  
+    printf("short int a = %hd\n", a);  
+    printf("unsigned short int b = %hu\n", b);  
+    printf("int c = %d\n", c);  
+    printf("unsigned int d = %u\n", d);  
+    printf("long int e = %ld\n", e);  
+    printf("unsigned long int f = %lu\n", f);  
+    printf("long long int g = %lld\n", g);  
+    printf("unsigned long long int h = %llu\n", h);  
+  
+    return 0;  
+}  
+
+
+Output:
+
+In this example, we discussed the several types of integers that perform several operations in C.
+
+b) Character Data Type (char)
+
+In C, individual characters are represented by the char data type. It is typically used to hold ASCII or UTF-8 encoding scheme characters, such as letters, numbers, symbols, or commas. There are 256 characters that can be represented by a single char, which takes up one byte of memory. Characters such as 'A', 'b', '5', or '$' are enclosed in single quotes.
+
+Syntax
+
+It has the following syntax:
+
+char ch = 'A';  
+C Character Type Example
+Let us take an example to illustrate the character type in C.
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  //main function  
+  char word = 'T';  
+  printf("%c", word);  
+  return 0;  
+}  
+
+Output:
+
+T
+c) Float Data Type (Float)
+
+The floating data type is used to represent floating-point integers. Floating numbers can be used to represent fractional units or numbers with decimal places. The float type is usually used for variables that require very good precision but may not be very precise. It can store values with an accuracy of about 6 decimal places and a range of about 3.4 x 1038 in 4 bytes of memory.
+
+Syntax
+
+It has the following syntax:
+
+float variable_name;  
+
+
+C Float Data Type Example
+
+Let us take an example to illustrate the float data type in C.
+
+Example
+
+#include <stdio.h>  
+  
+int main() {   //main function  
+  float f_1 = 25.144501;  
+  printf("%f", f_1);  
+  return 0;  
+}  
+
+
+Output:
+
+25.144501
+
+
+d) Double
+
+Double data types is used to represent two floating integers. When additional precision is needed, such as in scientific calculations or financial applications, it provides greater accuracy compared to float.
+
+Double type, which uses 8 bytes of memory and has an accuracy of about 15 decimal places, yields larger values. C treats floating point numbers as doubles by default if no explicit type is supplied.
+
+Syntax
+
+It has the following syntax:
+
+double var_name;  
+
+
+C Double Data Type Example
+
+Let us take an example to illustrate the double data type in C.
+
+Example
+#include <stdio.h>  
+  
+int main() {  //main function  
+  double mynum = 17.578421;  
+  printf("%lf", mynum);  
+  return 0;  
+}  
+Output:
+
+17.578421
+
+
+Derived Data Type
+
+C programming also supports derived data types, including arrays, pointers, structures, and unions. These data types give programmers the ability to handle heterogeneous data, directly modify memory, and build complicated data structures.
+
+a) Array
+
+
+In derived data type, an array allows us to store a sequence of fixed-size elements of the same type. It provides a mechanism for joining multiple targets of the same data under the same name.
+
+The index is used to access the elements of the array, with a 0 index for the first entry. The size of the array is fixed at declaration time and cannot be changed during program execution. The array components are placed in adjacent memory regions.
+
+
+
+C Array Example
+
+
+Let us take an example to illustrate the declaration and utilization of an array in C.
+
+Example
+
+#include <stdio.h>  
+   
+int main() { //main function  
+    int numbers[5]; // Declares an integer array with a size of 5 elements  
+   
+    // Assign values to the array elements  
+    numbers[0] = 10;  
+    numbers[1] = 20;  
+    numbers[2] = 30;  
+    numbers[3] = 40;  
+    numbers[4] = 50;  
+   
+    // Display the values stored in the array  
+    printf("Values in the array: ");  
+    for (int i = 0; i < 5; i++) {  
+        printf("%d ", numbers[i]);  
+    }  
+    printf("\n");  
+   
+    return 0;  
+}  
+
+
+Output:
+
+Values in the array: 10 20 30 40 50
+
+
+b) Pointer
+
+In the derived data type, a pointer is used to keep track of another memory address of the data type. When a pointer is declared, the data type it refers to is stated first, and then the variable name is preceded by an asterisk (*).
+
+We can have incorrect access and change the value of a variable using pointers by specifying the memory address of the variable. Pointers are commonly used in tasks such as function pointers, data structures, and dynamic memory allocation.
+
+
+C Pointer Example
+
+Let us take an example to illustrate the declaration and utilization of a pointer in C.
+
+Example
+
+#include <stdio.h>      
+  
+int main() {     // main function  
+    int num = 54;      // An integer variable      
+    int *ptr;          // Declares a pointer to an integer      
+  
+    ptr = #        // Assigns the address of 'num' to the pointer      
+  
+    // Accessing the value of 'num' using the pointer      
+    printf("Value of num: %d\n", *ptr);      
+  
+    return 0;      
+}   
+
+Output:
+
+Value of num: 54
+
+
+c) Structure
+
+In C programming, a structure is a derived data type that enables the creation of composite data types by allowing the grouping of many data types under a single name. 
+
+It gives us the ability to create our own unique data structures by fusing together variables of various sorts.
+
+A structure's members or fields are used to refer to each variable within it.
+
+Any data type, including different structures, can be a member of a structure.
+
+A structure's members can be accessed by using the dot (.) operator.
+
+
+C Structure Example
+
+Let us take an example to illustrate the declaration and utilization of structure in C.
+
+Example
+#include <stdio.h>  
+#include <string.h>   
+// Define a structure representing a person  
+struct Person {  
+    char name[50];  
+    int age;  
+    float height;  
+};  
+   
+int main() {  
+    // Declare a variable of type struct Person  
+    struct Person person1;  
+   
+    // Assign values to the structure members  
+    strcpy(person1.name, "John Doe");  
+    person1.age = 30;  
+    person1.height = 1.8;  
+   
+    // Accessing the structure members  
+    printf("Name: %s\n", person1.name);  
+    printf("Age: %d\n", person1.age);  
+    printf("Height: %.2f\n", person1.height);  
+   
+    return 0;  
+}  
+
+
+Output:
+
+Name: John Doe
+Age: 30
+Height: 1.80
+
+
+d) Union
+
+
+In C programming, a derived data type called a union enables us to store various data types in the same memory address. In contrast to structures, where each member has a separate memory space, members of a union all share a single memory space. A value can only be held by one member of a union at any given moment. Unions are very useful if we need to represent many data types interchangeably. Like structures, we can access the members of a union by using the dot (.) operator.
+
+C Union Example
+
+Let us take an example to illustrate the declaration and initialization in C.
+
+Example
+#include <stdio.h>  
+// Define a union representing a numeric value  
+union NumericValue {  
+    int intValue;  
+    float floatValue;  
+    char stringValue[20];  
+};  
+int main() {  
+    // Declare a variable of type union NumericValue  
+    union NumericValue value;  
+    // Assign a value to the union  
+    value.intValue = 42;  
+    // Accessing the union members  
+    printf("Integer Value: %d\n", value.intValue);  
+    // Assigning a different value to the union  
+    value.floatValue = 3.14;  
+    // Accessing the union members  
+    printf("Float Value: %.2f\n", value.floatValue);  
+   
+    return 0;  
+}  
+
+
+Output:
+
+Integer Value: 42
+Float Value: 3.14
+
+
+Enumeration Data Type
+
+In C programming, a set of named constants or enumerators that represent a collection of connected values can be defined using the enumeration data type (enum). Enumerations give us the means to give names that make sense to a group of integral values, which makes our code easier to read and maintain.
+
+C Enumeration Example
+
+Let us take an example to illustrate the Enumeration Data Types in C.
+
+Example
+
+#include <stdio.h>  
+   
+// Define an enumeration for days of the week  
+enum DaysOfWeek {  
+    Monday,  
+    Tuesday,  
+    Wednesday,  
+    Thursday,  
+    Friday,  
+    Saturday,  
+    Sunday  
+};  
+   
+int main() {  
+    // Declare a variable of type enum DaysOfWeek  
+    enum DaysOfWeek today;  
+   
+    // Assign a value from the enumeration  
+    today = Wednesday;  
+   
+    // Accessing the enumeration value  
+    printf("Today is %d\n", today);  
+   
+    return 0;  
+}  
+
+Output:
+
+Today is 2
+
+Void Data Type
+
+In C programming, the void data type is used to denote the lack of a particular type. Function return types, function parameters, and pointers are three situations where it is frequently utilized.
+
+a) Function Return Type
+
+In C, the void return type function does not return any value. This function executes a task and then terminates without returning any value to the calling function.
+
+Example:
+
+void printHello() {   
+printf("Hello, TpointTech world!\n"); }    
+
+
+b) Function Parameters
+In C programming, the void parameter can be utilized to specify that a function does not accept any argument.
+
+
+Example:
+
+void processInput(void) {}  
+
+
+c) Pointers
+
+
+In C, any address can be stored in a pointer of type void*, which makes it a universal pointer. It offers a method for working with pointers to ambiguous or atypical types.
+
+Example:
+
+void* dataPtr;  
+
+
+The void data type is helpful to define functions that don't accept any arguments when working with generic pointers or when we want to signal that a function doesn't return a value.
+
+C Void Example
+
+Let us take an example that demonstrate how to utilize void in various situations:
+
+Example
+
+
+#include <stdio.h>  
+// Function with void return type  
+void printHello() {  
+    printf("Hello, world!\n");  
+}  
+// Function with void parameter  
+void processInput(void) {  
+    printf("Processing input...\n");  
+}  
+   
+int main() {  
+    // Calling a void function  
+    printHello();  
+   
+    // Calling a function with void parameter  
+    processInput();  
+   
+    // Using a void pointer  
+    int number = 10;  
+    void* dataPtr = &number;  
+    printf("Value of number: %d\n", *(int*)dataPtr);  
+   
+    return 0;  
+}  
+
+
+Output:
+
+Hello, world!
+Processing input...
+Value of number: 10
+
+
+Explanation:
+
+In this example, we have taken a printHello() function that shows a void return type, which means that it does not return any value. 
+
+After that, we use the processInput(void) function that uses void as a parameter type, which indicates that it takes no arguments. 
+
+The main() function also illustrates a void pointer (void*), which is a generic pointer type used to store the address of any data type. 
+
+Finally, the void pointer is typecast to int* to access and print the value it points to.
+
+
+Conclusion
+
+
+In conclusion, data types are essential in the C programming language because they define the kinds of information that variables can hold. 
+
+They provide the size and format of the data, which enables the compiler to allocate memory and carry out the necessary actions. 
+
+Data types supported by C include void, enumeration, derived, and basic types.
+
+
+--------------------------------------------------------------
+
+
+Keywords in C
+
+Last Updated : 11 April 2025
+
+Keywords in C are reserved words that have predefined meanings and are part of the C language syntax. 
+
+These keywords cannot be used as variable names, function names, or any other identifiers within the program except for their intended purpose. 
+
+They are used to define the structure flow and behavior of a C program.
+
+The compiler recognizes a defined set of keywords in the C programming language. 
+
+These keywords have specialized purposes and play critical roles in establishing the logic and behavior of a program. 
+
+Here are some characteristics of C keywords:
+
+Reserved: The C language reserves keywords are those keywords that cannot be used as identifiers in programs. 
+
+Using a keyword as a variable name or other identifier will cause a compilation error.
+
+
+Predefined Meaning: 
+
+    Each keyword has a specific meaning that is assigned by the C language. 
+
+    These meanings are built into the C language's grammar and syntax and the compiler interprets them accordingly.
+
+Specific Use: Keywords are designed for specific purposes and contexts within the C language. They define control structures, data types, flow control, and other language constructs. Attempting to use a keyword outside of its intended purpose will result in a compilation error.
+
+Standardized: C language keywords are standardized across different compilers and implementations. It ensures the consistency and portability of C programs across different platforms and environments.
+
+A list of 32 keywords in the c language is given below:
+
+auto
+break
+case
+char
+const
+continue
+default
+do
+double
+else
+enum
+extern
+float
+for
+goto
+if
+int
+long
+register
+return
+short
+signed
+sizeof
+static
+struct
+switch
+typedef
+union
+unsigned
+void
+volatile
+while
+
+
+Here is a brief explanation of each keyword in the C language along with their syntax and an example:
+
+
+auto: This keyword declares an automatic variable with a local scope.
+
+Syntax:
+
+It has the following syntax:
+
+auto data_typevariable_name;  
+
+Example:
+
+auto int count;  
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    auto int count = 10;  
+printf("Count: %d\n", count);  
+  
+    {  
+        auto int count = 5;  
+printf("Inner Count: %d\n", count);  
+    }  
+  
+printf("Count: %d\n", count);  
+  
+    return 0;  
+}  
+
+
+Output:
+
+Count: 10
+Inner Count: 5
+Count: 10
+
+
+break: It is used to terminate the execution of a loop or switch statement.
+
+
+Syntax:
+
+It has the following syntax:
+
+break;  
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    for (inti = 0; i< 10; i++) {  
+        if (i == 5) {  
+            break;  
+        }  
+printf("%d ", i);  
+    }  
+  
+    return 0;  
+}  
+
+
+Output:
+
+0 1 2 3 4
+
+case: It is used in a switch statement to define different cases.
+
+Syntax:
+
+It has the following syntax:
+
+case constant_expression:  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+int choice = 2;  
+    switch (choice) {  
+        case 1:  
+printf("You chose option 1.\n");  
+            break;  
+        case 2:  
+printf("You chose option 2.\n");  
+            break;  
+        default:  
+printf("Invalid choice.\n");  
+    }  
+  
+    return 0;  
+}  
+
+Output:
+
+You chose option 2.
+
+
+char: This keyword is used to declare a character data type.
+
+Syntax:
+
+It has the following syntax:
+
+char variable_name;
+
+
+Example:
+
+char grade = 'A';  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+    char grade = 'A';  
+printf("Grade: %c\n", grade);  
+  
+    return 0;  
+}  
+
+Output:
+
+Grade: A
+
+const: It is used to declare constants, whose values cannot be modified.
+
+
+Syntax:
+
+It has the following syntax:
+
+const data_type constant_name = value;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+constint MAX_SIZE = 100;  
+printf("Max Size: %d\n", MAX_SIZE);  
+  
+    return 0;  
+}  
+
+
+Output:
+
+Max Size: 100
+
+continue: It is used to skip the remaining statements in a loop and continue with the next iteration.
+
+Syntax:
+
+It has the following syntax:
+
+continue;  
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+    for (inti = 0; i< 10; i++) {  
+        if (i == 5) {  
+            continue;  
+        }  
+printf("%d ", i);  
+    }  
+  
+    return 0;  
+}  
+Output:
+
+0 1 2 3 4 6 7 8 9
+
+
+default: It is used in a switch statement as the default case when no other cases match.
+
+
+Syntax:
+
+It has the following syntax:
+
+default:  
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+int choice = 3;  
+    switch (choice) {  
+        case 1:  
+printf("You chose option 1.\n");  
+            break;  
+        case 2:  
+printf("You chose option 2.\n");  
+            break;  
+        default:  
+printf("Invalid choice.\n");  
+    }  
+  
+    return 0;  
+}  
+
+
+Output:
+
+Invalid choice.ax: default:
+
+
+do: It is used to create a do-while loop, which executes a block of code repeatedly until a condition is met.
+
+
+Syntax:
+
+It has the following syntax:
+
+do {  
+    // code to be executed  
+} while (condition);  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+inti = 0;  
+    do {  
+printf("%d ", i);  
+i++;  
+    } while (i< 5);  
+  
+    return 0;  
+}  
+Output:
+
+0 1 2 3 4
+
+
+double: This keyword is used to declare a double-precision floating-point data type.
+
+
+Syntax:
+
+It has the following syntax:
+
+double variable_name;  
+
+
+Example:
+
+double pi = 3.14159;  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    double pi = 3.14159;  
+printf("Pi: %lf\n", pi);  
+  
+    return 0;  
+}  
+Output:
+
+Pi: 3.141590
+
+
+else: It is used in an if statement to specify the block of code to be executed when the condition is false.
+
+
+Syntax:
+
+It has the following syntax:
+
+if (condition) {  
+    // code to be executed if the condition is true  
+} else {  
+    // code to be executed if the condition is false  
+}  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+int age = 20;  
+    if (age >= 18) {  
+printf("You are an adult.\n");  
+    } else {  
+printf("You are not an adult.\n");  
+    }  
+  
+    return 0;  
+}  
+Output:
+
+You are an adult.
+
+enum: It is used to define an enumeration, which is a set of named values.
+
+
+Syntax:
+
+It has the following syntax:
+
+enum enum_name {  
+    value1,  
+    value2,  
+    //...  
+}; 
+
+
+Example
+
+
+#include <stdio.h>  
+  
+enum Days {  
+    Monday,  
+    Tuesday,  
+    Wednesday,  
+    Thursday,  
+    Friday,  
+    Saturday,  
+    Sunday  
+};  
+  
+int main() {  
+enum Days today = Tuesday;  
+printf("Today is day number %d\n", today);  
+  
+    return 0;  
+}  
+Output:
+
+Today is day number 1
+
+
+extern: It is used to declare a variable or function that is defined in another file or external to the current scope.
+
+
+Syntax:
+
+It has the following syntax:
+
+extern data_type variable_name;  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+extern int global_variable;  
+  
+int main() {  
+global_variable = 10;  
+printf("Global variable: %d\n", global_variable);  
+  
+    return 0;  
+}  
+  
+int global_variable;  
+
+
+Output:
+
+Global variable: 10
+
+
+float: This keyword is used to declare a single-precision floating-point data type.
+
+
+Syntax:
+
+It has the following syntax:
+
+float variable_name;  
+
+
+Example:
+
+float weight = 65.5; 
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    float weight = 65.5;  
+printf("Weight: %.2f\n", weight);  
+  
+    return 0;  
+}  
+Output:
+
+Weight: 65.50
+
+
+for: It is used to create a for loop, which repeatedly executes a block of code based on a specified condition.
+
+
+Syntax:
+
+It has the following syntax:
+
+for (initialization; condition; increment/decrement) {  
+    // code to be executed  
+}  
+Example:
+
+for (int i = 0; i< 5; i++) {  
+printf("%d ", i);  
+}  
+#include <stdio.h>  
+  
+int main() {  
+    for (inti = 0; i< 5; i++) {  
+printf("%d ", i);  
+    }  
+printf("\n");  
+  
+    return 0;  
+}  
+Output:
+
+0 1 2 3 4
+
+
+goto: It is used to transfer control to a labeled statement within the same function.
+
+
+Syntax:
+
+It has the following syntax:
+
+goto label_name;  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    for (inti = 0; i< 10; i++) {  
+        if (i == 5) {  
+goto end;  
+        }  
+printf("%d ", i);  
+    }  
+  
+    end:  
+printf("Loop ended.\n");  
+  
+    return 0;  
+}  
+Output:
+
+0 1 2 3 4
+Loop ended.
+
+
+if: It is used to create an if statement to perform a certain action based on a condition.
+
+
+Syntax:
+
+It has the following syntax:
+
+if (condition) {  
+    // code to be executed if the condition is true  
+}  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+int x = 5;  
+    if (x > 0) {  
+printf("x is a positive number.\n");  
+    }  
+  
+    return 0;  
+}  
+Output:
+
+x is a positive number.
+
+
+int: This keyword is used to declare an integer data type.
+Syntax:
+
+It has the following syntax:
+
+int variable_name; 
+
+
+Example:
+
+int number = 10;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+int number = 10;  
+printf("Number: %d\n", number);  
+  
+    return 0;  
+}  
+Output:
+
+Number: 10
+
+
+long: This keyword is used to declare a long integer data type.
+
+
+Syntax:
+
+It has the following syntax:
+
+long variable_name;  
+
+
+Example:
+
+
+long population = 1000000;  
+Example
+#include <stdio.h>  
+  
+int main() {  
+    long population = 1000000;  
+printf("Population: %ld\n", population);  
+  
+    return 0;  
+}  
+Output:
+
+Population: 1000000
+
+
+
+register: It is used to declare a register variable, which suggests the compiler to store the variable in a register for faster access.
+
+Syntax:
+
+It has the following syntax:
+
+register data_type variable_name;  
+
+Example:
+
+register int x = 5;  
+Example
+#include <stdio.h>  
+  
+int main() {  
+    register intreg_var = 5;  
+printf("Register Variable: %d\n", reg_var);  
+  
+    return 0;  
+}  
+Output:
+
+Register Variable: 5
+
+
+return: It is used to exit a function and return a value (if any) to the calling code.
+
+Syntax:
+
+It has the following syntax:
+
+return expression;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int square(intnum) {  
+    return num * num;  
+}  
+  
+intmain() {  
+int result = square(5);  
+printf("Square: %d\n", result);  
+  
+    return 0;  
+}  
+Output:
+
+Square: 25
+
+
+short: This keyword is used to declare a short integer data type.
+
+
+Syntax:
+
+It has the following syntax:
+
+short variable_name;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+    short temperature = -10;  
+printf("Temperature: %d\n", temperature);  
+  
+    return 0;  
+}  
+Output:
+
+Copy code
+Temperature: -10
+
+
+signed: It is used to declare a signed data type, which can represent both positive and negative values.
+
+
+Syntax:
+
+It has the following syntax:
+
+signed data_type variable_name;  
+
+
+Example:
+
+signed int balance = -100;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+    signed int balance = -100;  
+printf("Balance: %d\n", balance);  
+  
+    return 0;  
+}  
+
+
+Output:
+
+Balance: -100
+
+
+sizeof: It is used to determine the size in bytes of a data type or variable.
+
+
+Syntax:
+
+It has the following syntax:
+
+sizeof(data_type); or sizeof(variable); 
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+int size = sizeof(int);  
+printf("Size of int: %d bytes\n", size);  
+  
+    return 0;  
+} 
+
+
+Output:
+
+Size of int: 4 bytes
+
+static: It is used to declare a variable or function that retains its value or scope even after the block in which it is defined has exited.
+
+
+Syntax:
+
+It has the following syntax:
+
+static data_type variable_name;  
+static return_type function_name(arguments);  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+void increment() {  
+    static int count = 0;  
+    count++;  
+printf("Count: %d\n", count);  
+}  
+  
+int main() {  
+increment();  
+increment();  
+  
+    return 0;  
+}  
+Output:
+
+Count: 1
+Count: 2
+struct: It is used to define a user-defined data type called a structure, which can hold multiple variables of different data types.
+Syntax:
+
+It has the following syntax:
+
+struct struct_name {  
+data_type member1;  
+data_type member2;  
+    //...  
+};  
+Example
+#include <stdio.h>  
+#include <string.h>  
+  
+struct Person {  
+    char name[20];  
+int age;  
+};  
+  
+int main() {  
+
+struct Person student;  
+strcpy(student.name, "John");  
+student.age = 20;  
+printf("Name: %s, Age: %d\n", student.name, student.age);  
+  
+    return 0;  
+}  
+Output:
+
+Name: John, Age: 20
+
+
+switch: It is used to create a switch statement, which allows multiple execution paths based on different cases.
+
+Syntax:
+
+It has the following syntax:
+
+switch (expression) {  
+    case constant1:  
+        // code to be executed if expression matches constant1  
+        break;  
+    case constant2:  
+        // code to be executed if expression matches constant2  
+        break;  
+    //...  
+    default:  
+        // code to be executed if expression does not match any constant  
+}  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+int choice = 2;  
+    switch (choice) {  
+        case 1:  
+printf("You chose option 1.\n");  
+            break;  
+        case 2:  
+printf("You chose option 2.\n");  
+            break;  
+        default:  
+printf("Invalid choice.\n");  
+    }  
+  
+    return 0;  
+}  
+Output:
+
+You chose option 2.
+
+
+typedef: It is used to create a new name (alias) for an existing data type.
+
+
+Syntax:
+
+It has the following syntax:
+
+typedef existing_data_type new_data_type;  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+typedef int marks;  
+  
+int main() {  
+    marks math_marks = 95;  
+printf("Math Marks: %d\n", math_marks);  
+  
+    return 0;  
+}  
+Math Marks: 95
+
+
+union: It is used to define a user-defined data type called a union, which can hold different data types but only one member at a time.
+
+
+Example
+#include <stdio.h>  
+  
+union Number {  
+int integer;  
+    float floating_point;  
+};  
+  
+int main() {  
+    union Number num;  
+num.integer = 10;  
+printf("Integer: %d\n", num.integer);  
+  
+    return 0;  
+}  
+Output:
+
+Integer: 10
+
+
+unsigned: It is used to declare an unsigned data type, which can represent only positive
+
+
+Syntax:
+
+It has the following syntax:
+
+unsigned data_type variable_name;  
+
+
+Example
+
+#include <stdio.h>  
+  
+int main() {  
+    unsigned int count = 100;  
+printf("Count: %u\n", count);  
+  
+    return 0;  
+}  
+Output:
+
+Count: 100
+
+
+void: This keyword is used to indicate the absence of a specific type or to define functions that do not return a value.
+
+
+Syntax:
+
+It has the following syntax:
+
+For function return type: void function_name(arguments);  
+As a data type: void variable_name;  
+
+
+Example
+#include <stdio.h>  
+  
+void printMessage() {  
+printf("Hello, World!\n");  
+}  
+  
+int main() {  
+printMessage();  
+  
+    return 0;  
+}  
+Output:
+
+Hello, World!
+
+
+
+volatile: It is used to declare a variable that can be modified externally and should not be optimized by the compiler.
+
+
+Syntax:
+
+It has the following syntax:
+
+
+volatile data_type variable_name;  
+
+
+Example:
+
+volatile int sensor_reading;  
+// Access and modify the sensor_reading variable in an interrupt service routine 
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+    volatile int sensor_reading = 0;  
+  
+    // Simulating sensor reading update  
+    for (inti = 0; i< 10; i++) {  
+sensor_reading = i;  
+printf("Sensor Reading: %d\n", sensor_reading);  
+    }  
+  
+    return 0;  
+}  
+
+
+Output:
+
+Sensor Reading: 0
+Sensor Reading: 1
+Sensor Reading: 2
+Sensor Reading: 3
+Sensor Reading: 4
+Sensor Reading: 5
+Sensor Reading: 6
+Sensor Reading: 7
+Sensor Reading: 8
+Sensor Reading: 9
+
+
+while: It is used to create a while loop, which repeatedly executes a block of code based on a specified condition.
+
+
+Syntax:
+
+It has the following syntax:
+
+while (condition) {  
+    // code to be executed  
+}  
+
+
+Example
+
+
+#include <stdio.h>  
+  
+int main() {  
+inti = 0;  
+    while (i< 5) {  
+printf("%d ", i);  
+i++;  
+    }  
+printf("\n");  
+  
+    return 0;  
+}  
+
+
+Output:
+
+0 1 2 3 4
+
+
+
+
+
+{
+            id: "python-control-statements",    
+            name: "Python Control Statments",
+            isParent: true,
+            subtopics: [
+                { 
+                id: "python-if-else", 
+                name: "Python If Else", 
+                description: String.raw`

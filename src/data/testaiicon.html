@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python Functions – AI Icon Test</title>
+    <style>
+        body { font-family: Arial; background: #f4f7fc; padding: 2rem; }
+        .container { max-width: 1000px; margin: auto; background: white; padding: 2rem; border-radius: 24px; }
+        pre { background: #0f172a; color: #e2e8f0; padding: 1rem; border-radius: 16px; overflow-x: auto; position: relative; }
+        .code-block-wrapper { position: relative; margin: 1rem 0; }
+        .ai-icon {
+            position: absolute; top: 10px; right: 10px; background: #306998; color: white;
+            border: none; border-radius: 50%; width: 32px; height: 32px; cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .ai-icon:hover { background: #1f4a6e; }
+        .modal {
+            display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.6); z-index: 1000; justify-content: center; align-items: center;
+        }
+        .modal-content { background: white; max-width: 600px; width: 90%; border-radius: 24px; padding: 1.5rem; position: relative; }
+        .modal-close { position: absolute; top: 10px; right: 15px; font-size: 1.5rem; cursor: pointer; }
+        .example-output { background: #fef9e3; padding: 0.8rem; margin: 1rem 0; border-left: 4px solid #f59e0b; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Python Functions</h1>
+    <h2>Creating and Calling a Function</h2>
+    <pre><code>def welcome():
+    print("Hello, Users! Welcome to Dreamz Touch Tech!!")
+
+welcome()</code></pre>
+    <div class="example-output">Hello, Users! Welcome to Dreamz Touch Tech!!</div>
+
+    <h2>Function with Arguments</h2>
+    <pre><code>def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Alice")</code></pre>
+    <div class="example-output">Hello, Alice!</div>
+</div>
+
+<!-- Modal structure -->
+<div id="aiModal" class="modal">
+    <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <h3>🤖 AI Explanation</h3>
+        <div id="explanationText"></div>
+    </div>
+</div>
+
+<script>
+    // Ensure DOM is fully loaded before running
+    document.addEventListener('DOMContentLoaded', function() {
+        // Function to generate explanation
+        function generateExplanation(code) {
+            if (code.includes("def welcome()") && code.includes("print")) {
+                return "This defines a function named 'welcome' that prints a greeting. The function is then called using 'welcome()'.";
+            }
+            if (code.includes("def greet(name)")) {
+                return "This function takes one parameter 'name'. When called with an argument, it prints a personalised greeting.";
+            }
+            return "This code demonstrates a Python concept. Refer to the tutorial for details.";
+        }
+
+        // Wrap each <pre> with a wrapper and add AI icon
+        const pres = document.querySelectorAll('pre');
+        pres.forEach(function(pre) {
+            const codeElem = pre.querySelector('code');
+            if (!codeElem) return;
+            const codeText = codeElem.innerText;
+            const wrapper = document.createElement('div');
+            wrapper.className = 'code-block-wrapper';
+            pre.parentNode.insertBefore(wrapper, pre);
+            wrapper.appendChild(pre);
+            const btn = document.createElement('button');
+            btn.className = 'ai-icon';
+            btn.textContent = '🤖';
+            btn.setAttribute('data-code', codeText);
+            wrapper.appendChild(btn);
+        });
+
+        // Modal logic
+        const modal = document.getElementById('aiModal');
+        const explanationDiv = document.getElementById('explanationText');
+        const closeSpan = modal.querySelector('.modal-close');
+
+        // Attach click events to all AI icons
+        const allButtons = document.querySelectorAll('.ai-icon');
+        allButtons.forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                const code = btn.getAttribute('data-code');
+                const explanation = generateExplanation(code);
+                // Use string concatenation to avoid template literal issues
+                explanationDiv.innerHTML = "<p><strong>Code snippet:</strong></p><pre><code>" + code + "</code></pre><p><strong>Explanation:</strong><br>" + explanation + "</p>";
+                modal.style.display = 'flex';
+            });
+        });
+
+        closeSpan.onclick = function() { modal.style.display = 'none'; };
+        window.onclick = function(event) {
+            if (event.target === modal) modal.style.display = 'none';
+        };
+    });
+</script>
+</body>
+</html>

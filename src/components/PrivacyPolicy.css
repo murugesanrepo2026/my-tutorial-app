@@ -1,0 +1,60 @@
+/* src/components/PrivacyPolicy.css */
+.privacy-container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+  background: white;
+  border-radius: 24px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #1e2a3e;
+}
+
+.privacy-container h1 {
+  color: #0b2b3b;
+  text-align: center;
+  padding-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.effective-date {
+  text-align: center;
+  color: #6c7a8a;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #eef2fa;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.privacy-section {
+  margin-bottom: 2rem;
+  padding: 0 1rem;
+}
+
+.privacy-section h2 {
+  color: #0f2c38;
+  border-left: 5px solid #ffb347;
+  padding-left: 1rem;
+  margin: 1.5rem 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+.privacy-section p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.privacy-section strong {
+  color: #0b2b3b;
+}
+
+@media (max-width: 768px) {
+  .privacy-container {
+    padding: 0 1rem;
+    margin: 1rem;
+  }
+  .privacy-section {
+    padding: 0;
+  }
+}
