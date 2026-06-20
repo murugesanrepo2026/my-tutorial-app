@@ -3459,14 +3459,14 @@ Oh, bring back my TPoint to me.</pre>
   <h2>📐 Basic Table Example</h2>
   <pre><code>&lt;table&gt;
   &lt;tr&gt;&lt;th&gt;First_Name&lt;/th&gt;&lt;th&gt;Last_Name&lt;/th&gt;&lt;th&gt;Marks&lt;/th&gt;&lt;/tr&gt;
-  &lt;tr&gt;&lt;td&gt;Sonoo&lt;/td&gt;&lt;td&gt;Jaiswal&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;James&lt;/td&gt;&lt;td&gt;Jaiswal&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;James&lt;/td&gt;&lt;td&gt;William&lt;/td&gt;&lt;td&gt;80&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;</code></pre>
   <div class="demo-box">
     <table class="demo-table" style="width:100%">
       <thead><tr><th>First_Name</th><th>Last_Name</th><th>Marks</th></tr></thead>
       <tbody>
-        <tr><td>Sonoo</td><td>Jaiswal</td><td>60</td></tr>
+        <tr><td>James</td><td>Goasling</td><td>60</td></tr>
         <tr><td>James</td><td>William</td><td>80</td></tr>
       </tbody>
     </table>

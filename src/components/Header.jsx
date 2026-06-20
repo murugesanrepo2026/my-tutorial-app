@@ -22,8 +22,8 @@ const Header = ({ searchTerm, setSearchTerm }) => {
         </div> */}
 
         <a href="/home" className="logo-area" style={{ textDecoration: 'none' }}>
-          {/* <img src="/dreamz.jpeg" alt="Dreamz Touch" className="logo-icon" /> */}
-          <span className="logo-text"> Tutorial App</span>
+          <img src="/dreamz.jpeg" alt="Dreamz Touch" className="logo-icon" />
+          <span className="logo-text">Dreamz Touch Tutorial</span>
         </a>
 
         {/* Search */}

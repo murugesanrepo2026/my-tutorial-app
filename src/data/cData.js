@@ -27855,14 +27855,14 @@ void main()
         Enter the id<br>
         1<br>
         Enter the name<br>
-        sonoo<br>
+        Rajesh<br>
         Enter the salary<br>
         120000
     </div>
     <div class="note">
         <strong>emp.txt (after execution):</strong><br>
         Id= 1<br>
-        Name= sonoo<br>
+        Name= Rajesh<br>
         Salary= 120000
     </div>
 
