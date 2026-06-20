@@ -3,11 +3,11 @@ export const pythonData = {
   id: "python",
   name: "Python",
   icon: "🐍",
-  subtopics: [
-    {
-      id: "Python-Tutorial",
-      name: "Python Tutorial",
-      isParent: true,
+//   subtopics: [
+//     {
+//       id: "Python-Tutorial",
+//       name: "Python Tutorial",
+//       isParent: true,
       subtopics: [
            {
         id: "Python-Tutorial",
@@ -15,8 +15,8 @@ export const pythonData = {
         isParent: true,
         subtopics: [
           { 
-            id: "python-tutorial-intro", 
-            name: "Python Tutorial [Intro]", 
+            id: "python-tutorial", 
+            name: "Python Tutorial", 
              description:  String.raw `
 <!DOCTYPE html>
 <html lang="en">
@@ -845,7 +845,10 @@ print("Hello World")</code></pre>
         <div class="feature-card"><strong>⚡ Multi-threading and Multiprocessing</strong> Concurrency for I/O‑heavy and CPU‑heavy tasks.</div>
     </div>
 
-    <h2>📖 Detailed Explanations with Examples</h2>
+    <h2>📖 Detailed Explanations    // id: "cprogramming",
+    // name: "C Programming",
+    // icon: "⚙️",
+    // subtopics: [ with Examples</h2>
 
     <h3>1. Free and Open Source</h3>
     <p>Python can be downloaded freely from the official website (<a href="https://python.org" target="_blank">python.org</a>). Its source code is available to the public, allowing anyone to contribute to the Python community.</p>
@@ -3594,6 +3597,8 @@ print("Docstring:", welcome.__doc__)</code></pre>
           ],
           
           } ,
+        //]
+   // },
 
 
         {
@@ -12547,7 +12552,7 @@ print(md)</code></pre>
             isParent: true,
             subtopics: [
                 { 
-                id: "python-functions", 
+                id: "python-functions-tutorial", 
                 name: "Python Functions", 
                 description: String.raw`
 
@@ -20643,7 +20648,7 @@ print("dir(obj):", dir(obj)[-5:])    # last 5 attributes</code></pre>
             isParent: true,
             subtopics: [
                 { 
-                id: "python-exception-handling", 
+                id: "python-exception-handling-tutorial", 
                 name: "Python Exception Handling", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -22230,7 +22235,7 @@ except ValueError as e:
             isParent: true,
             subtopics: [
                 { 
-                id: "python-file-handling", 
+                id: "python-file-handling-tutorial", 
                 name: "Python File Handling", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -26146,7 +26151,7 @@ db_connection.close()</code></pre>
             isParent: true,
             subtopics: [
                 { 
-                id: "python-mongodb", 
+                id: "python-mongodb-tutorial", 
                 name: "Python MongoDB", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -29088,7 +29093,7 @@ print("Merged array (using extend):", merged_array)</code></pre>
             isParent: true,
             subtopics: [
                 { 
-                id: "python-tkinter", 
+                id: "python-tkinter-tutorial", 
                 name: "Python Tkinter", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -32059,11 +32064,11 @@ top.mainloop()</code></pre>
 top = Tk()  
 top.geometry("100x100")  
 var = StringVar()  
-msg = Message(top, text="Welcome to Javatpoint")  
+msg = Message(top, text="Welcome to dreamztouch")  
 msg.pack()  
 top.mainloop()</code></pre>
     <div class="screenshot-placeholder">
-        🖼️ Output: A Tkinter window displaying a Message widget with the text "Welcome to Javatpoint". The text automatically wraps to fit the window size.
+        🖼️ Output: A Tkinter window displaying a Message widget with the text "Welcome to dreamztouch". The text automatically wraps to fit the window size.
     </div>
 
     <div class="note">
@@ -34201,7 +34206,7 @@ from tkinter import messagebox
 
 top = Tk()  
 top.geometry("100x100")  
-messagebox.askokcancel("Redirect", "Redirecting you to www.javatpoint.com")  
+messagebox.askokcancel("Redirect", "Redirecting you to www.dreamztouch.com")  
 top.mainloop()</code></pre>
     <div class="screenshot-placeholder">
         🖼️ Output: A dialog with OK and Cancel buttons. Returns True if OK, False if Cancel.
@@ -35814,9 +35819,9 @@ def repeat(num):
 def function1(name):
     print(f"{name}")
 
-function1("JavatPoint")</code></pre>
+function1("dreamztouch")</code></pre>
     <div class="screenshot-placeholder">
-        🖼️ Output: JavatPoint (printed 5 times)
+        🖼️ Output: dreamztouch (printed 5 times)
     </div>
 
     <h3>Stateful Decorators</h3>
@@ -36409,7 +36414,7 @@ except Exception:
             isParent: true,
             subtopics: [
                 { 
-                id: "python-Multithreading", 
+                id: "python-Multithreading-tutorial", 
                 name: "Python Multithreading", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -40692,7 +40697,7 @@ t.do_run = False</code></pre>
             isParent: true,
             subtopics: [
                 { 
-                id: "python-networking", 
+                id: "python-networking-tutorial", 
                 name: "Python Networking", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -41753,10 +41758,10 @@ print(box2.get_item())</code></pre>
         }
 
     ],
-  },
+  }
         
-      ]
-    }
+    //   ]
+    // }
 
 
 

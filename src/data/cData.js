@@ -1,7 +1,7 @@
 export const cData = {
   id: "C ",
   name: "C ",
-  icon: "🐍",
+  icon: "🖥️",
   subtopics: [
     // {
     //   id: "C-Tutorial",
@@ -9,11 +9,11 @@ export const cData = {
     //   isParent: true,
     //   subtopics: [
 
-          {
-    id: "cprogramming",
-    name: "C Programming",
-    icon: "⚙️",
-    subtopics: [
+          //{
+    // id: "cprogramming",
+    // name: "C Programming",
+    // icon: "⚙️",
+    // subtopics: [
       {
         id: "c-tutorial-group",
         name: "C Tutorial",
@@ -4092,7 +4092,7 @@ int main() {
 },
 
 {
-  id:"Comments-in-",
+  id:"Comments-in-C",
   name:"Comments in C",
   description: String.raw `
   <!DOCTYPE html>
@@ -8090,8 +8090,8 @@ while(1) { printf("Also infinite\n"); }</code></pre>
           },
 
           {
-            id:"For-Loop-in-C ",
-            name:"For Loop in C ",
+            id:"For-Loop-in-C",
+            name:"For Loop in C",
             description: String.raw`
 
             <!DOCTYPE html>
@@ -8785,8 +8785,8 @@ int main() {
           },
 
           {
-            id:"While-Loop-in-C ",
-            name:"While Loop in C ",
+            id:"While-Loop-in-C",
+            name:"While Loop in C",
             description: String.raw`
             <!DOCTYPE html>
 <html lang="en">
@@ -8993,7 +8993,7 @@ int main() {
     <pre><code>#include &lt;stdio.h&gt;
 int main() {
     int i = 1;
-    while (i <= 3) {
+    while (i <= 3) {Armstrong Number 
         int j = 1;
         while (j <= 3) {
             printf("%d %d\n", i, j);
@@ -20225,7 +20225,7 @@ e1.doj.yyyy</code></pre>
 
     <h2>📋 Complete Example</h2>
     <div class="code-block-wrapper">
-        <button class="ai-icon" data-code="#include <stdio.h>\n#include <string.h>\nstruct Employee {\n    int id;\n    char name[20];\n    struct Date {\n        int dd;\n        int mm;\n        int yyyy;\n    } doj;\n} e1;\nint main() {\n    e1.id = 101;\n    strcpy(e1.name, \"Sonoo Jaiswal\");\n    e1.doj.dd = 10;\n    e1.doj.mm = 11;\n    e1.doj.yyyy = 2014;\n    printf(\"employee id : %d\\n\", e1.id);\n    printf(\"employee name : %s\\n\", e1.name);\n    printf(\"employee date of joining (dd/mm/yyyy) : %d/%d/%d\\n\", e1.doj.dd, e1.doj.mm, e1.doj.yyyy);\n    return 0;\n}">🤖</button>
+        <button class="ai-icon" data-code="#include <stdio.h>\n#include <string.h>\nstruct Employee {\n    int id;\n    char name[20];\n    struct Date {\n        int dd;\n        int mm;\n        int yyyy;\n    } doj;\n} e1;\nint main() {\n    e1.id = 101;\n    strcpy(e1.name, \"James Goasling\");\n    e1.doj.dd = 10;\n    e1.doj.mm = 11;\n    e1.doj.yyyy = 2014;\n    printf(\"employee id : %d\\n\", e1.id);\n    printf(\"employee name : %s\\n\", e1.name);\n    printf(\"employee date of joining (dd/mm/yyyy) : %d/%d/%d\\n\", e1.doj.dd, e1.doj.mm, e1.doj.yyyy);\n    return 0;\n}">🤖</button>
         <pre><code>#include <stdio.h>
 #include <string.h>
 struct Employee {
@@ -20239,7 +20239,7 @@ struct Employee {
 } e1;
 int main() {
     e1.id = 101;
-    strcpy(e1.name, "Sonoo Jaiswal");
+    strcpy(e1.name, "James Goasling");
     e1.doj.dd = 10;
     e1.doj.mm = 11;
     e1.doj.yyyy = 2014;
@@ -20251,7 +20251,7 @@ int main() {
     </div>
     <div class="example-output">
         employee id : 101<br>
-        employee name : Sonoo Jaiswal<br>
+        employee name : James Goasling<br>
         employee date of joining (dd/mm/yyyy) : 10/11/2014
     </div>
 
@@ -30825,8 +30825,8 @@ int main() {
                 },
 
                 { 
-                id: "C-Prime-Number ",       
-                name: "C Prime Number ",
+                id: "C-Prime-Number",       
+                name: "C Prime Number",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -31172,8 +31172,8 @@ int main() {
                 },
 
                 { 
-                id: "C-Palindrome-program ",       
-                name: "C Palindrome program ",
+                id: "C-Palindrome-program",       
+                name: "C Palindrome program",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -31527,8 +31527,8 @@ int main() {
                 },
 
                 { 
-                id: "C-Basic-C-Programs  ",       
-                name: "Basic C Programs ",
+                id: "C-Basic-C-Programs",       
+                name: "Basic C Programs",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -32190,8 +32190,8 @@ int main() {
                 },
 
                 { 
-                id: "C-Strings-Concatenation ",       
-                name: "C Strings Concatenation ",
+                id: "C-Strings-Concatenation",       
+                name: "C Strings Concatenation",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -32416,7 +32416,7 @@ int main() {
     <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
 
     <div class="intro-text">
-        String concatenation is the process of combining two strings into one. For example, <code>"Hello" + "javaTpoint" = "Hello javaTpoint"</code>. This guide demonstrates three methods: using a loop, using pointers, and using the built-in <code>strcat()</code> function.
+        String concatenation is the process of combining two strings into one. For example, <code>"Hello" + "dreamztouch" = "Hello dreamztouch"</code>. This guide demonstrates three methods: using a loop, using pointers, and using the built-in <code>strcat()</code> function.
     </div>
 
     <h2>1️⃣ Concatenate two strings using a loop</h2>
@@ -32589,8 +32589,8 @@ int main() {
                 },
 
                 { 
-                id: "C-Armstrong Number ",       
-                name: "C Armstrong Number ",
+                id: "C-Armstrong Number",       
+                name: "C Armstrong Number",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -33710,7 +33710,7 @@ int main() {
                 },
 
                 { 
-                id: "C-swap two-numbers-without-third-variable ",       
+                id: "C-swap two-numbers-without-third-variable",       
                 name: "C swap two numbers without third variable",
                 description: String.raw`
 <!DOCTYPE html>
@@ -34032,7 +34032,7 @@ int main() {
                 },
 
                 { 
-                id: "C-Count-the-number-of-digits ",       
+                id: "C-Count-the-number-of-digits",       
                 name: "C Count the number of digits",
                 description: String.raw`
 <!DOCTYPE html>
@@ -38452,8 +38452,8 @@ int main() {
             ]
         }
 
-    ]
-  },
+    //]
+  //},
       
         
       ]

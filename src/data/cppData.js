@@ -1,7 +1,7 @@
 export const cppData = {
   id: "C++",
   name: "C++",
-  icon: "🐍",
+  icon: "⚡",
   subtopics: [
     {
       id: "CPP-Tutorial",
@@ -267,7 +267,7 @@ export const cppData = {
     <h2>🚀 C++ Example – Hello World</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream>\nusing namespace std;\nint main() {\n    cout << \"Hello, Welcome to TpointTech!\" << endl;\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run</button>
         <pre><code>#include <iostream>
 using namespace std;
 int main() {
@@ -322,7 +322,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -640,7 +640,7 @@ int main() {
     <h3>Hello World in C</h3>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    printf(\"Hello, TpointTech World!\\n\");\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/c', '_blank')">▶ Run C</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run C</button>
         <pre><code>#include <stdio.h>
 int main() {
     printf("Hello, TpointTech World!\n");
@@ -655,7 +655,7 @@ int main() {
     <h3>Hello World in C++</h3>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream>\nusing namespace std;\nint main() {\n    cout << \"Hello, TpointTech World!\" << endl;\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run C++</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run C++</button>
         <pre><code>#include <iostream>
 using namespace std;
 int main() {
@@ -695,8 +695,8 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run C</strong> or <strong>▶ Run C++</strong> buttons to open online compilers and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/c', '_blank')">Open C Compiler</button>
-        <button class="compile-btn" style="background-color:#306998; margin-left:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-left:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -1107,7 +1107,7 @@ int main() {
     <h2>🚀 C++ Example – Modern C++ (C++11 and beyond)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream>\n#include <vector>\n#include <algorithm>\nusing namespace std;\n\nint main() {\n    vector<int> numbers = {5, 2, 8, 1, 9};\n    sort(numbers.begin(), numbers.end());\n    \n    cout << \"Sorted numbers: \";\n    for (int n : numbers) {\n        cout << n << \" \";\n    }\n    cout << endl;\n    \n    auto sum = [](int a, int b) { return a + b; };\n    cout << \"Sum of 3 and 4: \" << sum(3, 4) << endl;\n    \n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run</button>
         <pre><code>#include <iostream>
 #include <vector>
 #include <algorithm>
@@ -1141,7 +1141,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -1464,7 +1464,7 @@ int main() {
     <h2>💻 C++ Example – Simple Program</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream>\nusing namespace std;\nint main() {\n    cout << \"Hello, C++!\" << endl;\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run</button>
         <pre><code>#include <iostream>
 using namespace std;
 int main() {
@@ -1480,7 +1480,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -1838,7 +1838,7 @@ int main() {
     <p>After installation, create a new file and write the following program:</p>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream>\nusing namespace std;\nint main() {\n    cout << \"Hello, Turbo C++!\" << endl;\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run</button>
         <pre><code>#include <iostream>
 using namespace std;
 int main() {
@@ -1854,7 +1854,7 @@ int main() {
 
     <div class="note">
         <strong>Try it online now!</strong> Click the <strong>▶ Run</strong> button above to open an online C++ compiler, or use the button below.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open Online C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open Online C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -2127,7 +2127,7 @@ int main() {
     <h2>📝 First C++ Program (Turbo C++ Style)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <iostream.h>\n#include <conio.h>\nvoid main() {\n    clrscr();\n    cout << \"Welcome to C++ Programming.\";\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run</button>
         <pre><code>#include <iostream.h>
 #include <conio.h>
 void main() {
@@ -2164,7 +2164,7 @@ void main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button above to open an online C++ compiler and test the code. Note that the online compiler uses standard C++ (not Turbo C++), so <code>iostream.h</code> is replaced with <code>iostream</code> and <code>using namespace std;</code> may be needed.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open Online C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open Online C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -2237,8 +2237,8 @@ void main() {
                 },
 
                 { 
-                id: "C++ Basic Input and Output ",       
-                name: "C++ Basic Input and Output ",
+                id: "C++ Basic Input and Output",       
+                name: "C++ Basic Input and Output",
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -2435,7 +2435,7 @@ int main() {
     cout << "Height: " << height << " meters" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter your name: Alice<br>
         Enter your age: 28<br>
@@ -2490,7 +2490,7 @@ int main() {
     cout << "You entered: " << num << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Enter a number: 42<br>You entered: 42</div>
 
     <h3>2️⃣ iomanip Example (formatting)</h3>
@@ -2502,7 +2502,7 @@ int main() {
     cout << fixed << setprecision(2) << "Value of pi: " << pi << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Value of pi: 3.14</div>
 
     <h3>3️⃣ fstream Example (file I/O)</h3>
@@ -2520,7 +2520,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">File written successfully.</div>
 
     <h2>🔧 Using Namespace std</h2>
@@ -2530,7 +2530,7 @@ int main() {
     std::cout << "Hello, world!" << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello, world!</div>
 
     <h2>🖨️ Standard Output Stream (cout)</h2>
@@ -2541,7 +2541,7 @@ int main() {
     cout << "Value of ary is: " << ary << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Value of ary is: Welcome to C++ tutorial</div>
 
     <h2>⌨️ Standard Input Stream (cin)</h2>
@@ -2554,7 +2554,7 @@ int main() {
     cout << "Your age is: " << age << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Enter your age: 22<br>Your age is: 22</div>
 
     <h2>↩️ Standard End Line (endl)</h2>
@@ -2566,7 +2566,7 @@ int main() {
     cout << "End of line" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">C++ Tutorial Tpointtech<br>End of line</div>
 
     <h2>⚠️ Unbuffered Standard Error Stream (cerr)</h2>
@@ -2575,7 +2575,7 @@ int main() {
     std::cerr << "This is an error message." << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">This is an error message.</div>
 
     <h2>📝 Buffered Standard Log Stream (clog)</h2>
@@ -2584,7 +2584,7 @@ int main() {
     std::clog << "This is an informational message." << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">This is an informational message.</div>
 
     <div class="note">
@@ -2593,7 +2593,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -2814,7 +2814,7 @@ int main() {
     cin >> name;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">(Input: TpointTech)</div>
 
     <h3>2) cout (ostream – standard output stream)</h3>
@@ -2825,7 +2825,7 @@ int main() {
     cout << "Hi! This is cout statement";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hi! This is cout statement</div>
 
     <h3>3) cerr (unbuffered error stream)</h3>
@@ -2841,7 +2841,7 @@ int main() {
         cerr << "Enter proper number" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">(Input: 3) → Enter proper number</div>
 
     <h3>4) clog (buffered log stream)</h3>
@@ -2852,7 +2852,7 @@ int main() {
     clog << "This message is stored in the buffer";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">This message is stored in the buffer</div>
 
     <h2>📋 Example Using All Streams</h2>
@@ -2871,7 +2871,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Input: 10 → Even number, enter a name: TpointTech → TpointTech
     </div>
@@ -2882,7 +2882,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -3098,7 +3098,7 @@ int main() {
 
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Age: 21<br>
         Height: 5.5 feet<br>
@@ -3121,7 +3121,7 @@ int main() {
     std::cout << "The value of number is: " << number << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">The value of number is: 10</div>
 
     <h3>4. Updating a Variable</h3>
@@ -3133,7 +3133,7 @@ int main() {
     std::cout << "Updated value: " << number << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Initial value: 10<br>
         Updated value: 20
@@ -3194,7 +3194,7 @@ int main() {
     showDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         University: Tech University<br>
         Age: 22<br>
@@ -3210,7 +3210,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -3420,7 +3420,7 @@ int main() {
     std::cout << "a: " << a << "\nb: " << b << "\nc: " << c << "\nd: " << d << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         a: 13<br>b: 28<br>c: 32747<br>d: 1000000
     </div>
@@ -3436,7 +3436,7 @@ int main() {
     std::cout << "float: " << f << "\ndouble: " << d << "\nlong double: " << ld << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         float: 3.1415927410<br>double: 3.1415926535<br>long double: 3.1415926536
     </div>
@@ -3453,7 +3453,7 @@ int main() {
     std::cout << "ASCII of " << s << ": " << int(s) << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Character: C<br>Digit: 7<br>Symbol: $<br>ASCII of C: 67<br>ASCII of 7: 55<br>ASCII of $: 36
     </div>
@@ -3472,7 +3472,7 @@ int main() {
         cout << "Access denied!" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         User logged in: 1<br>User has access: 0<br>Access denied!
     </div>
@@ -3487,7 +3487,7 @@ int main() {
     greet();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello World!</div>
 
     <!-- ==================== DERIVED DATA TYPES ==================== -->
@@ -3520,7 +3520,7 @@ int main() {
     delete[] dynArr;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1D Array: 10 20 30 40 50<br><br>
         2D Array (Matrix):<br>21 42 35<br>54 87 64<br><br>
@@ -3539,7 +3539,7 @@ int main() {
     cout << "Value pointed by ptr: " << *ptr << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value of a: 100<br>Address of a: 0x7ffd7a1800c4<br>Pointer ptr stores: 0x7ffd7a1800c4<br>Value pointed by ptr: 100
     </div>
@@ -3555,7 +3555,7 @@ int main() {
     cout << "Modified value: " << num << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original value: 5<br>Modified value: 10
     </div>
@@ -3579,7 +3579,7 @@ int main() {
     displayStudent(s1);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ID: 18<br>Name: John<br>Grade: 86.5
     </div>
@@ -3601,7 +3601,7 @@ int main() {
     bike2.showBrand();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Bike brand: KTM<br>Bike brand: Royal Enfield
     </div>
@@ -3625,7 +3625,7 @@ int main() {
     cout << "After modification, Integer: " << d.intVal << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer: 48<br>Float: 3.14<br>Char: A<br>After modification, Integer: 1078523201
     </div>
@@ -3640,7 +3640,7 @@ int main() {
         cout << "Your favorite color is Blue!!" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Your favorite color is Blue!!</div>
 
     <h3>e. Typedef and Using</h3>
@@ -3654,7 +3654,7 @@ int main() {
     cout << "x: " << x << "\ny: " << y << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x: 10<br>y: 10000000000
     </div>
@@ -3665,7 +3665,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -3875,7 +3875,7 @@ int main() {           // int keyword
     cout << "Hello! Welcome to the TpointTech World";
     return 0;          // return keyword
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello! Welcome to the TpointTech World</div>
 
     <h2>📋 Keywords Available in Both C and C++ (32 keywords)</h2>
@@ -3954,7 +3954,7 @@ int main() {           // int keyword
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to open an online C++ compiler and test the example.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -4161,7 +4161,7 @@ int main() {
     cout << "c: " << c << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">c: 50</div>
 
     <h2>1. Arithmetic Operators</h2>
@@ -4190,7 +4190,7 @@ int main() {
     cout << "Decrement: " << --x << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Addition: 19<br>Subtraction: 11<br>Multiplication: 60<br>Division: 3<br>Modulus: 3<br>Increment: 16<br>Decrement: 15
     </div>
@@ -4219,7 +4219,7 @@ int main() {
     cout << (a != b) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">0<br>1<br>0<br>1<br>0<br>1</div>
 
     <h2>3. Logical Operators</h2>
@@ -4240,7 +4240,7 @@ int main() {
     cout << "!y: " << (!y) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x && y: 1<br>x || y: 1<br>!y: 0
     </div>
@@ -4269,7 +4269,7 @@ int main() {
     cout << "x>>1: " << (x >> 1) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x & y: 8<br>x | y: 14<br>x ^ y: 6<br>~(x): -15<br>x<<1: 28<br>x>>1: 7
     </div>
@@ -4298,7 +4298,7 @@ int main() {
     cout << "x %= y: " << (x %= y) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x = 18<br>x += y: 23<br>x -= y: 18<br>x *= y: 90<br>x /= y: 18<br>x %= y: 3
     </div>
@@ -4314,7 +4314,7 @@ int main() {
     cout << "Player " << result << " the game." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter score: 80<br>Player Won the game.
     </div>
@@ -4329,7 +4329,7 @@ int main() {
     cout << "sizeof(char): " << sizeof(char) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         sizeof(a): 4<br>sizeof(char): 1
     </div>
@@ -4342,7 +4342,7 @@ int main() {
     cout << x << " " << y << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">34 45</div>
 
     <h3>Arrow (->) and Dot (.) Operators</h3>
@@ -4359,7 +4359,7 @@ int main() {
     cout << ptr->x << endl;   // arrow operator
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">10<br>10</div>
 
     <h3>Casting Operator (static_cast)</h3>
@@ -4374,7 +4374,7 @@ int main() {
     cout << "int(y): " << b << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         int(x): 4578<br>int(y): 19
     </div>
@@ -4389,7 +4389,7 @@ int main() {
     cout << "Value of num: " << *ptr << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Address of num: 0x7ffe95d31498<br>Value of num: 46
     </div>
@@ -4423,7 +4423,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -4657,7 +4657,7 @@ int main() {
     displayStudentDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Student Age: 20<br>Salary: $55000.75<br>Max Limit: 100<br>myVariable: 10<br>MyVariable: 15<br>Employee Name: Alice<br>Student Age: 20
     </div>
@@ -4693,7 +4693,7 @@ int main() {
     cout << "You entered: " << a << " , " << A << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter values for 'a' and 'A': 5 6<br>You entered: 5 , 6
     </div>
@@ -4710,7 +4710,7 @@ int main() {
     cout << "Value of Pi: " << piValue << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Student Age: 20<br>Value of Pi: 3.1415
     </div>
@@ -4725,7 +4725,7 @@ int main() {
     displayMessage();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello, C++!</div>
 
     <h3>3. Class Identifiers</h3>
@@ -4743,7 +4743,7 @@ int main() {
     cout << myCar.brand << " " << myCar.year << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Toyota 2022</div>
 
     <h2>🔑 Identifiers vs Keywords</h2>
@@ -4785,7 +4785,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -5000,7 +5000,7 @@ int main() {
     cout << "Division: " << division << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Addition: 15<br>Division: 4
     </div>
@@ -5017,7 +5017,7 @@ int main() {
     cout << "a: " << a << ", b: " << b << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">a: 80, b: 80</div>
 
     <h4>b) Embedded Assignment</h4>
@@ -5029,7 +5029,7 @@ int main() {
     cout << "a: " << a << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">a: 100</div>
 
     <h4>c) Compound Assignment</h4>
@@ -5041,7 +5041,7 @@ int main() {
     cout << "a: " << a << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">a: 20</div>
 
     <h3>2. Constant Expressions</h3>
@@ -5052,7 +5052,7 @@ int main() {
     cout << "x: " << x << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">x: 3</div>
 
     <h3>3. Integral Expressions</h3>
@@ -5066,7 +5066,7 @@ int main() {
     cout << "z: " << z << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter x and y: 8 9<br>z: 17
     </div>
@@ -5080,7 +5080,7 @@ int main() {
     cout << "z: " << z << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">z: 14.5</div>
 
     <pre><code>#include <iostream>
@@ -5091,7 +5091,7 @@ int main() {
     cout << "y: " << y << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">y: 16.7</div>
 
     <h3>5. Pointer Expressions</h3>
@@ -5104,7 +5104,7 @@ int main() {
     cout << "Second element: " << *ptr << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Second element: 2</div>
 
     <h3>6. Relational Expressions</h3>
@@ -5116,7 +5116,7 @@ int main() {
     cout << "a > b: " << y << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">a > b: 0</div>
 
     <pre><code>#include <iostream>
@@ -5126,7 +5126,7 @@ int main() {
     cout << ((a + b) >= (x + y)) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">1</div>
 
     <h3>7. Logical Expressions</h3>
@@ -5137,7 +5137,7 @@ int main() {
     cout << ((a > b) || (a > c)) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">0</div>
 
     <h3>8. Bitwise Expressions</h3>
@@ -5148,7 +5148,7 @@ int main() {
     cout << "x >> 1: " << (x >> 1) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">x >> 1: 2</div>
 
     <pre><code>#include <iostream>
@@ -5158,7 +5158,7 @@ int main() {
     cout << "x << 3: " << (x << 3) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">x << 3: 56</div>
 
     <div class="note">
@@ -5167,7 +5167,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -5183,9 +5183,11 @@ int main() {
                 
                  `
                 },
+            ]
+        },
 
 
-                {
+    {
             id: "C++-control-statements",    
             name: "C++ Control Statments",
             isParent: true,
@@ -5405,7 +5407,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">It is even number</div>
 
     <!-- 2. if-else statement -->
@@ -5428,7 +5430,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">It is odd number</div>
 
     <!-- 3. if-else-if ladder -->
@@ -5468,7 +5470,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number to check grade: 66<br>C Grade
     </div>
@@ -5505,7 +5507,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter your age: 18<br>Do you have an ID? (1 for Yes, 0 for No): 1<br>You are allowed to enter.
     </div>
@@ -5516,7 +5518,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -5744,7 +5746,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10
     </div>
@@ -5762,7 +5764,7 @@ int main() {
     cout << "Factorial of " << n << " is: " << fact << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive number: 6<br>Factorial of 6 is: 720
     </div>
@@ -5779,7 +5781,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a Number: 4<br>4 * 1 = 4<br>4 * 2 = 8<br>4 * 3 = 12<br>4 * 4 = 16<br>4 * 5 = 20<br>4 * 6 = 24<br>4 * 7 = 28<br>4 * 8 = 32<br>4 * 9 = 36<br>4 * 10 = 40
     </div>
@@ -5796,7 +5798,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 1<br>1 2<br>1 3<br>2 1<br>2 2<br>2 3<br>3 1<br>3 2<br>3 3
     </div>
@@ -5816,7 +5818,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter number of rows: 6<br>
         * <br>* * <br>* * * <br>* * * * <br>* * * * * <br>* * * * * *
@@ -5837,7 +5839,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter number of rows: 5<br>
         * * * * * <br>* * * * <br>* * * <br>* * <br>*
@@ -5861,7 +5863,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">20 25 30 35 40</div>
 
     <h2>6️⃣ Infinite for Loop</h2>
@@ -5874,7 +5876,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="note">⚠️ This will print continuously. Press <strong>Ctrl+C</strong> to stop.</div>
 
     <div class="note">
@@ -5883,7 +5885,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -6114,7 +6116,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10
     </div>
@@ -6134,7 +6136,7 @@ int main() {
     cout << "Factorial of " << n << " is: " << fact << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive integer: 5<br>Factorial of 5 is: 120
     </div>
@@ -6155,7 +6157,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 1<br>1 2<br>1 3<br>2 1<br>2 2<br>2 3<br>3 1<br>3 2<br>3 3
     </div>
@@ -6182,7 +6184,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter starting number: 2<br>Enter ending number: 3<br>Multiplication Table of 2:<br>2 x 1 = 2<br>...<br>Multiplication Table of 3:<br>3 x 1 = 3<br>...
     </div>
@@ -6198,7 +6200,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="note">⚠️ This will print continuously. Press <strong>Ctrl+C</strong> to stop.</div>
 
     <h3>Pyramid using Infinite While Loop (with break condition)</h3>
@@ -6218,7 +6220,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         * <br>* * <br>* * * <br>* * * * <br>* * * * *
     </div>
@@ -6236,7 +6238,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4
     </div>
@@ -6256,7 +6258,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4<br>6<br>7<br>8<br>9<br>10
     </div>
@@ -6305,7 +6307,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -6536,7 +6538,7 @@ int main() {
     } while (q <= 6);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hello!!<br>Hello!!<br>Hello!!<br>Hello!!<br>Hello!!<br>Hello!!
     </div>
@@ -6558,7 +6560,7 @@ int main() {
     } while (q <= 2);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Outer loop iteration: 1<br>   Inner loop iteration: 1<br>   Inner loop iteration: 2<br>   Inner loop iteration: 3<br>
         Outer loop iteration: 2<br>   Inner loop iteration: 1<br>   Inner loop iteration: 2<br>   Inner loop iteration: 3
@@ -6572,7 +6574,7 @@ int main() {
     } while (true);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="note">⚠️ This will print continuously. Press <strong>Ctrl+C</strong> to stop.</div>
 
     <h2>📝 Practical Examples</h2>
@@ -6592,7 +6594,7 @@ int main() {
     cout << "Factorial of " << number << " is " << factorial << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 6<br>Factorial of 6 is 720
     </div>
@@ -6615,7 +6617,7 @@ int main() {
     } while (q <= rows);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter number of rows: 5<br>
         * <br>* * <br>* * * <br>* * * * <br>* * * * *
@@ -6634,7 +6636,7 @@ int main() {
     } while (q <= 10);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 7<br>7 * 1 = 7<br>7 * 2 = 14<br>...<br>7 * 10 = 70
     </div>
@@ -6683,7 +6685,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -6907,7 +6909,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4
     </div>
@@ -6926,7 +6928,7 @@ int main() {
     cout << "Loop ended!" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         i = 1<br>i = 2<br>i = 3<br>i = 4<br>i = 5<br>Loop breaks at i = 6<br>Loop ended!
     </div>
@@ -6953,7 +6955,7 @@ int main() {
     cout << "Factorial of " << num << " is: " << fact << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive number: 6<br>Factorial of 6 is: 720
     </div>
@@ -6974,7 +6976,7 @@ int main() {
     cout << "Loop exited." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Iteration: 3<br>Iteration: 4<br>Iteration: 5<br>Break at i = 5<br>Loop exited.
     </div>
@@ -6993,7 +6995,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 1<br>1 2<br>1 3<br>2 1<br>3 1<br>3 2<br>3 3
     </div>
@@ -7014,7 +7016,7 @@ int main() {
     cout << "Loop exited successfully." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Iteration: 1<br>Iteration: 2<br>Iteration: 3<br>Iteration: 4<br>Breaking the loop...<br>Loop exited successfully.
     </div>
@@ -7036,7 +7038,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Choice is 2</div>
 
     <div class="note">
@@ -7045,7 +7047,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -7272,7 +7274,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1<br>2<br>3<br>4<br>5<br>7<br>8
     </div>
@@ -7294,7 +7296,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Current value of a = 2<br>a = 2 is even<br>Current value of a = 3<br>Current value of a = 4<br>a = 4 is even<br>Current value of a = 5<br>Current value of a = 6<br>a = 6 is even<br>Current value of a = 7<br>Current value of a = 8<br>a = 8 is even
     </div>
@@ -7323,7 +7325,7 @@ int main() {
     } while (x < 0);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive number to find factorial: 6<br>Factorial of 6 is: 720
     </div>
@@ -7343,7 +7345,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 1<br>1 2<br>1 3<br>2 1<br>2 3<br>3 1<br>3 2<br>3 3
     </div>
@@ -7382,7 +7384,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -7615,7 +7617,7 @@ ineligible:
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         You are not eligible to vote!<br>Enter your age: 16<br>You are not eligible to vote!<br>Enter your age: 22<br>You are eligible to vote!
     </div>
@@ -7638,7 +7640,7 @@ exitLoops:
     cout << "Exited all loops!" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         111<br>112<br>113<br>121<br>122<br>123<br>131<br>132<br>133<br>211<br>212<br>213<br>221<br>222<br>Exited all loops!
     </div>
@@ -7659,7 +7661,7 @@ error:
     cout << "Error! Negative numbers are not allowed." << endl;
     return 1;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive number: -5<br>Error! Negative numbers are not allowed.
     </div>
@@ -7675,7 +7677,7 @@ skip:
     cout << "Execution resumed after skipping.\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Processing data...<br>Execution resumed after skipping.
     </div>
@@ -7714,7 +7716,7 @@ skip:
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -7924,7 +7926,7 @@ int main() //main body of the program
     cout << "Hello! Welcome to the TpointTech World"; //output statement
     return 0; //return statement
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello! Welcome to the TpointTech World</div>
 
     <h2>📖 Types of Comments</h2>
@@ -7948,7 +7950,7 @@ int main() {
     cout << "The addition of two numbers is: " << add << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter the first number: 20<br>Enter the second number: 30<br>The addition of two numbers is: 50
     </div>
@@ -7978,7 +7980,7 @@ int main()
     cout << "Area of the rectangle is: " << a << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter the length of the rectangle: 5<br>Enter the width of the rectangle: 4<br>Area of the rectangle is: 20
     </div>
@@ -7997,7 +7999,7 @@ int main()
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -8244,7 +8246,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 10<br>It is 10
     </div>
@@ -8282,7 +8284,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Choose operator (+, -, *, /): *<br>Enter first number: 15<br>Enter second number: 4<br>15 * 4 = 60
     </div>
@@ -8325,7 +8327,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter College Year: 4<br>C++, Python, Machine Learning
     </div>
@@ -8352,7 +8354,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 1<br>C<br>C++<br>C#
     </div>
@@ -8388,7 +8390,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -8409,12 +8411,12 @@ int main() {
 
 
         {
-            id: "C++ Functions",    
+            id: "Cpp-Functions",    
             name: "C++ Functions",
             isParent: true,
             subtopics: [
                 { 
-                id: "C++ Functions", 
+                id: "Cpp-Functions-Tutorial", 
                 name: "C++ Functions", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -8619,7 +8621,7 @@ int main() {
     cout << "Sum: " << sum << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Sum: 12</div>
 
     <h2>2️⃣ Function Declaration & Definition</h2>
@@ -8643,7 +8645,7 @@ int main() {
     cout << x;  // Output: 5 (unchanged)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">5</div>
 
     <h3>🔸 Pass by Reference (original modified)</h3>
@@ -8660,7 +8662,7 @@ int main() {
     cout << x;  // Output: 25
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">25</div>
 
     <h3>🔹 Pass by Pointer (modify via address)</h3>
@@ -8678,7 +8680,7 @@ int main() {
     cout << "After: " << num << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before: 10<br>After: 20
     </div>
@@ -8707,7 +8709,7 @@ int main() {
     func();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         i = 1, j = 1<br>i = 2, j = 1<br>i = 3, j = 1
     </div>
@@ -8748,7 +8750,7 @@ int main() {
         cout << num << " is not an Armstrong number." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 153<br>153 is an Armstrong number.
     </div>
@@ -8788,7 +8790,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -9003,7 +9005,7 @@ int main() {
     cout << "The value of data is: " << data << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">The value of data is: 8</div>
     <div class="note">The original value remains unchanged because only a copy was modified.</div>
 
@@ -9025,7 +9027,7 @@ int main() {
     cout << "Value of b: " << b << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value of a: 80<br>Value of b: 200
     </div>
@@ -9127,7 +9129,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -9349,7 +9351,7 @@ int main() {
     cout << "Addition: " << add(a, b) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter value of A: 15<br>Enter value of B: 35<br>Addition: 50
     </div>
@@ -9369,7 +9371,7 @@ int main() {
     cout << "Multiplication: " << multi(15, 20) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Multiplication: 40<br>Multiplication: 150<br>Multiplication: 300
     </div>
@@ -9393,7 +9395,7 @@ int main() {
     cout << "Square of 10: " << obj.square(10) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Square of 10: 100</div>
 
     <h2>⚡ When to Use Inline Functions?</h2>
@@ -9481,7 +9483,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -9706,7 +9708,7 @@ int main() {
     cout << "Factorial of " << num << " is: " << fact(num) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a positive number: 6<br>Factorial of 6 is: 720
     </div>
@@ -9731,7 +9733,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter the number: 5<br>Fibonacci Series: 0 1 1 2 3
     </div>
@@ -9760,7 +9762,7 @@ int main() {
     cout << "Factorial of " << num << " = " << factA(num) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 6<br>Factorial of 6 = 720
     </div>
@@ -9786,7 +9788,7 @@ int main() {
         cout << "It is not a Prime Number" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter an integer: 5<br>It is a Prime Number
     </div>
@@ -9809,7 +9811,7 @@ int main() {
     cout << "Output: " << NestRecursion(num) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 130<br>Output: 145
     </div>
@@ -9869,7 +9871,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -10146,7 +10148,7 @@ int main() {
     autoStorage();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         15<br>7.45<br>Hello TpointTech<br>T
     </div>
@@ -10168,7 +10170,7 @@ int main() {
     regisStorage();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         i = 0, count = 2<br>i = 1, count = 3<br>i = 2, count = 5<br>i = 3, count = 8<br>i = 4, count = 12<br>i = 5, count = 17<br>i = 6, count = 23
     </div>
@@ -10192,7 +10194,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x = 3, Counter = 7<br>x = 4, Counter = 6<br>x = 5, Counter = 5<br>x = 6, Counter = 4<br>x = 7, Counter = 3<br>x = 8, Counter = 2<br>x = 9, Counter = 1<br>x = 10, Counter = 0
     </div>
@@ -10215,7 +10217,7 @@ int main() {
     externStorageClass();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter value of x: 7<br>Value of x: 7
     </div>
@@ -10243,7 +10245,7 @@ int main() {
     cout << "After modifying y: " << t1.y << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before modifying y: 15<br>After modifying y: 50
     </div>
@@ -10269,7 +10271,7 @@ int main() {
     cout << "Main thread after join: x = " << x << ", address = " << &x << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Main thread: x = 25, address = 0x...<br>Inside thread: x = 40, address = 0x... (different)<br>Main thread after join: x = 25, address = 0x...
     </div>
@@ -10280,7 +10282,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -10301,7 +10303,7 @@ int main() {
 
 
         {
-            id: "C++ Arrays",    
+            id: "Cpp-Arrays",    
             name: "C++ Arrays",
             isParent: true,
             subtopics: [
@@ -10496,7 +10498,7 @@ int main() {
     std::cout << "Second element: " << numbers[1] << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First element: 2<br>Second element: 5
     </div>
@@ -10526,7 +10528,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First element (index 0): 10<br>Middle element (index 2): 30<br>Last element (index 4): 50<br>All elements: 10 20 30 40 50
     </div>
@@ -10541,7 +10543,7 @@ int main() {
         std::cout << "arr[" << i << "]: " << arr[i] << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Uninitialized array elements:<br>arr[0]: (garbage value)<br>arr[1]: (garbage value)<br>...
     </div>
@@ -10562,7 +10564,7 @@ int main() {
         cout << "arr[" << i << "] = " << arr[i] << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter 5 values:<br>Element 1: 36<br>Element 2: 48<br>...<br>Stored elements:<br>arr[0] = 36<br>...
     </div>
@@ -10580,7 +10582,7 @@ int main() {
     cout << "Number of elements: " << length << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Total memory: 20 bytes<br>Size of one element: 4 bytes<br>Number of elements: 5
     </div>
@@ -10598,7 +10600,7 @@ int main() {
     cout << "Sum of all elements: " << sum << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Element at index 2: 25<br>Modified index 1: 50<br>Sum of all elements: 122
     </div>
@@ -10612,7 +10614,7 @@ int main() {
         cout << i << "\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         10<br>20<br>30<br>40<br>50
     </div>
@@ -10634,7 +10636,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Matrix elements:<br>4 3 2<br>6 1 5<br>9 7 8
     </div>
@@ -10656,7 +10658,7 @@ int main() {
     cout << "Average = " << sum / count << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Numbers: 7  5  6  12  35  27  <br>Sum = 92<br>Average = 15.3333
     </div>
@@ -10673,7 +10675,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Using range-based for: 7  5  6  12  35  <br>Using traditional for: 7  5  6  12  35
     </div>
@@ -10713,7 +10715,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -10934,7 +10936,7 @@ int main() {
     printArray(arr2);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Printing array elements:<br>10<br>20<br>30<br>40<br>50<br>Printing array elements:<br>5<br>15<br>25<br>35<br>45
     </div>
@@ -10985,7 +10987,7 @@ int main() {
     show(num, size);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Array elements: 5 10 15 20 25 30</div>
 
     <h2>3️⃣ Passing Array as a Reference</h2>
@@ -11004,7 +11006,7 @@ int main() {
     print_array(number);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Array elements: 12 25 16 30 34</div>
 
     <h2>4️⃣ Passing as a Sized Array</h2>
@@ -11023,7 +11025,7 @@ int main() {
     show(nums);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Elements: 4 8 12 20 25</div>
 
     <h2>5️⃣ Passing as an Unsized Array</h2>
@@ -11043,7 +11045,7 @@ int main() {
     show(nums, len);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Unsized array elements: 7 14 21 28 35</div>
 
     <h2>6️⃣ Passing Multidimensional Array (2D)</h2>
@@ -11064,7 +11066,7 @@ int main() {
     printMatrix(matrix);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Matrix elements:<br>9 8<br>7 6<br>5 4
     </div>
@@ -11075,7 +11077,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -11298,7 +11300,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         5 10 0<br>0 15 20<br>30 0 10
     </div>
@@ -11312,7 +11314,7 @@ int main() {
     cout << "Total bytes: " << sizeof(arr) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Total bytes: 24</div>
 
     <h2>2️⃣ 2D Arrays – Creation & Initialization</h2>
@@ -11346,7 +11348,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3<br>4 5 6
     </div>
@@ -11363,7 +11365,7 @@ int main() {
     cout << "Accessed Element: " << value << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Accessed Element: 6</div>
 
     <h2>3️⃣ 3D Arrays</h2>
@@ -11394,7 +11396,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3<br>4 5 6<br><br>7 8 9<br>10 11 12
     </div>
@@ -11423,7 +11425,7 @@ int main() {
     print2DArray(matrix, 2);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3<br>4 5 6
     </div>
@@ -11444,7 +11446,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         2 5 5<br>4 0 3<br>9 1 8
     </div>
@@ -11488,7 +11490,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -11729,7 +11731,7 @@ int main() {
     stud.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Name: John, Age: 24</div>
 
     <h2>2️⃣ Object</h2>
@@ -11753,7 +11755,7 @@ int main() {
     car1.showDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Brand: Tesla, Speed: 150 km/h</div>
 
     <h2>3️⃣ Inheritance</h2>
@@ -11785,7 +11787,7 @@ int main() {
     myCar.showDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Brand: Hyundai<br>Speed: 150 km/h
     </div>
@@ -11811,7 +11813,7 @@ int main() {
     delete animal;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Bark</div>
 
     <h2>5️⃣ Abstraction</h2>
@@ -11837,7 +11839,7 @@ int main() {
     delete atm;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Processing withdrawal of $80</div>
 
     <h2>6️⃣ Encapsulation</h2>
@@ -11859,7 +11861,7 @@ int main() {
     cout << "Area = " << rect.getArea() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Area = 96</div>
 
     <h2>📊 Advantages of OOP over Procedural Programming</h2>
@@ -11897,7 +11899,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -12127,7 +12129,7 @@ int main() {
     e1.displayInfo();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: John<br>Age: 25
     </div>
@@ -12160,7 +12162,7 @@ int main() {
     t1.showInfo();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Course: C++, Duration: 1 year(s)</div>
 
     <h2>4️⃣ Class Example – Initialize and Display through Method</h2>
@@ -12188,7 +12190,7 @@ int main() {
     e2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         101  John<br>102  Alice
     </div>
@@ -12220,7 +12222,7 @@ int main() {
     e2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         101  John  995000<br>102  Michael  29700
     </div>
@@ -12254,7 +12256,7 @@ int main() {
     showEmployee(e1);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: John, ID: 101<br>Inside Function:<br>Name: John<br>ID: 101
     </div>
@@ -12299,7 +12301,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -12535,7 +12537,7 @@ int main() {
     cout << "Volume of Dice2: " << dice2.getVolume() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Volume of Dice1: 210<br>Volume of Dice2: 1560
     </div>
@@ -12565,7 +12567,7 @@ int main() {
     emp1.displayEmployee();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Alice<br>ID: 101<br>Salary: 50000
     </div>
@@ -12598,7 +12600,7 @@ int main() {
     c.showDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Car Name: BMW<br>Car Model: 2025
     </div>
@@ -12649,7 +12651,7 @@ int main() {
     cout << "Employee count: " << Employee::total << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Employee count: 3</div>
 
     <h3>🔸 Constant Member Function Example</h3>
@@ -12671,7 +12673,7 @@ int main() {
     c.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Car: BMW, Model: 2020</div>
 
     <h3>🔹 Inline Member Function Example</h3>
@@ -12693,7 +12695,7 @@ int main() {
     c.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Length: 12<br>Width: 4<br>Height: 7<br>Volume: 336
     </div>
@@ -12719,7 +12721,7 @@ int main() {
     showDetails(s);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Alice<br>Age: 24<br>Marks: 75
     </div>
@@ -12730,7 +12732,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -12980,7 +12982,7 @@ int main() {
     for (int i = 0; i < 3; ++i) delete shapes[i];
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Circle area: 153.938<br>Rectangle area: 195<br>Triangle area: 27
     </div>
@@ -13034,7 +13036,7 @@ int main() {
     obj.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Child implementation</div>
 
     <h3>🔸 Base class can have a constructor</h3>
@@ -13057,7 +13059,7 @@ int main() {
     obj.run();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Parent constructor<br>Child run function
     </div>
@@ -13126,7 +13128,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -13370,7 +13372,7 @@ int main() {
     delete shapePtr;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Drawing a circle<br>Drawing a square
     </div>
@@ -13431,7 +13433,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -13658,7 +13660,7 @@ int main() {
     cout << "Length: " << printLength(b) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Length: 10</div>
 
     <h2>2️⃣ Accessing Private and Protected Members</h2>
@@ -13685,7 +13687,7 @@ int main() {
     friendFunction(obj);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Private: 25<br>Protected: 50
     </div>
@@ -13716,7 +13718,7 @@ int main() {
     friend_Funct(obj);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Private: 57<br>Protected: 18
     </div>
@@ -13750,7 +13752,7 @@ int main() {
     y.showValue(x);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Value from First: 115</div>
 
     <h2>5️⃣ Friend Function for Multiple Classes</h2>
@@ -13788,7 +13790,7 @@ int main() {
     min(a, b);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">10</div>
 
     <h2>6️⃣ Operator Overloading using Friend Function</h2>
@@ -13817,7 +13819,7 @@ int main() {
     C3.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">8+i5 + 20+i7 = 28+i12</div>
 
     <h2>7️⃣ Friend Class</h2>
@@ -13842,7 +13844,7 @@ int main() {
     y.display(x);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Value of i: 10</div>
 
     <h2>📊 Types of Friend Functions</h2>
@@ -13893,7 +13895,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -14116,7 +14118,7 @@ int main() {
     obj.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">This pointer holds: 0x7fff8452e647 (address may vary)</div>
 
     <h2>2️⃣ Using this to Resolve Name Conflict (Constructor)</h2>
@@ -14145,7 +14147,7 @@ int main() {
     e2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         101  John  890000<br>102  Alice  59000
     </div>
@@ -14171,7 +14173,7 @@ int main() {
     obj.print();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">value of x: 10</div>
 
     <h2>4️⃣ Returning the Object (Method Chaining)</h2>
@@ -14195,7 +14197,7 @@ int main() {
     obj.setValue(10).display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Value: 10</div>
 
     <h2>5️⃣ Passing the Current Object</h2>
@@ -14220,7 +14222,7 @@ int main() {
     obj.execute();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Inside show() function</div>
 
     <h2>6️⃣ Using this in Operator Overloading (Method Chaining)</h2>
@@ -14245,7 +14247,7 @@ int main() {
     obj.add(10).print();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Number: 15</div>
 
     <h2>7️⃣ this Pointer in Constructor (Name Conflict + Chaining)</h2>
@@ -14273,7 +14275,7 @@ int main() {
     obj.setValue(20)->display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor called. Value initialized: 10<br>Current Value of x: 20
     </div>
@@ -14296,7 +14298,7 @@ int main() {
     // obj is now dangling; do not use it further.
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Deleting the current object...</div>
     <div class="note">⚠️ Deleting <code>this</code> is only valid for objects allocated with <code>new</code>. After deletion, the object becomes a dangling pointer.</div>
 
@@ -14356,7 +14358,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -14591,7 +14593,7 @@ int main() {
     a2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         101 John 7.25<br>102 Alice 7.25
     </div>
@@ -14628,7 +14630,7 @@ int main() {
     cout << "Total Objects: " << Account::count << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         101 John<br>102 Alice<br>103 Michael<br>104 Harry<br>Total Objects: 4
     </div>
@@ -14647,7 +14649,7 @@ int main() {
     counter();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Count: 1<br>Count: 2<br>Count: 3
     </div>
@@ -14666,7 +14668,7 @@ int main() {
     std::cout << "Total Students: " << Student::count << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Total Students: 3</div>
 
     <h2>5️⃣ Static Member Functions</h2>
@@ -14688,7 +14690,7 @@ int main() {
     Counter::increment();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Count: 1<br>Count: 2
     </div>
@@ -14706,7 +14708,7 @@ int main() {
     incrementCounter();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Global Counter: 1<br>Global Counter: 2
     </div>
@@ -14728,7 +14730,7 @@ int main() {
     Namespacefunc::increment();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Count Number: 1<br>Count Number: 2
     </div>
@@ -14748,7 +14750,7 @@ int main() {
     loopCounter();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Loop Iteration: 1<br>Loop Iteration: 2<br>Loop Iteration: 3<br>Loop Iteration: 4<br>Loop Iteration: 5<br>Loop Iteration: 6
     </div>
@@ -14769,7 +14771,7 @@ int main() {
     t2.join();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Counter: 1<br>Counter: 2 (order may vary)
     </div>
@@ -14810,7 +14812,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15094,7 +15096,7 @@ int main() {
     cout << "fabs(-5.7): " << fabs(-5.7) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         sin(x): 0.598472<br>cos(x): -0.801144<br>sqrt(16): 4<br>pow(2, 3): 8<br>ceil(2.3): 3<br>floor(2.3): 2<br>round(2.5): 3<br>fabs(-5.7): 5.7
     </div>
@@ -15105,7 +15107,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -15315,7 +15317,7 @@ int main() {
     cout << "Month: " << mon_name + 1 << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Month: 3</div>
 
     <h2>2️⃣ Initializing Enum</h2>
@@ -15329,7 +15331,7 @@ int main() {
     cout << "My colour value: " << myColor << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">My colour value: 2</div>
 
     <h2>3️⃣ Changing Values of Named Constants</h2>
@@ -15348,7 +15350,7 @@ int main() {
     cout << "Priority level: " << taskPriority << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Priority level: 30</div>
 
     <h2>📊 Types of Enumeration</h2>
@@ -15367,7 +15369,7 @@ int main() {
         cout << "It is a mid-day of the Week" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Numeric value of today: 3<br>It is a mid-day of the Week
     </div>
@@ -15386,7 +15388,7 @@ int main() {
     cout << "Integer value: " << static_cast<int>(c) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         The color is Yellow<br>Integer value: 1
     </div>
@@ -15409,7 +15411,7 @@ int main() {
     cout << "Result: " << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Result: 25</div>
 
     <h2>📋 Summary: Unscoped vs Scoped Enum</h2>
@@ -15447,7 +15449,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15669,7 +15671,7 @@ int main() {
     cout << emp1.name << ", " << emp1.age << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">John Doe, 30</div>
 
     <h2>2️⃣ Initializing Structure Members</h2>
@@ -15686,7 +15688,7 @@ int main() {
     cout << "q = " << point1.q << ", j = " << point1.j << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">q = 15, j = 25</div>
 
     <h2>3️⃣ Accessing Structure Members (Dot Operator)</h2>
@@ -15714,7 +15716,7 @@ int main() {
     cout << "Grade: " << student1.grade << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First Name: Alice<br>
         Last Name: Johnson<br>
@@ -15744,7 +15746,7 @@ int main() {
     cout << "Multiplication of " << mul.n1 << " and " << mul.n2 << " is: " << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">Multiplication of 15 and 8 is: 120</div>
 
     <h2>📚 Array of Structures</h2>
@@ -15764,7 +15766,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Point 1: (5, 10)<br>
         Point 2: (15, 20)
@@ -15787,7 +15789,7 @@ int main() {
     cout << "Width: " << ptr->width << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Length: 10<br>
         Width: 5
@@ -15816,7 +15818,7 @@ int main() {
     cout << "Marks: " << s1.stud_marks << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ID: 101<br>
         Name: Alice<br>
@@ -15843,7 +15845,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment with the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15864,7 +15866,7 @@ int main() {
 
 
         {
-            id: "C++ Inheritance ",    
+            id: "C++ Inheritance",    
             name: "C++ Inheritance",
             isParent: true,
             subtopics: [
@@ -16085,7 +16087,7 @@ int main() {
     dog.bark();  // Dog's own function
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Animal Sounds<br>
         Dog Barks
@@ -16113,7 +16115,7 @@ int main() {
     cout << "Base Class Value: " << Tpoint.x << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived Class Value: 10<br>
         Base Class Value: 15
@@ -16143,7 +16145,7 @@ int main() {
     cout << "Bonus: " << p1.bonus << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Salary: 65000<br>
         Bonus: 5500
@@ -16183,7 +16185,7 @@ int main() {
     c.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         a = 10, b = 20<br>
         Addition = 30
@@ -16216,7 +16218,7 @@ int main() {
     d1.weep();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Eating...<br>
         Barking...<br>
@@ -16268,7 +16270,7 @@ int main() {
     d.multiply();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a: 10<br>
         Enter b: 20<br>
@@ -16306,7 +16308,7 @@ int main() {
     cout << "Triangle area: " << t.triangle_area() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Rectangle area: 460<br>
         Triangle area: 5
@@ -16360,7 +16362,7 @@ int main() {
     Child instance;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Parent constructor<br>
         Child constructor<br>
@@ -16388,7 +16390,7 @@ int main() {
     d_object.print();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived Function
     </div>
@@ -16399,7 +16401,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment with the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -16645,7 +16647,7 @@ int main() {
     s.displayStudentInfo();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Alice<br>
         Age: 20<br>
@@ -16683,7 +16685,7 @@ int main() {
     man.Employee::display(101);    // explicit call to base class version
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Manager Details:<br>
         ID: 201<br>
@@ -16726,7 +16728,7 @@ int main() {
     obj.add();        // own method
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter First Number: 30<br>
         Enter Second Number: 25<br>
@@ -16768,7 +16770,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment with the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17020,7 +17022,7 @@ int main() {
     sm.wifiControl();   // its own method
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Appliance is turned on.<br>
         Washing clothes...<br>
@@ -17057,7 +17059,7 @@ int main() {
     ecar.battery();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Vehicle constructor called.<br>
         Car constructor called.<br>
@@ -17093,7 +17095,7 @@ int main() {
     a->sound();   // dynamic polymorphism: Puppy's sound
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Puppy bark
     </div>
@@ -17132,7 +17134,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17384,7 +17386,7 @@ int main() {
     ch.display3();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First function of Base class<br>
         Second function of Base class<br>
@@ -17444,7 +17446,7 @@ int main() {
     dr.sub();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Modulus: 2<br>
         Sum: 50<br>
@@ -17501,7 +17503,7 @@ int main() {
     obj.disp();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter Roll No: 25<br>
         Enter marks of five subjects: 90 85 98 80 75<br>
@@ -17539,7 +17541,7 @@ int main() {
     ch.disp();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Class A<br>
         Class B<br>
@@ -17570,7 +17572,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17851,7 +17853,7 @@ int main() {
 
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter value of x and y:<br>
         10 20<br>
@@ -17896,7 +17898,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on the example to open an online C++ compiler and experiment with hierarchical inheritance.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -18154,7 +18156,7 @@ int main() {
     Ferrari f;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         This is a vehicle<br>
         This is a car<br>
@@ -18206,7 +18208,7 @@ class D : public B, public C { };   // Only one copy of A</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on the Ferrari example to open an online C++ compiler and experiment with hybrid inheritance.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -18461,7 +18463,7 @@ int main() {
     a2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Below are the details :<br>
         ------------------------------<br>
@@ -18531,7 +18533,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to open an online C++ compiler and experiment with aggregation.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -18551,7 +18553,7 @@ int main() {
         },
 
         {
-            id: "C++ Constructors ",    
+            id: "C++ Constructors",    
             name: "C++ Constructors",
             isParent: true,
             subtopics: [
@@ -18774,7 +18776,7 @@ int main() {
     cout << "Year: " << my_car.year << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Brand: Toyota<br>
         Model: Fortuner<br>
@@ -18807,7 +18809,7 @@ int main() {
     Employee e2;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Default Constructor Invoked<br>
         Default Constructor Invoked
@@ -18843,7 +18845,7 @@ int main() {
     emp2.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         201  John  650000<br>
         202  Alice  750000
@@ -18875,7 +18877,7 @@ int main() {
     box2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Length: 10<br>
         Length: 10
@@ -18921,7 +18923,7 @@ int main() {
     T1.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor called<br>
         Move Constructor called<br>
@@ -18962,7 +18964,7 @@ int main() {
     rect2.area();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Area: 15<br>
         Area: 70
@@ -18998,7 +19000,7 @@ int main() {
     p2.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Unknown, Age: 0<br>
         Name: John Doe, Age: 30
@@ -19025,7 +19027,7 @@ int main() {
     book.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Title: The C++ Programming Language, Year: 2025
     </div>
@@ -19036,7 +19038,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -19272,7 +19274,7 @@ int main() {
     emp2.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Jhonson, Age: 21, Salary: 45000<br>
         Name: Michael, Age: 19, Salary: 53000
@@ -19300,7 +19302,7 @@ int main() {
     cout << "t1.x = " << t1.x << "\nt2.x = " << t2.x << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         t1.x = 20<br>
         t2.x = 15<br>
@@ -19328,7 +19330,7 @@ int main() {
     cout << obj2.val << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         7<br>
         2
@@ -19356,7 +19358,7 @@ int main() {
     t2.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x = 15, y = 30<br>
         x = 8, y = 20
@@ -19389,7 +19391,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -19661,7 +19663,7 @@ int main() {
     cout << "Student 4: "; s4.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Default constructor called.<br>
         Constructor with name called.<br>
@@ -19726,7 +19728,7 @@ int main() {
     cout << "Book 4: "; b4.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Default constructor called.<br>
         Constructor with title called.<br>
@@ -19780,7 +19782,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment with constructor overloading.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -20008,7 +20010,7 @@ int main() {
     cout << "obj_2 data: " << obj_2.d << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         obj_1 data: 35<br>
         obj_2 data: 35
@@ -20045,7 +20047,7 @@ int main() {
     cout << "Width: " << r2.getWidth() << "\nHeight: " << r2.getHeight();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Width: 15<br>
         Height: 58
@@ -20072,7 +20074,7 @@ int main() {
     cout << "Price of copied product: " << p2.price << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Price of copied product: 500
     </div>
@@ -20097,7 +20099,7 @@ int main() {
     shallow_copy s2 = s1;   // shallow copy
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Copied Item with code: 200
     </div>
@@ -20130,7 +20132,7 @@ int main() {
     d2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         File content: Backup File
     </div>
@@ -20166,7 +20168,7 @@ int main() {
     tpointtech finalGadt = generateGadget();   // copy elision may occur
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Parameterized constructor<br>
         Destructor
@@ -20213,7 +20215,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -20445,7 +20447,7 @@ int main() {
     Employee e2;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor Invoked<br>
         Constructor Invoked<br>
@@ -20482,7 +20484,7 @@ int main() {
     s1.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor: Memory allocated for name<br>
         Student Name: David<br>
@@ -20511,7 +20513,7 @@ int main() {
     delete ptr;   // both destructors called because base destructor is virtual
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Base Constructor<br>
         Derived Constructor<br>
@@ -20545,7 +20547,7 @@ int main() {
     delete ptr;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived destructor called<br>
         Base destructor called
@@ -20577,7 +20579,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -20805,7 +20807,7 @@ int main() {
     delete ptr;   // Both destructors called
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived Destructor<br>
         Base Destructor
@@ -20840,7 +20842,7 @@ int main() {
     delete ptr;   // Only Base destructor called (undefined behaviour)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Base Destructor
     </div>
@@ -20865,7 +20867,7 @@ int main() {
     delete ptr;   // Safe: both destructors called
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived Destructor<br>
         Base Destructor
@@ -20900,7 +20902,7 @@ int main() {
     delete b;   // Proper cleanup
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived allocated memory<br>
         Derived released memory<br>
@@ -20928,7 +20930,7 @@ int main() {
     delete bptr;   // Only Base destructor called – Derived destructor skipped
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor Base class<br>
         Constructor Derived class<br>
@@ -20956,7 +20958,7 @@ int main() {
     delete bptr;   // Both destructors called (Derived then Base)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor Base class<br>
         Constructor Derived class<br>
@@ -20970,7 +20972,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -21207,7 +21209,7 @@ int main() {
     emp2.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Name: Jhonson, ID: 101, Salary: 45000<br>
         Name: Peterson, ID: 201, Salary: 80000
@@ -21250,7 +21252,7 @@ int main() {
     obj.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Constructor called<br>
         Hello World!<br>
@@ -21301,7 +21303,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -21322,13 +21324,13 @@ int main() {
 
 
         {
-            id: "C++ Polymorphism",    
+            id: "cpp-polymorphism",    
             name: "C++ Polymorphism",
             isParent: true,
             subtopics: [
                 { 
-                id: "C++ Polymorphism", 
-                name: "C++ Polymorphism", 
+                id: "polymorphism-tutorial", 
+                name: "polymorphism-tutorial", 
                 description: String.raw`
 <!DOCTYPE html>
 <html lang="en">
@@ -21522,7 +21524,7 @@ int main() {
     cout << "x + y = " << x + y << endl;       // string concatenation
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         a + b = 35<br>
         x + y = polymorphism
@@ -21559,7 +21561,7 @@ int main() {
     obj.multiplication(4.5, 2.5);  // calls double version
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer Multiplication = 60<br>
         Double Multiplication = 11.25
@@ -21588,7 +21590,7 @@ int main() {
     result.show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Multiplication Result = 60
     </div>
@@ -21627,7 +21629,7 @@ int main() {
     s = &circ; s->draw();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         drawing...<br>
         drawing rectangle...<br>
@@ -21655,7 +21657,7 @@ int main() {
     ani1->Ani_color();      // calls Dog's version (runtime)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Animal Color Gray
     </div>
@@ -21681,7 +21683,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -21923,7 +21925,7 @@ int main() {
     res.out();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First fraction:<br>Enter numerator: 3<br>Enter denominator: 4<br>
         Second fraction:<br>Enter numerator: 2<br>Enter denominator: 5<br>
@@ -21964,7 +21966,7 @@ int main() {
     cout << "After decrement:  "; obj.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before decrement: Value: 15<br>
         After decrement:  Value: 14
@@ -21996,7 +21998,7 @@ int main() {
     cout << "Sum:    "; a3.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First:  4.7 + 2.8i<br>
         Second: 3.5 + 5.7i<br>
@@ -22036,7 +22038,7 @@ int main() {
     result.displayProduct();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Factorial of 5 = 120<br>
         Factorial of 4 = 24<br>
@@ -22083,7 +22085,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -22310,7 +22312,7 @@ int main() {
     cout << sum(5.7f, 8.4f) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         35<br>
         21<br>
@@ -22349,7 +22351,7 @@ int main() {
     printInfo(32, 6.2, "John");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Age: 21 years<br>
         Age: 28 years, Height: 5.8 meters<br>
@@ -22377,7 +22379,7 @@ int main() {
     printInfo("Hello TpointTech");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer value: 27<br>
         Double value: 7.36<br>
@@ -22400,7 +22402,7 @@ int main() {
     printInfo(7.84, 19);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer: 21, Double: 5.4<br>
         Double: 7.84, Integer: 19
@@ -22475,7 +22477,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -22714,7 +22716,7 @@ int main() {
     d.eat();   // calls Dog's version
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Eating bread...
     </div>
@@ -22754,7 +22756,7 @@ int main() {
     v1->startEngine();   // calls Car's version
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Starting car with push button...
     </div>
@@ -22787,7 +22789,7 @@ int main() {
     obj.callBaseFunc();   // base version
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived class display<br>
         Base class display
@@ -22834,7 +22836,7 @@ int main() {
 
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Brand: Mahindra<br>
         Brand: Kia<br>
@@ -22865,7 +22867,7 @@ int main() {
     a2.base_Class::print();   // explicit base call
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Derived Function<br>
         Base Function
@@ -22907,7 +22909,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -22924,19 +22926,371 @@ int main() {
                  `
                 },
 
-                { 
-                id: "Virtual Function in C++",       
-                name: "Virtual Function in C++",
-                description: String.raw`
-                
-                 `
-                },
+                {
+  id: "virtual-function-in-cpp", // ✅ Clean URL-friendly ID (use this for routing)
+  name: "Virtual Function in C++", // ✅ This displays the title on the menu
+  description: String.raw`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Function in C++ – Complete Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #306998;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #306998;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #eef2ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #306998;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #d14;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .example-output {
+            background: #fef9e3;
+            border-left: 4px solid #f59e0b;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+        .run-btn {
+            display: inline-block;
+            background-color: #306998;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+        .run-btn:hover {
+            background-color: #1f4a6e;
+        }
+        .compile-btn {
+            display: inline-block;
+            background-color: #306998;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .compile-btn:hover {
+            background-color: #1f4a6e;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Virtual Function in C++</h1>
+    <div class="last-updated">📅 Last Updated : 9 May 2026</div>
+
+    <div class="intro-text">
+        A <strong>virtual function</strong> in C++ is used to achieve <strong>runtime polymorphism</strong> by allowing a derived class to override a base class function. 
+        In this chapter, you will learn about virtual functions in C++, their syntax, working process, rules, and examples using base class pointers and derived class objects.
+    </div>
+
+    <h2>📌 What is Virtual Function in C++?</h2>
+    <p>A virtual function in C++ is a member function of a base class that can be redefined or overridden in a derived class. It is declared using the <code>virtual</code> keyword.</p>
+    <p>Virtual functions are mainly used to achieve runtime polymorphism. When a virtual function is called using a base class pointer or reference, the function of the actual object type is executed at runtime instead of the function based on the pointer type.</p>
+    <p>A virtual function enables <strong>late binding</strong> or <strong>dynamic binding</strong>, which means the function call is resolved during runtime.</p>
+    <p>Virtual functions internally use:</p>
+    <ul>
+        <li><strong>Virtual Table (vtable)</strong></li>
+        <li><strong>Virtual Pointer (vptr)</strong></li>
+    </ul>
+    <p>These mechanisms help the compiler determine the correct function to execute during runtime.</p>
+
+    <h2>📐 Syntax</h2>
+    <pre><code>class baseClass_name {  
+public:  
+    virtual void funct_name() {  
+        //code implementation  
+    }  
+};</code></pre>
+    <ul>
+        <li><code>baseClass_name</code> → name of the base class.</li>
+        <li><code>virtual</code> → keyword to declare a virtual function.</li>
+        <li><code>funct_name()</code> → name of the virtual function.</li>
+    </ul>
+
+    <h2>💻 Example of Virtual Function</h2>
+    <p>In the following example, the <code>display()</code> function is declared as <code>virtual</code> in the base class and overridden in the derived class.</p>
+    <pre><code>#include &lt;iostream&gt;  
+using namespace std;  
+
+class baseClass {  
+public:  
+    virtual void display() {   
+        cout << "It is the print base class method\n";   
+    }  
+    void show() {   
+        cout << "It is the show base class method\n";   
+    }  
+};  
+
+class derived : public baseClass {  
+public:  
+    void display() {   
+        cout << "It is the print derived class method\n";   
+    }  
+    void show() {  
+        cout << "It is the show derived class method\n";   
+    }  
+};  
+
+int main() {  
+    baseClass* bptr;  
+    derived d1;  
+    bptr = &d1;  
+    bptr->display();  // Virtual function – runtime binding  
+    bptr->show();     // Non-virtual function – compile-time binding  
+    return 0;  
+}</code></pre>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output">
+        It is the print derived class method<br>
+        It is the show base class method
+    </div>
+    <p><strong>Explanation:</strong> The <code>display()</code> function is virtual, so the derived class version executes. The <code>show()</code> function is not virtual, so the base class version is called.</p>
+
+    <h2>📋 Rules of Virtual Function</h2>
+    <ul>
+        <li>Virtual functions must be members of some class.</li>
+        <li>Virtual functions cannot be static members. They can be accessed via object pointers.</li>
+        <li>In the base class, a virtual function can have any access level (public, private, protected).</li>
+        <li>Virtual functions can be a friend of another class.</li>
+        <li>They can have any return type, number, and argument type.</li>
+        <li>A virtual function should be defined in the base class, even if not used.</li>
+        <li>The prototypes of a virtual function in base and derived classes must be the same. Otherwise, they are considered overloaded.</li>
+        <li>We cannot have a virtual constructor, but we can have a virtual destructor.</li>
+    </ul>
+
+    <h2>🛠️ Virtual Table (vTable) and Virtual Pointer (vPtr)</h2>
+    <p>The <strong>virtual table (vTable)</strong> is a hidden mechanism used to implement runtime polymorphism. Every class with virtual functions has one vTable. Each object of that class has a hidden <strong>vPtr</strong> that points to the vTable. The vTable holds addresses of virtual functions that can be invoked on objects of that class.</p>
+    <p>The <strong>virtual pointer (vPtr)</strong> is a hidden pointer within every object of a class with virtual functions. The compiler includes it as a member. It points to the vTable of that class. When a virtual function is called, the vPtr helps find the correct function address in the vTable at runtime.</p>
+
+    <h3>Example: vTable and vPtr in Action</h3>
+    <pre><code>#include &lt;iostream&gt;  
+using namespace std;  
+
+class Car {  
+public:  
+    virtual void start() {  
+        cout << "Car is starting..." << endl;  
+    }  
+};  
+
+class RacingCar : public Car {  
+public:  
+    void start() override {  
+        cout << "RacingCar is starting with a loud roar!" << endl;  
+    }  
+};  
+
+int main() {  
+    Car* carPtr;  
+    RacingCar rc;  
+    carPtr = &rc;  
+    carPtr->start();  // Late binding via vTable and vPtr  
+    return 0;  
+}</code></pre>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output">
+        RacingCar is starting with a loud roar!
+    </div>
+
+    <h2>⏳ Late Binding / Dynamic Binding</h2>
+    <p>Late binding is the mechanism where the function call is resolved during runtime. It occurs only when a virtual function is called using a pointer or reference to the base class. The compiler determines the type of object at runtime and binds the function call accordingly.</p>
+
+    <h3>Example: Late Binding</h3>
+    <pre><code>#include &lt;iostream&gt;  
+using namespace std;  
+
+class Animal {  
+public:  
+    virtual void display() {  
+        cout << "Animal color black\n";  
+    }  
+};  
+
+class Dog : public Animal {  
+public:  
+    void display() override {  
+        cout << "Dog color gray\n";   
+    }  
+};  
+
+int main() {  
+    Animal* ptr;  
+    Dog d;  
+    ptr = &d;  
+    ptr->display();  // Late Binding – Dog's version  
+    return 0;  
+}</code></pre>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output">
+        Dog color gray
+    </div>
+
+    <h2>🧪 C++ Pure Virtual Function</h2>
+    <p>A pure virtual function is an abstract method that has no implementation. It is declared by assigning <code>= 0</code>.</p>
+    <p>A class containing a pure virtual function becomes an <strong>abstract base class</strong> and cannot be instantiated directly. Its purpose is to provide an interface for derived classes.</p>
+
+    <h3>Syntax</h3>
+    <pre><code>class Class_Name {  
+public:  
+    virtual function_type function_name() = 0;  
+};</code></pre>
+
+    <h3>Example: Pure Virtual Function</h3>
+    <pre><code>#include &lt;iostream&gt;    
+using namespace std;  
+
+class Base {    
+public:    
+    virtual void show() = 0;   // Pure virtual function  
+};    
+
+class Derived : public Base {    
+public:    
+    void show() {    
+        cout << "Derived class is derived from the base class." << endl;    
+    }    
+};    
+
+int main() {    
+    Base *bptr;    
+    Derived d;    
+    bptr = &d;    
+    bptr->show();    
+    return 0;    
+}</code></pre>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output">
+        Derived class is derived from the base class.
+    </div>
+
+    <div class="note">
+        💡 <strong>Key Takeaway:</strong> Virtual functions enable runtime polymorphism through late binding. They are declared with the <code>virtual</code> keyword and can be overridden in derived classes. Pure virtual functions (<code>= 0</code>) make a class abstract. Always provide a virtual destructor in base classes to ensure proper cleanup of derived objects.
+    </div>
+
+    <div class="note">
+        <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
+    </div>
+
+    <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+        ✅ <strong>Conclusion:</strong> Virtual functions are the backbone of polymorphism in C++. They allow derived classes to customize behavior while keeping a uniform interface. Understanding vTables, vPtrs, and pure virtual functions is essential for mastering object-oriented programming in C++.
+    </div>
+
+    <footer>
+        Virtual Function in C++ – Complete Guide | Runtime Polymorphism, vTable, vPtr, Pure Virtual Functions, Syntax, Examples, Rules
+    </footer>
+</div>
+</body>
+</html>
+  `
+},
             ]
         },
 
 
         {
-            id: " C++ Abstraction ",    
+            id: "C++ Abstraction",    
             name: "C++ Abstraction",
             isParent: true,
             subtopics: [
@@ -23188,7 +23542,7 @@ int main() {
     cout << "Rectangle Area: " << rectangle.getArea() << ", Perimeter: " << rectangle.getPerimeter() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Circle Area: 78.5398, Perimeter: 31.4159<br>
         Rectangle Area: 24, Perimeter: 20
@@ -23245,7 +23599,7 @@ int main() {
     cir.draw();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         drawing rectangle...<br>
         drawing circle...
@@ -23278,7 +23632,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -23531,7 +23885,7 @@ int main() {
     rectangle.DisplayDetails();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Length: 25<br>
         Breadth: 30<br>
@@ -23577,7 +23931,7 @@ int main() {
     myCar.fuelType();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Brand: AutoTech<br>
         Model: Speedster X<br>
@@ -23601,7 +23955,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -23851,7 +24205,7 @@ int main() {
 
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Starting engine of BMW...<br>
         Most cars use Petrol or Diesel.<br>
@@ -23918,7 +24272,7 @@ int main() {
     cout << "Square area (side 4): " << R.areaOfSquare(4) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Rectangle area: 50<br>
         Square area (side 4): 16
@@ -23930,7 +24284,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -23951,7 +24305,7 @@ int main() {
         },
 
         {
-            id: "C++ Templates",    
+            id: "Cpp-Templates",    
             name: "C++ Templates",
             isParent: true,
             subtopics: [
@@ -24169,7 +24523,7 @@ int main() {
     cout << "float addition: " << add(m, n) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         int addition: 5<br>
         float addition: 3.5
@@ -24188,7 +24542,7 @@ int main() {
     fun(15, 12.3);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         a = 15, b = 12.3
     </div>
@@ -24212,7 +24566,7 @@ int main() {
     fun(20, 30.5);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Single param: 10<br>
         Two params: 20, 30.5
@@ -24236,7 +24590,7 @@ int main() {
     fun(6);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Double: 4.6<br>
         Even
@@ -24270,7 +24624,7 @@ int main() {
     d.add();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Sum = 11
     </div>
@@ -24295,7 +24649,7 @@ int main() {
     d.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         a = 5, b = 6.5
     </div>
@@ -24326,7 +24680,7 @@ int main() {
     t1.display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3 4 5 6 7 8 9 10
     </div>
@@ -24351,7 +24705,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -24372,7 +24726,7 @@ int main() {
         },
 
         {
-            id: "C++ Strings",    
+            id: "Cpp-Strings",    
             name: "C++ Strings",
             isParent: true,
             subtopics: [
@@ -24572,7 +24926,7 @@ int main() {
     cout << s2 << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hello<br>
         C++
@@ -24605,7 +24959,7 @@ int main() {
     cout << "s1: " << s1 << "\ns2: " << s2 << "\ns3: " << s3 << "\ns4: " << s4 << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         str1: Hello<br>
         str2: Hello<br>
@@ -24639,7 +24993,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         C-style[0] = H<br>
         str[1] = e<br>
@@ -24667,7 +25021,7 @@ int main() {
     cout << "After at(): " << str << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Updated C-style: Mello<br>
         After []: Mello<br>
@@ -24687,7 +25041,7 @@ int main() {
     cout << "After += : " << str << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After append(): Hello World<br>
         After += : Hello World!!!
@@ -24704,7 +25058,7 @@ int main() {
     cout << "After replace(): " << str << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After replace(): Hello C++
     </div>
@@ -24725,7 +25079,7 @@ int main() {
     cout << "Answer is correct!!" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         What is my favourite fruit? apple<br>
         What is my favourite fruit? banana<br>
@@ -24748,7 +25102,7 @@ int main() {
     cout << "Key = " << key << "\nBuffer = " << buffer << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter key string: Welcome to <br>
         Enter buffer string: C++ Programming.<br>
@@ -24769,7 +25123,7 @@ int main() {
     cout << "Key = " << key << "\nBuffer = " << buffer << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter key string: C++ Tutorial<br>
         Key = C++ Tutorial<br>
@@ -24786,7 +25140,7 @@ int main() {
     cout << "Length = " << strlen(ary) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Length = 26
     </div>
@@ -24811,7 +25165,7 @@ int main() {
     printStdString(sstr);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         C-string: Hello from C<br>
         std::string: Hello from C++
@@ -24852,7 +25206,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -24873,7 +25227,7 @@ int main() {
         },
 
         {
-            id: "C++ Namespaces",    
+            id: "Cpp-Namespaces",    
             name: "C++ Namespaces",
             isParent: true,
             subtopics: [
@@ -25086,7 +25440,7 @@ int main() {
     Second::sayHello();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hello First Namespace<br>
         Hello Second Namespace
@@ -25110,7 +25464,7 @@ int main() {
     // Second::sayHello(); would need explicit qualification
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hello First Namespace
     </div>
@@ -25134,7 +25488,7 @@ int main() {
     tpoint::show();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Local value: 20<br>
         Global value: 10
@@ -25154,7 +25508,7 @@ int main() {
     cout << "Hello from std namespace" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hello from std namespace
     </div>
@@ -25184,7 +25538,7 @@ int main() {
     Tech::Development::greet();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Welcome to the Company Project<br>
         Welcome to the Development Department
@@ -25204,7 +25558,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -25430,7 +25784,7 @@ int main() {
     book.showTitle();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Book Title: The C++ Programming Guide
     </div>
@@ -25459,7 +25813,7 @@ int main() {
     a.setBalance(1380.27);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Account Holder: John<br>
         Remaining Balance: $1380.27
@@ -25496,7 +25850,7 @@ int main() {
     m.Display();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Manager Name: John<br>
         Salary: $95000
@@ -25520,7 +25874,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -25540,7 +25894,7 @@ int main() {
         },
 
         {
-            id: "C++ Pointers",    
+            id: "Cpp-Pointers",    
             name: "C++ Pointers",
             isParent: true,
             subtopics: [
@@ -25745,7 +26099,7 @@ int main() {
     cout << "Value pointed by p: " << *p << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Address of number: 0x7ffc7d468acc<br>
         Address in pointer p: 0x7ffc7d468acc<br>
@@ -25769,7 +26123,7 @@ int main() {
     cout << "After swap: *p1=" << *p1 << " *p2=" << *p2 << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before swap: *p1=20 *p2=10<br>
         After swap: *p1=10 *p2=20
@@ -25798,7 +26152,7 @@ int main() {
     cout << **ptr2 << endl;  // 18
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         18<br>
         18
@@ -25840,7 +26194,7 @@ int main() {
     cout << "square3 (reference): n3 = " << n3 << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         square1 (value): 64, n1 = 8<br>
         square2 (pointer): n2 = 64<br>
@@ -25876,7 +26230,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26088,7 +26442,7 @@ int main() {
     cout << "Size of char: " << sizeof(char) << " bytes" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size of int: 4 bytes<br>
         Size of float: 4 bytes<br>
@@ -26112,7 +26466,7 @@ int main() {
     cout << "Size of class Base: " << sizeof(b) << " bytes" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size of class Base: 12 bytes
     </div>
@@ -26128,7 +26482,7 @@ int main() {
     cout << "Number of elements: " << sizeof(arr) / sizeof(arr[0]) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size of array arr: 20 bytes<br>
         Number of elements: 5
@@ -26153,7 +26507,7 @@ int main() {
     delete ptr1; delete ptr2; delete ptr3;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         sizeof(ptr1): 8 bytes<br>
         sizeof(*ptr1): 4 bytes<br>
@@ -26175,7 +26529,7 @@ int main() {
     // The expression (num1+num2) is not evaluated, only its type is considered (double).
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         sizeof(num1 + num2): 8 bytes
     </div>
@@ -26197,7 +26551,7 @@ int main() {
     cout << "Size of union Data: " << sizeof(data) << " bytes" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size of union Data: 8 bytes
     </div>
@@ -26214,7 +26568,7 @@ int main() {
     cout << "Size of \"Hello\": " << sizeof("Hello") << " bytes" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size of 25: 4 bytes<br>
         Size of 9.5f: 4 bytes<br>
@@ -26234,7 +26588,7 @@ int main() {
     cout << "sizeof(sizeof(char) * 5): " << sizeof(sizeof(char) * 5) << " bytes" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         sizeof(sizeof(a + b)): 8 bytes<br>
         sizeof(sizeof(char) * 5): 8 bytes
@@ -26255,7 +26609,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26471,7 +26825,7 @@ int main() {
     cout << "*marks = " << *marks << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         *ptr = (first element)<br>
         *marks = (first element)
@@ -26498,7 +26852,7 @@ int main() {
         cout << *ptr2[i] << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         (Input five numbers, then they are printed via pointer array)
     </div>
@@ -26514,7 +26868,7 @@ int main() {
         cout << names[i] << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         john<br>
         Peter<br>
@@ -26543,7 +26897,7 @@ int main() {
     cout << "After swap: " << fruits[0] << ", " << fruits[1] << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before swap: Apple, Banana<br>
         After swap: Banana, Apple
@@ -26555,7 +26909,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26781,7 +27135,7 @@ int main() {
     ptr = &c; printValue(ptr, 'c');
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer: 42<br>
         Float: 3.14<br>
@@ -26820,7 +27174,7 @@ int main() {
     cout << "Compare strings: " << compare(s1, s2, 's') << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Compare ints: 15<br>
         Compare floats: 1<br>
@@ -26846,7 +27200,7 @@ int main() {
     free(ptr);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value 0: 10<br>
         Value 1: 20<br>
@@ -26870,7 +27224,7 @@ int main() {
     executeCallback(printMessage, message);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Message: Hello from callback!
     </div>
@@ -26898,7 +27252,7 @@ int main() {
     printValue(ptr3, 'c');
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Integer: 57<br>
         Float: 5.79<br>
@@ -26929,7 +27283,7 @@ int main() {
     cout << "After swap floats:  m=" << m << " n=" << n << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before swap ints: x=10 y=20<br>
         After swap ints:  x=20 y=10<br>
@@ -26959,7 +27313,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27177,7 +27531,7 @@ int main() {
     cout << "Reference now: " << ref << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original: 25<br>
         Reference: 25<br>
@@ -27205,7 +27559,7 @@ int main() {
     cout << "After swap: " << firstNum << ", " << secondNum << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before swap: 35, 45<br>
         After swap: 45, 35
@@ -27227,7 +27581,7 @@ int main() {
     cout << "Modified value: " << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Modified value: 8
     </div>
@@ -27246,7 +27600,7 @@ int main() {
     cout << "Modified text: " << text << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Modified text: Ifmmp
     </div>
@@ -27287,7 +27641,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27498,7 +27852,7 @@ int main() {
     cout << "Value of i: " << a << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value of i: 8
     </div>
@@ -27516,7 +27870,7 @@ int main() {
     cout << "First: " << *ptr1 << "\nSecond: " << *ptr2 << "\nSum: " << addition << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First: 13<br>
         Second: 9<br>
@@ -27536,7 +27890,7 @@ int main() {
     cout << "Address of a: " << &a << "\nAddress of i: " << &i << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Address of a: 0x7fff078e7e44<br>
         Address of i: 0x7fff078e7e44
@@ -27551,7 +27905,7 @@ int main() {
     cout << "Address of p: " << &p << "\nAddress of k: " << &k << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Address of p: 0x7ffef9ea3db0<br>
         Address of k: 0x7ffef9ea3dac
@@ -27569,7 +27923,7 @@ int main() {
     cout << "Value of q: " << *q << endl;   // address of a
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value of q: 0x7fffc17a95f4
     </div>
@@ -27611,7 +27965,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27820,7 +28174,7 @@ int main() {
     cout << "Address of main(): " << &main << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Address of main(): 1
     </div>
@@ -27842,7 +28196,7 @@ int main() {
     cout << "Sum: " << sum << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Sum: 10
     </div>
@@ -27864,7 +28218,7 @@ int main() {
     ptr(s);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter name: John<br>
         Name: John
@@ -27886,7 +28240,7 @@ int main() {
     cout << "Mul: " << operations[2](a, b) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Add: 38<br>
         Sub: 2<br>
@@ -27904,7 +28258,7 @@ int main() {
     func2(func1);   // passing function pointer
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         func1 is called
     </div>
@@ -27915,7 +28269,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27933,7 +28287,7 @@ int main() {
                 },
 
                 { 
-                id: "Memory Management in C++",       
+                id: "Memory-Management-in-C++",       
                 name: "Memory Management in C++",
                 description: String.raw`
 <!DOCTYPE html>
@@ -28133,7 +28487,7 @@ int main() {
     stackFunction();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         x = 10
     </div>
@@ -28150,7 +28504,7 @@ int main() {
     delete ptr;           // deallocate
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Heap value: 25
     </div>
@@ -28170,7 +28524,7 @@ int main() {
     delete num;           // free
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Number: 25
     </div>
@@ -28195,7 +28549,7 @@ int main() {
     delete[] arr;   // free array memory
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         (User input and output)
     </div>
@@ -28228,7 +28582,7 @@ delete[] pointer;   // array</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -28246,7 +28600,7 @@ delete[] pointer;   // array</code></pre>
                 },
 
                 { 
-                id: "Difference between malloc() and new in C++",       
+                id: "Difference-between-malloc()-and-new-in-C++",       
                 name: "Difference between malloc() and new in C++",
                 description: String.raw`
 <!DOCTYPE html>
@@ -28451,7 +28805,7 @@ int main() {
     free(ptr);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter count: 4<br>
         Enter number: 5<br>
@@ -28476,7 +28830,7 @@ int main() {
     delete ptr;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Enter a number: 18<br>
         You entered: 18
@@ -28522,7 +28876,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -28538,7 +28892,7 @@ int main() {
                  `
                 },
                 { 
-                id: "Difference between free and delete in C++",       
+                id: "Difference-between-free-and-delete-in-C++",       
                 name: "Difference between free and delete in C++",
                 description: String.raw`
 <!DOCTYPE html>
@@ -28741,7 +29095,7 @@ int main() {
     // Accessing ptr after free gives garbage values (undefined behavior)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         (User input and output, then garbage values after free)
     </div>
@@ -28759,7 +29113,7 @@ int main() {
     cout << "After free: " << *ptr << endl;   // undefined behavior (garbage)
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before free: 6.7<br>
         After free: 8.13715e-37
@@ -28782,7 +29136,7 @@ int main() {
     cout << "Value after delete: " << *ptr << endl;   // undefined behavior
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Value before delete: 68<br>
         Value after delete: -1692301068
@@ -28819,7 +29173,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29056,7 +29410,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output 1 (divide by zero):</strong><br>
         Enter Numerator: 8<br>
@@ -29108,7 +29462,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Caught exception: Division by zero is not allowed!
     </div>
@@ -29134,7 +29488,7 @@ int main() {
     testFunction(20);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         String exception: Negative Number Exception<br>
         Integer exception: 0<br>
@@ -29165,7 +29519,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Caught: Custom Exception Occurred
     </div>
@@ -29191,7 +29545,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Valid:</strong> Enter your age: 30 → Your age is: 30<br>
         <strong>Negative:</strong> Enter your age: -10 → Error: Age cannot be negative.<br>
@@ -29204,7 +29558,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29221,7 +29575,7 @@ int main() {
                 `
                 },
                 { 
-                id: "C++ try/catch",       
+                id:"Cpp-try-catch",       
                 name: "C++ try/catch",
                 description: String.raw`
 <!DOCTYPE html>
@@ -29429,7 +29783,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Exception caught: Division by zero is not allowed!!
     </div>
@@ -29458,7 +29812,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Error: Division cannot be performed due to a wrong divisor.
     </div>
@@ -29495,7 +29849,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Example run (denominator = 0):</strong><br>
         Enter index: 3<br>
@@ -29524,7 +29878,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Caught exception: Division by zero Exception!
     </div>
@@ -29556,7 +29910,7 @@ int main() {
     cout << "Continues after nested try-catch..." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Outer try block started<br>
         Inner try block started<br>
@@ -29571,7 +29925,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29803,7 +30157,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Case 1 (valid division):</strong><br>
         Enter two numbers: 10 2<br>
@@ -29843,7 +30197,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to open an online C++ compiler and experiment with custom exceptions.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -30065,7 +30419,7 @@ int main() {
     for (int n : numbers) cout << n << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Sorted numbers: 1 2 4 7 8
     </div>
@@ -30107,7 +30461,7 @@ int main() {
     for (int x : v) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Vector elements: 10 20 30 40 50
     </div>
@@ -30127,7 +30481,7 @@ int main() {
         cout << "ID: " << s.first << ", Name: " << s.second << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ID: 101, Name: Alice<br>
         ID: 102, Name: Bob<br>
@@ -30147,7 +30501,7 @@ int main() {
         cout << fruit.first << ": " << fruit.second << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Mango: 5<br>
         Banana: 20<br>
@@ -30185,7 +30539,7 @@ int main() {
         cout << it->first << " -> " << it->second << "\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Vector: 10 20 30 40 50 <br>
         List: 100 200 300 400 <br>
@@ -30248,7 +30602,7 @@ int main() {
     cout << "Index access [2]: " << vec[2] << "\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Input Iterator: 10<br>
         (Output Iterator writes 100)<br>
@@ -30296,7 +30650,7 @@ int main() {
     cout << "Sum of vector: " << sum << "\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Found 30<br>
         Reversed: 50 40 30 20 10 <br>
@@ -30327,7 +30681,7 @@ int main() {
     for (int x : vec) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After multiplying by 3: 3 6 9 12 15
     </div>
@@ -30338,7 +30692,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -30548,7 +30902,7 @@ vector&lt;int&gt; numbers;          // empty vector
 vector&lt;int&gt; sizes(5);        // 5 elements (default 0)
 vector&lt;int&gt; values(3, 10);   // 3 elements all 10
 vector&lt;int&gt; primes = {2,3,5,7}; // initializer list</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>1️⃣ Inserting Elements</h2>
     <pre><code>#include &lt;iostream&gt;
@@ -30563,7 +30917,7 @@ int main() {
         cout << v[i] << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         T p o i n t
     </div>
@@ -30582,7 +30936,7 @@ int main() {
     cout << "After update: " << v[4] << ", " << v.at(2) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         v[4] = u<br>
         v.at(3) = o<br>
@@ -30602,7 +30956,7 @@ int main() {
         cout << v[i] << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size: 10<br>
         Elements: T p o i n t T e c h
@@ -30622,7 +30976,7 @@ int main() {
     for (char c : v) cout << c << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         T p o i n
     </div>
@@ -30655,7 +31009,7 @@ int main() {
     print(v);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3 100
     </div>
@@ -30668,7 +31022,7 @@ for (int i = 0; i < 10; i++) {
     v.push_back(i);
     cout << "Size: " << v.size() << ", Capacity: " << v.capacity() << endl;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>📐 Multidimensional Vector (2D)</h2>
     <pre><code>#include &lt;iostream&gt;
@@ -30688,7 +31042,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 2 3<br>
         4 5 6<br>
@@ -30753,7 +31107,7 @@ int main() {
     cout << "\nFirst via data(): " << *v1.data();
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Elements: 10 15 17 25 30 40 50 <br>
         Size: 7, Capacity: 7<br>
@@ -30783,7 +31137,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31000,7 +31354,7 @@ int main() {
     cout << "Front after pop: " << q.front() << endl; // 37
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Front: 25<br>
         Back: 41<br>
@@ -31021,7 +31375,7 @@ queue&lt;int&gt; q;        // empty queue of ints
 q.push(10);          // insert at back
 q.push(20);
 q.push(30);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>🧩 Member Functions Table</h2>
     <table class="op-table">
@@ -31063,7 +31417,7 @@ int main() {
     cout << "After pop: "; show(q);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Queue: 10 20 30 <br>
         Size: 3<br>
@@ -31077,7 +31431,7 @@ int main() {
 q.push(10);
 q.push(20);
 q.push(30);   // queue: 10,20,30</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h3>2) Deletion (pop / dequeue)</h3>
     <pre><code>q.pop();      // removes 10</code></pre>
@@ -31104,7 +31458,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Elements: 1 2 3
     </div>
@@ -31130,7 +31484,7 @@ while (!temp.empty()) { cout << temp.front() << " "; temp.pop(); }</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31362,7 +31716,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Max‑heap order: 30 20 10 5
     </div>
@@ -31388,7 +31742,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Min‑heap order: 5 10 20 30
     </div>
@@ -31410,7 +31764,7 @@ int main() {
     cout << "After pop, new top: " << pq.top() << endl; // 70
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Maximum element: 90<br>
         After pop, new top: 70
@@ -31434,7 +31788,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Elements in descending order: 30 20 10
     </div>
@@ -31481,7 +31835,7 @@ int main() {
     while (!q.empty()) { cout << q.top() << " "; q.pop(); }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         p after swap: 8 7 6 5 <br>
         q after swap: 4 3 2 1
@@ -31501,7 +31855,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31715,7 +32069,7 @@ int main() {
     for (int a : dq) cout << a << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         7 8 5 1 2 9
     </div>
@@ -31740,7 +32094,7 @@ int main() {
     for (int a : dq) cout << a << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Deque elements: 1 5 7 15 18 27
     </div>
@@ -31761,7 +32115,7 @@ int main() {
     cout << "at(3): " << apps.at(3) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Index 0: Snapchat<br>
         Index 1: Twitter<br>
@@ -31789,7 +32143,7 @@ int main() {
     for (const string& f : fruits) cout << f << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Updated fruits:<br>
         Pomegranate<br>
@@ -31814,7 +32168,7 @@ int main() {
     for (auto& req : s) cout << req << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original queue:<br>
         Volvo<br>
@@ -31837,7 +32191,7 @@ int main() {
     cout << "Number of patients waiting: " << patients.size() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Number of patients waiting: 4
     </div>
@@ -31856,7 +32210,7 @@ int main() {
         cout << "There are books in the return box.\n";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         No books have been returned yet.
     </div>
@@ -31877,7 +32231,7 @@ int main() {
         cout << m << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Index‑based loop:<br>
         Aspirin<br>
@@ -31929,7 +32283,7 @@ int main() {
         cout << *it << "°C" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Temperatures:<br>
         36.5°C<br>
@@ -31954,7 +32308,7 @@ int main() {
     cout << "Last ID: " << *it << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First ID: 11<br>
         Second ID: 12<br>
@@ -31981,7 +32335,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -32198,7 +32552,7 @@ int main() {
     for (int x : list2) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         10 20 30
     </div>
@@ -32225,7 +32579,7 @@ int main() {
     print(myList, "List: ");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         List: 5 10 30 40
     </div>
@@ -32250,7 +32604,7 @@ int main() {
     print(myList, "After pop_back: ");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original: 10 20 30 40 50 <br>
         After pop_front: 20 30 40 50 <br>
@@ -32280,7 +32634,7 @@ int main() {
     print(myList, "Insert at beginning: ");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After insert before 20: 10 15 20 40 <br>
         Insert at end: 10 15 20 40 50 <br>
@@ -32313,7 +32667,7 @@ int main() {
     print(myList, "After erasing range 20-30: ");
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After erasing 10: 5 15 20 25 30 <br>
         After erasing range 20-30: 5 15 30
@@ -32332,7 +32686,7 @@ int main() {
     cout << "After push: size=" << myList.size() << ", empty=" << (myList.empty() ? "Yes" : "No") << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Initial: size=0, empty=Yes<br>
         After push: size=2, empty=No
@@ -32350,7 +32704,7 @@ int main() {
     cout << "After clear, size = " << myList.size() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before clear, size = 5<br>
         After clear, size = 0
@@ -32372,7 +32726,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before sort: 40 10 50 20 30 <br>
         After sort: 10 20 30 40 50
@@ -32394,7 +32748,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before reverse: 10 20 30 40 <br>
         After reverse: 40 30 20 10
@@ -32416,7 +32770,7 @@ int main() {
     cout << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original: 10 20 10 30 10 40 <br>
         After remove(10): 20 30 40
@@ -32465,7 +32819,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -32687,7 +33041,7 @@ int main() {
     cout << "Is empty? " << (st.empty() ? "Yes" : "No") << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Top element: 25<br>
         After pop, top: 20<br>
@@ -32713,7 +33067,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Cherry Banana Apple
     </div>
@@ -32731,7 +33085,7 @@ int main() {
     cout << "Top element: " << st.top() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Top element: 30
     </div>
@@ -32751,7 +33105,7 @@ int main() {
     cout << "After pop, top: " << st.top() << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Before pop, top: 300<br>
         After pop, top: 200
@@ -32776,7 +33130,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Stack elements (top to bottom): 23 46 19 35
     </div>
@@ -32793,7 +33147,7 @@ int main() {
     if (!st.empty()) cout << "Stack is not empty." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Stack is empty.<br>
         Stack is not empty.
@@ -32828,7 +33182,7 @@ int main() {
     showstack(st);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Stack: 11 22 33 44 55 <br>
         size() : 5<br>
@@ -32875,7 +33229,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33090,7 +33444,7 @@ int main() {
     for (int a : val) cout << a << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         3 6 7 8 9
     </div>
@@ -33111,7 +33465,7 @@ int main() {
     for (int x : a) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 3 4 5 7 8 9
     </div>
@@ -33129,7 +33483,7 @@ int main() {
     cout << *first << " " << *third;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 5
     </div>
@@ -33146,7 +33500,7 @@ int main() {
     else cout << "Not found";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Found: 8
     </div>
@@ -33162,7 +33516,7 @@ int main() {
         cout << *it << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         2 3 4 5 7 8
     </div>
@@ -33179,7 +33533,7 @@ int main() {
     for (int x : a) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         3 5 6 7
     </div>
@@ -33244,7 +33598,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33452,7 +33806,7 @@ std::bitset&lt;N&gt; b;   // N = number of bits (compile‑time constant)</code>
 std::bitset&lt;8&gt; b2(15);            // integer (binary: 00001111)
 std::bitset&lt;8&gt; b3("00001111");    // string of '0'/'1'
 std::bitset&lt;8&gt; b4(std::string("10101010"));</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>1️⃣ Bitset Initialization Example</h2>
     <pre><code>#include &lt;iostream&gt;
@@ -33465,7 +33819,7 @@ int main() {
     std::cout << "b1: " << b1 << "\nb2: " << b2 << "\nb3: " << b3 << "\nb4: " << b4 << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         b1: 00000000<br>
         b2: 00001111<br>
@@ -33491,7 +33845,7 @@ int main() {
     cout << "Modified: " << bits << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Bitset: 11001001<br>
         bit[0]: 1<br>
@@ -33520,7 +33874,7 @@ int main() {
     std::cout << "After flip():  " << b << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original:      00001100<br>
         After set(0):  00001101<br>
@@ -33562,7 +33916,7 @@ int main() {
     std::cout << "b3.all(): " << b3.all() << ", b3.any(): " << b3.any() << ", b3.none(): " << b3.none() << ", count: " << b3.count() << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         b1.all(): 1, b1.any(): 1, b1.none(): 0, count: 8<br>
         b2.all(): 0, b2.any(): 1, b2.none(): 0, count: 4<br>
@@ -33578,7 +33932,7 @@ int main() {
     std::cout << "b[2]: " << b[2] << "\nb.test(2): " << b.test(2) << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Bitset: 10110010<br>
         Size: 8<br>
@@ -33598,7 +33952,7 @@ int main() {
     std::cout << "Bitset: " << b << "\nto_string(): " << s << "\nto_ulong(): " << ul << "\nto_ullong(): " << ull << std::endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Bitset: 10101010<br>
         to_string(): 10101010<br>
@@ -33612,7 +33966,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33840,7 +34194,7 @@ int main() {
         cout << it->first << ": " << it->second << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Employees[104] = Deep<br>
         Map size: 5<br><br>
@@ -33879,7 +34233,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Alice: 5 years<br>
         Bob: 3 years<br>
@@ -33903,7 +34257,7 @@ int main() {
         cout << name << ": " << age << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Dia: 26<br>
         Jacob: 36<br>
@@ -33927,7 +34281,7 @@ int main() {
         cout << name << ": " << age << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Arjun: 16<br>
         Fatima: 17<br>
@@ -33954,7 +34308,7 @@ int main() {
         cout << p.first << ": " << p.second << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Insert failed. Existing value: 85<br>
         John: 95<br>
@@ -33976,7 +34330,7 @@ int main() {
     cout << "After clear, empty? " << (emp.empty() ? "Yes" : "No") << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After erasing John:<br>
         David: 25<br>
@@ -33999,7 +34353,7 @@ int main() {
     if (!emp.empty()) cout << "Map is not empty" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size: 2<br>
         Map is not empty
@@ -34021,7 +34375,7 @@ int main() {
         cout << p.first << " attended: " << p.second << " days" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Sanjay attended: 27 days<br>
         Prasad attended: 30 days<br>
@@ -34078,7 +34432,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -34307,7 +34661,7 @@ int main() {
         cout << "  [" << p.first << ", " << p.second << "]" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size: 4<br>
         Elements:<br>
@@ -34335,7 +34689,7 @@ int main() {
         cout << "Key: " << p.first << ", Value: " << p.second << '\n';
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Key: 1, Value: Apple<br>
         Key: 1, Value: Avocado<br>
@@ -34360,7 +34714,7 @@ int main() {
         cout << it->second << '\n';
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         All elements:<br>
         1 -> Apple<br>
@@ -34390,7 +34744,7 @@ int main() {
         cout << p.first << " -> " << p.second << '\n';
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         1 -> Apple<br>
         1 -> Avocado<br>
@@ -34409,7 +34763,7 @@ int main() {
         cout << it->first << " -> " << it->second << '\n';
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Traversal using iterator:<br>
         1 -> Apple<br>
@@ -34437,7 +34791,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         First occurrence of key 1: Apple<br>
         All values for key 1:<br>
@@ -34459,7 +34813,7 @@ int main() {
         cout << p.first << " -> " << p.second << '\n';
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         After removal:<br>
         3 -> Cherry
@@ -34476,7 +34830,7 @@ int main() {
     cout << "Empty? " << (mm.empty() ? "Yes" : "No") << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Size: 4<br>
         Empty? No
@@ -34537,7 +34891,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -34764,7 +35118,7 @@ int main() {
     cout << "Count of 4: " << cnt << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         all_even: false, any_odd: true, none_negative: true<br>
         First 6 at index: 2<br>
@@ -34802,7 +35156,7 @@ int main() {
     for(int x : removed) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Doubled: 2 4 6 8 10 12 14 16 18 20 <br>
         Replaced: 1 2 3 4 99 6 7 8 9 10 <br>
@@ -34826,7 +35180,7 @@ int main() {
     cout << "Partition point (first odd) index: " << distance(data.begin(), it) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Partitioned (evens first): 8 2 6 4 5 3 7 1 <br>
         Partition point (first odd) index: 4
@@ -34846,7 +35200,7 @@ int main() {
     cout << "\nis_sorted? " << boolalpha << is_sorted(data.begin(), data.end()) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Sorted: 1 2 3 4 5 6 7 8 9 <br>
         is_sorted? true
@@ -34871,7 +35225,7 @@ int main() {
     cout << "Range: [" << distance(data.begin(), range.first) << ", " << distance(data.begin(), range.second) << ")" << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Found: true<br>
         Lower bound index: 1<br>
@@ -34902,7 +35256,7 @@ int main() {
     for(int x : uni) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Merged: 1 2 3 3 5 6 7 8 <br>
         Set union (manual): 1 2 3 5 6 7 8
@@ -34927,7 +35281,7 @@ int main() {
     for(int x : heap) cout << x << " ";
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Heap after make_heap: 30 20 10 5 15 <br>
         is_heap? true<br>
@@ -34950,7 +35304,7 @@ int main() {
     cout << "Max element: " << *maxIt << " at index " << distance(nums.begin(), maxIt) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         min(10,20): 10<br>
         max(10,20): 20<br>
@@ -34974,7 +35328,7 @@ int main() {
          << lexicographical_compare(v.begin(), v.end(), vector&lt;int&gt;{1,3}.begin(), vector&lt;int&gt;{1,3}.end()) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Next permutation: 1 3 2 <br>
         Lexicographical compare {1,2} vs {1,3}: true
@@ -34986,7 +35340,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online C++ compiler and experiment.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -35008,18 +35362,711 @@ int main() {
         },
 
         {
-            id: "C++ programs",    
+            id: "Cpp-programs",    
             name: "C++ Programs",
             isParent: true,
             subtopics: [
-                { 
-                id: "C++ Programs", 
-                name: "C++ Programs", 
-                description: String.raw`
-                
+                {
+      id: "cpp-programs-tutorial",
+      name: "C++ Programming Examples",
+      description: String.raw`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ Programs | C++ Programming Examples</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #306998;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #306998;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #eef2ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #306998;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        .program-block {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+        }
+        .program-block h3 {
+            background: #306998;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            display: inline-block;
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #d14;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .example-output {
+            background: #fef9e3;
+            border-left: 4px solid #f59e0b;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+        .run-btn {
+            display: inline-block;
+            background-color: #306998;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+        .run-btn:hover {
+            background-color: #1f4a6e;
+        }
+        .compile-btn {
+            display: inline-block;
+            background-color: #306998;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .compile-btn:hover {
+            background-color: #1f4a6e;
+        }
+        .program-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        .program-list a {
+            display: block;
+            background: #f1f5f9;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            text-decoration: none;
+            color: #1e2a3a;
+            font-weight: 500;
+            transition: 0.2s;
+            border-left: 4px solid #306998;
+        }
+        .program-list a:hover {
+            background: #306998;
+            color: white;
+            transform: translateX(5px);
+        }
+        .input-output {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin: 0.5rem 0;
+        }
+        .input-box, .output-box {
+            background: #f8fafc;
+            padding: 0.8rem 1rem;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .input-box strong, .output-box strong {
+            color: #306998;
+        }
+        @media (max-width: 768px) {
+            .input-output {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>C++ Programs | C++ Programming Examples</h1>
+    <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
 
-                `
-                },
+    <div class="intro-text">
+        C++ programs are frequently asked in the interview. These programs can be asked from basics, array, string, pointer, linked list, file handling etc. Let's see the list of top C++ programs.
+    </div>
+
+    <!-- Quick Navigation -->
+    <div class="program-list">
+        <a href="#fibonacci">1) Fibonacci Series</a>
+        <a href="#prime">2) Prime Number</a>
+        <a href="#palindrome">3) Palindrome Number</a>
+        <a href="#factorial">4) Factorial</a>
+        <a href="#armstrong">5) Armstrong Number</a>
+        <a href="#sum-digits">6) Sum of Digits</a>
+        <a href="#reverse">7) Reverse Number</a>
+        <a href="#swap">8) Swap Two Numbers</a>
+        <a href="#matrix">9) Matrix Multiplication</a>
+        <a href="#decimal-binary">10) Decimal to Binary</a>
+        <a href="#alphabet-triangle">11) Alphabet Triangle</a>
+        <a href="#number-triangle">12) Number Triangle</a>
+        <a href="#fibonacci-triangle">13) Fibonacci Triangle</a>
+        <a href="#number-characters">14) Number in Characters</a>
+    </div>
+
+    <!-- 1) Fibonacci Series -->
+    <div class="program-block" id="fibonacci">
+        <h3>1) Fibonacci Series</h3>
+        <p>Write a C++ program to print Fibonacci series without using recursion and using recursion.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 10</div>
+            <div class="output-box"><strong>Output:</strong> 0 1 1 2 3 5 8 13 21 34</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+// Without recursion
+int main() {
+    int n = 10;
+    int a = 0, b = 1, c;
+    cout &lt;&lt; a &lt;&lt; " " &lt;&lt; b &lt;&lt; " ";
+    for (int i = 2; i &lt; n; i++) {
+        c = a + b;
+        cout &lt;&lt; c &lt;&lt; " ";
+        a = b;
+        b = c;
+    }
+    return 0;
+}
+
+// With recursion
+int fib(int n) {
+    if (n &lt;= 1) return n;
+    return fib(n - 1) + fib(n - 2);
+}
+
+int main() {
+    int n = 10;
+    for (int i = 0; i &lt; n; i++) {
+        cout &lt;&lt; fib(i) &lt;&lt; " ";
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">0 1 1 2 3 5 8 13 21 34</div>
+    </div>
+
+    <!-- 2) Prime Number -->
+    <div class="program-block" id="prime">
+        <h3>2) Prime Number</h3>
+        <p>Write a C++ program to check prime number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 17</div>
+            <div class="output-box"><strong>Output:</strong> not prime number</div>
+            <div class="input-box"><strong>Input:</strong> 57</div>
+            <div class="output-box"><strong>Output:</strong> prime number</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 17;
+    bool isPrime = true;
+    if (n &lt;= 1) isPrime = false;
+    for (int i = 2; i * i &lt;= n; i++) {
+        if (n % i == 0) {
+            isPrime = false;
+            break;
+        }
+    }
+    if (isPrime)
+        cout &lt;&lt; "prime number";
+    else
+        cout &lt;&lt; "not prime number";
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">not prime number</div>
+    </div>
+
+    <!-- 3) Palindrome Number -->
+    <div class="program-block" id="palindrome">
+        <h3>3) Palindrome Number</h3>
+        <p>Write a C++ program to check palindrome number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 121</div>
+            <div class="output-box"><strong>Output:</strong> palindrome number</div>
+            <div class="input-box"><strong>Input:</strong> 113</div>
+            <div class="output-box"><strong>Output:</strong> not palindrome number</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 121, temp, rev = 0, rem;
+    temp = n;
+    while (temp != 0) {
+        rem = temp % 10;
+        rev = rev * 10 + rem;
+        temp /= 10;
+    }
+    if (n == rev)
+        cout &lt;&lt; "palindrome number";
+    else
+        cout &lt;&lt; "not palindrome number";
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">palindrome number</div>
+    </div>
+
+    <!-- 4) Factorial -->
+    <div class="program-block" id="factorial">
+        <h3>4) Factorial</h3>
+        <p>Write a C++ program to print factorial of a number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 5</div>
+            <div class="output-box"><strong>Output:</strong> 120</div>
+            <div class="input-box"><strong>Input:</strong> 6</div>
+            <div class="output-box"><strong>Output:</strong> 720</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 5, fact = 1;
+    for (int i = 1; i &lt;= n; i++) {
+        fact *= i;
+    }
+    cout &lt;&lt; fact;
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">120</div>
+    </div>
+
+    <!-- 5) Armstrong Number -->
+    <div class="program-block" id="armstrong">
+        <h3>5) Armstrong Number</h3>
+        <p>Write a C++ program to check Armstrong number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 371</div>
+            <div class="output-box"><strong>Output:</strong> armstrong</div>
+            <div class="input-box"><strong>Input:</strong> 342</div>
+            <div class="output-box"><strong>Output:</strong> not armstrong</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 371, temp, rem, sum = 0;
+    temp = n;
+    while (temp != 0) {
+        rem = temp % 10;
+        sum += rem * rem * rem;
+        temp /= 10;
+    }
+    if (n == sum)
+        cout &lt;&lt; "armstrong";
+    else
+        cout &lt;&lt; "not armstrong";
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">armstrong</div>
+    </div>
+
+    <!-- 6) Sum of Digits -->
+    <div class="program-block" id="sum-digits">
+        <h3>6) Sum of Digits</h3>
+        <p>Write a C++ program to print sum of digits.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 23</div>
+            <div class="output-box"><strong>Output:</strong> 5</div>
+            <div class="input-box"><strong>Input:</strong> 624</div>
+            <div class="output-box"><strong>Output:</strong> 12</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 23, sum = 0;
+    while (n != 0) {
+        sum += n % 10;
+        n /= 10;
+    }
+    cout &lt;&lt; sum;
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">5</div>
+    </div>
+
+    <!-- 7) Reverse Number -->
+    <div class="program-block" id="reverse">
+        <h3>7) Reverse Number</h3>
+        <p>Write a C++ program to reverse given number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 234</div>
+            <div class="output-box"><strong>Output:</strong> 432</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 234, rev = 0;
+    while (n != 0) {
+        rev = rev * 10 + n % 10;
+        n /= 10;
+    }
+    cout &lt;&lt; rev;
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">432</div>
+    </div>
+
+    <!-- 8) Swap Two Numbers -->
+    <div class="program-block" id="swap">
+        <h3>8) Swap Two Numbers Without Third Variable</h3>
+        <p>Write a C++ program to swap two numbers without using third variable.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> a=5 b=10</div>
+            <div class="output-box"><strong>Output:</strong> a=10 b=5</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int a = 5, b = 10;
+    a = a + b;
+    b = a - b;
+    a = a - b;
+    cout &lt;&lt; "a=" &lt;&lt; a &lt;&lt; " b=" &lt;&lt; b;
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">a=10 b=5</div>
+    </div>
+
+    <!-- 9) Matrix Multiplication -->
+    <div class="program-block" id="matrix">
+        <h3>9) Matrix Multiplication</h3>
+        <p>Write a C++ program to print multiplication of 2 matrices.</p>
+        <div class="input-output">
+            <div class="input-box">
+                <strong>First Matrix:</strong><br>
+                1 2 3<br>
+                1 2 3<br>
+                1 2 3
+            </div>
+            <div class="input-box">
+                <strong>Second Matrix:</strong><br>
+                1 1 1<br>
+                2 1 2<br>
+                3 2 1
+            </div>
+            <div class="output-box" style="grid-column: span 2;">
+                <strong>Output:</strong><br>
+                14 9 8<br>
+                14 9 8<br>
+                14 9 8
+            </div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int a[3][3] = {{1,2,3},{1,2,3},{1,2,3}};
+    int b[3][3] = {{1,1,1},{2,1,2},{3,2,1}};
+    int c[3][3] = {0};
+
+    for (int i = 0; i &lt; 3; i++) {
+        for (int j = 0; j &lt; 3; j++) {
+            for (int k = 0; k &lt; 3; k++) {
+                c[i][j] += a[i][k] * b[k][j];
+            }
+        }
+    }
+
+    for (int i = 0; i &lt; 3; i++) {
+        for (int j = 0; j &lt; 3; j++) {
+            cout &lt;&lt; c[i][j] &lt;&lt; " ";
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">14 9 8<br>14 9 8<br>14 9 8</div>
+    </div>
+
+    <!-- 10) Decimal to Binary -->
+    <div class="program-block" id="decimal-binary">
+        <h3>10) Decimal to Binary</h3>
+        <p>Write a C++ program to convert decimal number to binary.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 9</div>
+            <div class="output-box"><strong>Output:</strong> 1001</div>
+            <div class="input-box"><strong>Input:</strong> 20</div>
+            <div class="output-box"><strong>Output:</strong> 10100</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 9, binary[32], i = 0;
+    while (n &gt; 0) {
+        binary[i] = n % 2;
+        n /= 2;
+        i++;
+    }
+    for (int j = i - 1; j &gt;= 0; j--) {
+        cout &lt;&lt; binary[j];
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">1001</div>
+    </div>
+
+    <!-- 11) Alphabet Triangle -->
+    <div class="program-block" id="alphabet-triangle">
+        <h3>11) Alphabet Triangle</h3>
+        <p>Write a C++ program to print alphabet triangle.</p>
+        <div class="example-output">
+A<br>
+ABA<br>
+ABCBA<br>
+ABCDCBA<br>
+ABCDEDCBA
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 5;
+    for (int i = 1; i &lt;= n; i++) {
+        for (int j = 1; j &lt;= i; j++) {
+            cout &lt;&lt; char('A' + j - 1);
+        }
+        for (int j = i - 1; j &gt;= 1; j--) {
+            cout &lt;&lt; char('A' + j - 1);
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- 12) Number Triangle -->
+    <div class="program-block" id="number-triangle">
+        <h3>12) Number Triangle</h3>
+        <p>Write a C++ program to print number triangle.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 7</div>
+            <div class="output-box"><strong>Output:</strong> enter the range = 6<br>
+1<br>121<br>12321<br>1234321<br>123454321<br>12345654321</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 6;
+    for (int i = 1; i &lt;= n; i++) {
+        for (int j = 1; j &lt;= i; j++) {
+            cout &lt;&lt; j;
+        }
+        for (int j = i - 1; j &gt;= 1; j--) {
+            cout &lt;&lt; j;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- 13) Fibonacci Triangle -->
+    <div class="program-block" id="fibonacci-triangle">
+        <h3>13) Fibonacci Triangle</h3>
+        <p>Write a C++ program to generate Fibonacci triangle.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 5</div>
+            <div class="output-box"><strong>Output:</strong><br>
+1<br>1 1<br>1 1 2<br>1 1 2 3<br>1 1 2 3 5</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 5, a, b, c;
+    for (int i = 1; i &lt;= n; i++) {
+        a = 0, b = 1;
+        for (int j = 1; j &lt;= i; j++) {
+            if (j == 1) {
+                cout &lt;&lt; b &lt;&lt; " ";
+                continue;
+            }
+            c = a + b;
+            cout &lt;&lt; c &lt;&lt; " ";
+            a = b;
+            b = c;
+        }
+        cout &lt;&lt; endl;
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- 14) Number in Characters -->
+    <div class="program-block" id="number-characters">
+        <h3>14) Number in Characters</h3>
+        <p>Write a C++ program to convert number in characters.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 74254</div>
+            <div class="output-box"><strong>Output:</strong> Seven Four Two Five Four</div>
+            <div class="input-box"><strong>Input:</strong> 203</div>
+            <div class="output-box"><strong>Output:</strong> two zero three</div>
+        </div>
+        <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+int main() {
+    int n = 74254, rev = 0, rem;
+    while (n != 0) {
+        rev = rev * 10 + n % 10;
+        n /= 10;
+    }
+    while (rev != 0) {
+        rem = rev % 10;
+        switch(rem) {
+            case 0: cout &lt;&lt; "zero "; break;
+            case 1: cout &lt;&lt; "one "; break;
+            case 2: cout &lt;&lt; "two "; break;
+            case 3: cout &lt;&lt; "three "; break;
+            case 4: cout &lt;&lt; "four "; break;
+            case 5: cout &lt;&lt; "five "; break;
+            case 6: cout &lt;&lt; "six "; break;
+            case 7: cout &lt;&lt; "seven "; break;
+            case 8: cout &lt;&lt; "eight "; break;
+            case 9: cout &lt;&lt; "nine "; break;
+        }
+        rev /= 10;
+    }
+    return 0;
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+        <div class="example-output">Seven Four Two Five Four</div>
+    </div>
+
+    <div class="note">
+        💡 <strong>Key Takeaway:</strong> These are the most frequently asked C++ programs in interviews and coding assessments. Practice each program to strengthen your understanding of loops, recursion, arrays, strings, and number manipulation in C++.
+    </div>
+
+    <div class="note">
+        <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any program to open an online C++ compiler and experiment.<br>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
+    </div>
+
+    <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+        ✅ <strong>Conclusion:</strong> Mastering these 14 essential C++ programs will give you a strong foundation in C++ programming. They cover all major concepts including loops, recursion, arrays, strings, and mathematical operations. Practice each program thoroughly to ace your coding interviews!
+    </div>
+
+    <footer>
+        C++ Programs | C++ Programming Examples – 14 Essential Programs for Interviews
+    </footer>
+</div>
+</body>
+</html>
+      `
+    },
 
 
                 { 
@@ -35200,7 +36247,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Enter the number of elements: 10<br>
@@ -35232,7 +36279,7 @@ int main() {
     printFibonacci(n - 2); // n-2 because 0 and 1 are already printed
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Enter the number of elements: 15<br>
@@ -35245,7 +36292,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the programs with your own input.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -35417,7 +36464,7 @@ int main() {
         cout << "Number is Prime." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Sample Output 1 (Prime):</strong><br>
@@ -35445,7 +36492,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and test with different inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -35634,7 +36681,7 @@ int main() {
         cout << "Number is not Palindrome." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Sample Output 1 (Palindrome):</strong><br>
@@ -35662,7 +36709,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and test with different inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -35843,7 +36890,7 @@ int main() {
     cout << "Factorial of " << number << " is: " << fact << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Enter any Number: 5<br>
@@ -35874,7 +36921,7 @@ int main() {
         cout << "Factorial of a number is: " << fact << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Enter any number: 6<br>
@@ -35887,7 +36934,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the programs with your own inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -36087,7 +37134,7 @@ int main() {
         cout << "Not Armstrong Number." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Sample Output 1 (Armstrong):</strong><br>
@@ -36128,7 +37175,7 @@ int main() {
         cout << num << " is not an Armstrong number." << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Example:</strong><br>
         Enter an integer: 9474<br>
@@ -36142,7 +37189,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test with different numbers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -36331,7 +37378,7 @@ int main() {
     cout << "Sum is = " << sum << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Sample Output 1:</strong><br>
@@ -36364,7 +37411,7 @@ int main() {
     cout << "Sum of digits = " << digitSum(num) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <div class="note">
         💡 <strong>Note:</strong> The program works for positive integers. For negative numbers, you can take the absolute value using <code>abs()</code> before processing.
@@ -36372,7 +37419,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the program with your own inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -36552,7 +37599,7 @@ int main() {
     cout << "Reversed Number: " << reverse << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Sample Output:</strong><br>
@@ -36566,7 +37613,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and test the program with your own inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -36744,7 +37791,7 @@ int main() {
     cout << "After swap a = " << a << " b = " << b << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Before swap a = 5 b = 10<br>
@@ -36769,7 +37816,7 @@ int main() {
     cout << "After swap a = " << a << " b = " << b << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Before swap a = 5 b = 10<br>
@@ -36786,7 +37833,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the programs with your own values.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -36997,7 +38044,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Input & Output:</strong><br>
         Enter number of rows = 3<br>
@@ -37040,7 +38087,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Resultant Matrix:<br>
@@ -37066,7 +38113,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test with your own matrices.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -37284,7 +38331,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Output 1:</strong><br>
         Enter the number to convert: 9<br>
@@ -37309,7 +38356,7 @@ int main() {
     cout << "Binary: " << bitset&lt;8&gt;(n) << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Example:</strong><br>
         Enter decimal number: 9<br>
@@ -37322,7 +38369,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the programs with your own numbers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -37516,7 +38563,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <div class="example-output">
         <strong>Sample Output 1:</strong><br>
@@ -37557,7 +38604,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <div class="note">
         💡 <strong>Explanation:</strong> The program first reverses the number so that when we extract digits from the reversed number, we get the original left‑to‑right order. A switch case or an array maps digits 0‑9 to their word equivalents. The output prints each word separated by a space.
@@ -37565,7 +38612,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test the program with your own numbers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -37740,7 +38787,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <div class="example-output">
         <strong>Output:</strong><br>
@@ -37766,7 +38813,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and experiment with the code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -37945,7 +38992,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>🔍 Sample Outputs</h2>
     <div class="example-output">
@@ -37981,7 +39028,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and test the program with different inputs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -38160,7 +39207,7 @@ int main() {
     }
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
 
     <h2>🔍 Sample Output</h2>
     <div class="example-output">
@@ -38194,7 +39241,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online C++ compiler and experiment with different row limits.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -38375,8 +39422,8 @@ int main() {
     cout << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <h3>2️⃣ Using a <code>while</code> Loop</h3>
     <pre><code>#include &lt;iostream&gt;
@@ -38394,8 +39441,8 @@ int main() {
     cout << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <h3>3️⃣ Using <code>std::string</code> Constructor</h3>
     <p>The simplest method – pass the char array directly to the string constructor.</p>
@@ -38408,8 +39455,8 @@ int main() {
     cout << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <h3>4️⃣ Using Assignment Operator <code>=</code></h3>
     <pre><code>#include &lt;iostream&gt;
@@ -38421,8 +39468,8 @@ int main() {
     cout << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <h3>5️⃣ Using a Custom Function</h3>
     <pre><code>#include &lt;iostream&gt;
@@ -38443,8 +39490,8 @@ int main() {
     cout << jtp << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <h3>6️⃣ Using <code>std::stringstream</code></h3>
     <pre><code>#include &lt;iostream&gt;
@@ -38460,8 +39507,8 @@ int main() {
     cout << result << endl;
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
-    <div class="example-output"><strong>Output:</strong><br>JAVATPOINT</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
+    <div class="example-output"><strong>Output:</strong><br>dreamztouch</div>
 
     <div class="note">
         💡 <strong>Note:</strong> For C‑style strings (null‑terminated), the constructor and assignment operator automatically stop at the null terminator. For character arrays without a null terminator, specify the length or use the loop methods. The examples above assume a null‑terminated character array.
@@ -38469,7 +39516,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button above to open an online C++ compiler and test the code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -38718,7 +39765,7 @@ int main() {
     } while (opr != 7);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Sample Output (Addition of 3 numbers):</strong><br>
         ========== C++ CALCULATOR ==========<br>
@@ -38797,7 +39844,7 @@ int main() {
     } while (opr != 6);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Sample Output:</strong><br>
         ========== SIMPLE CALCULATOR ==========<br>
@@ -38823,7 +39870,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button above to open an online C++ compiler and test the programs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -39042,7 +40089,7 @@ int main() {
     find_greatest(a, b, c, d);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         a=10 b=50 c=20 d=25<br>
@@ -39078,7 +40125,7 @@ int main() {
     find_greatest(a, b, c, d);
     return 0;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         a=10 b=50 c=20 d=25<br>
@@ -39097,7 +40144,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online C++ compiler and test with your own numbers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">Open C++ Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">Open C++ Compiler</button>
     </div>
 
     <footer>
@@ -39115,5 +40162,4 @@ int main() {
         
       ]
     }
-  ]
-};
+  

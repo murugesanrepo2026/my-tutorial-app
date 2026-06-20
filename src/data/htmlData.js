@@ -1,7 +1,7 @@
 export const htmlData = {
   id: "HTML",
   name: "HTML",
-  icon: "🐍",
+  icon: "🌐",
   subtopics: [
     {
       id: "Html-Tutorial",
@@ -14129,7 +14129,7 @@ function myMap() {
   &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-  &lt;div id="header"&gt;&lt;h1&gt;JavaTpoint Times&lt;/h1&gt;&lt;/div&gt;
+  &lt;div id="header"&gt;&lt;h1&gt;dreamzTouch Times&lt;/h1&gt;&lt;/div&gt;
   &lt;div id="menu"&gt;
     &lt;ul&gt;&lt;li&gt;Tutorials&lt;/li&gt;&lt;li&gt;Technology&lt;/li&gt;&lt;li&gt;Blog&lt;/li&gt;&lt;/ul&gt;
   &lt;/div&gt;
@@ -14145,7 +14145,7 @@ function myMap() {
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div id="footer"&gt;
-    &lt;p&gt;&copy; 2018 JavaTpoint Times. All rights reserved.&lt;/p&gt;
+    &lt;p&gt;&copy; 2018 dreamzTouch Times. All rights reserved.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</code></pre>
@@ -14175,7 +14175,7 @@ function myMap() {
   &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-  &lt;header&gt;&lt;h1&gt;JavaTpoint Times&lt;/h1&gt;&lt;/header&gt;
+  &lt;header&gt;&lt;h1&gt;dreamzTouch Times&lt;/h1&gt;&lt;/header&gt;
   &lt;nav&gt;
     &lt;ul&gt;&lt;li&gt;Tutorials&lt;/li&gt;&lt;li&gt;Technology&lt;/li&gt;&lt;li&gt;Blog&lt;/li&gt;&lt;/ul&gt;
   &lt;/nav&gt;
@@ -14191,7 +14191,7 @@ function myMap() {
     &lt;/article&gt;
   &lt;/section&gt;
   &lt;footer&gt;
-    &lt;p&gt;&copy; 2018 JavaTpoint Times. All rights reserved.&lt;/p&gt;
+    &lt;p&gt;&copy; 2018 dreamzTouch Times. All rights reserved.&lt;/p&gt;
   &lt;/footer&gt;
 &lt;/body&gt;
 &lt;/html&gt;</code></pre>
@@ -14199,14 +14199,14 @@ function myMap() {
   <div class="demo-box">
     <p><em>Styled example of the migrated page (simulated):</em></p>
     <div style="font-family: Verdana, sans-serif; font-size:0.9em;">
-      <div style="padding:10px; color:white; background:black;"><h1 style="margin:0;">JavaTpoint Times</h1></div>
+      <div style="padding:10px; color:white; background:black;"><h1 style="margin:0;">dreamzTouch Times</h1></div>
       <div style="padding:0;"><ul style="padding:0; margin:5px 0;"><li style="display:inline; margin:5px;">Tutorials</li><li style="display:inline; margin:5px;">Technology</li><li style="display:inline; margin:5px;">Blog</li></ul></div>
       <div style="margin:5px; padding:10px; background:lightgrey;">
         <h2>Tutorials Section</h2>
         <div style="margin:5px; padding:10px; background:white;"><h3>Tutorial1</h3><p>Lorem ipsum dolor sit amet...</p></div>
         <div style="margin:5px; padding:10px; background:white;"><h3>Tutorial2</h3><p>Lorem ipsum dolor sit amet...</p></div>
       </div>
-      <div style="padding:10px; color:white; background:black;"><p style="margin:0;">&copy; 2018 JavaTpoint Times. All rights reserved.</p></div>
+      <div style="padding:10px; color:white; background:black;"><p style="margin:0;">&copy; 2018 dreamzTouch Times. All rights reserved.</p></div>
     </div>
   </div>
 

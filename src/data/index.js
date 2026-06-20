@@ -9,11 +9,11 @@ import { javascriptData } from './javascriptData';
 import { springbootData } from './springbootData';
 // import { csharpData } from './csharpData';
 // import { phpData } from './phpData';
-// import { mysqlData } from './mysqlData';
+import { mysqlData } from './mysqlData';
 // import other languages...
 
 // Combine into the original tutorialData array
-export const tutorialData = [cData,cppData,javaData, pythonData,htmlData , cssData, javascriptData, springbootData];
+export const tutorialData = [cData,cppData,javaData, pythonData,htmlData , cssData, javascriptData, springbootData,mysqlData];
 
 // Re-export helper functions so components can import from '../data'
 export { findSubTopicBySlug, getFlatSubtopicsForMain } from './helpers';

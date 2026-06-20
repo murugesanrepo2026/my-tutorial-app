@@ -257,12 +257,13 @@ const Careers = () => {
         {/* Work Location */}
         <div className="cr-card cr-location-card">
           <h2>🏢 Work Location</h2>
-          <p>
+          <p> <strong> Only Online/Remote Mode</strong></p>
+          {/* <p>
             <strong>Dreamz Touch Technologies</strong><br />
             3rd Floor, Singapore Complex,<br />
             Ambattur O.T, Chennai – 600053<br />
             Tamil Nadu, INDIA
-          </p>
+          </p> */}
         </div>
       </div>
 

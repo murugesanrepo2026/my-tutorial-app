@@ -1,7 +1,7 @@
 export const javaData = {
   id: "Java ",
   name: "Java ",
-  icon: "🐍",
+  icon: "☕",
   subtopics: [
     {
       id: "Java-Tutorial",
@@ -204,7 +204,7 @@ export const javaData = {
         System.out.println("Hello, World!");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <h2>🚀 Getting Started</h2>
     <p>Before you start coding in Java, you need to set up your system. First, install the <strong>Java Development Kit (JDK)</strong>, which includes the tools required to write and run Java programs. You can download it from the official Oracle website and install it by following simple steps.</p>
@@ -254,7 +254,7 @@ export const javaData = {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and test the Hello World program.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -501,7 +501,7 @@ export const javaData = {
 
     <div class="note">
         <strong>🧪 Run / Test Java Code Online</strong><br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -730,7 +730,7 @@ export const javaData = {
 
     <div class="note">
         <strong>🧪 Try Java Online</strong><br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -986,8 +986,8 @@ int main() {
 
     <div class="note">
         <strong>🧪 Run / Test Code Online</strong><br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/cpp', '_blank')">C++ Online Compiler</button>
-        <button class="compile-btn" style="margin-left: 1rem;" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Java Online Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/cpp', '_blank')">C++ Online Compiler</button>
+        <button class="compile-btn" style="margin-left: 1rem;" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Java Online Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b; margin-top: 2rem;">
@@ -1168,7 +1168,7 @@ int main() {
         System.out.println("Hello World!");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <div class="example-output">
         <strong>Output:</strong><br>
@@ -1240,7 +1240,7 @@ int main() {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -1427,7 +1427,7 @@ int main() {
         System.out.println("Hello, World!");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code Online</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code Online</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello, World!
@@ -1458,7 +1458,7 @@ class C { ... }</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with the Hello World program.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -1660,7 +1660,7 @@ class C { ... }</code></pre>
         <code>javac -version</code><br>
         <code>java -version</code><br>
         You should see the installed version information.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Test Java Online</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Test Java Online</button>
     </div>
 
     <footer>
@@ -1877,7 +1877,7 @@ class C { ... }</code></pre>
 
     <div class="note">
         <strong>🧪 Test Java Online</strong><br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -2098,7 +2098,7 @@ public class ClassLoaderExample {
         System.out.println(String.class.getClassLoader());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Sample Output:</strong><br>
         sun.misc.Launcher$AppClassLoader@4e0e2f2a<br>
@@ -2152,7 +2152,7 @@ public class ClassLoaderExample {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Experiment with the classloader example above by clicking the Run Code button.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -2355,7 +2355,7 @@ public class ClassLoaderExample {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Number is greater than 5
@@ -2471,7 +2471,7 @@ public class ClassLoaderExample {
 
     <div class="note">
         <strong>🧪 Try the example above</strong> – Click the <strong>▶ Run Code</strong> button to see the program in action.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -2697,7 +2697,7 @@ public class ClassLoaderExample {
         System.out.println("long: " + val);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         boolean: true<br>
@@ -2753,7 +2753,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         BLUE<br>
@@ -2767,7 +2767,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with data types.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -2952,7 +2952,7 @@ public class Main {
     int num = 10;   // local variable
     System.out.println("Value: " + num);
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Value: 10
@@ -2973,7 +2973,7 @@ public class Main {
         System.out.println("Age: " + obj.age);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Name: Deepak<br>
@@ -2997,7 +2997,7 @@ public class Main {
         System.out.println("S2's age: " + s2.age);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         S1's age: 23<br>
@@ -3011,7 +3011,7 @@ public class Main {
 int b = 10;
 int c = a + b;
 System.out.println(c);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         20
@@ -3022,7 +3022,7 @@ System.out.println(c);</code></pre>
 float f = a;   // automatic conversion
 System.out.println(a);
 System.out.println(f);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10<br>
@@ -3035,7 +3035,7 @@ System.out.println(f);</code></pre>
 int a = (int) f;        // explicit cast
 System.out.println(f);
 System.out.println(a);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10.5<br>
@@ -3047,7 +3047,7 @@ System.out.println(a);</code></pre>
 byte b = (byte) a;   // overflow: 130 -> -126
 System.out.println(a);
 System.out.println(b);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         130<br>
@@ -3060,7 +3060,7 @@ byte b = 10;
 // byte c = a + b;   // compile error: a+b promoted to int
 byte c = (byte)(a + b);
 System.out.println(c);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         20
@@ -3076,7 +3076,7 @@ System.out.println(c);</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>Run Code</strong> button above to open an online Java compiler and experiment.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -3266,7 +3266,7 @@ System.out.println(c);</code></pre>
         System.out.println("b = " + b);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         a = A<br>
@@ -3282,7 +3282,7 @@ System.out.println(c);</code></pre>
         System.out.println(newstr);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Unicode System©
@@ -3297,7 +3297,7 @@ System.out.println(c);</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with Unicode characters.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -3496,7 +3496,7 @@ System.out.println(c);</code></pre>
         System.out.println(--x); // 10
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10<br>
@@ -3580,7 +3580,7 @@ a %= 3; // 0</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button to test any example in an online Java compiler.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -3591,6 +3591,8 @@ a %= 3; // 0</code></pre>
 </html>
                 `
                 },
+            ]
+        },
 
 
                 {
@@ -3777,7 +3779,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> x + y is greater than 20
     </div>
@@ -3793,7 +3795,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> x + y is greater than 20
     </div>
@@ -3813,7 +3815,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> Delhi
     </div>
@@ -3835,7 +3837,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> Delhi
     </div>
@@ -3856,7 +3858,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> 2
     </div>
@@ -3873,7 +3875,7 @@ a %= 3; // 0</code></pre>
         System.out.println("Sum of first 10 natural numbers is " + sum);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> Sum of first 10 natural numbers is 55
     </div>
@@ -3888,7 +3890,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Printing the content of the array names:<br>
@@ -3910,7 +3912,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Printing the list of first 10 even numbers<br>
@@ -3933,7 +3935,7 @@ a %= 3; // 0</code></pre>
         } while (i <= 10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Printing the list of first 10 even numbers<br>
@@ -3956,7 +3958,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0<br>
@@ -3982,7 +3984,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> 0 1 2 3 4 5 (then exits all loops)
     </div>
@@ -3998,7 +4000,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0 1 2 3 5<br>
@@ -4012,7 +4014,7 @@ a %= 3; // 0</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -4186,7 +4188,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Age is greater than 18
@@ -4211,7 +4213,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         odd number
@@ -4228,7 +4230,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         LEAP YEAR
@@ -4267,7 +4269,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         C grade
@@ -4286,7 +4288,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         NEGATIVE
@@ -4310,7 +4312,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         You are eligible to donate blood
@@ -4328,7 +4330,7 @@ a %= 3; // 0</code></pre>
         System.out.println(output);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         odd number
@@ -4340,7 +4342,7 @@ a %= 3; // 0</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with these examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -4533,7 +4535,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3 4 5 6 7 8 9 10
@@ -4550,7 +4552,7 @@ a %= 3; // 0</code></pre>
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Factorial of 5 is: 120
@@ -4568,7 +4570,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1<br>2 2<br>2 3<br>3 1<br>3 2<br>3 3
@@ -4585,7 +4587,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         * <br>
@@ -4607,7 +4609,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         * * * * * * <br>
@@ -4632,7 +4634,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         12<br>23<br>44<br>56<br>78
@@ -4654,7 +4656,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1
@@ -4674,7 +4676,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1<br>3 1<br>3 2<br>3 3
@@ -4704,7 +4706,7 @@ a %= 3; // 0</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons to open an online Java compiler and experiment.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -4897,7 +4899,7 @@ a %= 3; // 0</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         12<br>13<br>14<br>44
@@ -4914,7 +4916,7 @@ a %= 3; // 0</code></pre>
         System.out.println("Total: " + total);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Total: 83
@@ -4926,18 +4928,18 @@ a %= 3; // 0</code></pre>
 class Main {
     public static void main(String args[]) {
         ArrayList&lt;String&gt; list = new ArrayList&lt;String&gt;();
-        list.add("vimal");
-        list.add("sonoo");
-        list.add("ratan");
+        list.add("Kumar");
+        list.add("Ranjith");
+        list.add("Ram");
         for (String s : list) {
             System.out.println(s);
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
-        vimal<br>sonoo<br>ratan
+        Kumar<br>Ranjith<br>Ram
     </div>
 
     <div class="note">
@@ -4946,7 +4948,7 @@ class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with for‑each loops.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -5128,7 +5130,7 @@ while (i <= 5) {
     System.out.println(i);
     i++;
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
 
     <h2>📚 More Examples</h2>
 
@@ -5142,7 +5144,7 @@ while (i <= 5) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong> 1 2 3 4 5 6 7 8 9 10
     </div>
@@ -5160,7 +5162,7 @@ while (i <= 5) {
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Factorial of 5 is: 120
@@ -5183,7 +5185,7 @@ while (i <= 5) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (first few lines):</strong><br>
         1 1<br>1 2<br>1 3<br>1 4<br>1 5<br>2 1<br>...
@@ -5204,7 +5206,7 @@ while (i <= 5) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (first row):</strong> 1 2 3 4 5 6 7 8 9 10
     </div>
@@ -5227,7 +5229,7 @@ while (true) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Count: 0<br>Count: 1<br>Count: 2<br>Count: 3<br>Count: 4
@@ -5245,7 +5247,7 @@ while (true) {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with while loops.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -5427,7 +5429,7 @@ do {
     System.out.println(i);
     i++;
 } while (i <= 10);</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong> 1 2 3 4 5 6 7 8 9 10
     </div>
@@ -5444,7 +5446,7 @@ do {
         } while (i <= 10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10
@@ -5463,7 +5465,7 @@ do {
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Factorial of 5 is: 120
@@ -5494,7 +5496,7 @@ public class Main {
         sc.close();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Interaction:</strong><br>
         Welcome! Enter numbers ( -1 to exit )<br>
@@ -5525,7 +5527,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with do-while loops.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -5711,7 +5713,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>2<br>3<br>4
@@ -5730,7 +5732,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1<br>3 1<br>3 2<br>3 3
@@ -5750,7 +5752,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1
@@ -5769,7 +5771,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>2<br>3<br>4
@@ -5788,7 +5790,7 @@ for(...) {
         } while(i <= 10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>2<br>3<br>4
@@ -5803,7 +5805,7 @@ switch(day) {
     case 3: System.out.println("Wednesday"); break;
     default: System.out.println("Other day");
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>💡 Real‑World Example: Early Exit in Search</h2>
     <pre><code>public class SearchBreak {
@@ -5818,7 +5820,7 @@ switch(day) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Found at index 2
@@ -5836,7 +5838,7 @@ switch(day) {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with break statements.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -6022,7 +6024,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3 4 6 7 8 9 10
@@ -6041,7 +6043,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1<br>2 3<br>3 1<br>3 2<br>3 3
@@ -6061,7 +6063,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 1<br>1 2<br>1 3<br>2 1<br>3 1<br>3 2<br>3 3
@@ -6081,7 +6083,7 @@ for(...) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3 4 6 7 8 9 10
@@ -6101,7 +6103,7 @@ for(...) {
         } while(i <= 10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3 4 6 7 8 9 10
@@ -6124,7 +6126,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 3 5 7 9
@@ -6142,7 +6144,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Alice<br>Bob<br>Charlie<br>Dave
@@ -6176,7 +6178,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with <code>continue</code> statements.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -6387,7 +6389,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>20</div>
 
     <h3>Example 2: Finding Month Name</h3>
@@ -6413,7 +6415,7 @@ public class Main {
         System.out.println(monthString);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>7 - July</div>
 
     <h3>Example 3: Vowel or Consonant</h3>
@@ -6428,7 +6430,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>Vowel</div>
 
     <h3>Example 4: Fall‑Through (without break)</h3>
@@ -6443,7 +6445,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>20<br>30<br>Not in 10, 20 or 30</div>
 
     <h3>Example 5: String in Switch (Java 7+)</h3>
@@ -6460,7 +6462,7 @@ public class Main {
         System.out.println("Your Level is: " + level);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>Your Level is: 3</div>
 
     <h3>Example 6: Nested Switch</h3>
@@ -6492,7 +6494,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output (branch C, year 4):</strong><br>Data Communication and Networks, MultiMedia</div>
 
     <h3>Example 7: Using enum in Switch</h3>
@@ -6513,7 +6515,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>Sunday<br>Monday<br>Tuesday<br>Wednesday<br>Thursday<br>Friday<br>Saturday</div>
 
     <h3>Example 8: Wrapper Class (Integer) in Switch</h3>
@@ -6528,7 +6530,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output"><strong>Output:</strong><br>You are eligible to vote.</div>
 
     <h2>✅ Features & Limitations</h2>
@@ -6545,7 +6547,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -6730,7 +6732,7 @@ public class Main {
         System.out.println(i);  // printing the variable i
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10
@@ -6749,7 +6751,7 @@ public class Main {
            System.out.println(j + k); */
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10
@@ -6765,7 +6767,7 @@ public class DocCommentExample {
         System.out.println("Welcome to Java!");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Welcome to Java!
@@ -6818,7 +6820,7 @@ public class Calculate {
         System.out.println("Addition of numbers: " + result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Addition of numbers: 60
@@ -6832,7 +6834,7 @@ public class Calculate {
 // \u000d System.out.println("Java comment is executed!!");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Java comment is executed!!
@@ -6851,7 +6853,7 @@ public class Calculate {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with comments.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -6863,14 +6865,1156 @@ public class Calculate {
                 
                  `
                 },
-                { 
-                id: "Java Programs | Java Programming Examples",       
-                name: "Java Programs | Java Programming Examples",
-                description: String.raw`
+               {
+      id: "java-programs-tutorial",
+      name: "Java Programming Examples",
+      description: String.raw`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Programs | Java Programming Examples</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #f89820;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #f89820;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #fef3e8;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f89820;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        .program-block {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+        }
+        .program-block h3 {
+            background: #f89820;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            display: inline-block;
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #d14;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .example-output {
+            background: #fef9e3;
+            border-left: 4px solid #f59e0b;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+        .run-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+        .run-btn:hover {
+            background-color: #d07a15;
+        }
+        .compile-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .compile-btn:hover {
+            background-color: #d07a15;
+        }
+        .program-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 0.8rem;
+            margin: 1.5rem 0;
+        }
+        .program-grid a {
+            display: block;
+            background: #f1f5f9;
+            padding: 0.7rem 1rem;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #1e2a3a;
+            font-weight: 500;
+            transition: 0.2s;
+            border-left: 4px solid #f89820;
+            font-size: 0.9rem;
+        }
+        .program-grid a:hover {
+            background: #f89820;
+            color: white;
+            transform: translateX(5px);
+        }
+        .input-output {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin: 0.5rem 0;
+        }
+        .input-box, .output-box {
+            background: #f8fafc;
+            padding: 0.8rem 1rem;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+        .input-box strong, .output-box strong {
+            color: #f89820;
+        }
+        .category-list {
+            columns: 2;
+            column-gap: 2rem;
+            margin: 1rem 0;
+        }
+        .category-list li {
+            break-inside: avoid;
+            padding: 0.3rem 0;
+            list-style: none;
+            border-bottom: 1px solid #f1f5f9;
+        }
+        .category-list li::before {
+            content: "▸ ";
+            color: #f89820;
+            font-weight: bold;
+        }
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        .category-card {
+            background: #f8fafc;
+            padding: 1rem;
+            border-radius: 12px;
+            border-left: 4px solid #f89820;
+            transition: 0.2s;
+        }
+        .category-card:hover {
+            background: #fef3e8;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .category-card h4 {
+            color: #0b3b4f;
+            margin-bottom: 0.5rem;
+        }
+        .category-card ul {
+            padding-left: 1.2rem;
+            margin: 0.3rem 0;
+        }
+        .category-card ul li {
+            font-size: 0.9rem;
+            padding: 0.15rem 0;
+            color: #4a5b6e;
+        }
+        @media (max-width: 768px) {
+            .input-output {
+                grid-template-columns: 1fr;
+            }
+            .category-list {
+                columns: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Java Programs | Java Programming Examples</h1>
+    <div class="last-updated">📅 Last Updated : 10 Feb 2026</div>
 
-                
-                 `
-                },
+    <div class="intro-text">
+        Java programs are frequently asked in interviews and examinations. These programs are commonly based on topics such as control statements, array, string, and object-oriented programming concepts. Basic Java programs like Fibonacci series, prime number, factorial, and palindrome are among the most commonly asked. All the Java programs are explained with appropriate examples and outputs. Beginners are advised to study the <strong>Java tutorial</strong> before practicing these programs. The following section presents a list of Java programs.
+    </div>
+
+    <!-- Quick Navigation -->
+    <h2>📚 Categories</h2>
+    <div class="category-grid">
+        <div class="category-card"><h4><a href="#basic" style="color:#0b3b4f;text-decoration:none;">🔹 Java Basic Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#number" style="color:#0b3b4f;text-decoration:none;">🔸 Java Number Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#array" style="color:#0b3b4f;text-decoration:none;">🔹 Java Array Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#matrix" style="color:#0b3b4f;text-decoration:none;">🔸 Java Matrix Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#string" style="color:#0b3b4f;text-decoration:none;">🔹 Java String Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#searching" style="color:#0b3b4f;text-decoration:none;">🔸 Searching & Sorting</a></h4></div>
+        <div class="category-card"><h4><a href="#conversion" style="color:#0b3b4f;text-decoration:none;">🔹 Java Conversion Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#patterns" style="color:#0b3b4f;text-decoration:none;">🔸 Pattern Programs</a></h4></div>
+        <div class="category-card"><h4><a href="#singly" style="color:#0b3b4f;text-decoration:none;">🔹 Singly Linked List</a></h4></div>
+        <div class="category-card"><h4><a href="#circular" style="color:#0b3b4f;text-decoration:none;">🔸 Circular Linked List</a></h4></div>
+        <div class="category-card"><h4><a href="#doubly" style="color:#0b3b4f;text-decoration:none;">🔹 Doubly Linked List</a></h4></div>
+        <div class="category-card"><h4><a href="#tree" style="color:#0b3b4f;text-decoration:none;">🔸 Tree Programs</a></h4></div>
+    </div>
+
+    <!-- ==================== BASIC PROGRAMS ==================== -->
+    <h2 id="basic">📌 Java Basic Programs</h2>
+    <p>These are basic programs that help in understanding fundamental programming concepts.</p>
+    <div class="program-grid">
+        <a href="#fibonacci">Fibonacci Series in Java</a>
+        <a href="#prime-java">Prime Number Program in Java</a>
+        <a href="#palindrome-java">Palindrome Program in Java</a>
+        <a href="#factorial-java">Factorial Program in Java</a>
+        <a href="#armstrong-java">Armstrong Number in Java</a>
+        <a href="#random">How to Generate Random Number in Java</a>
+        <a href="#pattern">How to Print Pattern in Java</a>
+        <a href="#compare">How to Compare Two Objects in Java</a>
+        <a href="#object">How to Create Object in Java</a>
+        <a href="#ascii">How to Print ASCII Value in Java</a>
+    </div>
+
+    <!-- Fibonacci -->
+    <div class="program-block" id="fibonacci">
+        <h3>Fibonacci Series in Java</h3>
+        <p>Write a Java program to print Fibonacci series.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 10</div>
+            <div class="output-box"><strong>Output:</strong> 0 1 1 2 3 5 8 13 21 34</div>
+        </div>
+        <pre><code>public class Fibonacci {
+    public static void main(String[] args) {
+        int n = 10, a = 0, b = 1;
+        System.out.print(a + " " + b + " ");
+        for (int i = 2; i < n; i++) {
+            int c = a + b;
+            System.out.print(c + " ");
+            a = b;
+            b = c;
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">0 1 1 2 3 5 8 13 21 34</div>
+    </div>
+
+    <!-- Prime -->
+    <div class="program-block" id="prime-java">
+        <h3>Prime Number Program in Java</h3>
+        <p>Write a Java program to check prime number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 17</div>
+            <div class="output-box"><strong>Output:</strong> Prime number</div>
+            <div class="input-box"><strong>Input:</strong> 57</div>
+            <div class="output-box"><strong>Output:</strong> Not prime number</div>
+        </div>
+        <pre><code>public class Prime {
+    public static void main(String[] args) {
+        int n = 17;
+        boolean isPrime = true;
+        for (int i = 2; i * i <= n; i++) {
+            if (n % i == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+        System.out.println(isPrime ? "Prime number" : "Not prime number");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Prime number</div>
+    </div>
+
+    <!-- Palindrome -->
+    <div class="program-block" id="palindrome-java">
+        <h3>Palindrome Program in Java</h3>
+        <p>Write a Java program to check palindrome number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 121</div>
+            <div class="output-box"><strong>Output:</strong> Palindrome number</div>
+            <div class="input-box"><strong>Input:</strong> 113</div>
+            <div class="output-box"><strong>Output:</strong> Not palindrome number</div>
+        </div>
+        <pre><code>public class Palindrome {
+    public static void main(String[] args) {
+        int n = 121, temp = n, rev = 0;
+        while (temp != 0) {
+            rev = rev * 10 + temp % 10;
+            temp /= 10;
+        }
+        System.out.println(n == rev ? "Palindrome number" : "Not palindrome number");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Palindrome number</div>
+    </div>
+
+    <!-- Factorial -->
+    <div class="program-block" id="factorial-java">
+        <h3>Factorial Program in Java</h3>
+        <p>Write a Java program to print factorial of a number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 5</div>
+            <div class="output-box"><strong>Output:</strong> 120</div>
+            <div class="input-box"><strong>Input:</strong> 6</div>
+            <div class="output-box"><strong>Output:</strong> 720</div>
+        </div>
+        <pre><code>public class Factorial {
+    public static void main(String[] args) {
+        int n = 5, fact = 1;
+        for (int i = 1; i <= n; i++) {
+            fact *= i;
+        }
+        System.out.println(fact);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">120</div>
+    </div>
+
+    <!-- Armstrong -->
+    <div class="program-block" id="armstrong-java">
+        <h3>Armstrong Number in Java</h3>
+        <p>Write a Java program to check Armstrong number.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 371</div>
+            <div class="output-box"><strong>Output:</strong> Armstrong number</div>
+            <div class="input-box"><strong>Input:</strong> 342</div>
+            <div class="output-box"><strong>Output:</strong> Not Armstrong number</div>
+        </div>
+        <pre><code>public class Armstrong {
+    public static void main(String[] args) {
+        int n = 371, temp = n, sum = 0;
+        while (temp != 0) {
+            int rem = temp % 10;
+            sum += rem * rem * rem;
+            temp /= 10;
+        }
+        System.out.println(n == sum ? "Armstrong number" : "Not Armstrong number");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Armstrong number</div>
+    </div>
+
+    <!-- Random Number -->
+    <div class="program-block" id="random">
+        <h3>Generate Random Number in Java</h3>
+        <p>Java program to generate random numbers.</p>
+        <pre><code>import java.util.Random;
+
+public class RandomNumber {
+    public static void main(String[] args) {
+        Random rand = new Random();
+        System.out.println("Random number: " + rand.nextInt(100));
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- Pattern -->
+    <div class="program-block" id="pattern">
+        <h3>Print Pattern in Java</h3>
+        <p>Java program to print different patterns.</p>
+        <pre><code>public class Pattern {
+    public static void main(String[] args) {
+        int n = 5;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">* <br>* * <br>* * * <br>* * * * <br>* * * * *</div>
+    </div>
+
+    <!-- Compare Objects -->
+    <div class="program-block" id="compare">
+        <h3>Compare Two Objects in Java</h3>
+        <pre><code>public class CompareObjects {
+    public static void main(String[] args) {
+        String s1 = "Hello";
+        String s2 = "Hello";
+        System.out.println(s1.equals(s2)); // true
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- Create Object -->
+    <div class="program-block" id="object">
+        <h3>Create Object in Java</h3>
+        <pre><code>class Student {
+    String name;
+    Student(String n) { name = n; }
+}
+
+public class CreateObject {
+    public static void main(String[] args) {
+        Student s = new Student("John");
+        System.out.println(s.name);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+    </div>
+
+    <!-- ASCII Value -->
+    <div class="program-block" id="ascii">
+        <h3>Print ASCII Value in Java</h3>
+        <pre><code>public class ASCII {
+    public static void main(String[] args) {
+        char ch = 'A';
+        System.out.println("ASCII value of " + ch + " is: " + (int)ch);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">ASCII value of A is: 65</div>
+    </div>
+
+    <!-- ==================== NUMBER PROGRAMS ==================== -->
+    <h2 id="number">🔢 Java Number Programs</h2>
+    <p>These are number programs that help in understanding basic number-related concepts.</p>
+    <div class="program-grid">
+        <a href="#reverse-number">How to Reverse a Number in Java</a>
+        <a href="#number-word">Convert Number to Word</a>
+        <a href="#automorphic">Automorphic Number Program</a>
+        <a href="#peterson">Peterson Number</a>
+        <a href="#sunny">Sunny Number</a>
+        <a href="#tech">Tech Number</a>
+        <a href="#fascinating">Fascinating Number</a>
+        <a href="#keith">Keith Number</a>
+        <a href="#neon">Neon Number</a>
+        <a href="#spy">Spy Number</a>
+        <a href="#atm">ATM Program</a>
+        <a href="#autobiographical">Autobiographical Number</a>
+        <a href="#emirp">Emirp Number</a>
+        <a href="#sphenic">Sphenic Number</a>
+        <a href="#buzz">Buzz Number</a>
+        <a href="#duck">Duck Number</a>
+        <a href="#evil">Evil Number</a>
+        <a href="#isbn">ISBN Number</a>
+        <a href="#krishnamurthy">Krishnamurthy Number</a>
+        <a href="#bouncy">Bouncy Number</a>
+        <a href="#mystery">Mystery Number</a>
+        <a href="#smith">Smith Number</a>
+        <a href="#strontio">Strontio Number</a>
+        <a href="#xylem">Xylem and Phloem Number</a>
+        <a href="#nth-prime">nth Prime Number</a>
+        <a href="#alternate-prime">Alternate Prime Numbers</a>
+        <a href="#sqrt">Square Root Without sqrt</a>
+        <a href="#swap-bitwise">Swap Using Bitwise Operator</a>
+        <a href="#gcd">GCD of Two Numbers</a>
+        <a href="#largest-three">Largest of Three Numbers</a>
+        <a href="#smallest-three">Smallest of Three Numbers</a>
+        <a href="#positive-negative">Positive or Negative</a>
+        <a href="#perfect-square">Perfect Square</a>
+        <a href="#even-100">Even Numbers 1 to 100</a>
+        <a href="#odd-100">Odd Numbers 1 to 100</a>
+        <a href="#natural-sum">Sum of Natural Numbers</a>
+    </div>
+
+    <!-- Reverse Number -->
+    <div class="program-block" id="reverse-number">
+        <h3>Reverse a Number in Java</h3>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 234</div>
+            <div class="output-box"><strong>Output:</strong> 432</div>
+        </div>
+        <pre><code>public class ReverseNumber {
+    public static void main(String[] args) {
+        int n = 234, rev = 0;
+        while (n != 0) {
+            rev = rev * 10 + n % 10;
+            n /= 10;
+        }
+        System.out.println(rev);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">432</div>
+    </div>
+
+    <!-- Number to Word -->
+    <div class="program-block" id="number-word">
+        <h3>Convert Number to Word in Java</h3>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 74254</div>
+            <div class="output-box"><strong>Output:</strong> Seven Four Two Five Four</div>
+        </div>
+        <pre><code>public class NumberToWord {
+    public static void main(String[] args) {
+        int n = 74254, rev = 0;
+        while (n != 0) {
+            rev = rev * 10 + n % 10;
+            n /= 10;
+        }
+        while (rev != 0) {
+            int rem = rev % 10;
+            switch(rem) {
+                case 0: System.out.print("Zero "); break;
+                case 1: System.out.print("One "); break;
+                case 2: System.out.print("Two "); break;
+                case 3: System.out.print("Three "); break;
+                case 4: System.out.print("Four "); break;
+                case 5: System.out.print("Five "); break;
+                case 6: System.out.print("Six "); break;
+                case 7: System.out.print("Seven "); break;
+                case 8: System.out.print("Eight "); break;
+                case 9: System.out.print("Nine "); break;
+            }
+            rev /= 10;
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Seven Four Two Five Four</div>
+    </div>
+
+    <!-- Automorphic Number -->
+    <div class="program-block" id="automorphic">
+        <h3>Automorphic Number in Java</h3>
+        <p>An automorphic number is a number whose square ends with the number itself.</p>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 5</div>
+            <div class="output-box"><strong>Output:</strong> Automorphic number</div>
+        </div>
+        <pre><code>public class Automorphic {
+    public static void main(String[] args) {
+        int n = 5;
+        int square = n * n;
+        System.out.println(square % 10 == n ? "Automorphic number" : "Not automorphic");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Automorphic number</div>
+    </div>
+
+    <!-- GCD -->
+    <div class="program-block" id="gcd">
+        <h3>GCD of Two Numbers in Java</h3>
+        <pre><code>public class GCD {
+    public static void main(String[] args) {
+        int a = 24, b = 36;
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        System.out.println("GCD: " + a);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">GCD: 12</div>
+    </div>
+
+    <!-- Largest of Three -->
+    <div class="program-block" id="largest-three">
+        <h3>Largest of Three Numbers in Java</h3>
+        <pre><code>public class Largest {
+    public static void main(String[] args) {
+        int a = 10, b = 20, c = 15;
+        int largest = (a > b) ? (a > c ? a : c) : (b > c ? b : c);
+        System.out.println("Largest: " + largest);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Largest: 20</div>
+    </div>
+
+    <!-- Even Numbers 1 to 100 -->
+    <div class="program-block" id="even-100">
+        <h3>Display Even Numbers 1 to 100 in Java</h3>
+        <pre><code>public class EvenNumbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 100; i++) {
+            if (i % 2 == 0) System.out.print(i + " ");
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">2 4 6 8 10 ... 100</div>
+    </div>
+
+    <!-- ==================== ARRAY PROGRAMS ==================== -->
+    <h2 id="array">📊 Java Array Programs</h2>
+    <p>These are array programs that demonstrate common operations such as copying, searching, sorting, rotating, and analyzing elements in an array.</p>
+    <div class="program-grid">
+        <a href="#copy-array">Copy Array</a>
+        <a href="#frequency-array">Frequency of Each Element</a>
+        <a href="#left-rotate">Left Rotate Array</a>
+        <a href="#duplicate-array">Duplicate Elements</a>
+        <a href="#print-array">Print Array Elements</a>
+        <a href="#reverse-array">Reverse Array</a>
+        <a href="#even-position">Even Position Elements</a>
+        <a href="#odd-position">Odd Position Elements</a>
+        <a href="#largest-array">Largest Element in Array</a>
+        <a href="#smallest-array">Smallest Element in Array</a>
+        <a href="#count-array">Number of Elements</a>
+        <a href="#sum-array">Sum of Array Items</a>
+        <a href="#right-rotate">Right Rotate Array</a>
+        <a href="#ascending">Sort Ascending</a>
+        <a href="#descending">Sort Descending</a>
+        <a href="#third-largest">3rd Largest Number</a>
+        <a href="#second-largest">2nd Largest Number</a>
+        <a href="#largest-number">Largest Number</a>
+        <a href="#second-smallest">2nd Smallest Number</a>
+        <a href="#smallest-number">Smallest Number</a>
+        <a href="#remove-duplicate">Remove Duplicate Element</a>
+        <a href="#odd-even-array">Odd and Even Numbers from Array</a>
+        <a href="#sort-array">How to Sort an Array</a>
+    </div>
+
+    <!-- Largest in Array -->
+    <div class="program-block" id="largest-array">
+        <h3>Largest Element in Array</h3>
+        <pre><code>public class LargestArray {
+    public static void main(String[] args) {
+        int[] arr = {10, 25, 5, 45, 30};
+        int max = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] > max) max = arr[i];
+        }
+        System.out.println("Largest: " + max);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Largest: 45</div>
+    </div>
+
+    <!-- Sort Ascending -->
+    <div class="program-block" id="ascending">
+        <h3>Sort Array in Ascending Order</h3>
+        <pre><code>import java.util.Arrays;
+
+public class SortAscending {
+    public static void main(String[] args) {
+        int[] arr = {30, 10, 50, 20, 40};
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">[10, 20, 30, 40, 50]</div>
+    </div>
+
+    <!-- ==================== MATRIX PROGRAMS ==================== -->
+    <h2 id="matrix">📐 Java Matrix Programs</h2>
+    <p>These are matrix programs that demonstrate basic operations such as addition, subtraction, multiplication, transpose, and analysis of matrices.</p>
+    <div class="program-grid">
+        <a href="#add-matrix">Add Two Matrices</a>
+        <a href="#multiply-matrix">Multiply Two Matrices</a>
+        <a href="#subtract-matrix">Subtract Matrices</a>
+        <a href="#equal-matrix">Check Matrices Equal</a>
+        <a href="#lower-triangular">Lower Triangular Matrix</a>
+        <a href="#upper-triangular">Upper Triangular Matrix</a>
+        <a href="#odd-even-matrix">Odd & Even Frequency in Matrix</a>
+        <a href="#product-matrix">Product of Two Matrices</a>
+        <a href="#row-column-sum">Sum of Each Row and Column</a>
+        <a href="#transpose">Transpose of Matrix</a>
+        <a href="#identity-matrix">Identity Matrix</a>
+        <a href="#sparse-matrix">Sparse Matrix</a>
+        <a href="#transpose-matrix">Transpose Matrix</a>
+    </div>
+
+    <!-- Matrix Addition -->
+    <div class="program-block" id="add-matrix">
+        <h3>Add Two Matrices in Java</h3>
+        <pre><code>public class MatrixAddition {
+    public static void main(String[] args) {
+        int[][] a = {{1,2},{3,4}};
+        int[][] b = {{5,6},{7,8}};
+        int[][] c = new int[2][2];
+
+        for (int i = 0; i < 2; i++) {
+            for (int j = 0; j < 2; j++) {
+                c[i][j] = a[i][j] + b[i][j];
+                System.out.print(c[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">6 8 <br>10 12</div>
+    </div>
+
+    <!-- Matrix Multiplication -->
+    <div class="program-block" id="multiply-matrix">
+        <h3>Multiply Two Matrices in Java</h3>
+        <pre><code>public class MatrixMultiplication {
+    public static void main(String[] args) {
+        int[][] a = {{1,2,3},{1,2,3},{1,2,3}};
+        int[][] b = {{1,1,1},{2,1,2},{3,2,1}};
+        int[][] c = new int[3][3];
+
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                for (int k = 0; k < 3; k++) {
+                    c[i][j] += a[i][k] * b[k][j];
+                }
+                System.out.print(c[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">14 9 8 <br>14 9 8 <br>14 9 8</div>
+    </div>
+
+    <!-- ==================== STRING PROGRAMS ==================== -->
+    <h2 id="string">📝 Java String Programs</h2>
+    <p>These are string programs that demonstrate common string operations such as counting characters, searching, comparing, modifying, and analyzing strings.</p>
+    <div class="program-grid">
+        <a href="#count-characters">Count Total Characters</a>
+        <a href="#count-punctuation">Count Punctuation Characters</a>
+        <a href="#count-vowels">Count Vowels and Consonants</a>
+        <a href="#anagram">Check Anagram</a>
+        <a href="#divide-string">Divide String into N Parts</a>
+        <a href="#subsets">Find All Subsets of a String</a>
+        <a href="#longest-repeating">Longest Repeating Sequence</a>
+        <a href="#permutations">All Permutations of a String</a>
+        <a href="#remove-whitespace">Remove White Spaces</a>
+        <a href="#case-conversion">Case Conversion</a>
+        <a href="#replace-spaces">Replace Spaces</a>
+        <a href="#palindrome-string">Check Palindrome String</a>
+        <a href="#rotation">Check String Rotation</a>
+        <a href="#max-min-character">Max/Min Occurring Character</a>
+        <a href="#reverse-string">Reverse a String</a>
+        <a href="#duplicate-characters">Duplicate Characters</a>
+        <a href="#duplicate-words">Duplicate Words</a>
+        <a href="#frequency-characters">Frequency of Characters</a>
+        <a href="#largest-smallest-word">Largest and Smallest Word</a>
+        <a href="#most-repeated-word">Most Repeated Word in File</a>
+        <a href="#word-count">Number of Words in File</a>
+        <a href="#separate-characters">Separate Individual Characters</a>
+        <a href="#swap-strings">Swap Two String Variables</a>
+        <a href="#palindrome-word">Smallest/Biggest Palindrome Word</a>
+        <a href="#reverse-word">Reverse String Word by Word</a>
+        <a href="#reverse-without">Reverse String without reverse()</a>
+    </div>
+
+    <!-- Reverse String -->
+    <div class="program-block" id="reverse-string">
+        <h3>Reverse a String in Java</h3>
+        <pre><code>public class ReverseString {
+    public static void main(String[] args) {
+        String str = "Hello";
+        String rev = "";
+        for (int i = str.length() - 1; i >= 0; i--) {
+            rev += str.charAt(i);
+        }
+        System.out.println(rev);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">olleH</div>
+    </div>
+
+    <!-- Count Characters -->
+    <div class="program-block" id="count-characters">
+        <h3>Count Total Characters in a String</h3>
+        <pre><code>public class CountCharacters {
+    public static void main(String[] args) {
+        String str = "Hello World";
+        int count = str.length();
+        System.out.println("Total characters: " + count);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Total characters: 11</div>
+    </div>
+
+    <!-- ==================== SEARCHING & SORTING ==================== -->
+    <h2 id="searching">🔍 Java Searching and Sorting Programs</h2>
+    <p>These programs demonstrate basic searching and sorting techniques used to organize and locate data efficiently.</p>
+    <div class="program-grid">
+        <a href="#linear-search">Linear Search in Java</a>
+        <a href="#binary-search">Binary Search in Java</a>
+        <a href="#bubble-sort">Bubble Sort in Java</a>
+        <a href="#selection-sort">Selection Sort in Java</a>
+        <a href="#insertion-sort">Insertion Sort in Java</a>
+    </div>
+
+    <!-- Binary Search -->
+    <div class="program-block" id="binary-search">
+        <h3>Binary Search in Java</h3>
+        <pre><code>import java.util.Arrays;
+
+public class BinarySearch {
+    public static void main(String[] args) {
+        int[] arr = {10, 20, 30, 40, 50};
+        int target = 30;
+        int result = Arrays.binarySearch(arr, target);
+        System.out.println(result >= 0 ? "Found at index: " + result : "Not found");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Found at index: 2</div>
+    </div>
+
+    <!-- ==================== CONVERSION PROGRAMS ==================== -->
+    <h2 id="conversion">🔄 Java Conversion Programs</h2>
+    <p>These programs demonstrate type conversion between different data types such as numbers, strings, characters, dates, and binary formats.</p>
+    <div class="program-grid">
+        <a href="#string-to-int">String to int</a>
+        <a href="#int-to-string">int to String</a>
+        <a href="#string-to-long">String to long</a>
+        <a href="#long-to-string">long to String</a>
+        <a href="#string-to-float">String to float</a>
+        <a href="#float-to-string">float to String</a>
+        <a href="#string-to-double">String to double</a>
+        <a href="#double-to-string">double to String</a>
+        <a href="#string-to-date">String to Date</a>
+        <a href="#date-to-string">Date to String</a>
+        <a href="#string-to-char">String to char</a>
+        <a href="#char-to-string">char to String</a>
+        <a href="#string-to-object">String to Object</a>
+        <a href="#object-to-string">Object to String</a>
+        <a href="#int-to-long">int to long</a>
+        <a href="#long-to-int">long to int</a>
+        <a href="#int-to-double">int to double</a>
+        <a href="#double-to-int">double to int</a>
+        <a href="#char-to-int">char to int</a>
+        <a href="#int-to-char">int to char</a>
+        <a href="#string-to-boolean">String to boolean</a>
+        <a href="#boolean-to-string">boolean to String</a>
+        <a href="#date-to-timestamp">Date to Timestamp</a>
+        <a href="#timestamp-to-date">Timestamp to Date</a>
+        <a href="#binary-to-decimal">Binary to Decimal</a>
+        <a href="#decimal-to-binary">Decimal to Binary</a>
+        <a href="#hex-to-decimal">Hex to Decimal</a>
+        <a href="#decimal-to-hex">Decimal to Hex</a>
+        <a href="#octal-to-decimal">Octal to Decimal</a>
+        <a href="#decimal-to-octal">Decimal to Octal</a>
+    </div>
+
+    <!-- String to int -->
+    <div class="program-block" id="string-to-int">
+        <h3>String to int in Java</h3>
+        <pre><code>public class StringToInt {
+    public static void main(String[] args) {
+        String str = "123";
+        int num = Integer.parseInt(str);
+        System.out.println(num + 10);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">133</div>
+    </div>
+
+    <!-- Decimal to Binary -->
+    <div class="program-block" id="decimal-to-binary">
+        <h3>Decimal to Binary in Java</h3>
+        <div class="input-output">
+            <div class="input-box"><strong>Input:</strong> 9</div>
+            <div class="output-box"><strong>Output:</strong> 1001</div>
+        </div>
+        <pre><code>public class DecimalToBinary {
+    public static void main(String[] args) {
+        int n = 9;
+        System.out.println(Integer.toBinaryString(n));
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">1001</div>
+    </div>
+
+    <!-- ==================== PATTERN PROGRAMS ==================== -->
+    <h2 id="patterns">🎨 Java Pattern Programs</h2>
+    <p>These programs demonstrate pattern printing using loops and basic control statements.</p>
+    <div class="program-grid">
+        <a href="#spiral">Spiral Pattern</a>
+        <a href="#pattern1">Pattern 1</a>
+        <a href="#pattern2">Pattern 2</a>
+        <a href="#pattern3">Pattern 3</a>
+        <a href="#pattern4">Pattern 4</a>
+        <a href="#pattern5">Pattern 5</a>
+        <a href="#pattern6">Pattern 6</a>
+        <a href="#pattern7">Pattern 7</a>
+        <a href="#pattern8">Pattern 8</a>
+        <a href="#pattern9">Pattern 9</a>
+        <a href="#pattern10">Pattern 10</a>
+        <a href="#pattern11">Pattern 11</a>
+        <a href="#pattern12">Pattern 12</a>
+    </div>
+
+    <!-- Pattern Example -->
+    <div class="program-block" id="pattern1">
+        <h3>Pattern Program in Java</h3>
+        <pre><code>public class Pattern1 {
+    public static void main(String[] args) {
+        int n = 5;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">* <br>* * <br>* * * <br>* * * * <br>* * * * *</div>
+    </div>
+
+    <!-- ==================== SINGLY LINKED LIST ==================== -->
+    <h2 id="singly">🔗 Java Singly Linked List Programs</h2>
+    <p>These programs demonstrate operations performed on singly linked lists such as creation, insertion, deletion, traversal, and searching.</p>
+    <div class="program-grid">
+        <a href="#create-singly">Create and Display Singly Linked List</a>
+        <a href="#count-nodes">Count Number of Nodes</a>
+        <a href="#reverse-singly">Display in Reverse Order</a>
+        <a href="#delete-beginning">Delete from Beginning</a>
+        <a href="#delete-middle">Delete from Middle</a>
+        <a href="#delete-end">Delete from End</a>
+        <a href="#palindrome-singly">Check Palindrome</a>
+        <a href="#max-min-singly">Max/Min Value Node</a>
+        <a href="#insert-middle">Insert at Middle</a>
+        <a href="#insert-beginning">Insert at Beginning</a>
+        <a href="#insert-end">Insert at End</a>
+        <a href="#remove-duplicate-singly">Remove Duplicate Elements</a>
+        <a href="#search-singly">Search an Element</a>
+    </div>
+
+    <!-- Singly Linked List Example -->
+    <div class="program-block" id="create-singly">
+        <h3>Create and Display Singly Linked List</h3>
+        <pre><code>class Node {
+    int data;
+    Node next;
+    Node(int d) { data = d; next = null; }
+}
+
+public class SinglyLinkedList {
+    public static void main(String[] args) {
+        Node head = new Node(10);
+        head.next = new Node(20);
+        head.next.next = new Node(30);
+        Node temp = head;
+        while (temp != null) {
+            System.out.print(temp.data + " ");
+            temp = temp.next;
+        }
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">10 20 30</div>
+    </div>
+
+    <!-- ==================== CIRCULAR LINKED LIST ==================== -->
+    <h2 id="circular">🔄 Java Circular Linked List Programs</h2>
+    <p>These programs demonstrate operations performed on circular linked lists such as creation, insertion, deletion, traversal, and searching.</p>
+    <div class="program-grid">
+        <a href="#create-circular">Create and Display Circular Linked List</a>
+        <a href="#count-circular">Count Number of Nodes</a>
+        <a href="#reverse-circular">Display in Reverse Order</a>
+        <a href="#delete-beginning-circular">Delete from Beginning</a>
+        <a href="#delete-end-circular">Delete from End</a>
+        <a href="#delete-middle-circular">Delete from Middle</a>
+        <a href="#max-min-circular">Max/Min Value Node</a>
+        <a href="#insert-beginning-circular">Insert at Beginning</a>
+        <a href="#insert-end-circular">Insert at End</a>
+        <a href="#insert-middle-circular">Insert at Middle</a>
+        <a href="#remove-duplicate-circular">Remove Duplicate Elements</a>
+        <a href="#search-circular">Search an Element</a>
+        <a href="#sort-circular">Sort Elements</a>
+    </div>
+
+    <!-- ==================== DOUBLY LINKED LIST ==================== -->
+    <h2 id="doubly">🔀 Java Doubly Linked List Programs</h2>
+    <p>These programs demonstrate operations on doubly linked lists, such as insertion, deletion, traversal, rotation, and sorting.</p>
+    <div class="program-grid">
+        <a href="#binary-to-doubly">Convert Binary Tree to Doubly Linked List</a>
+        <a href="#ternary-to-doubly">Create Doubly Linked List from Ternary Tree</a>
+        <a href="#count-doubly">Count Number of Nodes</a>
+        <a href="#reverse-doubly">Display in Reverse Order</a>
+        <a href="#create-doubly">Create and Display Doubly Linked List</a>
+        <a href="#delete-beginning-doubly">Delete from Beginning</a>
+        <a href="#delete-end-doubly">Delete from End</a>
+        <a href="#delete-middle-doubly">Delete from Middle</a>
+        <a href="#max-min-doubly">Max/Min Value Node</a>
+        <a href="#insert-end-doubly">Insert at End</a>
+        <a href="#insert-middle-doubly">Insert at Middle</a>
+        <a href="#remove-duplicate-doubly">Remove Duplicate Elements</a>
+        <a href="#rotate-doubly">Rotate by N Nodes</a>
+        <a href="#search-doubly">Search an Element</a>
+        <a href="#sort-doubly">Sort Elements</a>
+    </div>
+
+    <!-- ==================== TREE PROGRAMS ==================== -->
+    <h2 id="tree">🌳 Java Tree Programs</h2>
+    <p>These programs demonstrate various operations on binary trees and binary search trees, including traversal, searching, insertion, deletion, and analysis.</p>
+    <div class="program-grid">
+        <a href="#tree-difference">Difference between Odd and Even Level Nodes</a>
+        <a href="#bst-deletion">Binary Search Tree Deletion</a>
+        <a href="#convert-bst">Convert Binary Tree to BST</a>
+        <a href="#same-level">All Leaves at Same Level</a>
+        <a href="#identical-trees">Check Identical Trees</a>
+        <a href="#max-width">Maximum Width of Binary Tree</a>
+        <a href="#largest-tree">Largest Element in Binary Tree</a>
+        <a href="#max-depth">Maximum Depth/Height</a>
+        <a href="#max-distance">Nodes at Maximum Distance</a>
+        <a href="#smallest-tree">Smallest Element in Tree</a>
+        <a href="#sum-tree">Sum of All Nodes</a>
+        <a href="#bst-count">Total Possible BST with N Keys</a>
+        <a href="#binary-linked-list">Implement Binary Tree using Linked List</a>
+        <a href="#search-tree">Search a Node in Binary Tree</a>
+    </div>
+
+    <!-- Binary Search Tree -->
+    <div class="program-block" id="bst-deletion">
+        <h3>Binary Search Tree Deletion and In-order Traversal</h3>
+        <pre><code>class Node {
+    int data;
+    Node left, right;
+    Node(int d) { data = d; left = right = null; }
+}
+
+public class BST {
+    static Node insert(Node root, int data) {
+        if (root == null) return new Node(data);
+        if (data < root.data) root.left = insert(root.left, data);
+        else root.right = insert(root.right, data);
+        return root;
+    }
+
+    static void inorder(Node root) {
+        if (root != null) {
+            inorder(root.left);
+            System.out.print(root.data + " ");
+            inorder(root.right);
+        }
+    }
+
+    public static void main(String[] args) {
+        Node root = null;
+        root = insert(root, 50);
+        root = insert(root, 30);
+        root = insert(root, 70);
+        root = insert(root, 20);
+        root = insert(root, 40);
+        inorder(root);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">20 30 40 50 70</div>
+    </div>
+
+    <!-- ==================== NOTES ==================== -->
+    <div class="note">
+        💡 <strong>Key Takeaway:</strong> These are the most frequently asked Java programs in interviews and examinations. Practice each program to strengthen your understanding of loops, arrays, strings, collections, and object-oriented programming in Java.
+    </div>
+
+    <div class="note">
+        <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any program to open an online Java compiler and experiment.<br>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
+    </div>
+
+    <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+        ✅ <strong>Conclusion:</strong> This comprehensive collection of Java programs covers all major topics including arrays, strings, matrices, linked lists, trees, pattern printing, and number programs. Mastering these programs will give you a strong foundation in Java programming and help you succeed in coding interviews.
+    </div>
+
+    <footer>
+        Java Programs | Java Programming Examples – Comprehensive Collection of 100+ Programs
+    </footer>
+</div>
+</body>
+</html>
+      `
+    },
+
             ]
         },
 
@@ -7043,7 +8187,7 @@ public class Main {
         myDog.bark();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Rocky says Woof!
@@ -7072,7 +8216,7 @@ public class Main {
         myCar.honk();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Vehicle is starting...<br>
@@ -7102,7 +8246,7 @@ public class Main {
         poly.sound("Soft");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         An animal makes a sound<br>
@@ -7129,7 +8273,7 @@ public class Main {
         myDog.makeSound();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Animal is breathing...<br>
@@ -7151,7 +8295,7 @@ public class Main {
         System.out.println("Student Name: " + s.getName());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Student Name: John
@@ -7174,7 +8318,7 @@ public class Main {
         myCar.drive();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Engine started<br>
@@ -7195,7 +8339,7 @@ public class Main {
         System.out.println("Subtraction: " + calc.subtract(10, 5));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Addition: 15<br>
@@ -7228,7 +8372,7 @@ public class Main {
         country.showDetails();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Country: ABC Nation<br>
@@ -7261,7 +8405,7 @@ public class Main {
         uni.showDetails();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         University: ABC University<br>
@@ -7285,7 +8429,7 @@ public class Main {
         myCar.drive();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Engine started<br>
@@ -7307,7 +8451,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -7527,7 +8671,7 @@ public class Main {
             </tr>
             <tr><td style="font-weight:600;">Package</td>
                 <td>All lowercase; multiple words separated by dots (.); domain name reversed often.</td>
-                <td><code>java</code>, <code>java.lang</code>, <code>com.javatpoint</code></td>
+                <td><code>java</code>, <code>java.lang</code>, <code>com.dreamztouch</code></td>
             </tr>
             <tr><td style="font-weight:600;">Constant</td>
                 <td>All uppercase; words separated by underscores (_); may contain digits (not first).</td>
@@ -7548,7 +8692,7 @@ public class Main {
     <h2>💻 Examples in Code</h2>
     <h3>Complete Example Following Naming Conventions</h3>
     <pre><code>// Package name (all lowercase)
-package com.javatpoint.examples;
+package com.dreamztouch.examples;
 
 // Class name (PascalCase)
 public class Employee {
@@ -7577,7 +8721,7 @@ public class Employee {
         System.out.println("Minimum Age Constant: " + MIN_AGE);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         ID: 101, Name: John Doe<br>
@@ -7591,7 +8735,7 @@ public class Employee {
         System.out.println("Initial value: " + var);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Initial value: 98
@@ -7609,7 +8753,7 @@ public class Employee {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons to open an online Java compiler and experiment with naming conventions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -7835,7 +8979,7 @@ public class Employee {
         System.out.println("2^5 = " + Math.pow(2, 5));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         2^5 = 32.0
@@ -7860,7 +9004,7 @@ public class Employee {
         Main.greet();            // calling static method (class name)
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Goodbye from non‑static method!<br>
@@ -7880,7 +9024,7 @@ public class Employee {
         System.out.println(mu.add(2.5, 3.5));    // 6.0
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         5<br>
@@ -7901,7 +9045,7 @@ public class Employee {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -8123,7 +9267,7 @@ public class Employee {
         System.out.println(s1.name); // null
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0<br>
@@ -8142,7 +9286,7 @@ public class Main {
         System.out.println(s1.name);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0<br>
@@ -8161,14 +9305,14 @@ public class Main {
     public static void main(String args[]) {
         Student s1 = new Student();
         s1.id = 101;
-        s1.name = "Sonoo";
+        s1.name = "Gajendran";
         System.out.println(s1.id + " " + s1.name);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
-        101 Sonoo
+        101 Gajendran
     </div>
 
     <h3>2) Initialization through Method</h3>
@@ -8191,7 +9335,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan<br>
@@ -8216,7 +9360,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 John Doe<br>
@@ -8248,7 +9392,7 @@ public class Main {
         e3.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         101 ajeet 45000.0<br>
@@ -8293,7 +9437,7 @@ public class Main {
         a1.checkBalance();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         832345 Ankit 1000.0<br>
@@ -8316,7 +9460,7 @@ public class Main {
         new Main().fact(5);   // anonymous object
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         factorial is 120
@@ -8337,7 +9481,7 @@ public class Main {
         r2.calculateArea();  // 45
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         55<br>
@@ -8382,7 +9526,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -8596,7 +9740,7 @@ public class Main {
         Bike b = new Bike();   // default constructor called
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bike is created
@@ -8616,7 +9760,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0 null<br>
@@ -8636,17 +9780,17 @@ public class Main {
 }
 public class Main {
     public static void main(String args[]) {
-        Student s1 = new Student(111, "Joseph");
-        Student s2 = new Student(222, "Sonoo");
+        Student s1 = new Student(111, "James");
+        Student s2 = new Student(222, "Prabu");
         s1.display();
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
-        111 Joseph<br>
-        222 Sonoo
+        111 James<br>
+        222 Prabu
     </div>
 
     <h3>3️⃣ Copy Constructor (Manual copying)</h3>
@@ -8673,7 +9817,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan<br>
@@ -8698,7 +9842,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan<br>
@@ -8730,7 +9874,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan 0<br>
@@ -8759,7 +9903,7 @@ public class Main {
         s.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Parameterized constructor<br>
@@ -8798,7 +9942,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with constructors.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -8990,7 +10134,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0 null 0.0<br>
@@ -9017,7 +10161,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Ankit 5000.0<br>
@@ -9039,7 +10183,7 @@ public class Main {
         a.n();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         hello n<br>
@@ -9061,7 +10205,7 @@ public class Main {
         A a = new A(10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         hello a<br>
@@ -9094,7 +10238,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 ankit java 0.0<br>
@@ -9119,7 +10263,7 @@ public class Main {
         m.p();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         method is invoked
@@ -9141,7 +10285,7 @@ class Main {
         Main a = new Main();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         10
@@ -9158,7 +10302,7 @@ public class Main {
         new A().getA().msg();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello Java
@@ -9174,7 +10318,7 @@ public class Main {
         obj.m();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (example):</strong><br>
         Main@22b3ea59<br>
@@ -9193,7 +10337,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>this</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -9207,7 +10351,7 @@ public class Main {
                 },
 
                 { 
-                id: "Java static keyword",       
+                id: "Java-static-keyword",       
                 name: "Java static keyword",
                 description: String.raw`
 <!DOCTYPE html>
@@ -9413,7 +10557,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan ITS<br>
@@ -9432,7 +10576,7 @@ public class Main {
         Counter c3 = new Counter();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>
@@ -9452,7 +10596,7 @@ public class Main {
         Counter c3 = new Counter();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>
@@ -9480,7 +10624,7 @@ public class Main {
         s2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         111 Karan BBDIT<br>
@@ -9497,7 +10641,7 @@ public class Main {
         System.out.println(result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         125
@@ -9525,7 +10669,7 @@ class A {
         System.out.println("main() method is invoked");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         static block is invoked<br>
@@ -9555,7 +10699,7 @@ public class Main {
         myBook.info();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         This is a library book
@@ -9573,7 +10717,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>static</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -9590,12 +10734,12 @@ public class Main {
 
 
         {
-            id: "Java Inheritance",    
+            id: "Java-Inheritance",    
             name: "Java Inheritance",
             isParent: true,
             subtopics: [
                 { 
-                id: "Inheritance in Java", 
+                id: "Inheritance-in-Java", 
                 name: "Inheritance in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -9800,7 +10944,7 @@ public class Main {
         System.out.println("Bonus of Programmer: " + p.bonus);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Programmer salary: 40000.0<br>
@@ -9830,7 +10974,7 @@ public class Main {
         d.eat();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         barking...<br>
@@ -9855,7 +10999,7 @@ public class Main {
         d.eat();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         weeping...<br>
@@ -9881,7 +11025,7 @@ public class Main {
         // c.bark(); // error – Cat does not have bark()
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         meowing...<br>
@@ -9914,7 +11058,7 @@ public class Main {
         mage.use();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Warrior attacks with a sword.<br>
@@ -9941,7 +11085,7 @@ class D extends A {
         obj.disp();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         D
@@ -9970,7 +11114,7 @@ class B { void msg() { System.out.println("Welcome"); } }
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with inheritance.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -9983,23 +11127,457 @@ class B { void msg() { System.out.println("Welcome"); } }
     `
                 },
 
-                { 
-                id: "Aggregation in Java",       
-                name: "Aggregation in Java",
-                description: String.raw`
-                
-                 `
-                },
+               {
+      id: "java-aggregation-tutorial",
+      name: "Aggregation Tutorial",
+      description: String.raw`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aggregation in Java – Complete Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #f89820;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #f89820;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #fef3e8;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f89820;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        .program-block {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+        }
+        .program-block h3 {
+            background: #f89820;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            display: inline-block;
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #d14;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .example-output {
+            background: #fef9e3;
+            border-left: 4px solid #f59e0b;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+        .note-warning {
+            background: #fef3e8;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #f89820;
+            margin: 1rem 0;
+        }
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+        .run-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+        .run-btn:hover {
+            background-color: #d07a15;
+        }
+        .compile-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .compile-btn:hover {
+            background-color: #d07a15;
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .comparison-table th {
+            background-color: #f89820;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+            border: 1px solid #cbd5e1;
+        }
+        .comparison-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+            text-align: left;
+            vertical-align: top;
+        }
+        .comparison-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+        .comparison-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+        .quick-nav {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 0.8rem;
+            margin: 1.5rem 0;
+        }
+        .quick-nav a {
+            display: block;
+            background: #f1f5f9;
+            padding: 0.7rem 1rem;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #1e2a3a;
+            font-weight: 500;
+            transition: 0.2s;
+            border-left: 4px solid #f89820;
+            font-size: 0.9rem;
+        }
+        .quick-nav a:hover {
+            background: #f89820;
+            color: white;
+            transform: translateX(5px);
+        }
+        @media (max-width: 768px) {
+            .quick-nav {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Aggregation in Java</h1>
+    <div class="last-updated">📅 Last Updated : 10 Feb 2026</div>
+
+    <div class="intro-text">
+        <strong>Aggregation</strong> in Java represents a <strong>HAS-A relationship</strong> where one class contains a reference to another class. In this chapter, we will learn about the aggregation with definition and real-life examples.
+    </div>
+
+    <!-- Quick Navigation -->
+    <div class="quick-nav">
+        <a href="#what-is">What Is Aggregation?</a>
+        <a href="#understanding">Understanding with Example</a>
+        <a href="#example-circle">Example – Circle & Operation</a>
+        <a href="#why-use">Why Use Aggregation?</a>
+        <a href="#real-time">Real-Time Example</a>
+        <a href="#comparison">Aggregation vs Composition</a>
+    </div>
+
+    <!-- ==================== WHAT IS AGGREGATION ==================== -->
+    <h2 id="what-is">📌 What Is Aggregation in Java?</h2>
+    <p>If a class has a reference to another class (i.e., an entity reference), it is known as <strong>Aggregation</strong>. Aggregation represents a <strong>HAS-A relationship</strong>, where one object uses another object as part of its functionality.</p>
+
+    <div class="note">
+        💡 <strong>Key Point:</strong> Aggregation is a <strong>weak association</strong> where the contained object can exist independently. If the container object is destroyed, the contained object can still exist.
+    </div>
+
+    <!-- ==================== UNDERSTANDING ==================== -->
+    <h2 id="understanding">🔍 Understanding Aggregation with an Example</h2>
+    <p>Consider a situation, <code>Employee</code> object contains many informations such as id, name, emailId etc. It contains one more object named <code>Address</code>, which contains its own informations such as city, state, country, zipcode etc. as given below.</p>
+
+    <pre><code>class Employee {
+    int id;
+    String name;
+    Address address; // Address is a class
+    // ...
+}</code></pre>
+
+    <p>In such case, <code>Employee</code> has an entity reference <code>address</code>, so relationship is <strong>Employee HAS-A Address</strong>.</p>
+
+    <div class="note-warning">
+        ⚠️ <strong>Note:</strong> Aggregation is different from <strong>Composition</strong>. In composition, the contained object cannot exist without the container object. In aggregation, the contained object can exist independently.
+    </div>
+
+    <!-- ==================== EXAMPLE - CIRCLE & OPERATION ==================== -->
+    <h2 id="example-circle">💻 Example of Aggregation – Circle & Operation</h2>
+    <p>In the following example, the <code>Circle</code> class uses the <code>Operation</code> class through object reference to calculate the area.</p>
+
+    <div class="program-block">
+        <h3>Circle & Operation – Aggregation Example</h3>
+        <pre><code>class Operation {
+    int square(int n) {
+        return n * n;
+    }
+}
+
+class Circle {
+    Operation op; // aggregation (HAS-A Relationship)
+    double pi = 3.14;
+
+    double area(int radius) {
+        op = new Operation();
+        int rsquare = op.square(radius); // code reusability (delegates the method call)
+        return pi * rsquare;
+    }
+}
+
+public class Main {
+    public static void main(String args[]) {
+        Circle c = new Circle();
+        double result = c.area(5);
+        System.out.println(result);
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">78.5</div>
+    </div>
+
+    <p><strong>Explanation:</strong> The <code>Circle</code> class has a reference to the <code>Operation</code> class. This is aggregation because <code>Circle</code> <strong>HAS-A</strong> <code>Operation</code> reference. The <code>Circle</code> class delegates the square calculation to the <code>Operation</code> class, demonstrating <strong>code reusability</strong>.</p>
+
+    <!-- ==================== WHY USE AGGREGATION ==================== -->
+    <h2 id="why-use">✅ Why use Aggregation?</h2>
+    <p>The following are the reasons to use aggregation in Java:</p>
+
+    <ul>
+        <li><strong>Code Reusability:</strong> Aggregation is helpful to reuse the code as it allows one class to reuse the functionality of another class without inheriting it.</li>
+        <li><strong>Better Design:</strong> It is useful when classes are related through a <strong>HAS-A relationship</strong>, not an IS-A relationship.</li>
+    </ul>
+
+    <div class="note-warning">
+        ⚠️ <strong>Important Note:</strong> Inheritance should be used only if the relationship <strong>IS-A</strong> is maintained throughout the lifetime of the objects involved; otherwise, <strong>aggregation</strong> is the best choice.
+    </div>
+
+    <!-- ==================== REAL-TIME EXAMPLE ==================== -->
+    <h2 id="real-time">🌍 Real-Time Example – Employee HAS-A Address</h2>
+    <p>In this example, <code>Employee</code> has an object of <code>Address</code>, address object contains its own informations such as city, state, country etc. In such case relationship is <strong>Employee HAS-A Address</strong>.</p>
+
+    <div class="program-block">
+        <h3>Employee & Address – Real-World Aggregation</h3>
+        <pre><code>class Address {
+    String city, state, country;
+
+    public Address(String city, String state, String country) {
+        this.city = city;
+        this.state = state;
+        this.country = country;
+    }
+}
+
+// Employee class that has Address
+class Emp {
+    int id;
+    String name;
+    Address address; // Emp Has-A Address
+
+    public Emp(int id, String name, Address address) {
+        this.id = id;
+        this.name = name;
+        this.address = address;
+    }
+
+    void display() {
+        System.out.println(id + " " + name);
+        System.out.println(address.city + " " + address.state + " " + address.country);
+    }
+}
+
+// Main class
+public class Main {
+    public static void main(String[] args) {
+        Address address1 = new Address("gzb", "UP", "india");
+        Address address2 = new Address("gno", "UP", "india");
+
+        Emp e1 = new Emp(111, "varun", address1);
+        Emp e2 = new Emp(112, "arun", address2);
+
+        e1.display();
+        e2.display();
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">111 varun
+gzb UP india
+112 arun
+gno UP india</div>
+    </div>
+
+    <p><strong>Explanation:</strong></p>
+    <ul>
+        <li>The <code>Address</code> class has its own properties: city, state, and country.</li>
+        <li>The <code>Emp</code> class <strong>HAS-A</strong> <code>Address</code> object as a member.</li>
+        <li>The <code>Address</code> object is created independently and passed to the <code>Emp</code> constructor.</li>
+        <li>If an <code>Emp</code> object is destroyed, the <code>Address</code> object can still exist (weak relationship).</li>
+    </ul>
+
+    <!-- ==================== AGGREGATION VS COMPOSITION ==================== -->
+    <h2 id="comparison">📊 Aggregation vs Composition</h2>
+    <table class="comparison-table">
+        <thead>
+            <tr>
+                <th>Feature</th>
+                <th>Aggregation</th>
+                <th>Composition</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Relationship</strong></td>
+                <td>Weak association (HAS-A)</td>
+                <td>Strong association (HAS-A)</td>
+            </tr>
+            <tr>
+                <td><strong>Lifecycle</strong></td>
+                <td>Child can exist independently</td>
+                <td>Child cannot exist without parent</td>
+            </tr>
+            <tr>
+                <td><strong>Ownership</strong></td>
+                <td>Parent does not own the child</td>
+                <td>Parent owns the child</td>
+            </tr>
+            <tr>
+                <td><strong>Example</strong></td>
+                <td>Employee HAS-A Address</td>
+                <td>House HAS-A Room</td>
+            </tr>
+            <tr>
+                <td><strong>If parent is destroyed</strong></td>
+                <td>Child still exists</td>
+                <td>Child is also destroyed</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- ==================== KEY TAKEAWAYS ==================== -->
+    <div class="note">
+        💡 <strong>Key Takeaway:</strong> Aggregation is a <strong>HAS-A relationship</strong> where one class contains a reference to another class. It promotes <strong>code reusability</strong> and <strong>better design</strong> by allowing classes to use each other's functionality without inheritance. Use aggregation when the relationship is weak (child can exist independently) and composition when the relationship is strong (child cannot exist without parent).
+    </div>
+
+    <div class="note">
+        <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online Java compiler and experiment.<br>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
+    </div>
+
+    <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+        ✅ <strong>Conclusion:</strong> Aggregation is a fundamental concept in object-oriented programming that helps create <strong>reusable</strong> and <strong>maintainable</strong> code. By using aggregation instead of inheritance when appropriate, you can design more flexible and loosely coupled systems. Understanding the difference between aggregation and composition is crucial for designing robust Java applications.
+    </div>
+
+    <footer>
+        Aggregation in Java – Complete Guide | HAS-A Relationship, Code Reusability, Real-Time Examples, Aggregation vs Composition
+    </footer>
+</div>
+</body>
+</html>
+      `
+    },
             ]
         },
 
         {
-            id: "Java Polymorphism",    
+            id: "Java-Polymorphism",    
             name: "Java Polymorphism",
             isParent: true,
             subtopics: [
                 { 
-                id: "Polymorphism in Java", 
+                id: "Polymorphism-in-Java", 
                 name: "Polymorphism in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -10191,7 +11769,7 @@ public class Main {
         System.out.println("Sum of doubles: " + calc.add(2.5, 3.7));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sum of integers: 8<br>
@@ -10218,7 +11796,7 @@ public class Main {
         b.run();   // runtime polymorphism
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         running safely with 60km
@@ -10250,7 +11828,7 @@ public class Main {
         System.out.println("AXIS Rate: " + b.getRateOfInterest());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         SBI Rate: 8.4<br>
@@ -10279,7 +11857,7 @@ public class Main {
         s = new Triangle(); s.draw();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing rectangle...<br>
@@ -10308,7 +11886,7 @@ public class Main {
         a = new Lion(); a.eat();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         eating bread...<br>
@@ -10330,7 +11908,7 @@ public class Main {
         System.out.println(obj.speedlimit);   // 90
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         90
@@ -10357,7 +11935,7 @@ public class Main {
         a3.eat();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         eating<br>
@@ -10378,7 +11956,7 @@ public class Main {
         a.eat();   // dog is eating... (because BabyDog inherits Dog's eat)
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         dog is eating...
@@ -10406,7 +11984,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with polymorphism examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -10420,7 +11998,7 @@ public class Main {
 
 
                 { 
-                id: "Static and Dynamic Binding in Java",       
+                id: "Static-and-Dynamic-Binding-in-Java",       
                 name: "Static and Dynamic Binding in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -10610,7 +12188,7 @@ public class Main {
         d1.eat();   // private method – static binding
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         dog is eating...
@@ -10629,7 +12207,7 @@ class Dog extends Animal {
         a.eat();   // dynamic binding – calls Dog's eat()
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         dog is eating...
@@ -10660,7 +12238,7 @@ class Dog extends Animal {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with binding examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -10674,7 +12252,7 @@ class Dog extends Animal {
                 },
 
                  { 
-                id: "Super Keyword in Java",       
+                id: "Super-Keyword-in-Java",       
                 name: "Super Keyword in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -10874,7 +12452,7 @@ public class Main {
         d.printColor();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         black<br>
@@ -10900,7 +12478,7 @@ public class Main {
         d.work();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         eating...<br>
@@ -10924,7 +12502,7 @@ public class Main {
         Dog d = new Dog();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         animal is created<br>
@@ -10946,7 +12524,7 @@ public class Main {
         Dog d = new Dog();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         animal is created<br>
@@ -10978,7 +12556,7 @@ public class Main {
         e1.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 ankit 45000.0
@@ -11006,7 +12584,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>super</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -11020,7 +12598,7 @@ public class Main {
                 },
 
                  { 
-                id: "Instance Initializer Block in Java",       
+                id: "Instance-Initializer-Block-in-Java",       
                 name: "Instance Initializer Block in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -11192,7 +12770,7 @@ public class Main {
         Bike b2 = new Bike();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         speed is 100<br>
@@ -11220,7 +12798,7 @@ public class Main {
         Bike8 b2 = new Bike8();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         instance initializer block invoked<br>
@@ -11249,7 +12827,7 @@ class B2 extends A {
         B2 b = new B2();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         parent class constructor invoked<br>
@@ -11281,7 +12859,7 @@ class B3 extends A {
         B3 b2 = new B3(10);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         parent class constructor invoked<br>
@@ -11304,7 +12882,7 @@ class B3 extends A {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with instance initializer blocks.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -11317,7 +12895,7 @@ class B3 extends A {
                  `
                 },
                  { 
-                id: "final keyword in Java",       
+                id: "final-keyword-in-Java",       
                 name: "final keyword in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -11476,7 +13054,7 @@ class B3 extends A {
         obj.run();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Speed limit: 90
@@ -11493,7 +13071,7 @@ class B3 extends A {
 // class Main extends Bike {
 //     void run() { System.out.println("running safely"); }  // error
 // }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>3️⃣ Java final Class</h2>
     <p>A <strong>final class</strong> cannot be extended (inherited).</p>
@@ -11512,7 +13090,7 @@ public class Main extends Bike {
         new Main().run();   // inherits final method
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         running...
@@ -11530,7 +13108,7 @@ public class Main extends Bike {
         new Main();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         70
@@ -11547,7 +13125,7 @@ public class Main extends Bike {
         System.out.println(Main.DATA);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         50
@@ -11565,7 +13143,7 @@ public class Main extends Bike {
         obj.value(500);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         500
@@ -11601,7 +13179,7 @@ public class Main extends Bike {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>final</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -11613,7 +13191,7 @@ public class Main extends Bike {
                  `
                 },
                  { 
-                id: "Java instanceof Keyword",       
+                id: "Java-instanceof-Keyword",       
                 name: "Java instanceof Keyword",
                 description: String.raw`
 <!DOCTYPE html>
@@ -11798,7 +13376,7 @@ public class Main extends Bike {
         System.out.println(s instanceof Simple1); // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true
@@ -11812,7 +13390,7 @@ class Dog extends Animal {
         System.out.println(d instanceof Animal); // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true
@@ -11826,7 +13404,7 @@ class Dog extends Animal {
         System.out.println(d instanceof Dog); // false
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         false
@@ -11848,7 +13426,7 @@ class Dog extends Animal {
         Dog.method(a);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         ok downcasting performed
@@ -11896,7 +13474,7 @@ public class Main {
         c.invoke(p);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         b method
@@ -11917,7 +13495,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>instanceof</code> operator.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -11930,7 +13508,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Method Overloading in Java",       
+                id: "Method-Overloading-in-Java",       
                 name: "Method Overloading in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -12118,7 +13696,7 @@ public class Main {
         System.out.println(Adder.add(11, 11, 11)); // 33
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         22<br>
@@ -12136,7 +13714,7 @@ public class Main {
         System.out.println(Adder.add(12.3, 12.6));  // 24.9
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         22<br>
@@ -12163,7 +13741,7 @@ public class Main {
         System.out.println("main without args");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         main with String[]
@@ -12183,7 +13761,7 @@ public class Main {
         obj.sum(20, 20, 20);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         40<br>
@@ -12232,7 +13810,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with method overloading examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -12245,7 +13823,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Method Overriding in Java",       
+                id: "Method-Overriding-in-Java",       
                 name: "Method Overriding in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -12440,7 +14018,7 @@ public class Main {
         obj.run();   // prints "Vehicle is running"
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Vehicle is running
@@ -12460,7 +14038,7 @@ public class Main {
         obj.run();   // prints "Bike is running safely"
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bike is running safely
@@ -12489,7 +14067,7 @@ public class Main {
         System.out.println("AXIS Rate: " + a.getRateOfInterest());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         SBI Rate: 8<br>
@@ -12511,7 +14089,7 @@ public class Main {
         p.show();   // prints "Parent static" – compile‑time binding
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Parent static
@@ -12568,7 +14146,7 @@ class Simple extends A {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with method overriding examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -12582,7 +14160,7 @@ class Simple extends A {
                 },
 
                 { 
-                id: "Covariant Return Type in Java",       
+                id: "Covariant-Return-Type-in-Java",       
                 name: "Covariant Return Type in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -12743,7 +14321,7 @@ class B extends A {
         new B().get().message();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Welcome to covariant return type
@@ -12780,7 +14358,7 @@ public class Main {
         ((A3) a3.foo()).print();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Inside A3
@@ -12812,7 +14390,7 @@ public class Main {
         a3.foo().print();        // no cast needed
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Inside A1<br>
@@ -12844,7 +14422,7 @@ class B extends A {
         a.print();              // dynamic binding, calls B's print
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         print method of class B<br>
@@ -12863,7 +14441,7 @@ class B extends A {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with covariant return type examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -12882,12 +14460,12 @@ class B extends A {
 
 
          {
-            id: "Java Encapsulation",    
+            id: "Java-Encapsulation",    
             name: "Java Encapsulation",
             isParent: true,
             subtopics: [
                 { 
-                id: "Access Modifiers in Java", 
+                id: "Access-Modifiers-in-Java", 
                 name: "Access Modifiers in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -13079,7 +14657,7 @@ class Main {
         obj.msg();   // accessible
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello
@@ -13098,7 +14676,7 @@ public class Main {
         // obj.msg();                    // compile error
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Note:</strong> The above code would cause compile‑time errors if uncommented.
     </div>
@@ -13121,7 +14699,7 @@ class Main extends A {
         obj.msg();   // accessible through inheritance
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello
@@ -13192,7 +14770,7 @@ public class Main extends A {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with access modifiers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -13207,7 +14785,7 @@ public class Main extends A {
 
 
                 { 
-                id: "Encapsulation in Java",       
+                id: "Encapsulation-in-Java",       
                 name: "Encapsulation in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -13378,7 +14956,7 @@ public class Main {
         System.out.println(s.getName());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Vijay
@@ -13431,7 +15009,7 @@ public class Main {
                            " " + acc.getEmail() + " " + acc.getAmount());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         7654545000 Ramesh Babu rameshbabu@dreamztouchtech.com 300000.0
@@ -13462,7 +15040,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with encapsulation examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -13475,24 +15053,658 @@ public class Main {
                  `
                 },
 
-                { 
-                id: "Packages in Java",       
-                name: "Packages in Java",
-                description: String.raw`
-                
-                 `
-                },
+               {
+      id: "java-packages-tutorial",
+      name: "Packages Tutorial",
+      description: String.raw`
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Packages in Java – Complete Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #f89820;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #f89820;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #fef3e8;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f89820;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        .program-block {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+        }
+        .program-block h3 {
+            background: #f89820;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            display: inline-block;
+            font-size: 1.2rem;
+            margin-top: 0;
+        }
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #d14;
+        }
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+        .example-output {
+            background: #fef9e3;
+            border-left: 4px solid #f59e0b;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
+        .error-output {
+            background: #fef2f2;
+            border-left: 4px solid #ef4444;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+            font-family: monospace;
+            white-space: pre-wrap;
+            color: #991b1b;
+        }
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+        .note-warning {
+            background: #fef3e8;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #f89820;
+            margin: 1rem 0;
+        }
+        .note-error {
+            background: #fef2f2;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ef4444;
+            margin: 1rem 0;
+        }
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+        .run-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+        .run-btn:hover {
+            background-color: #d07a15;
+        }
+        .compile-btn {
+            display: inline-block;
+            background-color: #f89820;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .compile-btn:hover {
+            background-color: #d07a15;
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .comparison-table th {
+            background-color: #f89820;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+            border: 1px solid #cbd5e1;
+        }
+        .comparison-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+            text-align: left;
+            vertical-align: top;
+        }
+        .comparison-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+        .comparison-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+        .quick-nav {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 0.8rem;
+            margin: 1.5rem 0;
+        }
+        .quick-nav a {
+            display: block;
+            background: #f1f5f9;
+            padding: 0.7rem 1rem;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #1e2a3a;
+            font-weight: 500;
+            transition: 0.2s;
+            border-left: 4px solid #f89820;
+            font-size: 0.9rem;
+        }
+        .quick-nav a:hover {
+            background: #f89820;
+            color: white;
+            transform: translateX(5px);
+        }
+        .package-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 0.8rem;
+            margin: 1rem 0;
+        }
+        .package-list .pkg {
+            background: #f1f5f9;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 500;
+            border-bottom: 3px solid #f89820;
+        }
+        .advantages-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        .advantages-list .adv {
+            background: #f8fafc;
+            padding: 1rem;
+            border-radius: 12px;
+            border-left: 4px solid #f89820;
+        }
+        .advantages-list .adv h4 {
+            color: #0b3b4f;
+        }
+        @media (max-width: 768px) {
+            .quick-nav {
+                grid-template-columns: 1fr;
+            }
+            .package-list {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Packages in Java</h1>
+    <div class="last-updated">📅 Last Updated : 28 Feb 2026</div>
+
+    <div class="intro-text">
+        A Java <strong>package</strong> is a group of similar types of <strong>classes, interfaces and sub-packages</strong>. This chapter explains how Java packages work and how they help in organizing, managing, and using classes in Java programs.
+    </div>
+
+    <!-- Quick Navigation -->
+    <div class="quick-nav">
+        <a href="#what-is">What is Package?</a>
+        <a href="#built-in">Built-in Packages</a>
+        <a href="#user-defined">User-defined Packages</a>
+        <a href="#example">Complete Example</a>
+        <a href="#static-import">Static Import</a>
+        <a href="#name-conflicts">Name Conflicts</a>
+        <a href="#subpackage">Subpackages</a>
+        <a href="#advantages">Advantages</a>
+        <a href="#accessing">Accessing Classes</a>
+    </div>
+
+    <!-- ==================== WHAT IS PACKAGE ==================== -->
+    <h2 id="what-is">📌 What is Package in Java?</h2>
+    <p>A Java package groups related classes, interfaces, and sub-packages into one unit. It helps organize large programs, avoid name conflicts, control access, and make code reusable and modular.</p>
+
+    <p>There are <strong>two types</strong> of Java Packages:</p>
+    <ul>
+        <li><strong>Built-in Packages</strong> – Predefined packages provided by Java</li>
+        <li><strong>User-defined Packages</strong> – Packages created by programmers</li>
+    </ul>
+
+    <!-- ==================== BUILT-IN PACKAGES ==================== -->
+    <h2 id="built-in">📦 Java Built-in Packages</h2>
+    <p>Built-in packages are predefined packages provided by Java that contain ready-to-use classes and interfaces. Some of the built-in packages that are commonly used are:</p>
+
+    <div class="package-list">
+        <div class="pkg">java.lang</div>
+        <div class="pkg">java.io</div>
+        <div class="pkg">java.util</div>
+        <div class="pkg">java.applet</div>
+        <div class="pkg">java.awt</div>
+        <div class="pkg">java.net</div>
+    </div>
+
+    <ul>
+        <li><strong>lang:</strong> Contains classes required for language support, such as classes for primitive data types and math operations. This package is automatically imported into Java.</li>
+        <li><strong>io:</strong> Contains classes required for input/output operations.</li>
+        <li><strong>util:</strong> Contains utility classes needed for data structures, such as Array, List, Map, etc.</li>
+        <li><strong>applet:</strong> Contains classes required for creating applets.</li>
+        <li><strong>awt:</strong> Contains classes required for creating components of the GUI (Graphical User Interface).</li>
+        <li><strong>net:</strong> Includes classes used for networking tasks.</li>
+    </ul>
+
+    <!-- ==================== USER-DEFINED PACKAGES ==================== -->
+    <h2 id="user-defined">📂 Java User-defined Packages</h2>
+    <p>User-defined packages are packages created by programmers to group their own classes and interfaces. They help to avoid naming conflicts, support access control, and allow developers to structure large projects in a clean and modular way.</p>
+
+    <!-- ==================== EXAMPLE ==================== -->
+    <h2 id="example">💻 Example – Creating and Using Packages</h2>
+    <p>Here, we will create two Java files in two different packages (or folders). We will also create three files. One file each for both the folders, and the last file is of the main class.</p>
+
+    <p>The two folders, <strong>mypackage1</strong> and <strong>mypackage2</strong>, have been created.</p>
+
+    <div class="program-block">
+        <h3>Class1.java – Inside mypackage1</h3>
+        <pre><code>// Note that Class1 is the part of the package mypackage1
+package mypackage1;
+
+public class Class1 {
+    public void get1() {
+        System.out.println("Inside the package 1.");
+    }
+}</code></pre>
+    </div>
+
+    <div class="program-block">
+        <h3>Class2.java – Inside mypackage2</h3>
+        <pre><code>// Note that Class2 is the part of the package mypackage2
+package mypackage2;
+
+public class Class2 {
+    public void get2() {
+        System.out.println("Inside the package 2.");
+    }
+}</code></pre>
+    </div>
+
+    <div class="program-block">
+        <h3>Main.java – Outside both packages</h3>
+        <pre><code>// importing both the classes
+import mypackage1.Class1;
+import mypackage2.Class2;
+
+public class Main {
+    public static void main(String args[]) {
+        // instantiating both the classes
+        Class1 obj1 = new Class1();
+        Class2 obj2 = new Class2();
+        obj1.get1();
+        obj2.get2();
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Inside the package 1.
+Inside the package 2.</div>
+    </div>
+
+    <!-- ==================== ACCESS SPECIFIER ERROR ==================== -->
+    <h3>⚠️ Access Specifier Error Example</h3>
+    <p><strong>Note:</strong> If we change the access specifier of the classes <code>Class1</code> and <code>Class2</code> from <code>public</code> to <code>protected</code>, <code>default</code>, or <code>private</code>, then the compiler will give an error.</p>
+
+    <div class="program-block">
+        <h3>Class1.java – With protected access specifier (ERROR)</h3>
+        <pre><code>package mypackage1;
+// public class Class1 {
+protected class Class1 { // changed to protected
+    public void get1() {
+        System.out.println("Inside the package 1.");
+    }
+}</code></pre>
+    </div>
+
+    <div class="program-block">
+        <h3>Class2.java – With default access specifier (ERROR)</h3>
+        <pre><code>package mypackage2;
+// public class Class2 {
+class Class2 { // changed to default
+    public void get2() {
+        System.out.println("Inside the package 2.");
+    }
+}</code></pre>
+    </div>
+
+    <div class="error-output">.\mypackage1\Class1.java:3: error: modifier protected not allowed here
+protected class Class1 {
+^
+Main.java:2: error: Class1 is not public in mypackage1; cannot be accessed from outside package
+import mypackage1.Class1;
+^
+Main.java:4: error: Class2 is not public in mypackage2; cannot be accessed from outside package
+import mypackage2.Class2;
+^
+Main.java:11: error: Class1 is not public in mypackage1; cannot be accessed from outside package
+Class1 obj1 = new Class1();
+^
+Main.java:13: error: Class2 is not public in mypackage2; cannot be accessed from outside package
+Class2 obj2 = new Class2();
+^</div>
+
+    <div class="note-error">
+        ⚠️ <strong>Explanation:</strong> The error occurs because <code>protected</code> and <code>default</code> access specifiers restrict the visibility of the classes outside the package. Therefore, the main class cannot access <code>Class1</code> and <code>Class2</code>.
+    </div>
+
+    <!-- ==================== COMPILATION COMMANDS ==================== -->
+    <h3>📝 Compilation Commands</h3>
+    <p><strong>Note:</strong> In this example, we have created the folders <code>mypackage1</code> and <code>mypackage2</code> explicitly. If we want to build it using the command prompt, then do the following.</p>
+
+    <p>First, put all three files (Class1.java, Class2.java, Main.java) in one location (in my case location is the test folder).</p>
+
+    <p>Ensure that the access specifier of Class1 and Class2 is <strong>public</strong> in this case. Now, compile it using the following command:</p>
+
+    <pre><code>javac -d . *.java</code></pre>
+
+    <p><strong>Explanation:</strong></p>
+    <ul>
+        <li><code>-d</code> is for the destination</li>
+        <li><code>.</code> (dot) means in the current directory</li>
+        <li><code>*.java</code> means all the Java files</li>
+    </ul>
+
+    <p>After doing the compilation work, we see that both the packages have been created. Now, run the Main.class file using the command:</p>
+
+    <pre><code>java Main</code></pre>
+
+    <div class="example-output">Inside the package 1.
+Inside the package 2.</div>
+
+    <!-- ==================== STATIC IMPORT ==================== -->
+    <h2 id="static-import">📥 Static Import of the Packages</h2>
+    <p>The <strong>static import</strong> feature was first introduced in Java version 5 and is still present in later versions of Java. Static import allows only <strong>public static</strong> members (methods or fields) of a class to be used in the code without specifying the name of the class in which it is defined.</p>
+
+    <div class="program-block">
+        <h3>Static Import Example</h3>
+        <pre><code>import static java.lang.System.*; // notice the word static
+
+public class Main {
+    public static void main(String args[]) {
+        // no need to write System.out.println
+        // only out.println will do the work
+        out.println("In the main method");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">In the main method</div>
+    </div>
+
+    <div class="note">
+        💡 <strong>Explanation:</strong> "System" is a class present in the java.lang package, and <code>out</code> is a static variable present in the System class. By using static import, we are able to access the <code>out</code> variable without using the class name "System".
+    </div>
+
+    <!-- ==================== NAME CONFLICTS ==================== -->
+    <h2 id="name-conflicts">⚠️ Dealing With Name Conflicts Using Packages</h2>
+    <p>As discussed earlier, name conflicts can be handled using packages. Let's see an example to understand it.</p>
+
+    <div class="program-block">
+        <h3>Name Conflict – Ambiguous Date Class</h3>
+        <pre><code>import java.sql.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String args[]) {
+        // creating an object of the class Date
+        Date d = new Date(44l);
+        System.out.println("Inside main method.");
+    }
+}</code></pre>
+        <div class="error-output">Main.java:7: error: reference to Date is ambiguous
+Date d = new Date(44l);
+^
+both class java.util.Date in java.util and class java.sql.Date in java.sql match</div>
+    </div>
+
+    <div class="note-error">
+        ⚠️ <strong>Explanation:</strong> In the program, <code>java.sql</code> and <code>java.util</code> packages have been imported. Each package contains the <code>Date</code> class. When the <code>Date</code> class is instantiated, the compiler does not know which Date class it should refer to. It leads to ambiguity.
+    </div>
+
+    <div class="program-block">
+        <h3>Solution – Using Fully Qualified Names</h3>
+        <pre><code>import java.sql.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String args[]) {
+        // Using fully qualified name to avoid ambiguity
+        java.sql.Date d = new java.sql.Date(44l);
+        System.out.println("Inside main method.");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Inside the main method.</div>
+    </div>
+
+    <div class="note">
+        💡 <strong>Solution:</strong> To solve this error, we have to use the class name along with the package name. The <strong>fully qualified name</strong> clearly tells the compiler which Date class it should refer to.
+    </div>
+
+    <!-- ==================== SUBPACKAGES ==================== -->
+    <h2 id="subpackage">📁 Java Subpackage</h2>
+    <p>A package inside a package is called a <strong>subpackage</strong>. It should be created to categorize the package further.</p>
+
+    <p>Let's take an example, Sun Microsystems has defined a package named <code>java</code> that contains many classes like <code>System</code>, <code>String</code>, <code>Reader</code>, <code>Writer</code>, <code>Socket</code>, etc. These classes represent a particular group. For example, <code>Reader</code> and <code>Writer</code> classes are for Input/Output operations, <code>Socket</code> and <code>ServerSocket</code> classes are for networking, etc.</p>
+
+    <p>So, Sun has subcategorized the <code>java</code> package into subpackages such as <code>lang</code>, <code>net</code>, <code>io</code>, etc. and put the Input/Output related classes in the <code>io</code> package, Server and ServerSocket classes in the <code>net</code> package and so on.</p>
+
+    <p>The standard for defining a package is <strong>domain.company.package</strong> for example <code>com.tpointtech.bean</code> or <code>org.sssit.dao</code>.</p>
+
+    <div class="program-block">
+        <h3>Subpackage Example</h3>
+        <pre><code>package com.tpointtech.core;
+
+class Main {
+    public static void main(String args[]) {
+        System.out.println("Hello subpackage");
+    }
+}</code></pre>
+        <p><strong>To Compile:</strong> <code>javac -d . Main.java</code></p>
+        <p><strong>To Run:</strong> <code>java com.tpointtech.core.Main</code></p>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Hello subpackage</div>
+    </div>
+
+    <!-- ==================== ADVANTAGES ==================== -->
+    <h2 id="advantages">✅ Advantages of Using Packages</h2>
+    <p>Several advantages of packages in Java are as follows:</p>
+
+    <div class="advantages-list">
+        <div class="adv">
+            <h4>1. Avoid Naming Conflicts</h4>
+            <p>Packages are used to avoid naming conflicts among class names. Suppose there is a class called <code>Employee</code>. We know that employees are in the HR as well as the IT department of a company. So, we can write <code>company.hr.Employee</code> and <code>company.it.Employee</code>. Thus, the naming conflict is avoided.</p>
+        </div>
+        <div class="adv">
+            <h4>2. Organize Classes</h4>
+            <p>For organizing the class, interfaces and other components, packages are used. Just like a library has different shelves for different kinds of books, packages help in grouping similar types of classes in one place.</p>
+        </div>
+        <div class="adv">
+            <h4>3. Control Access</h4>
+            <p>It is the package that controls the access of the <code>protected</code> and <code>default</code> members. Think what would be the use of default and protected access specifiers if packages were absent?</p>
+        </div>
+        <div class="adv">
+            <h4>4. Reusability</h4>
+            <p>Java enhances the reusability management of code and does the promotion of data encapsulation with the help of packages.</p>
+        </div>
+    </div>
+
+    <!-- ==================== PACKAGE STRUCTURE ==================== -->
+    <h2>📐 Package Structure and Naming Rules</h2>
+
+    <h3>1. Naming Conventions</h3>
+    <p>Java packages should be in <strong>lowercase</strong>, and the dot should separate the components (.). If the component is a class, then the first letter of the class name should be <strong>capitalized</strong>.</p>
+
+    <h3>2. Structure of Directory</h3>
+    <p>The names of the directories and the package names are closely related.</p>
+    <p>For example, if the package name is <code>company.hr.Employee</code>, then <code>company</code> is the directory, and inside it, there is another directory called <code>hr</code>, and inside it, there is a class called <code>Employee</code>. Notice that <code>E</code> is in capital, indicating that it is a class name.</p>
+
+    <p><strong>Example:</strong> <code>import java.lang.*;</code> Here, <code>lang</code> is a subpackage inside the package <code>java</code>.</p>
+
+    <!-- ==================== ACCESSING CLASSES ==================== -->
+    <h2 id="accessing">🔍 Accessing Classes from Package</h2>
+
+    <h3>Importing a Specific Class</h3>
+    <p>We can access classes of a package using the <code>import</code> keyword. For example:</p>
+    <pre><code>import java.util.ArrayList;</code></pre>
+    <p>Here, we are accessing a specific class called <code>ArrayList</code> of the package <code>java.util</code>.</p>
+
+    <h3>Importing All Classes</h3>
+    <pre><code>import java.util.*;</code></pre>
+
+    <div class="note-warning">
+        ⚠️ <strong>Note:</strong> By applying the <code>import package.*;</code> statement, it imports all the classes and interfaces present in that package. However, all the classes, interfaces, etc., will <strong>never</strong> be imported from their sub-packages.
+    </div>
+
+    <h3>Using Class Without Import</h3>
+    <p>If we want to use a class without using the import statement, then we have to write the fully qualified name:</p>
+
+    <div class="program-block">
+        <h3>Without Import Statement</h3>
+        <pre><code>public class Main {
+    static void foo() {
+        java.util.ArrayList<Integer> al = new java.util.ArrayList<Integer>();
+    }
+
+    public static void main(String args[]) {
+        foo();
+        System.out.println("Inside the main method");
+    }
+}</code></pre>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+        <div class="example-output">Inside the main method</div>
+    </div>
+
+    <div class="note-warning">
+        ⚠️ <strong>Important:</strong> Whenever we have two packages having classes of the same name (for example, <code>java.sql.Date</code> and <code>java.util.Date</code>), it is suggested to use the <strong>fully qualified names</strong> to avoid name conflicts.
+    </div>
+
+    <!-- ==================== KEY TAKEAWAYS ==================== -->
+    <div class="note">
+        💡 <strong>Key Takeaway:</strong> Packages are essential for organizing Java code, avoiding naming conflicts, controlling access, and promoting reusability. Understanding how to create and use packages, along with import statements and fully qualified names, is crucial for building large-scale Java applications.
+    </div>
+
+    <div class="note">
+        <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button on any example to open an online Java compiler and experiment.<br>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
+    </div>
+
+    <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+        ✅ <strong>Conclusion:</strong> Packages are a fundamental concept in Java that help organize code, avoid naming conflicts, and control access. Whether using built-in packages like <code>java.lang</code>, <code>java.util</code>, or creating your own user-defined packages, mastering packages is essential for professional Java development.
+    </div>
+
+    <footer>
+        Packages in Java – Complete Guide | Built-in Packages, User-defined Packages, Static Import, Name Conflicts, Subpackages, Advantages
+    </footer>
+</div>
+</body>
+</html>
+      `
+    },
             ]
         },
 
         
         {
-            id: "Java Abstraction",    
+            id: "Java-Abstraction",    
             name: "Java Abstraction",
             isParent: true,
             subtopics: [
                 { 
-                id: "Abstract class in Java", 
+                id: "Abstract-class-in-Java", 
                 name: "Abstract class in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -13692,7 +15904,7 @@ public class Main {
         obj.run();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         running safely
@@ -13715,7 +15927,7 @@ public class Main {
         s.draw();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing circle
@@ -13740,7 +15952,7 @@ public class Main {
         System.out.println("PNB Rate: " + b.getRateOfInterest() + " %");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         SBI Rate: 7 %<br>
@@ -13763,7 +15975,7 @@ public class Main {
         obj.changeGear();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         bike is created<br>
@@ -13794,7 +16006,7 @@ public class Main {
         v.start();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Honda started
@@ -13819,7 +16031,7 @@ public class Main {
         a.a(); a.b(); a.c(); a.d();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         I am a<br>
@@ -13840,7 +16052,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with abstract class examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -13854,7 +16066,7 @@ public class Main {
 
 
                 { 
-                id: "Interface in Java",       
+                id: "Interface-in-Java",       
                 name: "Interface in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -14055,7 +16267,7 @@ public class Main {
         p.print();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello
@@ -14077,7 +16289,7 @@ public class Main {
         d.draw();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing circle
@@ -14102,7 +16314,7 @@ public class Main {
         System.out.println("PNB ROI: " + b.rateOfInterest());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         SBI ROI: 9.15<br>
@@ -14127,7 +16339,7 @@ public class Main {
         c.show();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         printing data...<br>
@@ -14151,7 +16363,7 @@ class Main implements Showable {
         obj.show();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello<br>
@@ -14174,7 +16386,7 @@ public class Main {
         myAnimal.sleep();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Dog is eating<br>
@@ -14197,7 +16409,7 @@ public class Main {
         d.msg();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing rectangle<br>
@@ -14220,7 +16432,7 @@ public class Main {
         System.out.println(Drawable.cube(3));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing rectangle<br>
@@ -14249,7 +16461,7 @@ public class Main {
         mp.msg();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Printing document...<br>
@@ -14280,7 +16492,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with interface examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -14293,7 +16505,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Difference between Abstract Class and Interface in Java",       
+                id: "Difference-between-Abstract-Class-and-Interface-in-Java",       
                 name: "Difference between Abstract Class and Interface in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -14481,7 +16693,7 @@ public class Main {
         s.draw();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing rectangle
@@ -14502,7 +16714,7 @@ public class Main {
         s.draw();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         drawing rectangle
@@ -14550,7 +16762,7 @@ public class Main {
         a.d();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         I am a<br>
@@ -14573,7 +16785,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with abstract classes and interfaces.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -14590,12 +16802,12 @@ public class Main {
 
 
         {
-            id: "Java Array",    
+            id: "Java-Array",    
             name: "Java Array",
             isParent: true,
             subtopics: [
                 { 
-                id: "Java Arrays", 
+                id: "Java-Arrays", 
                 name: "Java Arrays", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -14755,7 +16967,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">10<br>20<br>70<br>40<br>50</div>
 
     <h2>📌 Multi‑dimensional Array (2D)</h2>
@@ -14771,7 +16983,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">10 20 30<br>40 50 60</div>
 
     <h2>📌 For‑Each Loop</h2>
@@ -14782,7 +16994,7 @@ public class Main {
             System.out.println(i);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">33<br>3<br>4<br>5</div>
 
     <h2>📌 Passing Array to a Method</h2>
@@ -14798,7 +17010,7 @@ public class Main {
         min(a);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">3</div>
 
     <h2>📌 Anonymous Array</h2>
@@ -14812,7 +17024,7 @@ public class Main {
         printArray(new int[]{10,22,44,66});
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">10<br>22<br>44<br>66</div>
 
     <h2>📌 Returning Array from a Method</h2>
@@ -14826,7 +17038,7 @@ public class Main {
             System.out.println(arr[i]);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">10<br>30<br>50<br>90<br>60</div>
 
     <h2>⚠️ ArrayIndexOutOfBoundsException</h2>
@@ -14855,7 +17067,7 @@ for(int i=0;i<=arr.length;i++) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">0 1 2<br>3 4 5 6<br>7 8</div>
 
     <h2>📌 Arrays as Objects (Getting Class Name)</h2>
@@ -14867,7 +17079,7 @@ for(int i=0;i<=arr.length;i++) {
         System.out.println(name);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">[I</div>
 
     <h2>📌 Copying Arrays (System.arraycopy)</h2>
@@ -14879,7 +17091,7 @@ for(int i=0;i<=arr.length;i++) {
         System.out.println(String.valueOf(copyTo));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">caffein</div>
 
     <h2>📌 Cloning an Array</h2>
@@ -14894,7 +17106,7 @@ for(int i=0;i<=arr.length;i++) {
         System.out.println("Are both equal? " + (arr==carr));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Printing original array:<br>33<br>3<br>4<br>5<br>Printing clone of the array:<br>33<br>3<br>4<br>5<br>Are both equal? false</div>
 
     <h2>➕ Matrix Addition</h2>
@@ -14912,7 +17124,7 @@ for(int i=0;i<=arr.length;i++) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">2 6 8<br>6 8 10</div>
 
     <h2>✖️ Matrix Multiplication</h2>
@@ -14932,7 +17144,7 @@ for(int i=0;i<=arr.length;i++) {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">6 6 6<br>12 12 12<br>18 18 18</div>
 
     <div class="note">
@@ -14948,7 +17160,7 @@ for(int i=0;i<=arr.length;i++) {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -14963,7 +17175,7 @@ for(int i=0;i<=arr.length;i++) {
 
 
                 { 
-                id: "Multi-Dimensional Arrays in Java",       
+                id: "Multi-Dimensional-Arrays-in-Java",       
                 name: "Multi-Dimensional Arrays in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -15130,7 +17342,7 @@ int[][] arr = { {1,2,3}, {4,5,6}, {7,8,9} };</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3<br>
@@ -15164,7 +17376,7 @@ public class Main {
         scanner.close();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Run:</strong><br>
         Enter rows: 3<br>
@@ -15197,7 +17409,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3<br>
@@ -15222,7 +17434,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Number of rows: 3<br>
@@ -15243,7 +17455,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with multi‑dimensional arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -15256,7 +17468,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Java Array length Property",       
+                id: "Java-Array-length-Property",       
                 name: "Java Array length Property",
                 description: String.raw`
 <!DOCTYPE html>
@@ -15416,7 +17628,7 @@ int len = arr.length;   // len = 5</code></pre>
         System.out.println("The length of the array is: " + arrayLength);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         The length of the array is: 10
@@ -15430,7 +17642,7 @@ int len = arr.length;   // len = 5</code></pre>
         System.out.println("The size of the array is: " + arrayLength);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         The size of the array is: 7
@@ -15456,7 +17668,7 @@ int len = arr.length;   // len = 5</code></pre>
         lengthOfArray(numbers);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         The array is empty, can't determine the length.<br>
@@ -15478,7 +17690,7 @@ int len = arr.length;   // len = 5</code></pre>
         System.out.println("The length of the array is: " + arrayLength);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         The length of the array is: 5
@@ -15496,7 +17708,7 @@ int len = arr.length;   // len = 5</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with the <code>length</code> property.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -15509,7 +17721,7 @@ int len = arr.length;   // len = 5</code></pre>
                  `
                 },
                  { 
-                id: "Jagged Array in Java",       
+                id: "Jagged-Array-in-Java",       
                 name: "Jagged Array in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -15705,7 +17917,7 @@ jaggedArray[2] = new int[4];</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3<br>
@@ -15735,7 +17947,7 @@ jaggedArray[2] = new int[4];</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1<br>
@@ -15761,7 +17973,7 @@ public class Main {
             });
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 2 3<br>
@@ -15796,7 +18008,7 @@ public class Main {
         scanner.close();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Run:</strong><br>
         Enter number of rows: 3<br>
@@ -15842,7 +18054,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with jagged arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -15855,7 +18067,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Array Programs in Java",       
+                id: "Array-Programs-in-Java",       
                 name: "Array Programs in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -16021,7 +18233,7 @@ public class Main {
         System.out.println("The sum of the given array is: "+ sum());  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">The sum of the given array is: 69</div>
     </div>
 
@@ -16040,7 +18252,7 @@ public class Main {
         System.out.println("" + Arrays.toString(arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[5, 4, 3, 2, 1]</div>
     </div>
 
@@ -16065,7 +18277,7 @@ public class Main {
         System.out.println("" + Arrays.toString(arr3));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[23, 45, 56, 78, 90, 3, 4, 6, 8, 9, 0, 7]</div>
     </div>
 
@@ -16092,7 +18304,7 @@ public class Main {
         System.out.println("Second largest element: "+secondLargest);    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Second largest element: 8</div>
         <div class="complexity">Time: O(rows*cols), Space: O(1)</div>
     </div>
@@ -16123,7 +18335,7 @@ public class Main {
         System.out.println("The 4-th smallest element is: "+findKthSmallest(matrix,k));    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">The 4-th smallest element is: 6</div>
         <div class="complexity">Time: O(k * log(rows)), Space: O(rows)</div>
     </div>
@@ -16152,7 +18364,7 @@ public class Main {
         for (int i=0;i<length;i++) System.out.print(nums[i]+" ");    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Modified Array: 1 2 3 4 5</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16176,7 +18388,7 @@ public class Main {
         }    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">
             Word: Java, Frequency: 3<br>
             Word: world, Frequency: 1<br>
@@ -16206,7 +18418,7 @@ public class Main {
         System.out.println("Missing number: "+findMissingNumber(nums));    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Missing number: 5</div>
         <div class="complexity">Time: O(log n), Space: O(1)</div>
     </div>
@@ -16225,7 +18437,7 @@ public class Main {
         System.out.println("Element that appears once: "+findUnique(nums));    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Element that appears once: 4</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16247,7 +18459,7 @@ public class Main {
         System.out.println(isPalindrome?"The array is a palindrome.":"Not palindrome");  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">The array is a palindrome.</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16271,7 +18483,7 @@ public class Main {
         for (int num:nums) System.out.print(num+" ");    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Shuffled array: 5 2 1 3 4 (example)</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16296,7 +18508,7 @@ public class Main {
         System.out.println(areMatricesOrthogonal(m1,m2)?"Orthogonal":"Not orthogonal");    
     }    
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Not orthogonal</div>
     </div>
 
@@ -16316,7 +18528,7 @@ public class Main {
         System.out.println("Maximum element: "+findMax(array));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Maximum element: 9</div>
     </div>
 
@@ -16339,7 +18551,7 @@ public class Main {
         for (int s:sums) System.out.println(s);  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">1<br>6<br>15<br>14<br>9</div>
     </div>
 
@@ -16358,7 +18570,7 @@ public class Main {
         System.out.println("Element with max frequency: "+findMaxFreqElement(nums));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Element with max frequency: 3</div>
     </div>
 
@@ -16389,7 +18601,7 @@ public class Main {
         System.out.println("Rotated:"); print(m);  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">
             Original: 1 2 3<br>4 5 6<br>7 8 9<br>
             Rotated: 7 4 1<br>8 5 2<br>9 6 3
@@ -16410,7 +18622,7 @@ public class Main {
         for (int[] row:m) System.out.println(Arrays.toString(row));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">
             [6, 5, 4]<br>
             [13, 12, 11]<br>
@@ -16448,7 +18660,7 @@ public class Main {
         System.out.println("Fibonacci(10): "+fib(10));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Fibonacci(10): 55</div>
         <div class="complexity">Time: O(log n), Space: O(1)</div>
     </div>
@@ -16471,7 +18683,7 @@ public class Main {
         System.out.println(java.util.Arrays.toString(arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[8, 2, 6, 4, 5, 3, 7, 1, 9]</div>
     </div>
 
@@ -16494,7 +18706,7 @@ public class Main {
         System.out.println("Smallest missing positive: "+firstMissingPositive(nums));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Smallest missing positive: 2</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16516,7 +18728,7 @@ public class Main {
         System.out.println(intersection(a,b));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[2]</div>
     </div>
 
@@ -16541,7 +18753,7 @@ public class Main {
         System.out.println("Max length: "+findMaxLength(nums));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Max length: 6</div>
     </div>
 
@@ -16562,7 +18774,7 @@ public class Main {
         System.out.println("Max product: "+maxProduct(arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Max product: 20</div>
     </div>
 
@@ -16586,7 +18798,7 @@ public class Main {
         System.out.println("Smallest length: "+minSubarrayLen(51,arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Smallest length: 3</div>
         <div class="complexity">Time: O(n), Space: O(1)</div>
     </div>
@@ -16609,7 +18821,7 @@ public class Main {
         findSmallestTriplet(arr);  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Triplet: {-4, -3, -2}</div>
     </div>
 
@@ -16626,7 +18838,7 @@ public class Main {
         for (int v:arr) System.out.print(v+" ");  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">2 3 4 5 6</div>
     </div>
 
@@ -16646,7 +18858,7 @@ public class Main {
         System.out.println(Arrays.toString(arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[1, 2, 3, 4, 0, 0, 0, 0]</div>
     </div>
 
@@ -16670,7 +18882,7 @@ public class Main {
         System.out.println(Arrays.toString(arr));  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">[1, 0, 2, 0, 8, 0, 6]</div>
     </div>
 
@@ -16690,7 +18902,7 @@ public class Main {
         }  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Leaders: 15 12</div>
     </div>
 
@@ -16715,13 +18927,13 @@ public class Main {
         printSubarrays(arr);  
     }  
 }</code></pre>
-        <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
         <div class="example-output">Subarrays:<br>1<br>1 2<br>1 2 3<br>2<br>2 3<br>3</div>
     </div>
 
     <div class="note" style="background:#e6f7ec; padding:1rem; border-radius:12px; margin-top:2rem;">
         <strong>🧪 Try more Java code online!</strong> Click any <strong>Run Code</strong> button above to open an online compiler. You can modify and test these array programs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -16735,7 +18947,7 @@ public class Main {
                 },
 
                  { 
-                id: "Arrays Class in Java",       
+                id: "Arrays-Class-in-Java",       
                 name: "Arrays Class in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -16990,7 +19202,7 @@ public class Main {
         System.out.println("Sorted Array: " + Arrays.toString(numbers));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Sorted Array: [1, 2, 3, 5, 8]</div>
 
     <h3>2. Equality – <code>Arrays.equals()</code></h3>
@@ -17002,7 +19214,7 @@ public class Main {
         System.out.println(Arrays.equals(num1, num2));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">true</div>
 
     <h3>3. Binary Search – <code>Arrays.binarySearch()</code></h3>
@@ -17014,7 +19226,7 @@ public class Main {
         System.out.println("Index of 5: " + index);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Index of 5: 2</div>
 
     <h3>4. Filling – <code>Arrays.fill()</code></h3>
@@ -17026,7 +19238,7 @@ public class Main {
         System.out.println("Filled Array: " + Arrays.toString(arr));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Filled Array: [10, 10, 10, 10, 10]</div>
 
     <h3>5. Copying – <code>Arrays.copyOf()</code></h3>
@@ -17038,7 +19250,7 @@ public class Main {
         System.out.println("Copied Array: " + Arrays.toString(copied));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Copied Array: [1, 2, 3]</div>
 
     <h3>6. Conversion to String – <code>Arrays.toString()</code></h3>
@@ -17049,7 +19261,7 @@ public class Main {
         System.out.println("Array as String: " + Arrays.toString(names));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Array as String: [Alice, Bob, Charlie]</div>
 
     <h3>7. Deep Equality & Deep String – <code>deepEquals()</code>, <code>deepToString()</code></h3>
@@ -17062,7 +19274,7 @@ public class Main {
         System.out.println("Deep string: " + Arrays.deepToString(numbersCopy));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Are arrays equal? true<br>
         Deep string: [[4, 8, 0], [9, 5, 1], [7, 2, 6]]
@@ -17074,7 +19286,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the Arrays class methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -17087,7 +19299,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Array of Objects in Java",       
+                id: "Array-of-Objects-in-Java",       
                 name: "Array of Objects in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -17296,7 +19508,7 @@ public class Main {
         System.out.println("Object as String: " + obj.toString());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Object as String: java.lang.Object@1b6d3586</div>
 
     <h3>2. <code>equals()</code> – Compare objects</h3>
@@ -17307,7 +19519,7 @@ public class Main {
         System.out.println("Are the strings equal? " + str1.equals(str2));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Are the strings equal? true</div>
 
     <h3>3. <code>hashCode()</code> – Hash code value</h3>
@@ -17317,7 +19529,7 @@ public class Main {
         System.out.println("Hash code of the object: " + obj.hashCode());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hash code of the object: 460141958</div>
 
     <div class="note">
@@ -17332,7 +19544,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with the <code>Object</code> class methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -17345,7 +19557,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "String Arrays in Java",       
+                id: "String-Arrays-in-Java",       
                 name: "String Arrays in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -17525,7 +19737,7 @@ strAr3[2] = "Joe";</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Using for loop:<br>
         Ani<br>
@@ -17554,7 +19766,7 @@ public class Main {
         System.out.println("After adding: " + Arrays.toString(sa));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original: [A, B, C, D, E, null, null]<br>
         After adding: [A, B, C, D, E, F, G]
@@ -17572,7 +19784,7 @@ public class Main {
         System.out.println("After adding: " + Arrays.toString(sa));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Initial: [A, B, C, D, E, F]<br>
         After adding: [A, B, C, D, E, F, G]
@@ -17591,7 +19803,7 @@ public class Main {
         System.out.println("Updated: " + Arrays.toString(sa));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Initial: [A, B, C]<br>
         Updated: [A, B, C, D]
@@ -17616,7 +19828,7 @@ public class Main {
             System.out.println(search + " not found");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Sam found at index 1</div>
 
     <h2>📊 Sorting a String Array</h2>
@@ -17630,7 +19842,7 @@ public class Main {
         System.out.println("Sorted: " + Arrays.toString(sports));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Original: [Cricket, Basketball, Football, Badminton, Tennis]<br>
         Sorted: [Badminton, Basketball, Cricket, Football, Tennis]
@@ -17644,7 +19856,7 @@ public class Main {
         for (String s : students) System.out.println(s);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Ani<br>Sara<br>Joe</div>
 
     <h2>📂 Common Use Cases</h2>
@@ -17667,7 +19879,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with string arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -17680,7 +19892,7 @@ public class Main {
                  `
                 },
                  { 
-                id: "Reverse an Array in Java",       
+                id: "Reverse-an-Array-in-Java",       
                 name: "Reverse an Array in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -17887,7 +20099,7 @@ public class Main {
         for (int v : ans) System.out.print(v + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Reversed: 8 7 6 5 4 3 2 1</div>
     <div class="complexity">Time: O(n), Space: O(n)</div>
 
@@ -17914,7 +20126,7 @@ public class Main {
         for (int v : arr) System.out.print(v + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Reversed: 8 7 6 5 4 3 2 1</div>
     <div class="complexity">Time: O(n), Space: O(1)</div>
 
@@ -17939,7 +20151,7 @@ public class ReverseArr2 {
         for (int v : arr) System.out.print(v + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Reversed: 8 7 6 5 4 3 2 1</div>
     <div class="complexity">Time: O(n), Space: O(n)</div>
 
@@ -17961,7 +20173,7 @@ public class ReverseArr3 {
         for (int v : obj.reverseArr) System.out.print(v + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Reversed: 8 7 6 5 4 3 2 1</div>
     <div class="complexity">Time: O(n), Space: O(n) (call stack)</div>
 
@@ -17982,7 +20194,7 @@ public class ReverseArr4 {
         for (int v : ans) System.out.print(v + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Reversed: 8 7 6 5 4 3 2 1</div>
     <div class="complexity">Time: O(n), Space: O(n)</div>
 
@@ -17998,14 +20210,14 @@ public class ReverseArr4 {
     }
     public static void main(String argvs[]) {
         ReverseArr5 obj = new ReverseArr5();
-        String arr[] = {"javaTpoint", "is", "the", "best", "website"};
+        String arr[] = {"dreamztouch", "is", "the", "best", "website"};
         String[] ans = obj.reverseArray(arr);
         System.out.print("Reversed: ");
         for (String s : ans) System.out.print(s + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
-    <div class="example-output">Reversed: website best the is javaTpoint</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+    <div class="example-output">Reversed: website best the is dreamztouch</div>
     <div class="complexity">Time: O(n), Space: O(n)</div>
 
     <div class="note">
@@ -18020,7 +20232,7 @@ public class ReverseArr4 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with reversing arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -18036,12 +20248,12 @@ public class ReverseArr4 {
         },
 
         {
-            id: "Java String",    
+            id: "Java-String",    
             name: "Java String",
             isParent: true,
             subtopics: [
                 { 
-                id: "Java Strings", 
+                id: "Java-Strings-Tutorial", 
                 name: "Java Strings", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -18236,24 +20448,24 @@ String s4 = new String("Welcome"); // different objects</code></pre>
     <h3>Length – <code>length()</code></h3>
     <pre><code>String str = "Hello World";
 System.out.println(str.length()); // 11</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h3>Find Character – <code>indexOf()</code></h3>
     <pre><code>String str = "Hello World";
 System.out.println(str.indexOf('o')); // 4</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h3>Compare Strings – <code>equals()</code> and <code>compareTo()</code></h3>
     <pre><code>String str1 = "Apple", str2 = "Banana";
 System.out.println(str1.equals(str2));      // false
 System.out.println(str1.compareTo(str2));   // -1 (lexicographically smaller)</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h3>Concatenation – <code>concat()</code> and <code>+</code></h3>
     <pre><code>String str1 = "Hello", str2 = "World";
 String combined = str1.concat(" ").concat(str2);
 System.out.println(combined); // Hello World</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>🔒 String Immutability</h2>
     <p>Once a String object is created, it cannot be changed. Any operation that seems to modify a string actually creates a new String object.</p>
@@ -18261,7 +20473,7 @@ System.out.println(combined); // Hello World</code></pre>
 String modified = original.concat(" Programming");
 System.out.println(original); // Java (unchanged)
 System.out.println(modified); // Java Programming</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Java<br>
@@ -18278,7 +20490,7 @@ String s4 = s3.intern();
 System.out.println(s1 == s2);  // true (same pool object)
 System.out.println(s1 == s3);  // false
 System.out.println(s1 == s4);  // true (interned)</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true<br>
@@ -18290,7 +20502,7 @@ System.out.println(s1 == s4);  // true (interned)</code></pre>
     <pre><code>char[] chars = {'H','e','l','l','o',' ','W','o','r','l','d'};
 String result = new String(chars, 6, 5); // start at index 6, take 5 chars
 System.out.println(result); // World</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>📘 String Class Interfaces</h2>
     <ul>
@@ -18312,7 +20524,7 @@ System.out.println(result); // World</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with Java Strings.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -18327,7 +20539,7 @@ System.out.println(result); // World</code></pre>
 
 
                 { 
-                id: "Why String is Immutable in Java?",       
+                id: "Why-String-is-Immutable-in-Java",       
                 name: "Why String is Immutable in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -18488,7 +20700,7 @@ System.out.println(result); // World</code></pre>
         System.out.println(s);    // prints Sachin
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sachin
@@ -18502,7 +20714,7 @@ System.out.println(result); // World</code></pre>
         System.out.println(s);   // prints Sachin Tendulkar
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sachin Tendulkar
@@ -18555,7 +20767,7 @@ String Pool                     Heap (if using new)
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with string immutability.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -18568,7 +20780,7 @@ String Pool                     Heap (if using new)
                  `
                 },
                 { 
-                id: "Java String Comparison", 
+                id: "Java-String-Comparison", 
                 name: "Java String Comparison", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -18737,7 +20949,7 @@ String Pool                     Heap (if using new)
         System.out.println(s1.equals(s4)); // false
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true<br>
@@ -18754,7 +20966,7 @@ String Pool                     Heap (if using new)
         System.out.println(s1.equalsIgnoreCase(s2));    // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         false<br>
@@ -18772,7 +20984,7 @@ String Pool                     Heap (if using new)
         System.out.println(s1 == s3);  // false (different objects)
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true<br>
@@ -18796,7 +21008,7 @@ String Pool                     Heap (if using new)
         System.out.println(str3.compareTo(str1));  // -1 (Ratan < Sachin)
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         0<br>
@@ -18813,7 +21025,7 @@ String Pool                     Heap (if using new)
         System.out.println(str.endsWith("Compare"));  // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true<br>
@@ -18832,7 +21044,7 @@ String Pool                     Heap (if using new)
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with string comparison examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -18845,7 +21057,7 @@ String Pool                     Heap (if using new)
     `
                 },
                 { 
-                id: "String Concatenation in Java", 
+                id: "String-Concatenation-in-Java", 
                 name: "String Concatenation in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -19000,7 +21212,7 @@ String Pool                     Heap (if using new)
         System.out.println(s);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sachin Tendulkar
@@ -19013,7 +21225,7 @@ String Pool                     Heap (if using new)
         System.out.println(s); // 80Sachin4040
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         80Sachin4040
@@ -19030,7 +21242,7 @@ String Pool                     Heap (if using new)
         System.out.println(s3);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sachin Tendulkar
@@ -19051,7 +21263,7 @@ String Pool                     Heap (if using new)
         System.out.println(result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello, Manoj Mamilla
@@ -19067,7 +21279,7 @@ String Pool                     Heap (if using new)
         System.out.println(result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello, Manoj Mamilla
@@ -19083,7 +21295,7 @@ String Pool                     Heap (if using new)
         System.out.println(result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello, Manoj Mamilla
@@ -19101,7 +21313,7 @@ public class ColJoining {
         System.out.println(str);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         abc, pqr, xyz
@@ -19120,7 +21332,7 @@ public class ColJoining {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with string concatenation methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -19133,7 +21345,7 @@ public class ColJoining {
     `
                 },
                 { 
-                id: "Substring in Java", 
+                id: "Substring-in-Java", 
                 name: "Substring in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -19295,7 +21507,7 @@ public String substring(int startIndex, int endIndex)              // from start
         System.out.println("Index 0 to 6: " + s.substring(0, 6));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Original: SachinTendulkar<br>
@@ -19318,7 +21530,7 @@ public class TestSubstring2 {
         System.out.println(Arrays.toString(sentences));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         [Hello, My name is Sachin]
@@ -19336,7 +21548,7 @@ public class TestSubstring2 {
         System.out.println(result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Programming Language
@@ -19355,7 +21567,7 @@ public class TestSubstring2 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with substring examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -19368,7 +21580,7 @@ public class TestSubstring2 {
     `
                 },
                 { 
-                id: "Java String Methods | String Class Methods in Java", 
+                id: "Java-String-Methods-String-Class-Methods-in-Java", 
                 name: "Java String Methods | String Class Methods in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -19581,7 +21793,7 @@ public class TestSubstring2 {
         System.out.println(s); // original unchanged (immutable)
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         COMPUTER<br>
@@ -19596,7 +21808,7 @@ public class TestSubstring2 {
         System.out.println(s.trim());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         computer
@@ -19610,7 +21822,7 @@ public class TestSubstring2 {
         System.out.println(s.endsWith("r"));   // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         true<br>
@@ -19625,7 +21837,7 @@ public class TestSubstring2 {
         System.out.println(s.charAt(1)); // a
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         p<br>
@@ -19639,7 +21851,7 @@ public class TestSubstring2 {
         System.out.println(s.length()); // 11
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         11
@@ -19653,7 +21865,7 @@ public class TestSubstring2 {
         System.out.println(s2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Apple
@@ -19667,7 +21879,7 @@ public class TestSubstring2 {
         System.out.println(s + 10); // concatenation
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1010
@@ -19681,7 +21893,7 @@ public class TestSubstring2 {
         System.out.println(replaceString);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Kava is a programming language. Kava is a platform. Kava is an Island.
@@ -19700,7 +21912,7 @@ public class TestSubstring2 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with String methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -19713,7 +21925,7 @@ public class TestSubstring2 {
     `
                 },
                 { 
-                id: "StringBuffer Class in Java", 
+                id: "StringBuffer-Class-in-Java", 
                 name: "StringBuffer Class in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -19906,7 +22118,7 @@ public class TestSubstring2 {
         System.out.println("sb3 (with capacity 50): \"" + sb3 + "\", Capacity: " + sb3.capacity());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         sb1 (default): "", Capacity: 16<br>
@@ -19944,7 +22156,7 @@ public class TestSubstring2 {
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello Java</div>
 
     <h3>2. insert()</h3>
@@ -19955,7 +22167,7 @@ public class TestSubstring2 {
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">HJavaello</div>
 
     <h3>3. replace()</h3>
@@ -19966,7 +22178,7 @@ public class TestSubstring2 {
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">HJavalo</div>
 
     <h3>4. delete()</h3>
@@ -19977,7 +22189,7 @@ public class TestSubstring2 {
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hlo</div>
 
     <h3>5. reverse()</h3>
@@ -19988,7 +22200,7 @@ public class TestSubstring2 {
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">olleH</div>
 
     <h3>6. capacity() and ensureCapacity()</h3>
@@ -20004,7 +22216,7 @@ public class TestSubstring2 {
         System.out.println("After ensureCapacity(50): " + sb.capacity());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Default capacity: 16<br>
         After append: 16<br>
@@ -20025,7 +22237,7 @@ public class TestSubstring2 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with StringBuffer.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -20038,7 +22250,7 @@ public class TestSubstring2 {
     `
                 },
                 { 
-                id: "StringBuilder Class in Java", 
+                id: "StringBuilder-Class-in-Java", 
                 name: "StringBuilder Class in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -20253,7 +22465,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello Java</div>
 
     <h3>2. insert()</h3>
@@ -20264,7 +22476,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">HJavaello</div>
 
     <h3>3. replace()</h3>
@@ -20275,7 +22487,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">HJavalo</div>
 
     <h3>4. delete()</h3>
@@ -20286,7 +22498,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hlo</div>
 
     <h3>5. reverse()</h3>
@@ -20297,7 +22509,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">olleH</div>
 
     <h3>6. capacity()</h3>
@@ -20311,7 +22523,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println("After exceeding: " + sb.capacity());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Default capacity: 16<br>
         After append: 16<br>
@@ -20327,7 +22539,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println("After ensureCapacity(50): " + sb.capacity());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Initial: 16<br>
         After ensureCapacity(50): 70
@@ -20347,7 +22559,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with StringBuilder.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -20360,7 +22572,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
     `
                 },
                 { 
-                id: "Difference between String and StringBuffer in Java", 
+                id: "Difference-between-String-and-StringBuffer-in-Java", 
                 name: "Difference between String and StringBuffer in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -20536,7 +22748,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(s);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello World</div>
 
     <h2>📌 What is StringBuffer in Java?</h2>
@@ -20548,7 +22760,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(sb);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello World</div>
 
     <h2>📊 Difference between String and StringBuffer</h2>
@@ -20571,14 +22783,14 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
     public static String concatWithString() {
         String t = "Java";
         for (int i = 0; i < 10000; i++) {
-            t = t + "Tpoint";
+            t = t + "Dreamztouch";
         }
         return t;
     }
     public static String concatWithStringBuffer() {
         StringBuffer sb = new StringBuffer("Java");
         for (int i = 0; i < 10000; i++) {
-            sb.append("Tpoint");
+            sb.append("Dreamztouch");
         }
         return sb.toString();
     }
@@ -20591,7 +22803,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println("StringBuffer time: " + (System.currentTimeMillis() - startTime) + "ms");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Output:</strong><br>
         String time: 578ms<br>
@@ -20605,17 +22817,17 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println("Hashcode test of String:");
         String str = "java";
         System.out.println(str.hashCode());
-        str = str + "tpoint";
+        str = str + "Dreamztouch";
         System.out.println(str.hashCode());
 
         System.out.println("Hashcode test of StringBuffer:");
         StringBuffer sb = new StringBuffer("java");
         System.out.println(sb.hashCode());
-        sb.append("tpoint");
+        sb.append("Dreamztouch");
         System.out.println(sb.hashCode());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Hashcode test of String:<br>
         3254818<br>
@@ -20638,7 +22850,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -20651,7 +22863,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
     `
                 },
                 { 
-                id: "StringBuffer vs StringBuilder in Java", 
+                id: "StringBuffer-vs-StringBuilder-in-Java", 
                 name: "StringBuffer vs StringBuilder in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -20834,7 +23046,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(buffer);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">hellojava</div>
 
     <h2>📌 What is StringBuilder?</h2>
@@ -20847,7 +23059,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         System.out.println(builder);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">hellojava</div>
 
     <h2>📊 Difference Between StringBuffer and StringBuilder</h2>
@@ -20870,19 +23082,19 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
         long startTime = System.currentTimeMillis();
         StringBuffer sb = new StringBuffer("Java");
         for (int i = 0; i < 10000; i++) {
-            sb.append("Tpoint");
+            sb.append("Dreamztouch");
         }
         System.out.println("StringBuffer time: " + (System.currentTimeMillis() - startTime) + "ms");
 
         startTime = System.currentTimeMillis();
         StringBuilder sb2 = new StringBuilder("Java");
         for (int i = 0; i < 10000; i++) {
-            sb2.append("Tpoint");
+            sb2.append("Dreamztouch");
         }
         System.out.println("StringBuilder time: " + (System.currentTimeMillis() - startTime) + "ms");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Output:</strong><br>
         StringBuffer time: 16ms<br>
@@ -20901,7 +23113,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with StringBuffer and StringBuilder.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -20914,7 +23126,7 @@ StringBuilder sb3 = new StringBuilder(50);              // capacity 50</code></p
     `
                 },
                 { 
-                id: "How to create Immutable Class in Java?", 
+                id: "How-to-create-Immutable-Class-in-Java", 
                 name: "How to create Immutable Class in Java?", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -21137,7 +23349,7 @@ public class TestImmutable {
         System.out.println(s.getId() + " " + s.getName() + " " + s.getCourse());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         101 Rahul Java
@@ -21175,7 +23387,7 @@ public class TestDeepCopy {
         System.out.println("First mark in student object: " + s.getMarks()[0]); // still 80
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         First mark in student object: 80
@@ -21196,7 +23408,7 @@ public class TestDeepCopy {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with immutable classes.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -21209,7 +23421,7 @@ public class TestDeepCopy {
     `
                 },
                 { 
-                id: "Java toString() Method: Overriding and Usage", 
+                id: "Java-toString-Method-Overriding-and-Usage", 
                 name: "Java toString() Method: Overriding and Usage", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -21378,7 +23590,7 @@ public class TestDeepCopy {
         System.out.println(s2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (example):</strong><br>
         Student@1fee6fc<br>
@@ -21411,7 +23623,7 @@ public class TestDeepCopy {
         System.out.println(s2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         101 Raj Lucknow<br>
@@ -21431,7 +23643,7 @@ public class TestDeepCopy {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with overriding <code>toString()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -21444,7 +23656,7 @@ public class TestDeepCopy {
     `
                 },
                 { 
-                id: "StringTokenizer Class in Java", 
+                id: "StringTokenizer-Class-in-Java", 
                 name: "StringTokenizer Class in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -21654,7 +23866,7 @@ public class TestStringTokenizer {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Default delimiter (space):<br>
@@ -21705,7 +23917,7 @@ public class Test {
         System.out.println("Next token: " + st.nextToken(","));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Next token: my
@@ -21722,7 +23934,7 @@ public class StringTokenizer1 {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Demonstrating<br>
@@ -21743,7 +23955,7 @@ public class StringTokenizer2 {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Hello<br>
@@ -21764,7 +23976,7 @@ public class StringTokenizer3 {
         System.out.println("Total number of tokens: " + st.countTokens());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Total number of tokens: 6
@@ -21776,7 +23988,7 @@ public class StringTokenizer3 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>StringTokenizer</code> class.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -21789,7 +24001,7 @@ public class StringTokenizer3 {
     `
                 },
                 { 
-                id: "How to Reverse String a in Java?", 
+                id: "How-to-Reverse-String-a-in-Java", 
                 name: "How to Reverse String a in Java?", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -21948,10 +24160,10 @@ public class StringTokenizer3 {
 public class TestStringFormatter {
     public static void main(String[] args) {
         System.out.println(StringFormatter.reverseString("my name is khan"));
-        System.out.println(StringFormatter.reverseString("I am sonoo jaiswal"));
+        System.out.println(StringFormatter.reverseString("I am James goasling"));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         nahk si eman ym<br>
@@ -21970,7 +24182,7 @@ public class TestStringFormatter {
         return rev;
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (same as above):</strong><br>
         nahk si eman ym<br>
@@ -21986,7 +24198,7 @@ public class TestStringFormatter {
     }
     return sb.toString();
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Example:</strong> "Hello, World!" → "!dlroW ,olleH"
     </div>
@@ -22006,7 +24218,7 @@ public class TestStringFormatter {
     }
     return new String(charArray);
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Example:</strong> "Java Programming" → "gnimmargorP avaJ"
     </div>
@@ -22019,7 +24231,7 @@ public class TestStringFormatter {
     }
     return reverseWithRecursion(str.substring(1)) + str.charAt(0);
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Example:</strong> "Java Programming" → "gnimmargorP avaJ"
     </div>
@@ -22036,7 +24248,7 @@ public class TestStringFormatter {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and test the reverse string methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -22051,12 +24263,12 @@ public class TestStringFormatter {
         },
 
         {
-            id: "Java Regex",    
+            id: "Java-Regex",    
             name: "Java Regex",
             isParent: true,
             subtopics: [
                 { 
-                id: "Java Regular Expressions (Regex)", 
+                id: "Java-Regular-Expressions", 
                 name: "Java Regular Expressions (Regex)", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -22256,7 +24468,7 @@ public class Main {
         System.out.println(b + " " + b2 + " " + b3);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">true true true</div>
 
     <h2>🔍 Dot (.) Quantifier</h2>
@@ -22270,7 +24482,7 @@ public class Main {
         System.out.println(Pattern.matches("..s", "mas")); // true
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">true<br>false<br>false<br>true</div>
 
     <h2>📋 Character Classes</h2>
@@ -22306,7 +24518,7 @@ System.out.println(Pattern.matches("[amn]", "abcd")); // false</code></pre>
     <pre><code>System.out.println(Pattern.matches("[amn]?", "a"));   // true
 System.out.println(Pattern.matches("[amn]+", "aammmnn")); // true
 System.out.println(Pattern.matches("[amn]*", "ammmna"));  // true</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>⚙️ Metacharacters</h2>
     <table class="op-table">
@@ -22349,7 +24561,7 @@ public class Finder {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Found at index 8 to 12<br>Found at index 26 to 30</div>
 
     <h3>4. Extracting Phone Numbers, URLs, Emails, Dates</h3>
@@ -22363,7 +24575,7 @@ public class Extractor {
         while (m.find()) System.out.print(m.group() + " ");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Phones: 123-456-7890 987-654-3210</div>
 
     <h3>5. Email Validation</h3>
@@ -22389,7 +24601,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with regular expressions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -22407,12 +24619,12 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
 
 
           {
-            id: "Java OOPS Misc",    
+            id: "Java-OOPS-Misc",    
             name: "Java OOPS Misc",
             isParent: true,
             subtopics: [
                 { 
-                id: "Object class in Java", 
+                id: "Object-class-in-Java", 
                 name: "Object class in Java", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -22621,7 +24833,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
         System.out.println("Object as String: " + obj.toString());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Object as String: java.lang.Object@1b6d3586</div>
 
     <h3>2. <code>equals()</code> – Compare objects</h3>
@@ -22632,7 +24844,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
         System.out.println("Are the strings equal? " + str1.equals(str2));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Are the strings equal? true</div>
 
     <h3>3. <code>hashCode()</code> – Hash code value</h3>
@@ -22642,7 +24854,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
         System.out.println("Hash code of the object: " + obj.hashCode());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hash code of the object: 460141958</div>
 
     <div class="note">
@@ -22657,7 +24869,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with the <code>Object</code> class methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -22672,7 +24884,7 @@ if (m.find()) System.out.println("Domain: " + m.group(3)); // example.com</code>
 
 
                 { 
-                id: "Object Cloning in Java | Object.clone() Method",       
+                id: "Object-Cloning-in-Java-Object-clone-Method",       
                 name: "Object Cloning in Java | Object.clone() Method",
                 description: String.raw`
 <!DOCTYPE html>
@@ -22882,7 +25094,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Original: 101 - Jack<br>
@@ -22923,7 +25135,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with object cloning.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -22937,7 +25149,7 @@ public class Main {
                 },
 
                 { 
-                id: "Java Math Class",       
+                id: "Java-Math-Class",       
                 name: "Java Math Class",
                 description: String.raw`
 <!DOCTYPE html>
@@ -23190,7 +25402,7 @@ public class Main {
         System.out.println("exp of x: " + Math.exp(x));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Max: 28.0<br>
@@ -23212,7 +25424,7 @@ public class Main {
         System.out.println("Hyperbolic sine: " + Math.sinh(rad));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (approximate):</strong><br>
         Sine: 0.49999999999999994<br>
@@ -23243,7 +25455,7 @@ public class Main {
         System.out.println("E: " + Math.E);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Addition: 32.0<br>
@@ -23267,7 +25479,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the Math class methods.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -23281,7 +25493,7 @@ public class Main {
                 },
 
                 { 
-                id: "Wrapper classes in Java",       
+                id: "Wrapper-classes-in-Java",       
                 name: "Wrapper classes in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -23485,7 +25697,7 @@ public class Main {
         System.out.println(a + " " + i + " " + j);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         20 20 20
@@ -23500,7 +25712,7 @@ public class Main {
         System.out.println(a + " " + i + " " + j);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         3 3 3
@@ -23559,7 +25771,7 @@ public class Main {
         System.out.println("boolean: " + boolvalue);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ---Object values---<br>
         Byte: 10<br>
@@ -23583,22 +25795,22 @@ public class Main {
 
     <h2>🛠️ Custom Wrapper Class (User‑defined)</h2>
     <p>You can create your own wrapper class that encapsulates a primitive value.</p>
-    <pre><code>class Javatpoint {
+    <pre><code>class dreamztouch {
     private int i;
-    Javatpoint() {}
-    Javatpoint(int i) { this.i = i; }
+    dreamztouch() {}
+    dreamztouch(int i) { this.i = i; }
     public int getValue() { return i; }
     public void setValue(int i) { this.i = i; }
     @Override
     public String toString() { return Integer.toString(i); }
 }
-public class TestJavatpoint {
+public class TestDreamztouch {
     public static void main(String[] args) {
-        Javatpoint j = new Javatpoint(10);
+        dreamztouch j = new dreamztouch(10);
         System.out.println(j);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         10
     </div>
@@ -23615,7 +25827,7 @@ public class TestJavatpoint {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with wrapper classes.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -23629,7 +25841,7 @@ public class TestJavatpoint {
                 },
 
                 { 
-                id: "Call by Value and Call by Reference in Java",       
+                id: "Call-by-Value-and-Call-by-Reference-in-Java",       
                 name: "Call by Value and Call by Reference in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -23822,7 +26034,7 @@ public class TestJavatpoint {
         System.out.println("after change: " + op.data);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         before change: 50<br>
@@ -23843,7 +26055,7 @@ public class TestJavatpoint {
         System.out.println("after change: " + op.data);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         before change: 50<br>
@@ -23868,7 +26080,7 @@ public class Main {
         d.value = d.value + 5;   // changes the actual object
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         After method call, value = 15
@@ -23894,7 +26106,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with call by value/reference examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -23908,7 +26120,7 @@ public class Main {
                 },
 
                 { 
-                id: "Strictfp Keyword in Java",       
+                id: "Strictfp-Keyword-in-Java",       
                 name: "Strictfp Keyword in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -24108,7 +26320,7 @@ public class Main {
         calc.compute();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Result: 2.539141
@@ -24121,7 +26333,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with the <code>strictfp</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -24135,7 +26347,7 @@ public class Main {
                 },
 
                 { 
-                id: "javadoc | Creating API Documention in Java",       
+                id: "javadoc-Creating-API-Documention-in-Java",       
                 name: "javadoc | Creating API Documention in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -24342,7 +26554,7 @@ public class M {
 
     <h2>🧪 Try It Yourself (Online)</h2>
     <p>Although you cannot directly run <code>javadoc</code> in an online compiler, you can experiment with writing Javadoc comments and then generate documentation locally. The example code above can be tested in a local environment. Click the button below to open a Java compiler to test the code functionality (not the documentation generation).</p>
-    <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+    <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
 
     <div class="note">
         💡 <strong>Key Takeaway:</strong> Javadoc is an essential tool for generating professional API documentation. By following the standard comment format and using tags like <code>@param</code>, <code>@return</code>, and <code>@since</code>, you make your code more understandable and maintainable. Always document your public classes and methods, especially when writing libraries or shared components.
@@ -24366,7 +26578,7 @@ public class M {
                  `
                 },
                 { 
-                id: "Command Line Arguments in Java",       
+                id: "Command-Line-Arguments-in-Java",       
                 name: "Command Line Arguments in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -24551,7 +26763,7 @@ args[2] = "arg3"</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>🔄 Converting Argument Types</h2>
     <p>All arguments are strings. For numeric operations, parse them using wrapper classes.</p>
@@ -24570,7 +26782,7 @@ args[2] = "arg3"</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Sample Run:</strong><br>
         $ java Calculator 15 25<br>
@@ -24609,7 +26821,7 @@ args[2] = "arg3"</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with command‑line arguments. Note: Online compilers may not simulate command‑line arguments exactly; you often need to enter arguments in a separate input box. The code itself demonstrates the logic.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -24622,7 +26834,7 @@ args[2] = "arg3"</code></pre>
                  `
                 },
                 { 
-                id: "Difference between Object and Class in Java",       
+                id: "Difference-between-Object-and-Class-in-Java",       
                 name: "Difference between Object and Class in Java",
                 description: String.raw`
 <!DOCTYPE html>
@@ -24889,7 +27101,7 @@ public class Main {
         a1.checkBalance();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         832345 Ankit 1000.0<br>
@@ -24912,7 +27124,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with the class and object example.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -25120,7 +27332,7 @@ public class Main {
         System.out.println("Sum of array {1,2,3,4,5}: " + calc.add(new int[]{1,2,3,4,5}));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Sum of 2 and 3 (int): 5<br>
@@ -25152,7 +27364,7 @@ public class Main {
         myDog.makeSound();   // runtime polymorphism
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Animal makes a sound<br>
@@ -25189,7 +27401,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with overloading and overriding examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -25444,7 +27656,7 @@ public class Main {
         cat.makeSound();   // Cat meows
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Dog barks<br>
@@ -25464,7 +27676,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with the class‑interface example.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -25680,7 +27892,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Today is: WEDNESDAY<br>
         All days:<br>
@@ -25701,7 +27913,7 @@ public class Main {
         System.out.println(Direction.NORTH);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">NORTH</div>
 
     <h3>Inside a class (encapsulated)</h3>
@@ -25712,7 +27924,7 @@ public class Main {
             System.out.println(s);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">WINTER<br>SPRING<br>SUMMER<br>FALL</div>
 
     <h2>🔁 main() Method Inside Enum</h2>
@@ -25723,7 +27935,7 @@ public class Main {
         System.out.println(s);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">WINTER</div>
 
     <h2>⚙️ Using Enum with switch</h2>
@@ -25738,7 +27950,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Monday</div>
 
     <h2>🚥 Using Enum as a Variable</h2>
@@ -25751,7 +27963,7 @@ public class Main {
         else System.out.println("Get ready...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Get ready...</div>
 
     <h2>📊 Enum with Constructor, Fields, and Specific Values</h2>
@@ -25766,7 +27978,7 @@ public class Main {
             System.out.println(s + " " + s.value);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">WINTER 5<br>SPRING 10<br>SUMMER 15<br>FALL 20</div>
 
     <div class="note">
@@ -25782,7 +27994,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">MONDAY<br>TUESDAY<br>...</div>
 
     <h2>📚 Enum Class Methods (ordinal, compareTo, toString, name, valueOf)</h2>
@@ -25811,7 +28023,7 @@ public class Main {
         System.out.println("valueOf(): " + day);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ordinal():<br>
         MONDAY -> 0<br>
@@ -25846,7 +28058,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with enums.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -26065,7 +28277,7 @@ public class Main {
         System.out.println("Sum of first " + num + " numbers: " + result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Sum of first 5 numbers: 15</div>
 
     <h3>Example 2: Infinite Recursion (StackOverflowError)</h3>
@@ -26080,7 +28292,7 @@ public class Main {
         RecursionExample.p();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         hello<br>hello<br>...<br>java.lang.StackOverflowError
     </div>
@@ -26101,7 +28313,7 @@ public class Main {
         RecursionExample.p();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         hello 1<br>hello 2<br>hello 3<br>hello 4<br>hello 5
     </div>
@@ -26120,7 +28332,7 @@ public class Main {
         System.out.println("Factorial of " + num + " is: " + result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Factorial of 5 is: 120</div>
     <p><strong>Recursive trace:</strong><br>
     factorial(5) → 5 * factorial(4)<br>
@@ -26149,7 +28361,7 @@ public class Main {
         F.printFibo(count - 2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">0 1 1 2 3 5 8 13 21 34 55 89 144 233 377</div>
 
     <h2>⚠️ Stack Overflow Error in Recursion</h2>
@@ -26174,7 +28386,7 @@ public class Main {
         System.out.println("Factorial: " + result);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Factorial: 120</div>
 
     <h2>🧠 Memory Allocation During Recursion</h2>
@@ -26212,7 +28424,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with recursion examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -26399,7 +28611,7 @@ public class Demo {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bark<br>
@@ -26453,7 +28665,7 @@ public class DynamicMethod {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bark<br>
@@ -26485,7 +28697,7 @@ public class DemoAbstract {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bark<br>
@@ -26505,7 +28717,7 @@ public class DemoAbstract {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with dynamic method dispatch.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -26748,7 +28960,7 @@ public class Main {
         d1.eat();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Bark bark<br>
@@ -26779,7 +28991,7 @@ public class Main {
         person2.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         This is the display method of the student class<br>
@@ -26815,7 +29027,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with abstraction examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -27044,7 +29256,7 @@ public class CheckedExceptionExample {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         An IOException occurred: example.txt (No such file or directory)
@@ -27076,7 +29288,7 @@ public class CheckedExceptionExample {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught NullPointerException: null<br>
@@ -27101,7 +29313,7 @@ public class CheckedExceptionExample {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Caught StackOverflowError: null<br>
         Caught OutOfMemoryError: Java heap space
@@ -27130,7 +29342,7 @@ public class CheckedExceptionExample {
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         java.lang.ArithmeticException: / by zero<br>
         rest of the code...
@@ -27158,7 +29370,7 @@ public class Main {
         System.out.println("Program continues...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Error: Array index out of bounds.<br>
         Program continues...
@@ -27178,7 +29390,7 @@ public class Main {
         System.out.println("Program continues...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Error: Division by zero.<br>
         This block always executes.<br>
@@ -27211,7 +29423,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with exception handling examples.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -27394,7 +29606,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("Program continues after exception handling.");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Error: Division by zero is not allowed.<br>
@@ -27432,7 +29644,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("Program continues after nested exception handling.");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Outer try block starts<br>
@@ -27449,7 +29661,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code"); // never executed
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Exception in thread "main" java.lang.ArithmeticException: / by zero
@@ -27466,7 +29678,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         java.lang.ArithmeticException: / by zero<br>
@@ -27486,7 +29698,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with try-catch blocks.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -27682,7 +29894,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("Program continues after handling exceptions.");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught ArrayIndexOutOfBoundsException: Invalid index.<br>
@@ -27707,7 +29919,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Arithmetic Exception occurs<br>
         rest of the code
@@ -27729,7 +29941,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         ArrayIndexOutOfBounds Exception occurs<br>
         rest of the code
@@ -27752,7 +29964,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Arithmetic Exception occurs<br>
         rest of the code
@@ -27774,7 +29986,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Parent Exception occurs<br>
         rest of the code
@@ -27807,7 +30019,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with multiple catch blocks.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -28007,7 +30219,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("normal flow..");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         cannot divide by 0<br>
@@ -28045,7 +30257,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 4 outer (main) try block
@@ -28065,7 +30277,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with nested try blocks.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -28248,7 +30460,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("Rest of the program continues...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Exception caught: java.lang.ArithmeticException: / by zero<br>
@@ -28273,7 +30485,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         5<br>
@@ -28297,7 +30509,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Inside the try block<br>
@@ -28322,7 +30534,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Inside the try block<br>
@@ -28343,7 +30555,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>finally</code> block.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -28558,7 +30770,7 @@ a[10] = 50; // ArrayIndexOutOfBoundsException</code></pre>
         System.out.println("Eligible to vote");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Exception in thread "main" java.lang.ArithmeticException: Not eligible to vote
@@ -28580,7 +30792,7 @@ public class Main {
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Exception in thread "main" java.lang.ArithmeticException: Person is not eligible to vote<br>
         at Main.validate(Main.java:8)<br>
@@ -28607,7 +30819,7 @@ public class Main {
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         java.io.FileNotFoundException: C:\Users\Desktop\abc.txt (No such file or directory)<br>
         (stack trace truncated)<br>
@@ -28635,7 +30847,7 @@ public class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught the exception<br>
@@ -28655,7 +30867,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with throwing exceptions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -28845,7 +31057,7 @@ public class Main {
         System.out.println("normal flow...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         exception handled<br>
@@ -28876,7 +31088,7 @@ class Main {
         System.out.println("normal flow");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         exception handled<br>
@@ -28898,7 +31110,7 @@ class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with exception propagation.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -29086,7 +31298,7 @@ class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Exception caught: Not eligible to vote
@@ -29112,7 +31324,7 @@ class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         File not found: test.txt (No such file or directory)
@@ -29150,7 +31362,7 @@ public class Main {
         System.out.println("normal flow...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         exception handled<br>
         normal flow...
@@ -29170,7 +31382,7 @@ class Main {
         System.out.println("normal flow...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Device operation performed<br>
         normal flow...
@@ -29209,7 +31421,7 @@ class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with the <code>throws</code> keyword.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -29411,7 +31623,7 @@ class Main {
         System.out.println("Rest of the code..");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Exception in thread "main" java.lang.ArithmeticException: Number is negative, cannot calculate square<br>
@@ -29436,7 +31648,7 @@ class Main {
         System.out.println("Rest of the code..");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Number cannot be divided by 0<br>
@@ -29473,7 +31685,7 @@ class Main {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Inside the method()<br>
@@ -29493,7 +31705,7 @@ class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with <code>throw</code> and <code>throws</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -29697,7 +31909,7 @@ class Main {
         obj.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Compile Error:</strong> cannot assign a value to final variable age
     </div>
@@ -29719,7 +31931,7 @@ class Main {
         System.out.println("rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         Inside try block<br>
         Exception handled<br>
@@ -29742,7 +31954,7 @@ class Main {
         System.out.println("Main method completed.");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output (may vary):</strong><br>
         Main method completed.<br>
@@ -29775,7 +31987,7 @@ class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with final, finally, and finalize.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -30003,7 +32215,7 @@ class TestExceptionChild extends Parent {
         p.msg();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (will show compile error)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (will show compile error)</button>
     <div class="example-output">
         <strong>Compile Error:</strong> Exception IOException is not compatible with throws clause in Parent.msg()
     </div>
@@ -30023,7 +32235,7 @@ class TestExceptionChild1 extends Parent {
         p.msg();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         child method
@@ -30050,7 +32262,7 @@ class TestExceptionChild2 extends Parent {
         } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (compile error)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (compile error)</button>
     <div class="example-output">
         <strong>Compile Error:</strong> Exception Exception is not compatible with throws clause in Parent.msg()
     </div>
@@ -30072,7 +32284,7 @@ class TestExceptionChild3 extends Parent {
         } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         child method
     </div>
@@ -30094,7 +32306,7 @@ class TestExceptionChild4 extends Parent {
         } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         child method
     </div>
@@ -30116,7 +32328,7 @@ class TestExceptionChild5 extends Parent {
         } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         child method
     </div>
@@ -30127,7 +32339,7 @@ class TestExceptionChild5 extends Parent {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with exception handling in method overriding.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -30319,7 +32531,7 @@ public class TestWrongFileNameException {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught Exception: Invalid file name: must end with .txt
@@ -30351,7 +32563,7 @@ public class Main {
         System.out.println("Rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught the exception<br>
@@ -30373,7 +32585,7 @@ public class Main {
         System.out.println("Rest of the code...");
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Caught the exception<br>
@@ -30395,7 +32607,7 @@ public class Main {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with custom exceptions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -30626,7 +32838,7 @@ public class TestStudent {
         address.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Student Name: Rahul<br>
@@ -30659,7 +32871,7 @@ public class Main {
         inner.show();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Data: 10</div>
 
     <h3>2️⃣ Local Inner Class</h3>
@@ -30679,7 +32891,7 @@ public class Main {
         outer.display();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Local inner class</div>
 
     <h3>3️⃣ Anonymous Inner Class</h3>
@@ -30698,7 +32910,7 @@ public class Main {
         g.sayHello();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Hello from anonymous inner class</div>
 
     <h3>4️⃣ Static Nested Class</h3>
@@ -30719,7 +32931,7 @@ public class Main {
         nested.show();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Static data: 100</div>
 
     <h3>5️⃣ Nested Interface</h3>
@@ -30736,7 +32948,7 @@ class Test implements Outer.NestedInterface {
         obj.show();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">Nested interface implemented</div>
 
     <div class="note">
@@ -30752,7 +32964,7 @@ class Test implements Outer.NestedInterface {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with inner classes.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -30988,7 +33200,7 @@ class Test implements Outer.NestedInterface {
         in.msg();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run live</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run live</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         data is 30
@@ -31026,7 +33238,7 @@ public class Main {
         report.generate();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run code</button>
     <div class="output-demo">
         📘 Output:<br>
         Student: Priya Sharma (Roll: 101)<br>
@@ -31125,7 +33337,7 @@ class Outer$Inner {
         tx.showBalance();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Execute this</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Execute this</button>
     <div class="output-demo">
         Deposited: $1500.0<br>
         Current Balance: $6500.0
@@ -31352,7 +33564,7 @@ public class TestAnonymousInner {
         p.eat();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         nice fruits
@@ -31376,7 +33588,7 @@ public class Main {
         v.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run</button>
     <div class="output-demo">
         Electric car starts silently
     </div>
@@ -31397,7 +33609,7 @@ public class TestAnonymousInner1 {
         e.eat();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         nice fruits
     </div>
@@ -31414,7 +33626,7 @@ public class TestAnonymousInner1 {
         new Thread(task).start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run</button>
     <div class="output-demo">
         Running in anonymous thread
     </div>
@@ -31471,7 +33683,7 @@ public class AnonymousListenerDemo {
         frame.setVisible(true);
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run (GUI may not show in online console)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run (GUI may not show in online console)</button>
     <div class="output-demo">
         (When button clicked) → Button clicked using anonymous inner class!
     </div>
@@ -31724,7 +33936,7 @@ Eatable e = () -> System.out.println("nice fruits");</code></pre>
         obj.display();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         30
@@ -31794,7 +34006,7 @@ class LocalInner1$Local {
         obj.display();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         50<br>
@@ -31825,7 +34037,7 @@ class LocalInner1$Local {
         obj.process(true);
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         Inside if-block local class
     </div>
@@ -32087,7 +34299,7 @@ obj.display();</code></pre>
         obj.msg();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         data is 30
@@ -32121,7 +34333,7 @@ static class TestOuter1$Inner {
         TestOuter2.Inner.msg();  // No instance of Inner needed
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         data is 30
@@ -32144,7 +34356,7 @@ public class Demo {
         nested.reveal();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run</button>
     <div class="output-demo">
         Static nested classes can access private static fields
     </div>
@@ -32218,7 +34430,7 @@ public class Demo {
         user.display();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run</button>
     <div class="output-demo">
         User: Amit, 25 years old
     </div>
@@ -32464,7 +34676,7 @@ class TestNestedInterface1 implements Showable.Message {
         message.msg();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Hello nested interface
@@ -32498,7 +34710,7 @@ class TestNestedInterface2 implements A.Message {
         message.msg();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Hello nested interface inside class
@@ -32521,7 +34733,7 @@ public class TestClassInInterface {
         obj.display();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Class inside interface
@@ -32790,7 +35002,7 @@ public class ThreadExample {
         t1.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Thread running: 1<br>
@@ -32816,7 +35028,7 @@ public class RunnableExample {
         t1.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Runnable Thread: 1<br>
@@ -32892,7 +35104,7 @@ public class RunnableExample {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Deposit started.<br>
@@ -32926,7 +35138,7 @@ public class RunnableExample {
         c2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Client1 request processing started.<br>
@@ -33222,7 +35434,7 @@ public class Main implements Runnable {
         System.out.println("The state of thread t2 when it has completed it's execution - " + t2.getState()); // TERMINATED
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         The state of thread t1 after spawning it - NEW<br>
@@ -33481,7 +35693,7 @@ public class Main implements Runnable {
         t1.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         thread is running...
@@ -33495,7 +35707,7 @@ public class Main implements Runnable {
         System.out.println(t.getName());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         My first thread
@@ -33516,7 +35728,7 @@ public class Main implements Runnable {
         t1.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         thread is running...
@@ -33535,7 +35747,7 @@ public class Main implements Runnable {
         System.out.println(th1.getName());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         My new thread<br>
@@ -33800,7 +36012,7 @@ public class Main implements Runnable {
         t5.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Typical Output (order may vary):</strong><br>
         Thread 2 with priority 7 is running.<br>
@@ -34059,7 +36271,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         System.out.println("End");
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Start<br>
@@ -34089,7 +36301,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Thread will sleep for 5 seconds.<br>
@@ -34117,7 +36329,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         1<br>
@@ -34146,7 +36358,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         0 (after 1 sec)<br>
@@ -34169,7 +36381,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         java.lang.IllegalArgumentException: timeout value is negative
@@ -34212,7 +36424,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
                  `
                 },
                  { 
-                id: "Can we start a thread twice",       
+                id: "Can-we-start-a-thread-twice",       
                 name: "Can we start a thread twice",
                 description: String.raw`
 <!DOCTYPE html>
@@ -34386,7 +36598,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         t1.start();   // Second start – throws exception
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo error-output">
         <strong>📤 Output:</strong><br>
         running...<br>
@@ -34412,7 +36624,7 @@ public static void sleep(long millis, int nanos) throws InterruptedException</co
         t2.start(); // Thread-1
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Task is running by Thread-0<br>
@@ -34443,7 +36655,7 @@ public class ReuseRunnable {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (example):</strong><br>
         Executing task in Worker-1<br>
@@ -34466,7 +36678,7 @@ public class ReuseRunnable {
                  `
                 },
                  { 
-                id: "What if We Call run() Method Directly Instead of start() in Java?",       
+                id: "What-if-We-Call-run()-Method-Directly-Instead-of-start()-in-Java",       
                 name: "What if We Call run() Method Directly Instead of start() in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -34646,7 +36858,7 @@ public class ReuseRunnable {
         t1.run();  // works, but runs in main thread, not a new thread
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         running...
@@ -34670,7 +36882,7 @@ public class ReuseRunnable {
         t2.run();  // runs after t1 finishes, still in main thread
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         1<br>
@@ -34725,7 +36937,7 @@ public class ReuseRunnable {
         t2.start();  // another new thread
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output (interleaved):</strong><br>
         Thread-0: 1<br>
@@ -34974,7 +37186,7 @@ public class ThreadJoinExample {
         th3.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (example):</strong><br>
         Current thread name: main<br>
@@ -35016,7 +37228,7 @@ public class ThreadJoinExample {
         t3.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         1<br>
@@ -35057,7 +37269,7 @@ public class ThreadJoinExample {
         t3.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (sample interleaving):</strong><br>
         1<br>
@@ -35098,7 +37310,7 @@ public class ThreadJoinExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo error-output" style="border-left-color:#dc2626;">
         <strong>📤 Output:</strong><br>
         Exception caught: java.lang.InterruptedException
@@ -35298,16 +37510,16 @@ public class ThreadJoinExample1 {
         t1.start();
         t2.start();
 
-        t1.setName("Sonoo Jaiswal");
+        t1.setName("James Goasling");
         System.out.println("After changing name of t1: " + t1.getName());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Name of t1: Thread-0<br>
         Name of t2: Thread-1<br>
-        After changing name of t1: Sonoo Jaiswal<br>
+        After changing name of t1: James Goasling<br>
         running...<br>
         running...
     </div>
@@ -35327,8 +37539,8 @@ class ThreadName extends Thread {
 
 public class ThreadNamingExample {
     public static void main(String argvs[]) {
-        ThreadName th1 = new ThreadName("JavaTpoint1");
-        ThreadName th2 = new ThreadName("JavaTpoint2");
+        ThreadName th1 = new ThreadName("DreamzTouch1");
+        ThreadName th2 = new ThreadName("DreamzTouch2");
 
         System.out.println("Thread - 1: " + th1.getName());
         System.out.println("Thread - 2: " + th2.getName());
@@ -35337,11 +37549,11 @@ public class ThreadNamingExample {
         th2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
-        Thread - 1: JavaTpoint1<br>
-        Thread - 2: JavaTpoint2<br>
+        Thread - 1: DreamzTouch1<br>
+        Thread - 2: DreamzTouch2<br>
         The thread is executing....<br>
         The thread is executing....
     </div>
@@ -35359,7 +37571,7 @@ public class ThreadNamingExample {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Thread-0<br>
@@ -35375,7 +37587,7 @@ public class ThreadNamingExample {
         System.out.println("Is alive? " + current.isAlive());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Current thread: main<br>
@@ -35406,7 +37618,7 @@ public class RunnableNaming {
         t1.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Running in thread: Custom-Runnable-Thread
@@ -35651,7 +37863,7 @@ public class ThreadPriorityExample extends Thread {
         System.out.println("Main thread new priority: " + Thread.currentThread().getPriority());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Priority of th1: 5<br>
@@ -35683,7 +37895,7 @@ public class ThreadPriorityExample1 extends Thread {
         System.out.println("th1 priority (inherited): " + th1.getPriority());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Main thread priority: 7<br>
@@ -35701,7 +37913,7 @@ public class ThreadPriorityExample1 extends Thread {
         System.out.println("This line will not be printed");
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo error-output">
         <strong>📤 Output (Exception):</strong><br>
         Exception in thread "main" java.lang.IllegalArgumentException<br>
@@ -35936,7 +38148,7 @@ public boolean isDaemon()               // returns true if thread is daemon</cod
         t3.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (typical):</strong><br>
         daemon thread work<br>
@@ -35961,7 +38173,7 @@ public boolean isDaemon()               // returns true if thread is daemon</cod
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo error-output">
         <strong>📤 Output:</strong><br>
         Exception in thread "main" java.lang.IllegalThreadStateException
@@ -35984,7 +38196,7 @@ public boolean isDaemon()               // returns true if thread is daemon</cod
         System.out.println("Main thread finished");
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (likely):</strong><br>
         Main thread finished<br>
@@ -36236,7 +38448,7 @@ public class Main {
         System.out.println("Finished all threads");
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         pool-1-thread-1 (Start) message = 0<br>
@@ -36292,7 +38504,7 @@ public class Main {
         pl.shutdown();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (abbreviated):</strong><br>
         Initialization time for task 1 = 12 : 14 : 02<br>
@@ -36573,7 +38785,7 @@ public class ThreadGroupExample {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Thread running: Thread-1<br>
@@ -36601,7 +38813,7 @@ public class ThreadGroupExample {
         System.out.println("Active threads: " + tg1.activeCount());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         one<br>
@@ -36638,7 +38850,7 @@ public class InterruptGroup {
         group.interrupt();   // interrupt all threads in group
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Worker-1 running, going to sleep...<br>
@@ -36668,7 +38880,7 @@ public class InterruptGroup {
         System.out.println("Child's parent: " + child.getParent().getName());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Parent: ParentGroup<br>
@@ -36877,7 +39089,7 @@ public class TestShutdown1 {
         try { Thread.sleep(3000); } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Now main sleeping... press ctrl+c to exit<br>
@@ -36898,7 +39110,7 @@ public class TestShutdown1 {
         try { Thread.sleep(3000); } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Now main sleeping... press ctrl+c to exit<br>
@@ -36927,7 +39139,7 @@ public class TestShutdown1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         The program is beginning ...<br>
@@ -37136,7 +39348,7 @@ public class TestShutdown1 {
         t3.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         task one<br>
@@ -37156,7 +39368,7 @@ public class TestShutdown1 {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         task one<br>
@@ -37181,7 +39393,7 @@ class TestMultitasking3 {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         task one<br>
@@ -37201,7 +39413,7 @@ class TestMultitasking3 {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         task one<br>
@@ -37223,7 +39435,7 @@ class TestMultitasking3 {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         task one<br>
@@ -37272,7 +39484,7 @@ class TestMultitasking3 {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
@@ -37496,7 +39708,7 @@ public class StudentGCDemo {
         System.gc();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Student object is garbage collected<br>
@@ -37525,7 +39737,7 @@ public class StudentGCDemo {
         System.gc();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (no finalize here, just demonstrates):</strong><br>
         Requesting GC...
@@ -37764,7 +39976,7 @@ public class StudentGCDemo {
         Runtime.getRuntime().exec("notepad"); // will open a new notepad
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (opens notepad locally)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (opens notepad locally)</button>
     <div class="output-demo">
         <strong>📤 Behavior:</strong> Opens Windows Notepad application (if run on Windows).
     </div>
@@ -37775,7 +39987,7 @@ public class StudentGCDemo {
         Runtime.getRuntime().exec("shutdown -s -t 0");
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (shuts down system)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (shuts down system)</button>
     <div class="output-demo">
         <strong>⚠️ Warning:</strong> This command will shut down your computer immediately. Use with caution.
     </div>
@@ -37800,7 +40012,7 @@ public class StudentGCDemo {
         System.out.println(Runtime.getRuntime().availableProcessors());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (depends on system):</strong><br>
         8  (or number of CPU cores)
@@ -37821,7 +40033,7 @@ public class StudentGCDemo {
         System.out.println("After gc(), Free Memory: " + r.freeMemory());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         Total Memory: 100139008<br>
@@ -38052,7 +40264,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (interleaved, inconsistent):</strong><br>
         5<br>
@@ -38144,7 +40356,7 @@ public class Main {
         cook.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Customer is waiting for food...<br>
@@ -38374,7 +40586,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         5<br>
@@ -38417,7 +40629,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         (same sequential output as above)
@@ -38460,7 +40672,7 @@ public class Main {
         } catch (Exception e) {}
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Sending a Message: Hola <br>
@@ -38719,7 +40931,7 @@ public class Main {
         th2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Good Night: Mahi<br>
@@ -38754,7 +40966,7 @@ public class Main {
         t1.start(); t2.start(); t3.start(); t4.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (truncated):</strong><br>
         100<br>200<br>300 ... (threads execute sequentially, one table at a time)
@@ -38786,7 +40998,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         5<br>
@@ -39039,7 +41251,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (typical deadlock):</strong><br>
         Thread 1: locked resource 1<br>
@@ -39118,7 +41330,7 @@ public class NoDeadlock {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (no deadlock):</strong><br>
         Thread 1: locked resource 1<br>
@@ -39373,7 +41585,7 @@ public class Main {
         new Thread() { public void run() { c.deposit(10000); } }.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         going to withdraw...<br>
@@ -39612,7 +41824,7 @@ public class Main {
         t1.interrupt();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Exception in thread "Thread-0" java.lang.RuntimeException: Thread interrupted...java.lang.InterruptedException: sleep interrupted
@@ -39638,7 +41850,7 @@ public class Main {
         t1.interrupt();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Exception handled java.lang.InterruptedException: sleep interrupted<br>
@@ -39660,7 +41872,7 @@ public class Main {
         t1.interrupt();   // no effect on running thread, only sets flag
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         1<br>
@@ -39692,7 +41904,7 @@ public class Main {
         t2.start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         code for interrupted thread<br>
@@ -39958,7 +42170,7 @@ class Main {
         methodA();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Inside methodA<br>
@@ -39992,7 +42204,7 @@ class Main {
         new Thread(Main::operation, "Thread-2").start();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         Thread-1 acquired lock<br>
@@ -40020,7 +42232,7 @@ class Main {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (fair order):</strong><br>
         Thread-1 acquired lock<br>
@@ -40052,7 +42264,7 @@ class Main {
         execute();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Hold Count: 2<br>
@@ -40341,7 +42553,7 @@ class Main {
             threads[i].join();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         [Thread 22]: Old value = 0<br>
@@ -40635,7 +42847,7 @@ class CreateFile {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File FileOperationExample.txt is created successfully.
@@ -40658,7 +42870,7 @@ class FileInfo {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File name: FileOperationExample.txt<br>
@@ -40685,7 +42897,7 @@ class WriteToFile {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Content successfully written to the file.
@@ -40712,7 +42924,7 @@ class ReadFromFile {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         A named location used to store related information is referred to as a File.
@@ -40731,7 +42943,7 @@ class DeleteFile {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         FileOperationExample.txt file is deleted successfully.
@@ -40772,7 +42984,7 @@ class DeleteFile {
                 },
 
                 { 
-                id: "Java File Class",       
+                id: "Java-File-Class",       
                 name: "Java File Class",
                 description: String.raw`
 <!DOCTYPE html>
@@ -40987,7 +43199,7 @@ public class FileConstructorExample {
         System.out.println(f3.getPath());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         sample.txt<br>
@@ -41037,7 +43249,7 @@ public class FileExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         New file is created!
@@ -41057,7 +43269,7 @@ public class FileExample2 {
         System.out.println(canonical.getAbsolutePath());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         testFile1.txt<br>
@@ -41070,7 +43282,7 @@ public class FileExample2 {
 
 public class FileExample3 {
     public static void main(String[] args) {
-        File dir = new File("/Users/sonoojaiswal/Documents");
+        File dir = new File("/Users/jamesgoasling/Documents");
         String[] files = dir.list();
         if (files != null) {
             for (String name : files) {
@@ -41081,7 +43293,7 @@ public class FileExample3 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (example):</strong><br>
         info.properties<br>
@@ -41095,7 +43307,7 @@ public class FileExample3 {
 
 public class FileExample4 {
     public static void main(String[] args) {
-        File dir = new File("/Users/sonoojaiswal/Documents");
+        File dir = new File("/Users/jamesgoasling/Documents");
         File[] files = dir.listFiles();
         if (files != null) {
             for (File file : files) {
@@ -41107,7 +43319,7 @@ public class FileExample4 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (sample):</strong><br>
         info.properties Can Write: true Is Hidden: false Length: 15 bytes<br>
@@ -41138,7 +43350,7 @@ public class FileExample4 {
                 },
 
                 { 
-                id: "How to Create a File in Java?",       
+                id: "How-to-Create-a-File-in-Java",       
                 name: "How to Create a File in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -41320,7 +43532,7 @@ public class CreateFileExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (first run):</strong><br>
         file created C:\demo\music.txt<br><br>
@@ -41351,7 +43563,7 @@ public class CreateFileExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Interactive Output:</strong><br>
         Enter file name: myfile.txt<br>
@@ -41375,7 +43587,7 @@ public class CreateFileExample3 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File Created at Path: C:\demo\javaprogram.txt
@@ -41411,7 +43623,7 @@ public class CreateFileExample3 {
                 },
 
                 { 
-                id: "How to Write to a File in Java?",       
+                id: "How-to-Write-to-a-File-in-Java",       
                 name: "How to Write to a File in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -41593,7 +43805,7 @@ public class WriteStringExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File written successfully using writeString()
@@ -41620,7 +43832,7 @@ public class FileWriterExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         Enter file path: output.txt<br>
@@ -41644,7 +43856,7 @@ public class BufferedWriterExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File written using BufferedWriter
@@ -41667,7 +43879,7 @@ public class FileOutputStreamExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         File written using FileOutputStream
@@ -41703,7 +43915,7 @@ public class FileOutputStreamExample {
                 },
 
                 { 
-                id: "How to read file line by line in Java?",       
+                id: "How-to-read-file-line-by-line-in-Java",       
                 name: "How to read file line by line in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -41887,7 +44099,7 @@ public class ReadLineByLineExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (Demo.txt content):</strong><br>
         How to read file line by line in Java<br>
@@ -41925,7 +44137,7 @@ public class ReadLineByLineExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         How to read file line by line in Java<br>
@@ -41970,7 +44182,7 @@ public class ReadLineByLineExample2 {
                  `
                 },
                 { 
-                id: "How to delete a file in Java?",       
+                id: "How-to-delete-a-file-in-Java",       
                 name: "How to delete a file in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -42148,7 +44360,7 @@ public class FileDeleteExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (if file exists):</strong><br>
         demo.txt deleted<br><br>
@@ -42175,7 +44387,7 @@ public class DeleteOnExitExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Temp file created at: C:\Users\...\abc123456.temp<br>
@@ -42200,7 +44412,7 @@ public class DeleteTextFileExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Deletion scheduled<br>
@@ -42234,7 +44446,7 @@ public class DeleteTextFileExample {
                  `
                 },
                 { 
-                id: "Java FilePermission Class",       
+                id: "Java-FilePermission-Class",       
                 name: "Java FilePermission Class",
                 description: String.raw`
 <!DOCTYPE html>
@@ -42456,7 +44668,7 @@ public class FilePermissionExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Read and Write permission granted
@@ -42481,7 +44693,7 @@ public class FilePermissionExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Read permission is allowed
@@ -42506,7 +44718,7 @@ public class FilePermissionExample2 {
                  `
                 },
                 { 
-                id: "Java FileDescriptor class",       
+                id: "Java-FileDescriptor-class",       
                 name: "Java FileDescriptor class",
                 description: String.raw`
 <!DOCTYPE html>
@@ -42735,7 +44947,7 @@ public class FileDescriptorExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Data written and synced successfully
@@ -42762,7 +44974,7 @@ public class FileDescriptorExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         0123456789:<br>
@@ -42795,7 +45007,7 @@ public class FileDescriptorExample2 {
                 },
 
                   { 
-                id: "Java RandomAccessFile class",       
+                id: "Java-RandomAccessFile-class",       
                 name: "Java RandomAccessFile class",
                 description: String.raw`
 <!DOCTYPE html>
@@ -43023,7 +45235,7 @@ public class RandomAccessFileExample1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         This class is used
@@ -43046,7 +45258,7 @@ public class RandomAccessFileExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 File Content After Execution:</strong><br>
         This class is used for reading I love my country and my people.
@@ -43069,7 +45281,7 @@ public class AppendExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Appends a new line at the end.</strong>
     </div>
@@ -43098,7 +45310,7 @@ public class AppendExample {
                 },
 
                   { 
-                id: "How to Create a Zip File in Java?",       
+                id: "How-to-Create-a-Zip-File-in-Java",       
                 name: "How to Create a Zip File in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -43291,7 +45503,7 @@ public class CreateZipFile1 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Zip file created: demo.zip
@@ -43338,7 +45550,7 @@ public class ZippingMultipleFiles {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Multiple files zipped into Allfiles.zip
@@ -43410,7 +45622,7 @@ public class ZippingDirectory {
         return filePath.substring(FOLDER.length() + 1, filePath.length());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Directory zipped into C:\Users\Anubhav\Desktop\demo folder.zip
@@ -43439,7 +45651,7 @@ public class ZippingDirectory {
                  `
                 },
                   { 
-                id: "How to Read and Print All Files From a Zip File in Java?",       
+                id: "How-to-Read-and-Print-All-Files-From-a-Zip-File-in-Java",       
                 name: "How to Read and Print All Files From a Zip File in Java?",
                 description: String.raw`
 <!DOCTYPE html>
@@ -43657,7 +45869,7 @@ public class ReadFile {
         zf.printFileContent(filePath);
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>📤 Sample Output</h2>
     <div class="output-demo">
@@ -43919,7 +46131,7 @@ public class FileToPathExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
 
     <h2>📋 Mapping: java.io.File -> java.nio.file.Files / Path</h2>
     <div style="overflow-x: auto;">
@@ -44159,7 +46371,7 @@ class Persist {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         success
@@ -44180,7 +46392,7 @@ class Depersist {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         211 ravi
@@ -44229,7 +46441,7 @@ public class SerializeISA {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         success<br>
@@ -44502,7 +46714,7 @@ public class Main {
         System.out.println("Age: " + deserializedStudent.age);     // 0 (default)
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Name: Peter<br>
@@ -44554,12 +46766,12 @@ public class Main {
 
 
         {
-            id: "Java Networking",    
+            id: "Java-Networking",    
             name: "Java Networking",
             isParent: true,
             subtopics: [
                 { 
-                id: "Java Networking", 
+                id: "Java-Networking-Tutorial", 
                 name: "Java Networking", 
                 description: String.raw`
 <!DOCTYPE html>
@@ -44816,7 +47028,7 @@ public class ClientSide {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Server & Client)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Server & Client)</button>
 
     <div class="output-demo">
         <strong>📤 Server Output:</strong><br>
@@ -45102,7 +47314,7 @@ public class MyClient {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (server & client separately)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (server & client separately)</button>
     <div class="output-demo">
         <strong>📤 Server Output:</strong><br>
         Server waiting for client on port 6666...<br>
@@ -45161,7 +47373,7 @@ class MyClient {
         s.close();
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (run server first, then client)</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (run server first, then client)</button>
     <div class="output-demo">
         <strong>📤 Sample Interaction:</strong><br>
         <strong>Client console:</strong><br>
@@ -45396,10 +47608,10 @@ class MyClient {
     </div>
 
     <h2>📌 URL Structure Example</h2>
-    <p><code>http://www.tpointtech.com:80/index.jsp</code></p>
+    <p><code>http://www.dreamztouch.in:80/index.jsp</code></p>
     <ul>
         <li><strong>Protocol:</strong> http</li>
-        <li><strong>Host:</strong> www.tpointtech.com</li>
+        <li><strong>Host:</strong> www.dreamztouch.in</li>
         <li><strong>Port:</strong> 80 (if missing, default port, e.g., 80 for http, 443 for https)</li>
         <li><strong>File/Path:</strong> /index.jsp</li>
     </ul>
@@ -45437,7 +47649,7 @@ URL(URL context, String spec, URLStreamHandler handler)</code></pre>
 public class URLDemo {
     public static void main(String[] args) {
         try {
-            URL url = new URL("http://www.tpointtech.com/java-tutorial");
+            URL url = new URL("http://www.dreamztouch.in/java-tutorial");
 
             System.out.println("Protocol: " + url.getProtocol());
             System.out.println("Host Name: " + url.getHost());
@@ -45448,11 +47660,11 @@ public class URLDemo {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Protocol: http<br>
-        Host Name: www.tpointtech.com<br>
+        Host Name: www.dreamztouch.in<br>
         Port Number: -1<br>
         File Name: /java-tutorial
     </div>
@@ -45477,7 +47689,7 @@ public class URLDemo2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         Protocol: https<br>
@@ -45496,7 +47708,7 @@ import java.net.*;
 public class URLContentReader {
     public static void main(String[] args) {
         try {
-            URL url = new URL("https://www.tpointtech.com/java-tutorial");
+            URL url = new URL("https://www.dreamztouch.in/java-tutorial");
             BufferedReader reader = new BufferedReader(
                 new InputStreamReader(url.openStream()));
             String line;
@@ -45509,7 +47721,7 @@ public class URLContentReader {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong> (HTML content of the webpage – trimmed)
     </div>
@@ -45751,7 +47963,7 @@ public class URLContentReader {
 public class URLConnectionExample {
     public static void main(String[] args) {
         try {
-            URL url = new URL("http://www.javatpoint.com/java-tutorial");
+            URL url = new URL("http://www.dreamztouch.com/java-tutorial");
             URLConnection urlcon = url.openConnection();
             System.out.println("URLConnection object created successfully");
         } catch (Exception e) {
@@ -45759,7 +47971,7 @@ public class URLConnectionExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         URLConnection object created successfully
@@ -45772,7 +47984,7 @@ import java.net.*;
 public class URLConnectionExample2 {
     public static void main(String[] args) {
         try {
-            URL url = new URL("http://www.javatpoint.com/java-tutorial");
+            URL url = new URL("http://www.dreamztouch.com/java-tutorial");
             URLConnection urlcon = url.openConnection();
             InputStream stream = urlcon.getInputStream();
 
@@ -45785,7 +47997,7 @@ public class URLConnectionExample2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong> (HTML source of the webpage – truncated)<br>
         &lt;!DOCTYPE html&gt;<br>
@@ -45814,7 +48026,7 @@ public class URLConnectionHeaders {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         Content-Type: text/html; charset=ISO-8859-1<br>
@@ -46060,7 +48272,7 @@ public class URLConnectionHeaders {
 public class HttpURLConnectionDemo {
     public static void main(String[] args) {
         try {
-            URL url = new URL("http://www.javatpoint.com/java-tutorial");
+            URL url = new URL("http://www.dreamztouch.com/java-tutorial");
             HttpURLConnection huc = (HttpURLConnection) url.openConnection();
             System.out.println("HttpURLConnection object created successfully");
         } catch (Exception e) {
@@ -46068,7 +48280,7 @@ public class HttpURLConnectionDemo {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
         HttpURLConnection object created successfully
@@ -46081,7 +48293,7 @@ import java.net.*;
 public class HttpURLConnectionDemo2 {
     public static void main(String[] args) {
         try {
-            URL url = new URL("http://www.javatpoint.com/java-tutorial");
+            URL url = new URL("http://www.dreamztouch.com/java-tutorial");
             HttpURLConnection huc = (HttpURLConnection) url.openConnection();
 
             for (int i = 1; i <= 8; i++) {
@@ -46094,7 +48306,7 @@ public class HttpURLConnectionDemo2 {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
         Date = Thu, 22 Jul 2021 18:08:17 GMT<br>
@@ -46144,7 +48356,7 @@ public class HttpGetExample {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (example):</strong><br>
         Response Code: 200<br>
@@ -46395,7 +48607,7 @@ public class HttpGetExample {
 public class InetDemo {
     public static void main(String[] args) {
         try {
-            InetAddress ip = InetAddress.getByName("www.javatpoint.com");
+            InetAddress ip = InetAddress.getByName("www.dreamztouch.com");
             System.out.println("Host Name: " + ip.getHostName());
             System.out.println("IP Address: " + ip.getHostAddress());
         } catch (Exception e) {
@@ -46403,10 +48615,10 @@ public class InetDemo {
         }
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output:</strong><br>
-        Host Name: www.javatpoint.com<br>
+        Host Name: www.dreamztouch.com<br>
         IP Address: 172.67.196.82
     </div>
 
@@ -46416,8 +48628,8 @@ import java.util.Arrays;
 
 public class InetDemo2 {
     public static void main(String[] args) throws Exception {
-        InetAddress ip = InetAddress.getByName("www.javatpoint.com");
-        InetAddress[] ipList = InetAddress.getAllByName("www.javatpoint.com");
+        InetAddress ip = InetAddress.getByName("www.dreamztouch.com");
+        InetAddress[] ipList = InetAddress.getAllByName("www.dreamztouch.com");
         byte[] addr = {72, 3, 2, 12};
         InetAddress ip2 = InetAddress.getByAddress(addr);
 
@@ -46434,10 +48646,10 @@ public class InetDemo2 {
         System.out.println("ip equals ip2? " + ip.equals(ip2));
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Sample Output:</strong><br>
-        ip : www.javatpoint.com/172.67.196.82<br>
+        ip : www.dreamztouch.com/172.67.196.82<br>
         ipList length: 1<br>
         ip2 : /48.3.2.12<br>
         Host Address : 172.67.196.82<br>
@@ -46460,7 +48672,7 @@ public class LocalHostDemo {
         System.out.println("Local IP Address: " + local.getHostAddress());
     }
 }</code></pre>
-    <button class="run" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="output-demo">
         <strong>📤 Output (example):</strong><br>
         Local Host Name: mycomputer<br>
@@ -46695,7 +48907,7 @@ public class TestAnnotation1 {
         a.eatSomething();
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">eating foods</div>
 
     <h3>2. @SuppressWarnings</h3>
@@ -46705,14 +48917,14 @@ public class TestAnnotation2 {
     @SuppressWarnings("unchecked")
     public static void main(String args[]) {
         ArrayList list = new ArrayList(); // raw type warning suppressed
-        list.add("sonoo");
-        list.add("vimal");
+        list.add("james");
+        list.add("karthick");
         for(Object obj : list)
             System.out.println(obj);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
-    <div class="example-output">sonoo<br>vimal</div>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
+    <div class="example-output">james<br>karthick</div>
 
     <h3>3. @Deprecated</h3>
     <p>Marks a method as deprecated (should not be used). Compiler generates a warning.</p>
@@ -46727,7 +48939,7 @@ public class TestAnnotation3 {
         a.n(); // produces deprecation warning
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">hello n</div>
 
     <h2>📦 Java Custom Annotations (User‑defined)</h2>
@@ -46809,7 +49021,7 @@ public class TestCustomAnnotation1 {
         System.out.println("value is: " + manno.value());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">value is: 10</div>
 
     <div class="note">
@@ -46825,7 +49037,7 @@ public class TestCustomAnnotation1 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with annotations.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -47061,7 +49273,7 @@ class TestGenerics1 {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         element is: jai<br>
@@ -47085,7 +49297,7 @@ class TestGenerics2 {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         1 vijay<br>
@@ -47107,7 +49319,7 @@ public class TestGenerics3 {
         System.out.println(m.get());
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         2
@@ -47131,7 +49343,7 @@ public class TestGenerics3 {
         printArray(charArray);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Printing Integer Array<br>
@@ -47163,7 +49375,7 @@ public class UpperBoundWildcard {
         System.out.println("sum = " + add(l2));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         sum = 30.0<br>
@@ -47189,7 +49401,7 @@ public class UnboundedWildcard {
         display(l2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Integer values<br>
@@ -47217,7 +49429,7 @@ public class LowerBoundWildcard {
         addNumbers(l2);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Integer list:<br>
@@ -47239,7 +49451,7 @@ public class LowerBoundWildcard {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click any <strong>▶ Run Code</strong> button to open an online Java compiler and experiment with generics.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -47410,7 +49622,7 @@ public class LowerBoundWildcard {
         System.out.println(a2 + " " + a3);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         50 5
@@ -47424,7 +49636,7 @@ public class LowerBoundWildcard {
         System.out.println(a);
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         50
@@ -47440,7 +49652,7 @@ public class LowerBoundWildcard {
         }
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         50
@@ -47464,7 +49676,7 @@ public class LowerBoundWildcard {
         m(s);   // short is widened to int, not boxed to Integer
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         int
@@ -47479,7 +49691,7 @@ public class LowerBoundWildcard {
         m(s1, s2);   // widened to int, not varargs
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         int int
@@ -47494,7 +49706,7 @@ public class LowerBoundWildcard {
         m(a);   // boxed to Integer, not varargs
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         Integer
@@ -47525,7 +49737,7 @@ public class LowerBoundWildcard {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> buttons above to open an online Java compiler and experiment with autoboxing and unboxing.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -47715,7 +49927,7 @@ void method(int... a, String b) { }      // varargs not last – error</code></p
         display(1000, "my", "name", "is", "varargs"); // multiple varargs
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code (Online Compiler)</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         number is 500<br>
@@ -47739,7 +49951,7 @@ void method(int... a, String b) { }      // varargs not last – error</code></p
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with varargs.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -47930,7 +50142,7 @@ class TestStaticImport1 {
         System.out.println(sqrt(16));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         4.0
@@ -47945,7 +50157,7 @@ class TestStaticImport2 {
         System.out.println(pow(2, 3));
     }
 }</code></pre>
-    <button class="run-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">▶ Run Code</button>
+    <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">▶ Run Code</button>
     <div class="example-output">
         <strong>Output:</strong><br>
         5.0<br>
@@ -47990,7 +50202,7 @@ class TestStaticImport2 {
 
     <div class="note">
         <strong>🧪 Try it yourself!</strong> Click the <strong>▶ Run Code</strong> button above to open an online Java compiler and experiment with static import.<br>
-        <button class="compile-btn" onclick="window.open('https://www.tpointtech.com/compiler/java', '_blank')">Open Java Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/java', '_blank')">Open Java Compiler</button>
     </div>
 
     <footer>
@@ -48008,5 +50220,4 @@ class TestStaticImport2 {
         
       ]
     }
-  ]
-};
+  

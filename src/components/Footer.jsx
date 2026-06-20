@@ -1121,19 +1121,28 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import { cData } from '../data/cData';
+import { cppData } from '../data/cppData';
+import { javaData } from '../data/javaData';
+import { pythonData } from '../data/pythonData';
+import { htmlData } from '../data/htmlData';
+import { cssData } from '../data/cssData';
+import { javascriptData } from '../data/javascriptData';
+import { springbootData } from '../data/springbootData';
+
 // ---------- TUTORIALS (14 links) ----------
 const tutorialItems = [
-  { name: 'C', path: '/c-programming/c-tutorial', icon: '⚙️' },
-  { name: 'C++', path: '/c++-tutorial/c++-tutorial-basics', icon: '⚡' },
-  { name: 'Java', path: '/java/java-tutorial', icon: '☕' },
-  { name: 'Python', path: '/python/python-tutorial-[intro]', icon: '🐍' },
-  { name: 'HTML', path: '/html-tutorial/html-home', icon: '🌐' },
-  { name: 'CSS', path: '/css/css-tutorial', icon: '🎨' },
-  { name: 'JavaScript', path: '/javascript/javascript-tutorial', icon: '🟨' },
+  { name: 'C', path: '/c-programming/c-tutorial', icon: '⚙️' , data: cData },
+  { name: 'C++', path: '/c++-tutorial/c++-tutorial-basics', icon: '⚡' ,data: cppData},
+  { name: 'Java', path: '/java/java-tutorial', icon: '☕' ,data: javaData},
+  { name: 'Python', path: '/python/python-tutorial-[intro]', icon: '🐍' ,data: pythonData},
+  { name: 'HTML', path: '/html-tutorial/html-home', icon: '🌐' ,data: htmlData},
+  { name: 'CSS', path: '/css/css-tutorial', icon: '🎨',data: cssData },
+  { name: 'JavaScript', path: '/javascript/javascript-tutorial', icon: '🟨' ,data: javascriptData},
   { name: 'SQL', path: '/sql/sql-home', icon: '🗄️' },
   { name: 'React JS', path: '/reactjs/react-home', icon: '⚛️' },
   { name: 'Node.js', path: '/node-js/node.js-home', icon: '🟢' },
-  { name: 'Spring Boot', path: '/springboot/spring-boot-tutorial', icon: '🍃' },
+  { name: 'Spring Boot', path: '/springboot/spring-boot-tutorial', icon: '🍃' ,data: springbootData},
   { name: 'C#', path: '/c#/.net-framework', icon: '🎯' },
   { name: 'PHP', path: '/php/php-tutorial', icon: '🐘' },
   { name: 'MySQL', path: '/mysql/mysql-home', icon: '🐬' }
@@ -1244,18 +1253,28 @@ const Footer = () => {
         <div className="footer-top">
           {/* Contact Info + Follow Us */}
           <div className="footer-left-group">
-            <div className="footer-section contact-section">
+            {/* <div className="footer-section contact-section">
               <h4>Contact Info</h4>
               <p className="contact-detail">✉️ support@dreamztouch.in</p>
+              <p className="contact-detail">📍 Ambattur, Chennai</p>
+            </div> */}
+            <div className="footer-section contact-section">
+              <h4>Contact Info</h4>
+              <p className="contact-detail">
+                📞 <a href="tel:+919342138238" style={{ color: 'white', textDecoration: 'none' }}>9342138238</a>
+              </p>
+              <p className="contact-detail">
+                ✉️ <a href="mailto:dreamztouchhr@gmail.com" style={{ color: 'white', textDecoration: 'none' }}>dreamztouchhr@gmail.com</a>
+              </p>
               <p className="contact-detail">📍 Ambattur, Chennai</p>
             </div>
             <div className="footer-section follow-section">
               <h4>Follow Us</h4>
               <div className="social-icons">
-                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+                <a href="https://facebook.com/DreamzTouchTech" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
+                <a href="https://twitter.com/DreamzTouchTech" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
+                <a href="https://linkedin.com/company/dreamztouch-technologies" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+                <a href="https://instagram.com/dreamztouchtech" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
               </div>
             </div>
           </div>

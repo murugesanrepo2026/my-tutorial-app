@@ -2,7 +2,7 @@
 export const cssData = {
   id: "CSS",
   name: "CSS ",
-  icon: "🐍",
+  icon: "🎨",
   subtopics: [
    
 
@@ -869,7 +869,7 @@ h1 { font-size: 36px; }
 &lt;body&gt;
 &lt;div id="header"&gt;
   &lt;h1&gt;Hello, CSS Example!&lt;/h1&gt;
-  &lt;p&gt;Welcome to javaTpoint. Here is a styled button:&lt;/p&gt;
+  &lt;p&gt;Welcome to dreamztouch. Here is a styled button:&lt;/p&gt;
   &lt;button class="button"&gt;Click Me!&lt;/button&gt;
 &lt;/div&gt;
 &lt;/body&gt;
@@ -932,7 +932,7 @@ h1 { font-size: 36px; }
 }</code></pre>
     <div class="example-output">
         <h1 style="font-size:36px; font-weight:bold; color:#007bff;">Hello, World!</h1>
-        <p>Welcome to javaTpoint</p>
+        <p>Welcome to dreamztouch</p>
         <button style="background-color:#007bff; color:white; padding:10px 20px; border:none; border-radius:5px;">Click Me</button>
     </div>
 
@@ -1164,8 +1164,8 @@ h1 { font-size: 36px; }
             }
         </style>
         <div class="group-demo">
-            <h1>Hello Javatpoint.com</h1>
-            <h2>Hello Javatpoint.com (In smaller font)</h2>
+            <h1>Hello dreamztouch.com</h1>
+            <h2>Hello dreamztouch.com (In smaller font)</h2>
             <p>This is a paragraph.</p>
         </div>
     </div>
@@ -2492,7 +2492,7 @@ h1 {
 }</code></pre>
     <div class="demo-box bg-color-demo">
         <h2>My first CSS page.</h2>
-        <p>Hello Javatpoint. This is an example of CSS background-color.</p>
+        <p>Hello dreamztouch. This is an example of CSS background-color.</p>
     </div>
 
     <h2>2️⃣ background-image</h2>
@@ -2502,7 +2502,7 @@ h1 {
     margin-left: 100px;
 }</code></pre>
     <div class="demo-box bg-image-demo">
-        <h1>Hello Javatpoint.com</h1>
+        <h1>Hello dreamztouch.com</h1>
         <p>Background image demo (paper1.gif).</p>
     </div>
     <div class="warning">
@@ -2518,7 +2518,7 @@ h1 {
     background-repeat: repeat-x;
 }</code></pre>
     <div class="demo-box bg-repeat-x-demo">
-        <h1>Hello Javatpoint.com</h1>
+        <h1>Hello dreamztouch.com</h1>
         <p>Background repeats only horizontally.</p>
     </div>
 
@@ -2528,7 +2528,7 @@ h1 {
     background-repeat: repeat-y;
 }</code></pre>
     <div class="demo-box bg-repeat-y-demo">
-        <h1>Hello Javatpoint.com</h1>
+        <h1>Hello dreamztouch.com</h1>
         <p>Background repeats only vertically.</p>
     </div>
 
@@ -6072,7 +6072,7 @@ color: hsl(120, 100%, 50%);</code></pre>
         </style>
         <div class="important-demo">
             <h1 style="color: white; color: blue !important;">Hello World (blue due to !important)</h1>
-            <h1>Welcome to the javaTpoint.com. This is an example of <code>!important</code> property.</h1>
+            <h1>Welcome to the dreamztouch.com. This is an example of <code>!important</code> property.</h1>
             <p style="background: lightblue; padding: 10px;">Background is lightblue (from !important).</p>
         </div>
     </div>
@@ -6104,7 +6104,7 @@ body {
         </style>
         <div class="important-border">
             <h1>Hello World (border remains red due to !important)</h1>
-            <h2>Welcome to javaTpoint.com (green text, violet border)</h2>
+            <h2>Welcome to dreamztouch.com (green text, violet border)</h2>
         </div>
     </div>
     <pre><code>h1 {
@@ -10309,7 +10309,7 @@ color: white;</code></pre>
             hello world
         </div>
         <div class="text-sample" style="text-transform: capitalize;">
-            WELCOME to the javaTpoint
+            WELCOME to the dreamztouch
         </div>
         <pre><code>text-transform: capitalize;</code></pre>
     </div>
@@ -10320,7 +10320,7 @@ color: white;</code></pre>
             hello world
         </div>
         <div class="text-sample" style="text-transform: uppercase;">
-            Welcome to the javaTpoint
+            Welcome to the dreamztouch
         </div>
         <pre><code>text-transform: uppercase;</code></pre>
     </div>
@@ -10331,7 +10331,7 @@ color: white;</code></pre>
             HELLO WORLD
         </div>
         <div class="text-sample" style="text-transform: lowercase;">
-            WELCOME TO THE JAVATPOINT
+            WELCOME TO THE dreamztouch
         </div>
         <pre><code>text-transform: lowercase;</code></pre>
     </div>
@@ -10342,7 +10342,7 @@ color: white;</code></pre>
             Hello World
         </div>
         <div class="text-sample" style="text-transform: none;">
-            Welcome to javaTpoint.
+            Welcome to dreamztouch.
         </div>
         <pre><code>text-transform: none;</code></pre>
     </div>
@@ -10491,7 +10491,7 @@ color: white;</code></pre>
     <h2>📌 Basic Example: Outline vs Border</h2>
     <div class="demo-box">
         <div class="outline-sample" style="outline: 3px solid red;">
-            Welcome to JavaTpoint
+            Welcome to dreamztouch
         </div>
         <div style="background:#eee; border:3px solid lightgreen; padding:10px 20px; margin:8px;">
             Border only (no outline)
@@ -11324,7 +11324,7 @@ li::before {
     <div class="demo-box">
         <div class="float-container">
             <img src="https://picsum.photos/id/104/100/80" alt="sample">
-            Welcome to javaTpoint.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
+            Welcome to dreamztouch.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
         </div>
         <p style="background: #fee2e2; padding: 8px;">⚠️ The container border collapses around the image because it's floated and not cleared.</p>
     </div>
@@ -11333,7 +11333,7 @@ li::before {
     <div class="demo-box">
         <div class="float-container clearfix">
             <img src="https://picsum.photos/id/104/100/80" alt="sample">
-            Welcome to javaTpoint.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
+            Welcome to dreamztouch.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
         </div>
         <p style="background: #e6f7ec; padding: 8px;">✅ Now the container expands to contain the floated image – clearfix applied.</p>
     </div>
@@ -11347,7 +11347,7 @@ li::before {
     <div class="demo-box">
         <div class="float-container" style="overflow: auto;">
             <img src="https://picsum.photos/id/104/100/80" alt="sample">
-            Welcome to javaTpoint.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
+            Welcome to dreamztouch.com. Here, you can find the best tutorials that are easy to read and help you to clear your concepts.
         </div>
         <p>Using <code>overflow: auto</code> on the container also clears floats, but may cause unwanted scrollbars.</p>
     </div>
@@ -16614,9 +16614,13063 @@ p {
               id: "CSS-Animation",
               name: "CSS Animation",
               description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Animation – Complete Guide with Examples</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #eef2ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #6366f1;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── ANIMATION EXAMPLES ── */
+        .anim-bg {
+            width: 120px;
+            height: 120px;
+            background: #dc2626;
+            border-radius: 12px;
+            animation: bgChange 5s infinite alternate;
+        }
+
+        @keyframes bgChange {
+            0% { background: #dc2626; }
+            100% { background: #16a34a; }
+        }
+
+        .anim-move {
+            width: 100px;
+            height: 100px;
+            background: #7c3aed;
+            border-radius: 12px;
+            position: relative;
+            animation: moveAround 6s infinite;
+        }
+
+        @keyframes moveAround {
+            0% { background: #7c3aed; left: 0px; top: 0px; }
+            25% { background: #f59e0b; left: 150px; top: 0px; }
+            50% { background: #3b82f6; left: 150px; top: 100px; }
+            75% { background: #22c55e; left: 0px; top: 100px; }
+            100% { background: #7c3aed; left: 0px; top: 0px; }
+        }
+
+        .anim-pulse {
+            width: 100px;
+            height: 100px;
+            background: #ec4899;
+            border-radius: 50%;
+            animation: pulse 1.2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); background: #ec4899; }
+            50% { transform: scale(1.2); background: #db2777; }
+        }
+
+        .anim-bounce {
+            width: 80px;
+            height: 80px;
+            background: #f97316;
+            border-radius: 12px;
+            animation: bounce 1.8s ease-in-out infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-60px); }
+            60% { transform: translateY(-20px); }
+            80% { transform: translateY(-10px); }
+        }
+
+        .anim-spin {
+            width: 80px;
+            height: 80px;
+            background: #8b5cf6;
+            border-radius: 12px;
+            animation: spin 3s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); background: #8b5cf6; }
+            50% { background: #ec4899; }
+            100% { transform: rotate(360deg); background: #8b5cf6; }
+        }
+
+        .anim-typing {
+            display: inline-block;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 3px solid #7c3aed;
+            font-size: 1.8rem;
+            font-weight: 600;
+            color: #1e1b4b;
+            animation: typing 3s steps(30) 1s forwards, blink 0.8s step-end 4;
+            width: 0;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+
+        @keyframes blink {
+            0%, 100% { border-color: #7c3aed; }
+            50% { border-color: transparent; }
+        }
+
+        .anim-shorthand {
+            width: 100px;
+            height: 100px;
+            background: #06b6d4;
+            border-radius: 12px;
+            animation: shorthandDemo 4s ease-in-out 1s infinite alternate;
+        }
+
+        @keyframes shorthandDemo {
+            0% { transform: scale(1) rotate(0deg); background: #06b6d4; border-radius: 12px; }
+            100% { transform: scale(1.3) rotate(45deg); background: #d946ef; border-radius: 50%; }
+        }
+
+        .anim-glow {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: #1e1b4b;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes glow {
+            0% { text-shadow: 0 0 4px #7c3aed, 0 0 8px #7c3aed; color: #1e1b4b; }
+            100% { text-shadow: 0 0 20px #7c3aed, 0 0 40px #a78bfa, 0 0 60px #7c3aed; color: #5b21b6; }
+        }
+
+        .anim-play {
+            width: 100px;
+            height: 100px;
+            background: #0891b2;
+            border-radius: 12px;
+            animation: spin 3s linear infinite;
+        }
+
+        .anim-play.paused {
+            animation-play-state: paused;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .anim-move { width: 70px; height: 70px; }
+            @keyframes moveAround {
+                0% { left: 0px; top: 0px; }
+                25% { left: 80px; top: 0px; }
+                50% { left: 80px; top: 80px; }
+                75% { left: 0px; top: 80px; }
+                100% { left: 0px; top: 0px; }
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 CSS Animation</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS Animation</strong> allows you to create smooth, performant animations without JavaScript or Flash.
+            Using the <code>@keyframes</code> rule, you define the intermediate steps of an animation, then bind it to any
+            element with the <code>animation</code> property. This guide covers everything from basic syntax to advanced
+            techniques.
+        </div>
+
+        <h2>📌 The <code>@keyframes</code> Rule</h2>
+        <p style="margin-bottom: 0.5rem;">
+            The <code>@keyframes</code> rule controls the intermediate steps in a CSS animation sequence. You define
+            <strong>keyframes</strong> at specific percentages (0% – 100%) or using the keywords <code>from</code> (0%) and
+            <code>to</code> (100%).
+        </p>
+
+        <pre><code>@keyframes myAnimation {
+    0%   { opacity: 0; transform: scale(0.8); }
+    50%  { opacity: 0.6; transform: scale(1.1); }
+    100% { opacity: 1; transform: scale(1); }
+}</code></pre>
+
+        <div class="note">
+            💡 <strong>Key point:</strong> The animation <em>must</em> be bound to a selector using at least
+            <code>animation-name</code> and <code>animation-duration</code> — otherwise it won't run.
+        </div>
+
+        <h2>📋 CSS Animation Properties</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Property</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>@keyframes</code></td><td>Defines the animation sequence (the "steps").</td></tr>
+                <tr><td><code>animation</code></td><td>Shorthand for all animation properties except <code>animation-play-state</code> and <code>animation-fill-mode</code>.</td></tr>
+                <tr><td><code>animation-delay</code></td><td>Specifies when the animation will start (e.g. <code>2s</code>).</td></tr>
+                <tr><td><code>animation-direction</code></td><td>Sets whether the animation plays in reverse on alternate cycles (<code>normal</code>, <code>reverse</code>, <code>alternate</code>, <code>alternate-reverse</code>).</td></tr>
+                <tr><td><code>animation-duration</code></td><td>Time taken to complete one cycle (e.g. <code>3s</code>, <code>500ms</code>).</td></tr>
+                <tr><td><code>animation-fill-mode</code></td><td>Defines the element's style when the animation is not playing (<code>none</code>, <code>forwards</code>, <code>backwards</code>, <code>both</code>).</td></tr>
+                <tr><td><code>animation-iteration-count</code></td><td>Number of times the animation repeats (<code>1</code>, <code>3</code>, <code>infinite</code>).</td></tr>
+                <tr><td><code>animation-play-state</code></td><td>Controls whether the animation is <code>running</code> or <code>paused</code>.</td></tr>
+                <tr><td><code>animation-name</code></td><td>The name of the <code>@keyframes</code> rule to apply.</td></tr>
+                <tr><td><code>animation-timing-function</code></td><td>Defines the speed curve (<code>ease</code>, <code>linear</code>, <code>ease-in</code>, <code>ease-out</code>, <code>ease-in-out</code>, <code>cubic-bezier()</code>).</td></tr>
+            </tbody>
+        </table>
+
+        <h2>📖 Example 1: Changing Background Colour</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-bg"></div>
+                    <div class="demo-item-label">Background cycles red → green</div>
+                </div>
+            </div>
+            <pre><code>div {
+    width: 120px;
+    height: 120px;
+    background: red;
+    animation: bgChange 5s infinite alternate;
+}
+
+@keyframes bgChange {
+    0%   { background: red; }
+    100% { background: green; }
+}</code></pre>
+            <div class="note">🎯 The box smoothly transitions from red to green over 5 seconds, then alternates back.</div>
+        </div>
+
+        <h2>📖 Example 2: Moving Rectangle with Percentages</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item" style="position:relative; min-height: 180px; min-width: 280px; background:#f1f5f9; border-radius:12px; padding:1rem;">
+                    <div class="anim-move"></div>
+                </div>
+            </div>
+            <pre><code>@keyframes moveAround {
+    0%   { background: red; left: 0px; top: 0px; }
+    25%  { background: yellow; left: 150px; top: 0px; }
+    50%  { background: blue; left: 150px; top: 100px; }
+    75%  { background: green; left: 0px; top: 100px; }
+    100% { background: red; left: 0px; top: 0px; }
+}</code></pre>
+            <div class="note">💡 Each percentage defines a different state — position <em>and</em> colour change over time.</div>
+        </div>
+
+        <h2>📖 Example 3: Pulse / Heartbeat</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-pulse"></div>
+                    <div class="demo-item-label">💓 pulse</div>
+                </div>
+            </div>
+            <pre><code>.pulse {
+    animation: pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); background: #ec4899; }
+    50%      { transform: scale(1.2); background: #db2777; }
+}</code></pre>
+            <div class="note">🔁 Uses <code>ease-in-out</code> for a natural, organic feel — perfect for call-to-action buttons.</div>
+        </div>
+
+        <h2>📖 Example 4: Bounce</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-bounce"></div>
+                    <div class="demo-item-label">⬆️ bounce</div>
+                </div>
+            </div>
+            <pre><code>@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    40%      { transform: translateY(-60px); }
+    60%      { transform: translateY(-20px); }
+    80%      { transform: translateY(-10px); }
+}</code></pre>
+            <div class="note">⚡ The keyframes simulate a natural bounce by overshooting and settling.</div>
+        </div>
+
+        <h2>📖 Example 5: Continuous Spin</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-spin"></div>
+                    <div class="demo-item-label">🌀 spin</div>
+                </div>
+            </div>
+            <pre><code>@keyframes spin {
+    0%   { transform: rotate(0deg); background: #8b5cf6; }
+    50%  { background: #ec4899; }
+    100% { transform: rotate(360deg); background: #8b5cf6; }
+}</code></pre>
+            <div class="note">🔄 Uses <code>linear</code> timing and <code>infinite</code> iteration for a seamless loading spinner effect.</div>
+        </div>
+
+        <h2>📖 Example 6: Typing Effect</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item" style="min-width: 280px;">
+                    <div class="anim-typing">✨ CSS Animation rocks!</div>
+                    <div class="demo-item-label" style="margin-top:0.8rem;">(plays once on load)</div>
+                </div>
+            </div>
+            <pre><code>@keyframes typing {
+    from { width: 0; }
+    to   { width: 100%; }
+}
+
+.typing {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 3px solid #7c3aed;
+    animation: typing 3s steps(30) 1s forwards;
+}</code></pre>
+            <div class="note">⌨️ The <code>steps()</code> timing function creates a character-by-character reveal — great for hero headlines.</div>
+        </div>
+
+        <h2>📖 Example 7: Shorthand &amp; Multiple Properties</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-shorthand"></div>
+                    <div class="demo-item-label">scale + rotate + colour + border-radius</div>
+                </div>
+            </div>
+            <pre><code>/* shorthand: name | duration | timing | delay | count | direction | fill-mode */
+.shorthand {
+    animation: shorthandDemo 4s ease-in-out 1s infinite alternate;
+}
+
+@keyframes shorthandDemo {
+    0%   { transform: scale(1) rotate(0deg);  background: #06b6d4; border-radius: 12px; }
+    100% { transform: scale(1.3) rotate(45deg); background: #d946ef; border-radius: 50%; }
+}</code></pre>
+            <div class="note">🧩 The shorthand packs multiple values into one line. Here we animate <code>transform</code>, <code>background</code>, and <code>border-radius</code> simultaneously.</div>
+        </div>
+
+        <h2>📖 Example 8: Glowing Text</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-glow">✨ Glow Effect</div>
+                    <div class="demo-item-label">text-shadow animation</div>
+                </div>
+            </div>
+            <pre><code>@keyframes glow {
+    0%   { text-shadow: 0 0 4px #7c3aed, 0 0 8px #7c3aed; }
+    100% { text-shadow: 0 0 20px #7c3aed, 0 0 40px #a78bfa; }
+}</code></pre>
+            <div class="note">🌟 Animating <code>text-shadow</code> creates a subtle "breathing" glow — perfect for headlines or CTAs.</div>
+        </div>
+
+        <h2>📖 Example 9: Play / Pause Control</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-play" id="playDemo"></div>
+                    <div class="demo-item-label" style="margin-top:0.6rem;">
+                        <button onclick="togglePlay()" style="background:#7c3aed; color:white; border:none; padding:0.5rem 1.2rem; border-radius:40px; font-size:0.95rem; cursor:pointer; transition:background 0.2s;" onmouseover="this.style.background='#6d28d9'" onmouseout="this.style.background='#7c3aed'">
+                            ⏸️ Pause / Play
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <pre><code>/* toggle animation-play-state via JavaScript */
+.demo.paused {
+    animation-play-state: paused;
+}</code></pre>
+            <div class="note">🎮 Click the button to pause and resume the spinning animation — useful for interactive controls.</div>
+        </div>
+
+        <h2>⚙️ Practical Use Cases for CSS Animation</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎯 Loaders &amp; Spinners</strong> Keep users engaged while content loads.</div>
+            <div class="feature-card"><strong>🖱️ Hover &amp; Focus Effects</strong> Micro-interactions that provide feedback.</div>
+            <div class="feature-card"><strong>📰 Page Transitions</strong> Smoothly fade or slide content into view.</div>
+            <div class="feature-card"><strong>🎨 Attention Grabbing</strong> Pulse or glow on CTAs to drive conversions.</div>
+            <div class="feature-card"><strong>📊 Data Visualisation</strong> Animate charts or progress bars.</div>
+            <div class="feature-card"><strong>🕹️ Game-like UI</strong> Bouncing, spinning, and moving elements add playfulness.</div>
+        </div>
+
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since v4 / v12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since v5</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since v4 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since v12</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 10+ supports with prefix, IE 9 and below do not</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For maximum compatibility, consider using vendor prefixes (<code>-webkit-</code>, <code>-moz-</code>) for older browsers,
+            and always provide a fallback style for non-supporting environments.
+        </div>
+
+        <h2>📝 Best Practices &amp; Considerations</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Performance:</strong> Prefer animating <code>transform</code> and <code>opacity</code> — they are GPU-accelerated and won't trigger layout reflows.</li>
+                <li><strong>Use <code>will-change</code>:</strong> Hint the browser about what you plan to animate to improve performance: <code>will-change: transform, opacity;</code></li>
+                <li><strong>Duration:</strong> Keep animations under 500ms for UI feedback; longer for storytelling or decorative effects.</li>
+                <li><strong>Accessibility:</strong> Respect <code>prefers-reduced-motion</code> media query to disable or tone down animations for users with vestibular disorders.</li>
+                <li><strong>Fallbacks:</strong> Always ensure your content is usable without animations.</li>
+                <li><strong>Test on real devices:</strong> Performance can vary across hardware and browsers.</li>
+            </ul>
+        </div>
+
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Wrap your animations in a <code>@media (prefers-reduced-motion: reduce)</code>
+            query to provide a calmer experience for users who need it.
+            <pre style="margin-top:0.6rem;"><code>@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+    }
+}</code></pre>
+        </div>
+
+        <div class="intro-text" style="background:#eef2ff; border-left-color:#6366f1; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS Animation is a powerful, performant way to bring your web pages to life.
+            From subtle micro-interactions to elaborate storytelling, the <code>@keyframes</code> rule combined with the
+            <code>animation</code> properties gives you full control. Use it wisely, keep accessibility in mind, and
+            always test across browsers.
+        </div>
+
+        <footer>
+            🎬 CSS Animation – Bring your UI to life with smooth, performant animations.
+        </footer>
+    </div>
+
+    <script>
+        function togglePlay() {
+            const el = document.getElementById('playDemo');
+            el.classList.toggle('paused');
+        }
+    </script>
+</body>
+</html>
+
 
                   `
             },
+
+            {
+              id: "CSS-keyframes-rule",
+              name: "CSS @keyframes rule",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS @keyframes Rule – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #eef2ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #6366f1;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── keyframe demos ── */
+
+        /* Example 1: demo + trans */
+        .anim-ex1 {
+            width: 200px;
+            height: 200px;
+            background: red;
+            border-radius: 40px;
+            animation: demo 5s ease-in infinite, trans 5s ease-in-out infinite;
+        }
+
+        @keyframes demo {
+            0% { background: red; }
+            50% { background: yellow; width: 100px; height: 100px; }
+            100% { background: green; width: 300px; height: 300px; }
+        }
+
+        @keyframes trans {
+            0% { transform: translate(0px) scale(1.4) rotate(80deg); }
+            50% { transform: translate(250px) scale(1.2) rotate(40deg); }
+            100% { transform: translate(350px) scale(1) rotate(0deg); }
+        }
+
+        /* Example 2: jtp */
+        .anim-ex2 {
+            position: relative;
+            animation: jtp 7s infinite;
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: #1e1b4b;
+            color: white;
+            border-radius: 8px;
+            font-size: 10px;
+            width: 0px;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+
+        @keyframes jtp {
+            0% {
+                top: 0px;
+                width: 0px;
+                font-size: 10px;
+                transform: translate(0px) scale(1.4) rotate(80deg);
+                background: #1e1b4b;
+            }
+            25% {
+                top: -20px;
+                background: yellow;
+                font-size: 20px;
+                width: 50px;
+                transform: translate(100px) scale(1.3) rotate(60deg);
+                color: black;
+            }
+            50% {
+                top: -40px;
+                background: orange;
+                font-size: 30px;
+                width: 150px;
+                transform: translate(200px) scale(1.2) rotate(40deg);
+                color: black;
+            }
+            75% {
+                top: -60px;
+                background: pink;
+                width: 250px;
+                font-size: 40px;
+                transform: translate(300px) scale(1.1) rotate(20deg);
+                color: black;
+            }
+            100% {
+                top: -80px;
+                background: red;
+                font-size: 50px;
+                width: 500px;
+                transform: translate(400px) scale(1) rotate(0deg);
+                color: white;
+            }
+        }
+
+        /* Example 3: simple from/to */
+        .anim-simple {
+            width: 120px;
+            height: 120px;
+            background: #7c3aed;
+            border-radius: 12px;
+            animation: simpleDemo 3s ease-in-out infinite alternate;
+        }
+
+        @keyframes simpleDemo {
+            from { background: #7c3aed; transform: scale(0.8); }
+            to { background: #ec4899; transform: scale(1.2); }
+        }
+
+        /* Example 4: multiple steps */
+        .anim-multi {
+            width: 100px;
+            height: 100px;
+            background: #06b6d4;
+            border-radius: 12px;
+            animation: multiStep 4s ease-in-out infinite;
+        }
+
+        @keyframes multiStep {
+            0% { background: #06b6d4; border-radius: 12px; transform: rotate(0deg); }
+            25% { background: #f59e0b; border-radius: 50%; transform: rotate(90deg); }
+            50% { background: #ec4899; border-radius: 12px; transform: rotate(180deg); }
+            75% { background: #22c55e; border-radius: 50%; transform: rotate(270deg); }
+            100% { background: #06b6d4; border-radius: 12px; transform: rotate(360deg); }
+        }
+
+        /* Example 5: timing functions */
+        .anim-timing {
+            width: 80px;
+            height: 80px;
+            background: #8b5cf6;
+            border-radius: 12px;
+            animation: moveRight 3s infinite alternate;
+        }
+
+        .anim-timing.linear { animation-timing-function: linear; }
+        .anim-timing.ease { animation-timing-function: ease; }
+        .anim-timing.ease-in { animation-timing-function: ease-in; }
+        .anim-timing.ease-out { animation-timing-function: ease-out; }
+        .anim-timing.ease-in-out { animation-timing-function: ease-in-out; }
+
+        @keyframes moveRight {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(150px); }
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎯 CSS <code>@keyframes</code> Rule</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            The <strong><code>@keyframes</code></strong> rule defines the animation sequence by specifying CSS styles at
+            various points (keyframes) along a timeline. It is the heart of CSS animations — enabling everything from simple
+            transitions to complex, multi‑step motion graphics.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax &amp; Values</h2>
+        <pre><code>@keyframes animation-name {
+    keyframes-selector { css-styles; }
+}</code></pre>
+
+        <table class="op-table">
+            <thead>
+                <tr>
+                    <th>Value</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>animation-name</code></td>
+                    <td><strong>Required.</strong> The name of the animation (used in the <code>animation</code> property).</td>
+                </tr>
+                <tr>
+                    <td><code>keyframes-selector</code></td>
+                    <td>
+                        Percentage (<code>0%</code> – <code>100%</code>) or the keywords <code>from</code> (0%) and
+                        <code>to</code> (100%). Defines at which point in the animation the styles should apply.
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>css-styles</code></td>
+                    <td>One or more CSS property/value pairs that will be applied at that keyframe.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="note">
+            💡 <strong>Important:</strong> If you don't define a starting (0%) or ending (100%) keyframe, the browser will use
+            the element's existing styles as the default. Also, properties that cannot be animated (e.g., <code>display</code>)
+            are ignored inside <code>@keyframes</code>.
+        </div>
+
+        <!-- ─── TIMING FUNCTIONS ─── -->
+        <h2>⏱️ Keyframes Timing Functions</h2>
+        <p>The <code>animation-timing-function</code> controls the acceleration curve of the animation between keyframes.</p>
+        <table class="op-table">
+            <thead>
+                <tr><th>Value</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>linear</code></td><td>Constant speed from start to end.</td></tr>
+                <tr><td><code>ease</code></td><td>Starts slow, speeds up, then slows down again (default).</td></tr>
+                <tr><td><code>ease-in</code></td><td>Starts slow, then finishes fast.</td></tr>
+                <tr><td><code>ease-out</code></td><td>Starts fast, then finishes slow.</td></tr>
+                <tr><td><code>ease-in-out</code></td><td>Slow start and end, faster middle.</td></tr>
+                <tr><td><code>cubic-bezier(n,n,n,n)</code></td><td>Custom timing curve.</td></tr>
+            </tbody>
+        </table>
+
+        <!-- ─── EXAMPLE 1: DEMO + TRANS ─── -->
+        <h2>📖 Example 1: Two Keyframe Animations Combined</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-ex1"></div>
+                    <div class="demo-item-label">@keyframes demo + trans</div>
+                </div>
+            </div>
+            <pre><code>div {
+    animation: demo 5s ease-in infinite, trans 5s ease-in-out infinite;
+}
+
+@keyframes demo {
+    0%   { background: red; }
+    50%  { background: yellow; width: 100px; height: 100px; }
+    100% { background: green; width: 300px; height: 300px; }
+}
+
+@keyframes trans {
+    0%   { transform: translate(0px) scale(1.4) rotate(80deg); }
+    50%  { transform: translate(250px) scale(1.2) rotate(40deg); }
+    100% { transform: translate(350px) scale(1) rotate(0deg); }
+}</code></pre>
+            <div class="note">🎯 Two separate keyframe animations run simultaneously — one changes background and size, the other applies transforms. Note how the element's original state is restored after the animation ends (because <code>animation-fill-mode</code> is not set).</div>
+        </div>
+
+        <!-- ─── EXAMPLE 2: JTP (Multi‑step) ─── -->
+        <h2>📖 Example 2: Complex Multi‑Step Animation</h2>
+        <div class="demo-box">
+            <div class="demo-row" style="min-height: 200px; position: relative; background:#f1f5f9; border-radius:12px; padding:1rem;">
+                <div class="anim-ex2">dreamzTouch</div>
+            </div>
+            <pre><code>@keyframes jtp {
+    0%   { top: 0px; width: 0px; font-size: 10px; transform: translate(0px) scale(1.4) rotate(80deg); background: #1e1b4b; }
+    25%  { top: -20px; background: yellow; font-size: 20px; width: 50px; transform: translate(100px) scale(1.3) rotate(60deg); color: black; }
+    50%  { top: -40px; background: orange; font-size: 30px; width: 150px; transform: translate(200px) scale(1.2) rotate(40deg); color: black; }
+    75%  { top: -60px; background: pink; width: 250px; font-size: 40px; transform: translate(300px) scale(1.1) rotate(20deg); color: black; }
+    100% { top: -80px; background: red; font-size: 50px; width: 500px; transform: translate(400px) scale(1) rotate(0deg); color: white; }
+}</code></pre>
+            <div class="note">💡 This animation moves the text across the screen while scaling, rotating, and changing colours and size. Notice how each keyframe builds on the previous one.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 3: FROM / TO ─── -->
+        <h2>📖 Example 3: Using <code>from</code> and <code>to</code></h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-simple"></div>
+                    <div class="demo-item-label">from → to (no percentages)</div>
+                </div>
+            </div>
+            <pre><code>@keyframes simpleDemo {
+    from { background: #7c3aed; transform: scale(0.8); }
+    to   { background: #ec4899; transform: scale(1.2); }
+}</code></pre>
+            <div class="note">🔁 <code>from</code> is equivalent to <code>0%</code>, and <code>to</code> is equivalent to <code>100%</code>. This is the simplest way to define a two‑state animation.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 4: MULTI‑STEP WITH MULTIPLE PROPERTIES ─── -->
+        <h2>📖 Example 4: Multi‑Step with Multiple Properties</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-multi"></div>
+                    <div class="demo-item-label">colour + border-radius + rotation</div>
+                </div>
+            </div>
+            <pre><code>@keyframes multiStep {
+    0%   { background: #06b6d4; border-radius: 12px; transform: rotate(0deg); }
+    25%  { background: #f59e0b; border-radius: 50%; transform: rotate(90deg); }
+    50%  { background: #ec4899; border-radius: 12px; transform: rotate(180deg); }
+    75%  { background: #22c55e; border-radius: 50%; transform: rotate(270deg); }
+    100% { background: #06b6d4; border-radius: 12px; transform: rotate(360deg); }
+}</code></pre>
+            <div class="note">🧩 This demonstrates how you can animate multiple properties (background, border-radius, transform) across several keyframes to create a complex, looping effect.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 5: TIMING FUNCTIONS ─── -->
+        <h2>📖 Example 5: Comparing Timing Functions</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="anim-timing linear"></div>
+                    <div class="demo-item-label">linear</div>
+                </div>
+                <div class="demo-item">
+                    <div class="anim-timing ease"></div>
+                    <div class="demo-item-label">ease</div>
+                </div>
+                <div class="demo-item">
+                    <div class="anim-timing ease-in"></div>
+                    <div class="demo-item-label">ease-in</div>
+                </div>
+                <div class="demo-item">
+                    <div class="anim-timing ease-out"></div>
+                    <div class="demo-item-label">ease-out</div>
+                </div>
+                <div class="demo-item">
+                    <div class="anim-timing ease-in-out"></div>
+                    <div class="demo-item-label">ease-in-out</div>
+                </div>
+            </div>
+            <pre><code>/* Each box uses a different timing function */
+.linear     { animation-timing-function: linear; }
+.ease       { animation-timing-function: ease; }
+.ease-in    { animation-timing-function: ease-in; }
+.ease-out   { animation-timing-function: ease-out; }
+.ease-in-out { animation-timing-function: ease-in-out; }</code></pre>
+            <div class="note">⏩ Watch how each box moves from left to right at a different acceleration — notice the smoothness differences.</div>
+        </div>
+
+        <!-- ─── IMPORTANT POINTS ─── -->
+        <h2>📝 Points to Remember</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use <code>from</code> / <code>to</code> or percentages</strong> — both work, but percentages give more control.</li>
+                <li><strong>Keyframes can be in any order</strong> — the browser will sort them by percentage.</li>
+                <li><strong>Declarations with <code>!important</code> are ignored</strong> inside <code>@keyframes</code>.</li>
+                <li><strong>An animation must be bound</strong> to an element using <code>animation-name</code> and <code>animation-duration</code>.</li>
+                <li><strong>Multiple animations</strong> can be applied to one element by separating them with commas.</li>
+                <li><strong>Inheritance</strong> — keyframe styles do not inherit; they apply only to the animated element.</li>
+                <li><strong>Vendor prefixes</strong> — for older browsers, use <code>-webkit-</code>, <code>-moz-</code> etc.</li>
+            </ul>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use @keyframes</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎯 Loader Animations</strong> Spinners, progress bars.</div>
+            <div class="feature-card"><strong>🖱️ Interactive Feedback</strong> Button presses, hover effects.</div>
+            <div class="feature-card"><strong>📰 Storytelling</strong> Animated illustrations, character movement.</div>
+            <div class="feature-card"><strong>🎨 UI Transitions</strong> Page entries, modals, tooltips.</div>
+            <div class="feature-card"><strong>📊 Data Visualisation</strong> Animated charts or counters.</div>
+            <div class="feature-card"><strong>🕹️ Game-like Elements</strong> Bouncing, rotating, scaling objects.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since v4 / v12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since v5</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since v4 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since v12</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 10+ supports with prefix; IE 9 and below do not</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Always include vendor prefixes (<code>-webkit-</code>, <code>-moz-</code>) for production code, and provide
+            fallback styles for older browsers.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use <code>transform</code> and <code>opacity</code></strong> for smooth, GPU-accelerated animations.</li>
+                <li><strong>Avoid animating layout properties</strong> like <code>width</code>, <code>height</code>, <code>margin</code> — they trigger layout reflows and hurt performance.</li>
+                <li><strong>Keep keyframes simple</strong> — complex animations with many properties can be hard to maintain.</li>
+                <li><strong>Test with <code>prefers-reduced-motion</code></strong> to respect user accessibility settings.</li>
+                <li><strong>Use <code>animation-fill-mode: forwards</code></strong> if you want the element to retain the final keyframe style.</li>
+                <li><strong>Combine with <code>animation-delay</code></strong> to sequence animations.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Always respect <code>prefers-reduced-motion</code>.
+            <pre style="margin-top:0.6rem;"><code>@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+    }
+}</code></pre>
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#eef2ff; border-left-color:#6366f1; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> The <code>@keyframes</code> rule is the foundation of CSS animations.
+            It gives you precise control over how an element changes over time. Whether you need a simple fade-in or a
+            complex multi‑stage motion sequence, mastering <code>@keyframes</code> unlocks a world of creative possibilities.
+        </div>
+
+        <footer>
+            🎯 CSS @keyframes – Define every step of your animation with precision.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+            `
+            },
+
+
+            {
+              id: "CSS-pseudo-classes",
+              name: "CSS pseudo-classes",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Pseudo‑Classes – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0d9488;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #134e4a;
+        }
+
+        .last-updated {
+            color: #0d9488;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f0fdfa;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #14b8a6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #134e4a;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #134e4a;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #134e4a;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #134e4a;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── pseudo-class demos ── */
+        /* hover */
+        .hover-demo h1:hover {
+            color: red;
+        }
+        .hover-demo h2:hover {
+            color: blue;
+        }
+
+        /* active */
+        .active-demo a:active {
+            color: yellow;
+            background: #333;
+            padding: 4px 8px;
+            border-radius: 4px;
+        }
+
+        /* visited */
+        .visited-demo a:visited {
+            color: red;
+        }
+
+        /* lang */
+        .lang-demo p:lang(fr) {
+            font-family: Verdana;
+            color: blue;
+        }
+
+        /* focus */
+        .focus-demo input:focus {
+            border: 5px solid lightblue;
+            box-shadow: 10px 10px 10px black;
+            color: blue;
+            width: 300px;
+            outline: none;
+        }
+
+        /* first-child */
+        .first-child-demo h1:first-child {
+            text-indent: 200px;
+            color: blue;
+        }
+
+        /* tooltip hover */
+        .tooltip-demo h2 {
+            display: none;
+            background-color: red;
+            color: white;
+            padding: 20px;
+        }
+        .tooltip-demo div {
+            font-size: 40px;
+            cursor: pointer;
+        }
+        .tooltip-demo div:hover h2 {
+            display: block;
+        }
+
+        /* class + pseudo */
+        .class-pseudo-demo div.hello:hover {
+            color: red;
+            font-size: 40px;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎯 CSS Pseudo‑Classes</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>Pseudo‑classes</strong> are keywords added to a selector that define a <em>special state</em> of the
+            selected element(s). They let you apply styles based on user interaction, element position, or document structure
+            — without needing extra classes or IDs. For example, <code>:hover</code> styles an element when the mouse is over it.
+            Pseudo‑class names are <strong>not case‑sensitive</strong>.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax</h2>
+        <pre><code>selector:pseudo-class {
+    property: value;
+}</code></pre>
+        <p>A pseudo‑class is written with a colon (<code>:</code>) followed by the keyword.</p>
+
+        <!-- ─── POPULAR PSEUDO-CLASSES TABLE ─── -->
+        <h2>📋 Popular Pseudo‑Classes</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Pseudo‑class</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>:active</code></td><td>Applies when an element is being activated (e.g., clicked).</td></tr>
+                <tr><td><code>:hover</code></td><td>Applies when the mouse pointer is over the element.</td></tr>
+                <tr><td><code>:focus</code></td><td>Applies when an element receives focus (e.g., input field).</td></tr>
+                <tr><td><code>:first-child</code></td><td>Selects the first child element of its parent.</td></tr>
+                <tr><td><code>:last-child</code></td><td>Selects the last child element of its parent.</td></tr>
+                <tr><td><code>:visited</code></td><td>Styles links that the user has already visited.</td></tr>
+                <tr><td><code>:nth-child(n)</code></td><td>Selects elements that match a numerical pattern (e.g., every second child).</td></tr>
+                <tr><td><code>:nth-of-type(n)</code></td><td>Selects elements of a specific type that match a numerical pattern.</td></tr>
+                <tr><td><code>:nth-last-child(n)</code></td><td>Same as <code>:nth-child</code>, but counting from the end.</td></tr>
+                <tr><td><code>:nth-last-of-type(n)</code></td><td>Same as <code>:nth-of-type</code>, but counting from the end.</td></tr>
+                <tr><td><code>:lang(language)</code></td><td>Selects elements with a specific <code>lang</code> attribute.</td></tr>
+            </tbody>
+        </table>
+
+        <!-- ─── :hover ─── -->
+        <h2>📖 <code>:hover</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row hover-demo">
+                <div class="demo-item">
+                    <h1>Hello world</h1>
+                    <h2>This is an example of :hover</h2>
+                    <div class="demo-item-label">Hover over the headings</div>
+                </div>
+            </div>
+            <pre><code>h1:hover { color: red; }
+h2:hover { color: blue; }</code></pre>
+            <div class="note">🖱️ The <code>:hover</code> pseudo‑class applies when the user moves the cursor over the element. For links, it's recommended to place it after <code>:link</code> and <code>:visited</code> for proper cascading.</div>
+        </div>
+
+        <!-- ─── :active ─── -->
+        <h2>📖 <code>:active</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row active-demo">
+                <div class="demo-item">
+                    <a href="#">Click the link</a>
+                    <div class="demo-item-label">(click and hold to see effect)</div>
+                </div>
+            </div>
+            <pre><code>a:active { color: yellow; }</code></pre>
+            <div class="note">⚡ The <code>:active</code> pseudo‑class applies while an element is being activated (e.g., mouse button pressed down on a link).</div>
+        </div>
+
+        <!-- ─── :visited ─── -->
+        <h2>📖 <code>:visited</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row visited-demo">
+                <div class="demo-item">
+                    <a href="#">Click the link (then come back)</a>
+                    <div class="demo-item-label">After visiting, the link turns red.</div>
+                </div>
+            </div>
+            <pre><code>a:visited { color: red; }</code></pre>
+            <div class="note">🔗 The <code>:visited</code> pseudo‑class styles links that have already been visited. It has privacy restrictions (only certain properties like color can be changed).</div>
+        </div>
+
+        <!-- ─── :lang ─── -->
+        <h2>📖 <code>:lang</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row lang-demo">
+                <div class="demo-item">
+                    <p>Without :lang pseudo class</p>
+                    <p lang="fr">With :lang pseudo class with the value fr</p>
+                </div>
+            </div>
+            <pre><code>p:lang(fr) {
+    font-family: Verdana;
+    color: blue;
+}</code></pre>
+            <div class="note">🌍 The <code>:lang</code> pseudo‑class selects elements based on the language specified in the <code>lang</code> attribute. Useful for multilingual documents.</div>
+        </div>
+
+        <!-- ─── :focus ─── -->
+        <h2>📖 <code>:focus</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row focus-demo">
+                <div class="demo-item">
+                    <form>
+                        <h1>Name: <input type="text" value="Enter your name" /></h1>
+                    </form>
+                    <div class="demo-item-label">Click on the input to see focus effect</div>
+                </div>
+            </div>
+            <pre><code>input:focus {
+    border: 5px solid lightblue;
+    box-shadow: 10px 10px 10px black;
+    color: blue;
+    width: 300px;
+}</code></pre>
+            <div class="note">🎯 The <code>:focus</code> pseudo‑class applies when an element (like an input field) receives focus. It's crucial for accessibility and form usability.</div>
+        </div>
+
+        <!-- ─── :first-child ─── -->
+        <h2>📖 <code>:first-child</code> Pseudo‑class</h2>
+        <div class="demo-box">
+            <div class="demo-row first-child-demo">
+                <div class="demo-item">
+                    <div>
+                        <h1>It is the first heading in div. It will be indented, and its color will be blue.</h1>
+                        <h1>It is the Second heading in div, which will not be affected.</h1>
+                    </div>
+                </div>
+            </div>
+            <pre><code>h1:first-child {
+    text-indent: 200px;
+    color: blue;
+}</code></pre>
+            <div class="note">📌 The <code>:first-child</code> pseudo‑class selects the element that is the first child of its parent. In IE8 and earlier, a <code>&lt;!DOCTYPE&gt;</code> declaration is required for it to work.</div>
+        </div>
+
+        <!-- ─── TOOLTIP HOVER ─── -->
+        <h2>📖 Simple Tooltip with <code>:hover</code></h2>
+        <div class="demo-box">
+            <div class="demo-row tooltip-demo">
+                <div class="demo-item">
+                    <div>
+                        Hello World
+                        <h2>Welcome to the dreamzTouch</h2>
+                    </div>
+                    <div class="demo-item-label">Hover over "Hello World"</div>
+                </div>
+            </div>
+            <pre><code>div:hover h2 {
+    display: block;
+}</code></pre>
+            <div class="note">💡 This demonstrates how <code>:hover</code> can be used to show hidden content (tooltip) when the user hovers over a parent element.</div>
+        </div>
+
+        <!-- ─── CLASS + PSEUDO-CLASS ─── -->
+        <h2>📖 Combining Classes and Pseudo‑classes</h2>
+        <div class="demo-box">
+            <div class="demo-row class-pseudo-demo">
+                <div class="demo-item">
+                    <div class="hello">Hello World</div>
+                    <div class="demo-item-label">Hover over the text</div>
+                </div>
+            </div>
+            <pre><code>div.hello:hover {
+    color: red;
+    font-size: 40px;
+}</code></pre>
+            <div class="note">🔗 You can chain a class and a pseudo‑class (e.g., <code>.class:hover</code>) to target specific elements with that class when they are in a particular state.</div>
+        </div>
+
+        <!-- ─── WHY USE ─── -->
+        <h2>🤔 Why Use Pseudo‑Classes?</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎯 Interactivity</strong> Provide visual feedback for user actions (hover, focus, active).</div>
+            <div class="feature-card"><strong>🎨 Styling Specific Elements</strong> Target elements based on position or state without extra markup.</div>
+            <div class="feature-card"><strong>📝 Form Styling</strong> Style inputs when focused, checked, or disabled.</div>
+            <div class="feature-card"><strong>✨ Dynamic Effects</strong> Combine with transitions/animations for richer interactions.</div>
+            <div class="feature-card"><strong>♿ Accessibility</strong> Improve keyboard navigation with visible focus indicators.</div>
+        </div>
+
+        <!-- ─── LIMITATIONS ─── -->
+        <h2>⚠️ Limitations of Pseudo‑Classes</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Limited functionality:</strong> They are predefined and may not cover complex interactive scenarios; JavaScript is often needed for advanced logic.</li>
+                <li><strong>Browser support:</strong> Older browsers may not support newer pseudo‑classes (e.g., <code>:nth-child</code> in IE8). Always test across browsers.</li>
+                <li><strong>No dynamic updates:</strong> Pseudo‑classes do not automatically reflect changes in the DOM (e.g., dynamically added elements). JavaScript is required for such cases.</li>
+                <li><strong>Specificity conflicts:</strong> Pseudo‑classes have specificity values that can clash with other rules; understanding CSS specificity is crucial.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Order for links:</strong> Use <code>:link</code>, <code>:visited</code>, <code>:hover</code>, <code>:active</code> (LVHA) for predictable link styling.</li>
+                <li><strong>Provide visible focus:</strong> Always style <code>:focus</code> for keyboard accessibility; never remove <code>outline</code> without providing an alternative.</li>
+                <li><strong>Combine with transitions:</strong> Smooth changes on hover/focus improve user experience.</li>
+                <li><strong>Test on real devices:</strong> Touch devices may have different hover behavior; consider using <code>@media (hover: hover)</code>.</li>
+                <li><strong>Use <code>:not()</code> wisely:</strong> The negation pseudo‑class can help avoid over‑specificity.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Pseudo‑class</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>:hover</code>, <code>:active</code>, <code>:visited</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE7+</td></tr>
+                <tr><td><code>:focus</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE8+</td></tr>
+                <tr><td><code>:first-child</code>, <code>:last-child</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE9+ (first-child works with doctype)</td></tr>
+                <tr><td><code>:nth-child</code>, <code>:nth-of-type</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE9+</td></tr>
+                <tr><td><code>:lang</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE8+</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers (IE8 and below), some pseudo‑classes may require a <code>&lt;!DOCTYPE&gt;</code> declaration or may not work at all. Always provide fallback styles.
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Never rely solely on colour changes for <code>:hover</code> or <code>:focus</code>.
+            Use additional indicators like underlines, borders, or background changes to ensure content is perceivable by all users.
+            Also, ensure that <code>:focus</code> styles are clearly visible for keyboard navigation.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS pseudo‑classes are indispensable for creating interactive, accessible, and visually rich web experiences.
+            They allow you to style elements based on user interaction, document structure, and language, making your UI more dynamic without JavaScript.
+            Master them to enhance both usability and aesthetics.
+        </div>
+
+        <footer>
+            🎯 CSS Pseudo‑Classes – Style elements based on state, position, and user interaction.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-pseudo-elements",
+              name: "CSS pseudo-elements",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Pseudo‑Elements – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #b45309;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #78350f;
+        }
+
+        .last-updated {
+            color: #b45309;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #fffbeb;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f59e0b;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #78350f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #78350f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #78350f;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #78350f;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── pseudo-element demos ── */
+
+        /* ::first-letter */
+        .first-letter-demo h1::first-letter {
+            font-family: 'Lucida Calligraphy', cursive;
+            font-size: 3cm;
+            color: red;
+            text-shadow: 5px 8px 9px green;
+        }
+        .first-letter-demo h1 {
+            color: blue;
+        }
+
+        /* ::first-line */
+        .first-line-demo h1::first-line {
+            font-family: 'Lucida Calligraphy', cursive;
+            font-size: 1cm;
+            color: red;
+            text-shadow: 5px 8px 9px green;
+        }
+
+        /* ::before */
+        .before-demo h1::before {
+            content: "'Hello World.' ";
+            color: red;
+        }
+
+        /* ::after */
+        .after-demo h1::after {
+            content: " 'Welcome to the e.com.'";
+            color: red;
+        }
+
+        /* ::selection */
+        .selection-demo h1::selection {
+            color: red;
+            background: #fef3c7;
+        }
+
+        /* class + pseudo-element */
+        .class-pseudo-demo h1.example::first-letter {
+            color: red;
+            font-size: 2cm;
+            font-family: 'Lucida Calligraphy', cursive;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .first-letter-demo h1::first-letter {
+                font-size: 1.5cm;
+            }
+            .first-line-demo h1::first-line {
+                font-size: 0.6cm;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎨 CSS Pseudo‑Elements</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>Pseudo‑elements</strong> are keywords that style a <em>specific part</em> of an element, rather than the
+            element as a whole. While <strong>pseudo‑classes</strong> target states (like <code>:hover</code>),
+            <strong>pseudo‑elements</strong> target sub‑parts like the first letter, first line, or generated content
+            before/after an element. They use the <strong>double colon</strong> (<code>::</code>) syntax in CSS3 to
+            differentiate them from pseudo‑classes.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax</h2>
+        <pre><code>selector::pseudo-element {
+    property: value;
+}</code></pre>
+        <p>
+            In CSS1 and CSS2, a single colon (<code>:</code>) was used for both pseudo‑classes and pseudo‑elements.
+            CSS3 introduced the double colon (<code>::</code>) to distinguish them. For backward compatibility, browsers
+            still support the single‑colon syntax for older pseudo‑elements (e.g., <code>:first-letter</code>).
+            However, the <strong>double colon is recommended</strong> for all pseudo‑elements.
+        </p>
+
+        <!-- ─── TABLE ─── -->
+        <h2>📋 Commonly Used Pseudo‑Elements</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Pseudo‑element</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>::first-letter</code> (<code>:first-letter</code>)</td><td>Styles the first letter of the text.</td></tr>
+                <tr><td><code>::first-line</code> (<code>:first-line</code>)</td><td>Styles the first line of the text.</td></tr>
+                <tr><td><code>::before</code> (<code>:before</code>)</td><td>Inserts content before the element's content.</td></tr>
+                <tr><td><code>::after</code> (<code>:after</code>)</td><td>Inserts content after the element's content.</td></tr>
+                <tr><td><code>::selection</code></td><td>Styles the portion of an element selected by the user.</td></tr>
+            </tbody>
+        </table>
+
+        <!-- ─── ::first-letter ─── -->
+        <h2>📖 <code>::first-letter</code> Pseudo‑element</h2>
+        <div class="demo-box">
+            <div class="demo-row first-letter-demo">
+                <div class="demo-item">
+                    <h1>Welcome to the e.com</h1>
+                    <h2>This is an example of ::first-letter</h2>
+                </div>
+            </div>
+            <pre><code>h1::first-letter {
+    font-family: 'Lucida Calligraphy', cursive;
+    font-size: 3cm;
+    color: red;
+    text-shadow: 5px 8px 9px green;
+}
+h1 {
+    color: blue;
+}</code></pre>
+            <div class="note">📝 The <code>::first-letter</code> pseudo‑element applies only to block‑level elements. It supports font, color, background, margin, padding, border, text‑shadow, and more. It does <em>not</em> support all CSS properties — only those related to text and box decoration.</div>
+        </div>
+
+        <!-- ─── ::first-line ─── -->
+        <h2>📖 <code>::first-line</code> Pseudo‑element</h2>
+        <div class="demo-box">
+            <div class="demo-row first-line-demo">
+                <div class="demo-item">
+                    <h1>Welcome to the e.com. This site is developed so that students may learn computer science related technologies easily. The e.com is committed to provide easy and in-depth tutorials on various technologies.</h1>
+                    <h2>This is an example of ::first-line</h2>
+                </div>
+            </div>
+            <pre><code>h1::first-line {
+    font-family: 'Lucida Calligraphy', cursive;
+    font-size: 1cm;
+    color: red;
+    text-shadow: 5px 8px 9px green;
+}</code></pre>
+            <div class="note">📄 The <code>::first-line</code> pseudo‑element styles the <em>first line</em> of text within a block‑level element. It supports font, color, background, word‑spacing, letter‑spacing, text‑transform, text‑decoration, and more.</div>
+        </div>
+
+        <!-- ─── ::before ─── -->
+        <h2>📖 <code>::before</code> Pseudo‑element</h2>
+        <div class="demo-box">
+            <div class="demo-row before-demo">
+                <div class="demo-item">
+                    <h1>Welcome to the e.com.</h1>
+                    <h2>This is an example of ::before</h2>
+                    <h3>In the first line the "Hello World" has been added using ::before</h3>
+                </div>
+            </div>
+            <pre><code>h1::before {
+    content: "'Hello World.' ";
+    color: red;
+}</code></pre>
+            <div class="note">✏️ The <code>::before</code> pseudo‑element inserts generated content <em>before</em> the element's actual content. It <strong>must</strong> be used with the <code>content</code> property. You can insert text, images, or even counters.</div>
+        </div>
+
+        <!-- ─── ::after ─── -->
+        <h2>📖 <code>::after</code> Pseudo‑element</h2>
+        <div class="demo-box">
+            <div class="demo-row after-demo">
+                <div class="demo-item">
+                    <h1>Hello World.</h1>
+                    <h2>This is an example of ::after</h2>
+                    <h3>In the first line the "Welcome to the e.com." has been added using ::after</h3>
+                </div>
+            </div>
+            <pre><code>h1::after {
+    content: " 'Welcome to the e.com.'";
+    color: red;
+}</code></pre>
+            <div class="note">✏️ The <code>::after</code> pseudo‑element inserts generated content <em>after</em> the element's content. Like <code>::before</code>, it requires the <code>content</code> property to work.</div>
+        </div>
+
+        <!-- ─── ::selection ─── -->
+        <h2>📖 <code>::selection</code> Pseudo‑element</h2>
+        <div class="demo-box">
+            <div class="demo-row selection-demo">
+                <div class="demo-item">
+                    <h1>Hello World.</h1>
+                    <h2>Select the text in first line to see the effect.</h2>
+                    <h3>This is an example of ::selection</h3>
+                </div>
+            </div>
+            <pre><code>h1::selection {
+    color: red;
+    background: #fef3c7;
+}</code></pre>
+            <div class="note">🖱️ The <code>::selection</code> pseudo‑element styles the portion of an element that the user has highlighted/selected. Only a limited set of properties work: <code>color</code>, <code>background-color</code>, <code>cursor</code>, and <code>outline</code>.</div>
+        </div>
+
+        <!-- ─── CLASS + PSEUDO-ELEMENT ─── -->
+        <h2>📖 Combining Classes and Pseudo‑elements</h2>
+        <div class="demo-box">
+            <div class="demo-row class-pseudo-demo">
+                <div class="demo-item">
+                    <h1 class="example">Hello World.</h1>
+                    <h1>Welcome to the e.com.</h1>
+                    <h3>Only the first heading (with class="example") gets the ::first-letter style.</h3>
+                </div>
+            </div>
+            <pre><code>h1.example::first-letter {
+    color: red;
+    font-size: 2cm;
+    font-family: 'Lucida Calligraphy', cursive;
+}</code></pre>
+            <div class="note">🔗 Pseudo‑elements can be chained with classes to target specific instances. In this example, only the <code>&lt;h1&gt;</code> with <code>class="example"</code> gets the styled first letter.</div>
+        </div>
+
+        <!-- ─── SUPPORTED PROPERTIES ─── -->
+        <h2>📋 Supported CSS Properties</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Pseudo‑element</th><th>Supported Properties</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>::first-letter</code></td>
+                    <td>
+                        color, font-*, background-*, margin-*, padding-*, border-*, text-shadow, text-transform,
+                        text-decoration, vertical-align (if float is 'none'), word-spacing, line-height, etc.
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>::first-line</code></td>
+                    <td>
+                        color, font-*, background-*, word-spacing, letter-spacing, line-height, vertical-align,
+                        text-transform, text-decoration, etc.
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>::before</code> / <code>::after</code></td>
+                    <td>
+                        All properties — they behave like inline elements by default. You can set <code>display</code>
+                        to <code>block</code>, <code>flex</code>, etc., to change their layout behaviour.
+                    </td>
+                </tr>
+                <tr>
+                    <td><code>::selection</code></td>
+                    <td>
+                        <code>color</code>, <code>background-color</code>, <code>cursor</code>, <code>outline</code>.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- ─── WHY USE ─── -->
+        <h2>🤔 Why Use Pseudo‑Elements?</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎨 Styling Specific Parts</strong> Target the first letter, first line, or selected text without extra markup.</div>
+            <div class="feature-card"><strong>📄 Generated Content</strong> Add icons, quotes, or decorative elements using <code>::before</code> and <code>::after</code>.</div>
+            <div class="feature-card"><strong>♿ Accessibility</strong> Keep content clean while adding visual enhancements.</div>
+            <div class="feature-card"><strong>🔄 No Extra HTML</strong> Reduce markup clutter by using pseudo‑elements for decorative purposes.</div>
+            <div class="feature-card"><strong>🎯 Precision</strong> Style only the first line or letter — perfect for drop caps and typographic effects.</div>
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use double colon (::)</strong> for pseudo‑elements to clearly separate them from pseudo‑classes, even though single colon works for legacy support.</li>
+                <li><strong>Always include <code>content</code></strong> with <code>::before</code> and <code>::after</code> — otherwise they won't render.</li>
+                <li><strong>Keep generated content accessible</strong> — don't put critical information only in <code>::before</code>/<code>::after</code> content, as screen readers may not announce it.</li>
+                <li><strong>Use <code>display</code> carefully</strong> — <code>::before</code> and <code>::after</code> are inline by default. Set <code>display: block</code> or <code>flex</code> for layout control.</li>
+                <li><strong>Combine with <code>content</code> and <code>attr()</code></strong> — you can insert attribute values using <code>content: attr(data-*)</code>.</li>
+                <li><strong>Test selection styling</strong> — <code>::selection</code> is not fully supported in all browsers and may have limited property support.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Pseudo‑element</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>::first-letter</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE5.5+ (single colon)</td></tr>
+                <tr><td><code>::first-line</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE5.5+ (single colon)</td></tr>
+                <tr><td><code>::before</code> / <code>::after</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE8+ (single colon)</td></tr>
+                <tr><td><code>::selection</code></td><td>✅ Full</td><td>✅ Full (with <code>-moz-</code> prefix)</td><td>✅ Full</td><td>❌ Not supported</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ In Internet Explorer 8 and below, the double‑colon syntax is not supported. Use the single‑colon version
+            (<code>:before</code>, <code>:after</code>) for compatibility. Also, <code>::selection</code> requires
+            <code>-webkit-</code> and <code>-moz-</code> prefixes in some older browsers.
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#fffbeb; border-left-color:#f59e0b;">
+            ♿ <strong>Accessibility Tip:</strong> Content added via <code>::before</code> and <code>::after</code> is
+            <em>not</em> announced by most screen readers. Avoid putting critical information there. Use them only for
+            decorative or non‑essential content like icons, quotes, or visual enhancements.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS pseudo‑elements give you fine‑grained control over the styling of specific
+            parts of an element. Whether you're creating drop caps, adding decorative content, or styling selected text,
+            pseudo‑elements keep your HTML clean and your CSS expressive. Use them wisely with the double‑colon syntax
+            for modern, maintainable code.
+        </div>
+
+        <footer>
+            🎨 CSS Pseudo‑Elements – Style specific parts of an element with precision and elegance.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-radial-gradient",
+              name: "CSS radial-gradient",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS radial-gradient() – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #d97706;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #78350f;
+        }
+
+        .last-updated {
+            color: #d97706;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #fef3c7;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f59e0b;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #78350f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #78350f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #78350f;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #78350f;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── gradient demo boxes ── */
+        .gradient-box {
+            width: 200px;
+            height: 200px;
+            border-radius: 12px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+            margin: 8px;
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 0.9rem;
+            border: 1px solid #e2e8f0;
+        }
+
+        .gradient-box.small {
+            width: 150px;
+            height: 150px;
+            font-size: 0.8rem;
+        }
+
+        .gradient-box.large {
+            width: 300px;
+            height: 200px;
+        }
+
+        /* example 1: elliptical */
+        .ex1 {
+            background-image: radial-gradient(black, yellow, green, blue);
+        }
+
+        /* example 2: circle */
+        .ex2 {
+            background-image: radial-gradient(circle, violet, indigo, blue, green, yellow, orange, red);
+            width: 400px;
+            height: 250px;
+        }
+
+        /* example 3: farthest-side */
+        .ex3-left-bottom {
+            background-image: radial-gradient(farthest-side at left bottom, blueviolet, crimson, burlywood, gold);
+        }
+        .ex3-right-bottom {
+            background-image: radial-gradient(farthest-side at right bottom, blueviolet, crimson, burlywood, gold);
+        }
+        .ex3-left-top {
+            background-image: radial-gradient(farthest-side at left top, blueviolet, crimson, burlywood, gold);
+        }
+        .ex3-right-top {
+            background-image: radial-gradient(farthest-side at right top, blueviolet, crimson, burlywood, gold);
+        }
+
+        /* example 4: farthest-corner */
+        .ex4-left-bottom {
+            background-image: radial-gradient(farthest-corner at left bottom, blueviolet, crimson, burlywood, gold);
+        }
+        .ex4-right-bottom {
+            background-image: radial-gradient(farthest-corner at right bottom, blueviolet, crimson, burlywood, gold);
+        }
+        .ex4-left-top {
+            background-image: radial-gradient(farthest-corner at left top, blueviolet, crimson, burlywood, gold);
+        }
+        .ex4-right-top {
+            background-image: radial-gradient(farthest-corner at right top, blueviolet, crimson, burlywood, gold);
+        }
+
+        /* example 5: closest-side */
+        .ex5-side1 {
+            background-image: radial-gradient(closest-side at 50px 50px, blueviolet, crimson, burlywood, gold);
+        }
+        .ex5-side2 {
+            background-image: radial-gradient(closest-side at 200px 150px, blueviolet, crimson, burlywood, gold);
+        }
+
+        /* example 6: closest-corner */
+        .ex6-corner1 {
+            background-image: radial-gradient(closest-corner at 150px 150px, blueviolet, crimson, burlywood, gold);
+        }
+        .ex6-corner2 {
+            background-image: radial-gradient(closest-corner at 50px 75px, blueviolet, crimson, burlywood, gold);
+        }
+
+        /* example 7: all four combined */
+        .ex7-farthest-side {
+            background-image: radial-gradient(farthest-side at left bottom, red, yellow, cyan);
+        }
+        .ex7-farthest-corner {
+            background-image: radial-gradient(farthest-corner at right bottom, blue, yellow, green);
+        }
+        .ex7-closest-side {
+            background-image: radial-gradient(closest-side, red, yellow, lightgreen);
+        }
+        .ex7-closest-corner {
+            background-image: radial-gradient(closest-corner, blue, yellow, green);
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .gradient-box { width: 150px; height: 150px; }
+            .ex2 { width: 100%; height: 200px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎨 CSS <code>radial-gradient()</code> Function</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            The <strong><code>radial-gradient()</code></strong> function is a built‑in CSS function that creates a
+            <strong>radial gradient</strong> — colors that emerge from a single point and spread outward in a circular or
+            elliptical shape. It's a powerful way to create attractive backgrounds without external images, saving bandwidth
+            and improving load times.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax</h2>
+        <pre><code>background-image: radial-gradient(shape size at position, start-color, ..., last-color);</code></pre>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Argument</th><th>Description</th><th>Default</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>position</code></td>
+                    <td>Defines the gradient center. Can be keywords (<code>center</code>, <code>top</code>, <code>left</code>, etc.) or length/percentage values.</td>
+                    <td><code>center</code></td>
+                </tr>
+                <tr>
+                    <td><code>shape</code></td>
+                    <td><code>circle</code> or <code>ellipse</code> (defines the shape of the gradient).</td>
+                    <td><code>ellipse</code></td>
+                </tr>
+                <tr>
+                    <td><code>size</code></td>
+                    <td>
+                        Defines how far the gradient extends. Possible values:<br />
+                        • <code>farthest-corner</code> (default)<br />
+                        • <code>farthest-side</code><br />
+                        • <code>closest-corner</code><br />
+                        • <code>closest-side</code><br />
+                        Can also be a length (e.g., <code>200px</code>) or percentage.
+                    </td>
+                    <td><code>farthest-corner</code></td>
+                </tr>
+                <tr>
+                    <td><code>color stops</code></td>
+                    <td>List of colors (and optional stop positions) that define the gradient transition.</td>
+                    <td>—</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="note">
+            💡 <strong>Tip:</strong> The <code>at position</code> part is optional. If omitted, the gradient is centered.
+        </div>
+
+        <!-- ─── EXAMPLE 1: ELLIPTICAL ─── -->
+        <h2>📖 Example 1: Elliptical Radial Gradient</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box ex1">Elliptical gradient</div>
+                    <div class="demo-item-label">default shape (ellipse)</div>
+                </div>
+            </div>
+            <pre><code>background-image: radial-gradient(black, yellow, green, blue);</code></pre>
+            <div class="note">🎯 The default shape is <code>ellipse</code>; the gradient spreads from center outward with the given color stops.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 2: CIRCULAR ─── -->
+        <h2>📖 Example 2: Circular Radial Gradient</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box ex2">Circular gradient<br />(rainbow)</div>
+                    <div class="demo-item-label">shape: circle</div>
+                </div>
+            </div>
+            <pre><code>background-image: radial-gradient(circle, violet, indigo, blue, green, yellow, orange, red);</code></pre>
+            <div class="note">🔵 The <code>circle</code> shape forces a perfect circle, regardless of the element's aspect ratio.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 3: FARTHEST-SIDE ─── -->
+        <h2>📖 Example 3: <code>farthest-side</code> Size</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small ex3-left-bottom">farthest-side<br />@ left bottom</div>
+                    <div class="gradient-box small ex3-right-bottom">farthest-side<br />@ right bottom</div>
+                    <div class="gradient-box small ex3-left-top">farthest-side<br />@ left top</div>
+                    <div class="gradient-box small ex3-right-top">farthest-side<br />@ right top</div>
+                </div>
+            </div>
+            <pre><code>/* Example: */
+background-image: radial-gradient(farthest-side at left bottom, blueviolet, crimson, burlywood, gold);</code></pre>
+            <div class="note">📐 <code>farthest-side</code> makes the gradient extend to the farthest edge from the center point. The position determines where the center is.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 4: FARTHEST-CORNER ─── -->
+        <h2>📖 Example 4: <code>farthest-corner</code> Size</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small ex4-left-bottom">farthest-corner<br />@ left bottom</div>
+                    <div class="gradient-box small ex4-right-bottom">farthest-corner<br />@ right bottom</div>
+                    <div class="gradient-box small ex4-left-top">farthest-corner<br />@ left top</div>
+                    <div class="gradient-box small ex4-right-top">farthest-corner<br />@ right top</div>
+                </div>
+            </div>
+            <pre><code>background-image: radial-gradient(farthest-corner at left bottom, blueviolet, crimson, burlywood, gold);</code></pre>
+            <div class="note">📐 <code>farthest-corner</code> (the default) extends to the farthest corner from the center. This creates a more expansive gradient.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 5: CLOSEST-SIDE ─── -->
+        <h2>📖 Example 5: <code>closest-side</code> Size</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small ex5-side1">closest-side<br />@ 50px 50px</div>
+                    <div class="gradient-box small ex5-side2">closest-side<br />@ 200px 150px</div>
+                </div>
+            </div>
+            <pre><code>background-image: radial-gradient(closest-side at 50px 50px, blueviolet, crimson, burlywood, gold);</code></pre>
+            <div class="note">📐 <code>closest-side</code> makes the gradient stop at the nearest side from the center. The gradient is smaller and more compact.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 6: CLOSEST-CORNER ─── -->
+        <h2>📖 Example 6: <code>closest-corner</code> Size</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small ex6-corner1">closest-corner<br />@ 150px 150px</div>
+                    <div class="gradient-box small ex6-corner2">closest-corner<br />@ 50px 75px</div>
+                </div>
+            </div>
+            <pre><code>background-image: radial-gradient(closest-corner at 150px 150px, blueviolet, crimson, burlywood, gold);</code></pre>
+            <div class="note">📐 <code>closest-corner</code> stops at the nearest corner from the center, giving a very compact gradient.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 7: ALL FOUR COMPARED ─── -->
+        <h2>📖 Example 7: Comparing All Size Keywords</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small ex7-farthest-side">farthest-side<br />(@ left bottom)</div>
+                    <div class="gradient-box small ex7-farthest-corner">farthest-corner<br />(@ right bottom)</div>
+                    <div class="gradient-box small ex7-closest-side">closest-side</div>
+                    <div class="gradient-box small ex7-closest-corner">closest-corner</div>
+                </div>
+            </div>
+            <pre><code>/* Four different size keywords */
+#ex7-1 { background-image: radial-gradient(farthest-side at left bottom, red, yellow, cyan); }
+#ex7-2 { background-image: radial-gradient(farthest-corner at right bottom, blue, yellow, green); }
+#ex7-3 { background-image: radial-gradient(closest-side, red, yellow, lightgreen); }
+#ex7-4 { background-image: radial-gradient(closest-corner, blue, yellow, green); }</code></pre>
+            <div class="note">🔍 Observe how each size keyword changes the spread of the gradient. <code>farthest-*</code> gives a larger, more gradual transition; <code>closest-*</code> produces tighter gradients.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use radial-gradient()</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎨 Backgrounds</strong> Create rich, eye‑catching backgrounds without images.</div>
+            <div class="feature-card"><strong>🖱️ Buttons &amp; Cards</strong> Add depth with radial highlights or glowing effects.</div>
+            <div class="feature-card"><strong>📊 Data Visualisation</strong> Emphasize data points with radial gradients.</div>
+            <div class="feature-card"><strong>🎭 Overlays</strong> Create vignette or spotlight effects.</div>
+            <div class="feature-card"><strong>🖼️ Image Placeholders</strong> Generate dynamic, colorful placeholders.</div>
+            <div class="feature-card"><strong>🎯 UI Accents</strong> Draw attention with radial color transitions.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since Chrome 26 / Edge 12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since Firefox 16 (with prefix before)</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since Safari 6.1 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since Opera 12.1</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 10+ supports with -ms- prefix; IE 9 and below do not</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers, consider using vendor prefixes (<code>-webkit-</code>, <code>-moz-</code>, <code>-o-</code>, <code>-ms-</code>) and provide a solid fallback color.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Provide a fallback:</strong> Always set a <code>background-color</code> before the gradient, so if the gradient isn't supported, a solid color is shown.</li>
+                <li><strong>Use <code>background-image</code>:</strong> The gradient is applied via <code>background-image</code>, not <code>background-color</code>.</li>
+                <li><strong>Keep color stops balanced:</strong> Too many abrupt stops can look harsh; smooth transitions work best.</li>
+                <li><strong>Test with different sizes:</strong> The effect of <code>closest-*</code> vs <code>farthest-*</code> depends on the element's dimensions.</li>
+                <li><strong>Use <code>position</code> wisely:</strong> Placing the center off‑center can create dramatic lighting effects.</li>
+                <li><strong>Combine with other gradients:</strong> You can layer multiple gradients with comma separation.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#fef3c7; border-left-color:#f59e0b;">
+            ♿ <strong>Accessibility Tip:</strong> Gradients are purely visual and do not affect screen readers. However, ensure sufficient
+            contrast between text and gradient backgrounds. Use a dark overlay or a solid background behind text to maintain readability.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> The <code>radial-gradient()</code> function is a versatile tool for creating vibrant,
+            engaging backgrounds without external resources. By understanding its parameters — shape, size, position, and color stops —
+            you can craft everything from subtle highlights to bold, colorful backdrops. Use it to enhance your UI while keeping
+            performance high.
+        </div>
+
+        <footer>
+            🎨 CSS radial-gradient() – Create stunning radial backgrounds with pure CSS.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+             {
+              id: "CSS-translate",
+              name: "CSS translate",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS translate() Function – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #2563eb;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e3a5f;
+        }
+
+        .last-updated {
+            color: #2563eb;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #eff6ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #3b82f6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e3a5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e3a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e3a5f;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e3a5f;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── translate demo elements ── */
+
+        .demo-stage {
+            position: relative;
+            background: #f1f5f9;
+            border-radius: 12px;
+            padding: 1.5rem;
+            min-height: 180px;
+            border: 2px dashed #cbd5e1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .demo-stage .original-label {
+            position: absolute;
+            top: 8px;
+            left: 12px;
+            font-size: 0.7rem;
+            color: #94a3b8;
+            background: white;
+            padding: 0.1rem 0.6rem;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .translate-box {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: #3b82f6;
+            color: white;
+            font-weight: bold;
+            padding: 0.8rem 1.5rem;
+            border-radius: 12px;
+            font-size: 1rem;
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+            transition: transform 0.3s ease;
+            min-width: 100px;
+            min-height: 60px;
+        }
+
+        .translate-box.orange {
+            background: #f59e0b;
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+        }
+
+        .translate-box.green {
+            background: #22c55e;
+            box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+        }
+
+        .translate-box.purple {
+            background: #8b5cf6;
+            box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+        }
+
+        .translate-box.pink {
+            background: #ec4899;
+            box-shadow: 0 4px 12px rgba(236, 72, 153, 0.3);
+        }
+
+        .translate-box.cyan {
+            background: #06b6d4;
+            box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);
+        }
+
+        .translate-box.rose {
+            background: #f43f5e;
+            box-shadow: 0 4px 12px rgba(244, 63, 94, 0.3);
+        }
+
+        .translate-box.indigo {
+            background: #6366f1;
+            box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+        }
+
+        /* translate examples */
+        .trans-x-only {
+            transform: translate(120px);
+        }
+
+        .trans-xy {
+            transform: translate(120px, 60px);
+        }
+
+        .trans-negative {
+            transform: translate(-80px, 40px);
+        }
+
+        .trans-percent {
+            transform: translate(50%, 30%);
+        }
+
+        .trans-hover {
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+        .trans-hover:hover {
+            transform: translate(20px, 10px);
+        }
+
+        /* ── image translate demo ── */
+        .img-translate-demo {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .img-translate-demo .img-wrapper {
+            text-align: center;
+        }
+
+        .img-translate-demo img {
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 12px;
+            border: 2px solid #e2e8f0;
+            background: #f1f5f9;
+            transition: transform 0.4s ease;
+        }
+
+        .img-translate-demo .img-translated {
+            transform: translate(80px, 40px);
+        }
+
+        .img-translate-demo .img-translated-negative {
+            transform: translate(-60px, 30px);
+        }
+
+        .img-translate-demo .img-hover-translate:hover {
+            transform: translate(30px, 15px);
+        }
+
+        /* ── card demo ── */
+        .card-demo {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 8px 25px -8px rgba(0,0,0,0.15);
+            width: 200px;
+            text-align: center;
+            border: 1px solid #e2e8f0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translate(0, -12px);
+            box-shadow: 0 16px 40px -12px rgba(0,0,0,0.25);
+        }
+
+        .card .icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .card h4 {
+            color: #1e3a5f;
+            margin-bottom: 0.3rem;
+        }
+
+        .card p {
+            font-size: 0.85rem;
+            color: #64748b;
+        }
+
+        /* ── button demo ── */
+        .btn-translate {
+            background: #2563eb;
+            color: white;
+            border: none;
+            padding: 12px 32px;
+            border-radius: 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+        }
+
+        .btn-translate:hover {
+            transform: translate(8px, -4px);
+            box-shadow: 0 8px 25px rgba(37, 99, 235, 0.45);
+        }
+
+        .btn-translate:active {
+            transform: translate(4px, 2px);
+            box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+        }
+
+        /* ── grid demo ── */
+        .grid-demo {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            padding: 0.5rem;
+        }
+
+        .grid-item {
+            background: #e2e8f0;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 8px;
+            font-weight: 600;
+            color: #1e3a5f;
+            transition: transform 0.3s ease;
+        }
+
+        .grid-item:nth-child(1) { background: #fca5a5; }
+        .grid-item:nth-child(2) { background: #fcd34d; }
+        .grid-item:nth-child(3) { background: #6ee7b7; }
+        .grid-item:nth-child(4) { background: #93c5fd; }
+        .grid-item:nth-child(5) { background: #c4b5fd; }
+        .grid-item:nth-child(6) { background: #f9a8d4; }
+
+        .grid-item:hover {
+            transform: translate(0, -8px);
+            box-shadow: 0 8px 20px -8px rgba(0,0,0,0.2);
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .demo-stage { min-height: 120px; padding: 1rem; }
+            .translate-box { padding: 0.5rem 1rem; font-size: 0.85rem; min-width: 70px; min-height: 40px; }
+            .img-translate-demo img { width: 80px; height: 80px; }
+            .img-translate-demo .img-translated { transform: translate(40px, 20px); }
+            .card { width: 150px; padding: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>📐 CSS <code>translate()</code> Function</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            The <strong><code>translate()</code></strong> function is a built‑in CSS transformation that repositions an element
+            along the horizontal (X) and vertical (Y) axes. It moves the element from its current position without affecting
+            the layout of surrounding elements — making it ideal for animations, hover effects, and responsive adjustments.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax</h2>
+        <pre><code>transform: translate(tx);                /* single value — moves along X-axis only */
+transform: translate(tx, ty);           /* two values — moves along X and Y axes */</code></pre>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Parameter</th><th>Description</th><th>Default</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>tx</code></td>
+                    <td>Translation length along the <strong>X‑axis</strong> (horizontal). Can be a length (<code>px</code>, <code>em</code>, <code>%</code>) or a number.</td>
+                    <td><strong>Required</strong></td>
+                </tr>
+                <tr>
+                    <td><code>ty</code></td>
+                    <td>Translation length along the <strong>Y‑axis</strong> (vertical). If omitted, it defaults to <code>0</code>.</td>
+                    <td><code>0</code></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="note">
+            💡 <strong>Important:</strong> <code>translate()</code> does <em>not</em> affect the document flow — other elements
+            stay in place. This is different from using <code>margin</code> or <code>position: relative</code> with offsets.
+        </div>
+
+        <!-- ─── EXAMPLE 1: X-ONLY ─── -->
+        <h2>📖 Example 1: X‑Axis Only (<code>translate(tx)</code>)</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="original-label">Original position</span>
+                <div class="translate-box">Original</div>
+                <div class="translate-box orange trans-x-only">translate(120px)</div>
+            </div>
+            <pre><code>/* Moves the element 120px to the right (X-axis) */
+transform: translate(120px);</code></pre>
+            <div class="note">📏 When only one value is provided, it applies to the X‑axis. The Y‑axis remains unchanged (default <code>0</code>).</div>
+        </div>
+
+        <!-- ─── EXAMPLE 2: X AND Y ─── -->
+        <h2>📖 Example 2: X and Y Axes (<code>translate(tx, ty)</code>)</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="original-label">Original position</span>
+                <div class="translate-box">Original</div>
+                <div class="translate-box green trans-xy">translate(120px, 60px)</div>
+            </div>
+            <pre><code>/* Moves the element 120px right and 60px down */
+transform: translate(120px, 60px);</code></pre>
+            <div class="note">📐 The first value moves the element horizontally; the second moves it vertically. Positive values move right and down.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 3: NEGATIVE VALUES ─── -->
+        <h2>📖 Example 3: Negative Values</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="original-label">Original position</span>
+                <div class="translate-box">Original</div>
+                <div class="translate-box purple trans-negative">translate(-80px, 40px)</div>
+            </div>
+            <pre><code>/* Moves the element 80px left and 40px down */
+transform: translate(-80px, 40px);</code></pre>
+            <div class="note">⬅️⬇️ Negative X values move the element <strong>left</strong>; negative Y values move it <strong>up</strong>.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 4: PERCENTAGE VALUES ─── -->
+        <h2>📖 Example 4: Percentage Values</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="original-label">Original position</span>
+                <div class="translate-box">Original</div>
+                <div class="translate-box pink trans-percent">translate(50%, 30%)</div>
+            </div>
+            <pre><code>/* Moves the element by 50% of its own width and 30% of its own height */
+transform: translate(50%, 30%);</code></pre>
+            <div class="note">📊 Percentages are relative to the <strong>element's own size</strong> — not the parent container. This is useful for centering or offsetting elements proportionally.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 5: HOVER TRANSLATE ─── -->
+        <h2>📖 Example 5: Hover‑Triggered Translate</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="original-label">Hover over the box</span>
+                <div class="translate-box cyan trans-hover">Hover me →</div>
+            </div>
+            <pre><code>.box:hover {
+    transform: translate(20px, 10px);
+}</code></pre>
+            <div class="note">🖱️ Using <code>translate()</code> with <code>:hover</code> creates smooth, interactive movement without affecting other elements. Add <code>transition</code> for a polished effect.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 6: IMAGE TRANSLATE ─── -->
+        <h2>📖 Example 6: Translating Images</h2>
+        <div class="demo-box">
+            <div class="img-translate-demo">
+                <div class="img-wrapper">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Crect width='120' height='120' fill='%23e2e8f0'/%3E%3Ctext x='60' y='60' font-size='14' text-anchor='middle' dominant-baseline='central' fill='%23475569'%3EOriginal%3C/text%3E%3C/svg%3E" alt="Original" />
+                    <div class="demo-item-label">Original</div>
+                </div>
+                <div class="img-wrapper">
+                    <img class="img-translated" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Crect width='120' height='120' fill='%233b82f6'/%3E%3Ctext x='60' y='60' font-size='12' text-anchor='middle' dominant-baseline='central' fill='white'%3Etranslate%3Cbr/%(80px, 40px)%3C/text%3E%3C/svg%3E" alt="Translated" />
+                    <div class="demo-item-label">translate(80px, 40px)</div>
+                </div>
+                <div class="img-wrapper">
+                    <img class="img-translated-negative" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Crect width='120' height='120' fill='%23f59e0b'/%3E%3Ctext x='60' y='60' font-size='12' text-anchor='middle' dominant-baseline='central' fill='white'%3Etranslate%3Cbr/%3A(-60px, 30px)%3C/text%3E%3C/svg%3E" alt="Translated Negative" />
+                    <div class="demo-item-label">translate(-60px, 30px)</div>
+                </div>
+                <div class="img-wrapper">
+                    <img class="img-hover-translate" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Crect width='120' height='120' fill='%238b5cf6'/%3E%3Ctext x='60' y='55' font-size='11' text-anchor='middle' dominant-baseline='central' fill='white'%3EHover%3Cbr/%3Eto translate%3C/text%3E%3C/svg%3E" alt="Hover Translate" />
+                    <div class="demo-item-label">Hover → translate(30px, 15px)</div>
+                </div>
+            </div>
+            <pre><code>/* Image translation examples */
+.img-translated { transform: translate(80px, 40px); }
+.img-translated-negative { transform: translate(-60px, 30px); }
+.img-hover-translate:hover { transform: translate(30px, 15px); }</code></pre>
+            <div class="note">🖼️ Translating images is perfect for creating parallax effects, image galleries, or subtle hover interactions.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 7: CARDS ─── -->
+        <h2>📖 Example 7: Card Lift with Translate</h2>
+        <div class="demo-box">
+            <div class="card-demo">
+                <div class="card">
+                    <div class="icon">🚀</div>
+                    <h4>Launch</h4>
+                    <p>Hover to lift the card</p>
+                </div>
+                <div class="card">
+                    <div class="icon">🎨</div>
+                    <h4>Design</h4>
+                    <p>Interactive card animation</p>
+                </div>
+                <div class="card">
+                    <div class="icon">⚡</div>
+                    <h4>Performance</h4>
+                    <p>Smooth GPU‑accelerated</p>
+                </div>
+            </div>
+            <pre><code>.card:hover {
+    transform: translate(0, -12px);
+    box-shadow: 0 16px 40px -12px rgba(0,0,0,0.25);
+}</code></pre>
+            <div class="note">🃏 Translating cards upward on hover creates a "lift" effect — a popular UI pattern for interactive dashboards and product displays.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 8: BUTTON ─── -->
+        <h2>📖 Example 8: Interactive Button</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <button class="btn-translate">✨ Hover &amp; Click Me</button>
+                    <div class="demo-item-label">Hover: moves right &amp; up • Click: micro‑shift</div>
+                </div>
+            </div>
+            <pre><code>.btn:hover {
+    transform: translate(8px, -4px);
+}
+.btn:active {
+    transform: translate(4px, 2px);
+}</code></pre>
+            <div class="note">🎯 Combining <code>translate()</code> with <code>:hover</code> and <code>:active</code> gives buttons tactile, responsive feedback that feels natural.</div>
+        </div>
+
+        <!-- ─── EXAMPLE 9: GRID ITEMS ─── -->
+        <h2>📖 Example 9: Grid Items with Hover Translate</h2>
+        <div class="demo-box">
+            <div class="grid-demo">
+                <div class="grid-item">⬆️ Hover me</div>
+                <div class="grid-item">⬆️ Hover me</div>
+                <div class="grid-item">⬆️ Hover me</div>
+                <div class="grid-item">⬆️ Hover me</div>
+                <div class="grid-item">⬆️ Hover me</div>
+                <div class="grid-item">⬆️ Hover me</div>
+            </div>
+            <pre><code>.grid-item:hover {
+    transform: translate(0, -8px);
+    box-shadow: 0 8px 20px -8px rgba(0,0,0,0.2);
+}</code></pre>
+            <div class="note">📊 Hovering over grid items creates a subtle lift effect, making the UI feel more dynamic and responsive.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use translate()</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🖱️ Hover Effects</strong> Lift buttons, cards, or images on hover.</div>
+            <div class="feature-card"><strong>🎬 Animations</strong> Create smooth slide‑in or motion effects.</div>
+            <div class="feature-card"><strong>📐 Centering</strong> Use percentage values to center elements precisely.</div>
+            <div class="feature-card"><strong>🔄 Micro‑interactions</strong> Provide tactile feedback on clicks or taps.</div>
+            <div class="feature-card"><strong>📱 Responsive Design</strong> Adjust element positions based on screen size.</div>
+            <div class="feature-card"><strong>🎮 Game UI</strong> Move characters, objects, or UI elements fluidly.</div>
+        </div>
+
+        <!-- ─── COMPARISON ─── -->
+        <h2>📊 translate() vs Other Positioning Methods</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Method</th><th>Effect on Layout</th><th>Performance</th><th>Best For</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>translate()</code></td>
+                    <td>✅ No layout shift (GPU‑accelerated)</td>
+                    <td>⭐ Excellent</td>
+                    <td>Animations, hover effects, UI tweaks</td>
+                </tr>
+                <tr>
+                    <td><code>margin</code></td>
+                    <td>❌ Causes layout reflow</td>
+                    <td>⭐ Poor</td>
+                    <td>Static spacing in document flow</td>
+                </tr>
+                <tr>
+                    <td><code>position: relative; top/left</code></td>
+                    <td>❌ Affects layout (shifts other elements)</td>
+                    <td>⭐ Moderate</td>
+                    <td>Offsetting elements while maintaining flow</td>
+                </tr>
+                <tr>
+                    <td><code>position: absolute</code></td>
+                    <td>✅ Removed from flow</td>
+                    <td>⭐ Good</td>
+                    <td>Precise positioning within a container</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            🚀 <strong>Performance tip:</strong> <code>translate()</code> uses the GPU (via the compositor thread), making it
+            significantly smoother and more performant than layout‑triggering properties like <code>margin</code> or
+            <code>top</code>/<code>left</code>.
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since Chrome 1 / Edge 12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since Firefox 3.5 (with prefix before)</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since Safari 3.1 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since Opera 10.5</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 9+ with -ms- prefix; IE 8 and below do not support</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers, use vendor prefixes (<code>-webkit-</code>, <code>-ms-</code>, <code>-moz-</code>).
+            Also, note that <code>translate()</code> is part of the <code>transform</code> property, which requires prefixing
+            in older browser versions.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use percentages for responsive layouts:</strong> <code>translate(50%, -50%)</code> is a classic way to center an element.</li>
+                <li><strong>Combine with <code>transition</code>:</strong> Always add <code>transition: transform 0.3s ease</code> for smooth, polished interactions.</li>
+                <li><strong>Avoid animating layout properties:</strong> Use <code>translate()</code> instead of <code>margin</code> or <code>top</code>/<code>left</code> for better performance.</li>
+                <li><strong>Use <code>will-change: transform;</code></strong> for elements that will be animated frequently to hint the browser.</li>
+                <li><strong>Test on touch devices:</strong> <code>:hover</code> may not work as expected on touchscreens — consider using <code>:active</code> or JavaScript for tap feedback.</li>
+                <li><strong>Combine with other transforms:</strong> <code>translate()</code> can be combined with <code>scale()</code>, <code>rotate()</code>, etc. — just separate with spaces: <code>transform: translate(20px, 10px) scale(1.1);</code></li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Avoid using <code>translate()</code> to move elements off‑screen for visual hiding,
+            as this can still be perceived by some screen readers. Use <code>display: none</code>, <code>visibility: hidden</code>,
+            or <code>aria-hidden</code> for accessibility‑conscious hiding. Also, ensure that hover‑based translations are
+            not the <em>only</em> way to access content — keyboard and touch users should have alternatives.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#eff6ff; border-left-color:#3b82f6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> The <code>translate()</code> function is an essential tool for modern CSS layouts and interactions.
+            It offers a performant, layout‑friendly way to reposition elements for hover effects, animations, and responsive design.
+            By understanding its parameters and combining it with transitions and other transforms, you can create polished,
+            professional UI interactions with ease.
+        </div>
+
+        <footer>
+            📐 CSS translate() – Reposition elements smoothly without affecting layout.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+`
+            },
+
+            {
+              id: "CSS-Gradient",
+              name: "CSS Gradient",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Gradient – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f3e8ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #8b5cf6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── gradient demo boxes ── */
+        .gradient-box {
+            width: 200px;
+            height: 150px;
+            border-radius: 12px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+            margin: 6px;
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 0.9rem;
+            border: 1px solid #e2e8f0;
+        }
+
+        .gradient-box.small {
+            width: 150px;
+            height: 120px;
+            font-size: 0.8rem;
+        }
+
+        .gradient-box.large {
+            width: 300px;
+            height: 180px;
+        }
+
+        /* Linear examples */
+        .linear-right {
+            background: linear-gradient(to right, #ff0000, #00ff00);
+        }
+        .linear-bottom {
+            background: linear-gradient(to bottom, #ff0000, #00ff00);
+        }
+        .linear-left {
+            background: linear-gradient(to left, #ff0000, #00ff00);
+        }
+        .linear-diagonal {
+            background: linear-gradient(to bottom right, #ff0000, #00ff00);
+        }
+        .linear-multi {
+            background: linear-gradient(to right, #ff0000, #ffff00, #00ff00, #0000ff);
+        }
+        .linear-percent {
+            background: linear-gradient(to right, #ff0000 20%, #00ff00 50%, #0000ff 80%);
+        }
+        .linear-stripes {
+            background: repeating-linear-gradient(45deg, #f59e0b, #f59e0b 10px, #ef4444 10px, #ef4444 20px);
+        }
+
+        /* Radial examples */
+        .radial-circle {
+            background: radial-gradient(circle, #ff0000, #00ff00);
+        }
+        .radial-ellipse {
+            background: radial-gradient(ellipse, #ff0000, #00ff00);
+        }
+        .radial-three {
+            background: radial-gradient(circle at center, #ff0000 0%, #00ff00 33.3%, #0000ff 66.6%);
+        }
+        .radial-uneven {
+            background: radial-gradient(ellipse closest-side at 50% 50%, #ff0000 20%, #00ff00 50%, #0000ff 80%);
+        }
+        .radial-farthest {
+            background: radial-gradient(farthest-corner at left bottom, blueviolet, crimson, burlywood, gold);
+        }
+        .radial-closest {
+            background: radial-gradient(closest-side at 50px 50px, blueviolet, crimson, burlywood, gold);
+        }
+
+        /* Text gradient */
+        .gradient-text {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(to right, #ff0000, #00ff00, #0000ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            display: inline-block;
+        }
+
+        .gradient-text-2 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: radial-gradient(circle, #ff0000, #ffff00, #00ff00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            display: inline-block;
+        }
+
+        /* Border gradient */
+        .gradient-border {
+            border: 5px solid transparent;
+            border-image: linear-gradient(to right, #ff0000, #00ff00) 1;
+            padding: 1rem;
+            background: white;
+            border-radius: 12px; /* not applied with border-image, but keep for fallback */
+        }
+
+        /* Conic gradient (bonus) */
+        .conic-demo {
+            background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .gradient-box { width: 150px; height: 120px; }
+            .gradient-box.large { width: 100%; height: 150px; }
+            .gradient-text, .gradient-text-2 { font-size: 1.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎨 CSS Gradient</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS gradients</strong> enable smooth transitions between two or more colors, creating visually rich backgrounds,
+            text effects, borders, and more. They are widely supported, reduce the need for image assets, and are fully responsive.
+            There are two primary types: <strong>linear-gradient</strong> (along a straight line) and
+            <strong>radial-gradient</strong> (spreading from a central point). This guide covers both with live examples.
+        </div>
+
+        <!-- ─── WHY USE ─── -->
+        <h2>🤔 Why Use CSS Gradients?</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎯 Visual Appeal</strong> Add depth, dimension, and smooth color transitions to any element.</div>
+            <div class="feature-card"><strong>🖼️ Backgrounds</strong> Create engaging, lively backgrounds without external images.</div>
+            <div class="feature-card"><strong>🔘 Buttons &amp; Icons</strong> Give them a glossy, 3D look that invites interaction.</div>
+            <div class="feature-card"><strong>✏️ Text Effects</strong> Apply gradient fills to text for eye‑catching headlines.</div>
+            <div class="feature-card"><strong>🎭 Overlays &amp; Masks</strong> Blend images and elements seamlessly.</div>
+            <div class="feature-card"><strong>📱 Responsive</strong> Gradients adapt to any screen size without quality loss.</div>
+        </div>
+
+        <!-- ─── LINEAR GRADIENT ─── -->
+        <h2>📐 Linear Gradient</h2>
+        <p>A <strong>linear gradient</strong> transitions colors along a straight line, defined by an angle or direction keyword.</p>
+        <pre><code>background: linear-gradient([direction], color-stop1, color-stop2, ...);</code></pre>
+
+        <h3>Direction &amp; Basic Examples</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box linear-right">to right</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box linear-bottom">to bottom</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box linear-left">to left</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box linear-diagonal">to bottom right</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+            </div>
+            <pre><code>/* Direction keywords */
+.linear-right   { background: linear-gradient(to right, red, green); }
+.linear-bottom  { background: linear-gradient(to bottom, red, green); }
+.linear-left    { background: linear-gradient(to left, red, green); }
+.linear-diagonal{ background: linear-gradient(to bottom right, red, green); }</code></pre>
+            <div class="note">📏 Use <code>to [top|bottom|left|right]</code> or a combination like <code>to bottom right</code>. You can also use an <strong>angle</strong> (e.g., <code>45deg</code>) for precise control.</div>
+        </div>
+
+        <h3>Multiple Color Stops</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box linear-multi">4 colors</div>
+                    <div class="demo-item-label">red → yellow → green → blue</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box linear-percent">with percentages</div>
+                    <div class="demo-item-label">red 20% · green 50% · blue 80%</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box linear-stripes">stripes</div>
+                    <div class="demo-item-label">repeating-linear-gradient</div>
+                </div>
+            </div>
+            <pre><code>/* Multiple stops */
+.linear-multi   { background: linear-gradient(to right, red, yellow, green, blue); }
+.linear-percent { background: linear-gradient(to right, red 20%, green 50%, blue 80%); }
+.linear-stripes { background: repeating-linear-gradient(45deg, #f59e0b 0px, #f59e0b 10px, #ef4444 10px, #ef4444 20px); }</code></pre>
+            <div class="note">🌈 Color stops can be defined with percentages or length values. <code>repeating-linear-gradient</code> creates a repeating pattern — perfect for stripes or grid backgrounds.</div>
+        </div>
+
+        <!-- ─── RADIAL GRADIENT ─── -->
+        <h2>⚪ Radial Gradient</h2>
+        <p>A <strong>radial gradient</strong> spreads colors outward from a central point, forming a circle or ellipse.</p>
+        <pre><code>background: radial-gradient([shape] [size] at [position], color-stop1, ...);</code></pre>
+
+        <h3>Shape &amp; Basic Examples</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box radial-circle">circle</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box radial-ellipse">ellipse</div>
+                    <div class="demo-item-label">red → green</div>
+                </div>
+            </div>
+            <pre><code>.radial-circle { background: radial-gradient(circle, red, green); }
+.radial-ellipse { background: radial-gradient(ellipse, red, green); }</code></pre>
+            <div class="note">🔵 The default shape is <code>ellipse</code>. Use <code>circle</code> to force a perfect circle.</div>
+        </div>
+
+        <h3>Color Stops with Positions</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box radial-three">3 stops</div>
+                    <div class="demo-item-label">red 0% · green 33.3% · blue 66.6%</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box radial-uneven">uneven stops</div>
+                    <div class="demo-item-label">red 20% · green 50% · blue 80%</div>
+                </div>
+            </div>
+            <pre><code>.radial-three {
+    background: radial-gradient(circle at center, red 0%, green 33.3%, blue 66.6%);
+}
+.radial-uneven {
+    background: radial-gradient(ellipse closest-side at 50% 50%, red 20%, green 50%, blue 80%);
+}</code></pre>
+            <div class="note">📍 The <code>at</code> keyword defines the gradient's center position. You can use percentages, lengths, or keywords like <code>center</code>.</div>
+        </div>
+
+        <h3>Size Keywords</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box small radial-farthest">farthest-corner</div>
+                    <div class="demo-item-label">at left bottom</div>
+                </div>
+                <div class="demo-item">
+                    <div class="gradient-box small radial-closest">closest-side</div>
+                    <div class="demo-item-label">at 50px 50px</div>
+                </div>
+            </div>
+            <pre><code>.radial-farthest { background: radial-gradient(farthest-corner at left bottom, blueviolet, crimson, burlywood, gold); }
+.radial-closest { background: radial-gradient(closest-side at 50px 50px, blueviolet, crimson, burlywood, gold); }</code></pre>
+            <div class="note">📐 <code>farthest-corner</code> (default) extends to the farthest corner; <code>closest-side</code> stops at the nearest edge. Other options: <code>farthest-side</code>, <code>closest-corner</code>.</div>
+        </div>
+
+        <!-- ─── TEXT GRADIENT ─── -->
+        <h2>✏️ Gradient Text Effect</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <span class="gradient-text">🌈 Gradient Text</span>
+                    <div class="demo-item-label">linear gradient (to right)</div>
+                </div>
+                <div class="demo-item">
+                    <span class="gradient-text-2">⚡ Radial Text</span>
+                    <div class="demo-item-label">radial gradient (circle)</div>
+                </div>
+            </div>
+            <pre><code>.gradient-text {
+    background: linear-gradient(to right, red, green, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}</code></pre>
+            <div class="note">📝 The <code>background-clip: text</code> (with vendor prefixes) lets the gradient show through the text. This works in all modern browsers.</div>
+        </div>
+
+        <!-- ─── BORDER GRADIENT ─── -->
+        <h2>🖼️ Gradient Border</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-border" style="border-image: linear-gradient(to right, red, green) 1; padding: 1.5rem; background: white; border-radius: 12px;">
+                        <strong>Gradient border</strong><br />
+                        (using border-image)
+                    </div>
+                    <div class="demo-item-label">linear-gradient border</div>
+                </div>
+            </div>
+            <pre><code>.gradient-border {
+    border: 5px solid transparent;
+    border-image: linear-gradient(to right, red, green) 1;
+    border-radius: 12px; /* not applied with border-image, but kept as fallback */
+}</code></pre>
+            <div class="note">🔲 <code>border-image</code> allows you to use a gradient as a border. Note that <code>border-radius</code> does not work with <code>border-image</code> in most browsers, so consider using a pseudo‑element or SVG for rounded gradient borders.</div>
+        </div>
+
+        <!-- ─── CONIC GRADIENT (BONUS) ─── -->
+        <h2>🌀 Conic Gradient (Bonus)</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="gradient-box conic-demo" style="border-radius: 50%; width: 150px; height: 150px;">conic</div>
+                    <div class="demo-item-label">conic-gradient (rainbow)</div>
+                </div>
+            </div>
+            <pre><code>.conic-demo {
+    background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+}</code></pre>
+            <div class="note">🌈 <code>conic-gradient()</code> creates a gradient that rotates around a center point. It's great for pie charts, color wheels, and loading spinners. Supported in all modern browsers.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ Practical Use Cases</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🎨 Hero Sections</strong> Eye‑catching backgrounds that set the mood.</div>
+            <div class="feature-card"><strong>🔘 Buttons</strong> Gradient backgrounds make them stand out.</div>
+            <div class="feature-card"><strong>📊 Progress Bars</strong> Animate gradients to show progress.</div>
+            <div class="feature-card"><strong>🖼️ Image Overlays</strong> Blend images with gradient overlays for text readability.</div>
+            <div class="feature-card"><strong>🧩 Cards &amp; Panels</strong> Add depth with subtle gradients.</div>
+            <div class="feature-card"><strong>🎭 Branding</strong> Use brand colours in gradients for a cohesive look.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>linear-gradient()</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+ (with -ms- prefix)</td></tr>
+                <tr><td><code>radial-gradient()</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+ (with -ms- prefix)</td></tr>
+                <tr><td><code>conic-gradient()</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full (since 12.1)</td><td>❌ Not supported</td></tr>
+                <tr><td><code>background-clip: text</code></td><td>✅ Full (with -webkit-)</td><td>✅ Full</td><td>✅ Full (with -webkit-)</td><td>❌ Not supported</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers, use vendor prefixes (<code>-webkit-</code>, <code>-moz-</code>, <code>-ms-</code>) and provide a solid fallback color.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Always provide a fallback:</strong> Set a <code>background-color</code> before the gradient, so if gradients are unsupported, a solid color is shown.</li>
+                <li><strong>Use <code>background-image</code></strong> for gradients (not <code>background-color</code>).</li>
+                <li><strong>Test contrast:</strong> Ensure text on gradient backgrounds is readable — use dark overlays or solid text shadows.</li>
+                <li><strong>Keep color stops smooth:</strong> Avoid abrupt changes unless you're going for a striped effect.</li>
+                <li><strong>Optimise performance:</strong> Gradients are GPU‑accelerated in most browsers, but heavy use of <code>conic-gradient</code> may impact performance.</li>
+                <li><strong>Use <code>repeating-*</code> variants</strong> for patterns like stripes, checks, and grids.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Gradients are purely visual and do not affect screen readers. However, ensure sufficient
+            contrast between text and gradient backgrounds. Use a dark overlay or a solid background behind text to maintain readability.
+            Also, avoid using gradients as the only means of conveying information.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f3e8ff; border-left-color:#8b5cf6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS gradients are a versatile, lightweight way to add rich color transitions to your web projects.
+            Whether you choose linear, radial, or conic gradients, they offer endless creative possibilities while keeping your code clean
+            and your pages fast. Combine them with other CSS features like animations, transitions, and clipping to unlock even more potential.
+        </div>
+
+        <footer>
+            🎨 CSS Gradient – Add vibrant, smooth colour transitions to any element.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Z-Index",
+              name: "CSS Z Index",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Z-Index – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0d9488;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #134e4a;
+        }
+
+        .last-updated {
+            color: #0d9488;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f0fdfa;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #14b8a6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #134e4a;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #134e4a;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #134e4a;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #134e4a;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── z-index demo styles ── */
+
+        /* Stacking context demo */
+        .stacking-demo {
+            position: relative;
+            height: 300px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .stacking-demo .box {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+            font-size: 0.9rem;
+        }
+
+        .stacking-demo .box-1 {
+            background: #ef4444;
+            top: 30px;
+            left: 40px;
+            z-index: 1;
+        }
+        .stacking-demo .box-2 {
+            background: #3b82f6;
+            top: 60px;
+            left: 80px;
+            z-index: 2;
+        }
+        .stacking-demo .box-3 {
+            background: #22c55e;
+            top: 90px;
+            left: 120px;
+            z-index: 3;
+        }
+        .stacking-demo .box-4 {
+            background: #f59e0b;
+            top: 120px;
+            left: 160px;
+            z-index: 0;
+        }
+
+        /* Negative z-index */
+        .negative-demo {
+            position: relative;
+            height: 200px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .negative-demo .box {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+
+        .negative-demo .neg-bg {
+            background: #8b5cf6;
+            top: 20px;
+            left: 30px;
+            z-index: -1;
+        }
+        .negative-demo .neg-front {
+            background: #ec4899;
+            top: 60px;
+            left: 80px;
+            z-index: 2;
+        }
+        .negative-demo .neg-default {
+            background: #06b6d4;
+            top: 100px;
+            left: 130px;
+            /* no z-index = auto (0) */
+        }
+
+        /* Parent-child stacking context */
+        .parent-child-demo {
+            position: relative;
+            height: 260px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .parent-child-demo .parent {
+            position: absolute;
+            width: 200px;
+            height: 180px;
+            background: rgba(59, 130, 246, 0.2);
+            border: 2px solid #3b82f6;
+            border-radius: 12px;
+            top: 30px;
+            left: 30px;
+            z-index: 1;
+        }
+
+        .parent-child-demo .parent .child {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+            font-size: 0.8rem;
+        }
+
+        .parent-child-demo .parent .child-1 {
+            background: #ef4444;
+            top: -20px;
+            left: -20px;
+            z-index: 10;
+        }
+
+        .parent-child-demo .parent .child-2 {
+            background: #22c55e;
+            top: 40px;
+            left: 40px;
+            z-index: 1;
+        }
+
+        .parent-child-demo .sibling {
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            background: #f59e0b;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+            top: 60px;
+            left: 140px;
+            z-index: 5;
+        }
+
+        /* Stacking order demo */
+        .order-demo {
+            position: relative;
+            height: 220px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .order-demo .box {
+            position: absolute;
+            width: 140px;
+            height: 140px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+
+        .order-demo .order-1 {
+            background: #ef4444;
+            top: 20px;
+            left: 20px;
+            z-index: 1;
+        }
+        .order-demo .order-2 {
+            background: #3b82f6;
+            top: 50px;
+            left: 60px;
+            z-index: 2;
+        }
+        .order-demo .order-3 {
+            background: #22c55e;
+            top: 80px;
+            left: 100px;
+            z-index: 3;
+        }
+
+        /* Sticky positioning demo */
+        .sticky-demo {
+            height: 300px;
+            overflow-y: scroll;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px solid #cbd5e1;
+            padding: 1rem;
+            position: relative;
+        }
+
+        .sticky-demo .sticky-header {
+            position: sticky;
+            top: 0;
+            background: #7c3aed;
+            color: white;
+            padding: 0.8rem 1.2rem;
+            border-radius: 8px;
+            font-weight: bold;
+            z-index: 10;
+            text-align: center;
+        }
+
+        .sticky-demo .sticky-content {
+            padding: 0.5rem 0;
+        }
+
+        .sticky-demo .sticky-content p {
+            padding: 0.8rem;
+            background: white;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            border: 1px solid #e2e8f0;
+        }
+
+        /* Opacity stacking demo */
+        .opacity-demo {
+            position: relative;
+            height: 220px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .opacity-demo .box {
+            position: absolute;
+            width: 140px;
+            height: 140px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+            font-size: 0.85rem;
+        }
+
+        .opacity-demo .opaque {
+            background: #ef4444;
+            top: 20px;
+            left: 20px;
+            z-index: 1;
+            opacity: 1;
+        }
+        .opacity-demo .semi {
+            background: #3b82f6;
+            top: 50px;
+            left: 60px;
+            z-index: 2;
+            opacity: 0.6;
+        }
+        .opacity-demo .transparent {
+            background: #22c55e;
+            top: 80px;
+            left: 100px;
+            z-index: 3;
+            opacity: 0.3;
+        }
+
+        /* Interactive z-index slider demo */
+        .interactive-demo {
+            position: relative;
+            height: 280px;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px dashed #cbd5e1;
+            margin: 0.5rem 0;
+        }
+
+        .interactive-demo .box {
+            position: absolute;
+            width: 130px;
+            height: 130px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+            transition: z-index 0.3s ease;
+            cursor: pointer;
+            font-size: 0.85rem;
+        }
+
+        .interactive-demo .box:hover {
+            outline: 3px solid white;
+            outline-offset: 2px;
+        }
+
+        .interactive-demo .inter-1 {
+            background: #ef4444;
+            top: 30px;
+            left: 30px;
+            z-index: 1;
+        }
+        .interactive-demo .inter-2 {
+            background: #3b82f6;
+            top: 60px;
+            left: 80px;
+            z-index: 2;
+        }
+        .interactive-demo .inter-3 {
+            background: #22c55e;
+            top: 90px;
+            left: 130px;
+            z-index: 3;
+        }
+
+        .interactive-demo .inter-1.z-top { z-index: 10; }
+        .interactive-demo .inter-2.z-top { z-index: 10; }
+        .interactive-demo .inter-3.z-top { z-index: 10; }
+
+        .z-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            justify-content: center;
+            margin-top: 0.8rem;
+        }
+
+        .z-controls button {
+            padding: 0.4rem 1rem;
+            border: none;
+            border-radius: 20px;
+            font-weight: 600;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            color: white;
+        }
+
+        .z-controls button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+
+        .z-controls button:active {
+            transform: scale(0.95);
+        }
+
+        .btn-red { background: #ef4444; }
+        .btn-blue { background: #3b82f6; }
+        .btn-green { background: #22c55e; }
+        .btn-reset { background: #64748b; }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .stacking-demo .box { width: 80px; height: 80px; font-size: 0.7rem; }
+            .stacking-demo .box-1 { top: 20px; left: 20px; }
+            .stacking-demo .box-2 { top: 40px; left: 50px; }
+            .stacking-demo .box-3 { top: 60px; left: 80px; }
+            .stacking-demo .box-4 { top: 80px; left: 110px; }
+            .parent-child-demo .parent { width: 140px; height: 130px; }
+            .parent-child-demo .parent .child { width: 70px; height: 70px; font-size: 0.6rem; }
+            .parent-child-demo .sibling { width: 80px; height: 80px; font-size: 0.7rem; top: 80px; left: 100px; }
+            .interactive-demo .box { width: 80px; height: 80px; font-size: 0.7rem; }
+            .interactive-demo .inter-1 { top: 20px; left: 15px; }
+            .interactive-demo .inter-2 { top: 40px; left: 50px; }
+            .interactive-demo .inter-3 { top: 60px; left: 85px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>📐 CSS Z‑Index</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            The <strong><code>z-index</code></strong> property controls the <strong>stacking order</strong> of positioned
+            elements on a web page. It determines which elements appear in front and which appear behind when they overlap.
+            Think of it as the "depth" or "third dimension" of your layout — managing the Z‑axis.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📌 Syntax &amp; Basic Usage</h2>
+        <pre><code>selector {
+    position: relative | absolute | fixed | sticky;
+    z-index: &lt;integer&gt; | auto;
+}</code></pre>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Value</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>&lt;integer&gt;</code></td>
+                    <td>A positive or negative number (e.g., <code>1</code>, <code>-1</code>, <code>999</code>). Higher values appear on top.</td>
+                </tr>
+                <tr>
+                    <td><code>auto</code></td>
+                    <td>Default value. The element's stacking order follows the document flow (same as <code>z-index: 0</code>).</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="note">
+            💡 <strong>Important:</strong> <code>z-index</code> only works on <strong>positioned</strong> elements —
+            those with <code>position: relative</code>, <code>absolute</code>, <code>fixed</code>, or <code>sticky</code>.
+            It has no effect on <code>position: static</code> elements.
+        </div>
+
+        <!-- ─── BASIC EXAMPLE ─── -->
+        <h2>📖 Example 1: Basic Stacking</h2>
+        <div class="demo-box">
+            <div class="stacking-demo">
+                <div class="box box-1">z-index: 1</div>
+                <div class="box box-2">z-index: 2</div>
+                <div class="box box-3">z-index: 3</div>
+                <div class="box box-4">z-index: 0</div>
+            </div>
+            <pre><code>.box-1 { z-index: 1; }  /* red */
+.box-2 { z-index: 2; }  /* blue */
+.box-3 { z-index: 3; }  /* green */
+.box-4 { z-index: 0; }  /* orange — appears behind */</code></pre>
+            <div class="note">📐 The box with the highest <code>z-index</code> value appears on top. Here, green (3) is on top, followed by blue (2), red (1), and orange (0) at the bottom.</div>
+        </div>
+
+        <!-- ─── STACKING CONTEXTS ─── -->
+        <h2>📚 Advanced: Stacking Contexts</h2>
+        <p>
+            When an element is positioned with a <code>z-index</code> value, it creates a <strong>stacking context</strong>.
+            Each stacking context is an independent layer. Elements within a stacking context are only compared to each other.
+        </p>
+
+        <div class="warning">
+            ⚠️ A stacking context is created not only by <code>z-index</code> on positioned elements, but also by:
+            <code>opacity &lt; 1</code>, <code>transform</code>, <code>filter</code>, <code>will-change</code>, and more.
+        </div>
+
+        <!-- ─── STACKING ORDER ─── -->
+        <h2>📖 Example 2: Stacking Order (Same Context)</h2>
+        <div class="demo-box">
+            <div class="order-demo">
+                <div class="box order-1">z-index: 1</div>
+                <div class="box order-2">z-index: 2</div>
+                <div class="box order-3">z-index: 3</div>
+            </div>
+            <pre><code>/* All in the same stacking context */
+.order-1 { z-index: 1; }  /* red — bottom */
+.order-2 { z-index: 2; }  /* blue — middle */
+.order-3 { z-index: 3; }  /* green — top */</code></pre>
+            <div class="note">📋 Within the same stacking context, elements are layered by <code>z-index</code> value (higher = on top). If two elements have the same value, the one later in the HTML source appears on top.</div>
+        </div>
+
+        <!-- ─── NEGATIVE Z-INDEX ─── -->
+        <h2>📖 Example 3: Negative Z‑Index</h2>
+        <div class="demo-box">
+            <div class="negative-demo">
+                <div class="box neg-bg">z-index: -1</div>
+                <div class="box neg-front">z-index: 2</div>
+                <div class="box neg-default">z-index: auto</div>
+            </div>
+            <pre><code>.neg-bg { z-index: -1; }     /* purple — behind the default stack */
+.neg-front { z-index: 2; }   /* pink — on top */
+.neg-default { z-index: auto; } /* cyan — default (0) */</code></pre>
+            <div class="note">⬇️ A negative <code>z-index</code> places an element <strong>behind</strong> the default stacking order (which is <code>auto</code> or <code>0</code>). This is useful for background decorations that should sit behind content.</div>
+        </div>
+
+        <!-- ─── PARENT-CHILD RELATIONSHIP ─── -->
+        <h2>📖 Example 4: Parent‑Child Stacking Context</h2>
+        <div class="demo-box">
+            <div class="parent-child-demo">
+                <div class="parent">
+                    <div class="child child-1">child z:10</div>
+                    <div class="child child-2">child z:1</div>
+                    <span style="position:absolute; bottom:8px; left:50%; transform:translateX(-50%); font-size:0.7rem; color:#475569; background:white; padding:0.1rem 0.6rem; border-radius:8px; border:1px solid #e2e8f0;">parent z-index: 1</span>
+                </div>
+                <div class="sibling">sibling z:5</div>
+            </div>
+            <pre><code>.parent {
+    position: absolute;
+    z-index: 1;  /* creates a stacking context */
+}
+.child-1 { z-index: 10; }  /* inside parent — cannot escape */
+.child-2 { z-index: 1; }   /* inside parent */
+.sibling { z-index: 5; }   /* outside parent — on top of the whole parent */</code></pre>
+            <div class="note">🔗 The child's <code>z-index</code> is relative to its parent's stacking context. Even though <code>child-1</code> has <code>z-index: 10</code>, it stays within the parent and cannot overlap the sibling (which is in a different context) unless the parent itself is repositioned.</div>
+        </div>
+
+        <!-- ─── STICKY POSITIONING ─── -->
+        <h2>📖 Example 5: Sticky Positioning with Z‑Index</h2>
+        <div class="demo-box">
+            <div class="sticky-demo">
+                <div class="sticky-header">📌 Sticky Header — z-index: 10 (scroll to see effect)</div>
+                <div class="sticky-content">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
+                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
+                    <p>Scroll up and down to see the sticky header stay on top.</p>
+                </div>
+            </div>
+            <pre><code>.sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;  /* ensures it stays above scrolling content */
+}</code></pre>
+            <div class="note">📌 <code>position: sticky</code> elements behave like <code>relative</code> until they reach a threshold, then become <code>fixed</code>. Using <code>z-index</code> ensures they stay above other content when sticky.</div>
+        </div>
+
+        <!-- ─── OPACITY & STACKING ─── -->
+        <h2>📖 Example 6: Opacity and Stacking Order</h2>
+        <div class="demo-box">
+            <div class="opacity-demo">
+                <div class="box opaque">opacity: 1<br />z:1</div>
+                <div class="box semi">opacity: 0.6<br />z:2</div>
+                <div class="box transparent">opacity: 0.3<br />z:3</div>
+            </div>
+            <pre><code>.opaque     { opacity: 1; z-index: 1; }
+.semi       { opacity: 0.6; z-index: 2; }
+.transparent { opacity: 0.3; z-index: 3; }</code></pre>
+            <div class="note">👁️ Elements with <code>opacity &lt; 1</code> create a <strong>stacking context</strong>. The transparent/semi‑transparent areas allow elements behind them to be visible, and the stacking order is still respected.</div>
+        </div>
+
+        <!-- ─── INTERACTIVE DEMO ─── -->
+        <h2>🎮 Interactive Demo: Click to Bring to Front</h2>
+        <div class="demo-box">
+            <div class="interactive-demo" id="interactiveDemo">
+                <div class="box inter-1" data-id="1" onclick="bringToFront(1)">🔴 Click me</div>
+                <div class="box inter-2" data-id="2" onclick="bringToFront(2)">🔵 Click me</div>
+                <div class="box inter-3" data-id="3" onclick="bringToFront(3)">🟢 Click me</div>
+            </div>
+            <div class="z-controls">
+                <button class="btn-red" onclick="bringToFront(1)">⬆️ Bring Red</button>
+                <button class="btn-blue" onclick="bringToFront(2)">⬆️ Bring Blue</button>
+                <button class="btn-green" onclick="bringToFront(3)">⬆️ Bring Green</button>
+                <button class="btn-reset" onclick="resetZIndex()">↩️ Reset</button>
+            </div>
+            <pre><code>/* JavaScript toggles z-index on click */
+function bringToFront(id) {
+    // Sets the clicked element's z-index to 10
+    // and resets others to their original values
+}</code></pre>
+            <div class="note">🖱️ Click any box or button to bring it to the front. This demonstrates how <code>z-index</code> can be manipulated dynamically for interactive UI components like modals, dropdowns, or drag‑and‑drop.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ Common Use Cases for Z‑Index</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🪟 Modals &amp; Overlays</strong> Ensure popups appear above all page content.</div>
+            <div class="feature-card"><strong>📌 Sticky Headers</strong> Keep headers above scrolling content.</div>
+            <div class="feature-card"><strong>💬 Tooltips &amp; Dropdowns</strong> Position them above other UI elements.</div>
+            <div class="feature-card"><strong>🎠 Image Carousels</strong> Layer navigation arrows and captions.</div>
+            <div class="feature-card"><strong>🗂️ Drag‑and‑Drop</strong> Bring draggable items to the front.</div>
+            <div class="feature-card"><strong>🧩 Layered Animations</strong> Control which animated elements appear on top.</div>
+        </div>
+
+        <!-- ─── STACKING CONTEXT TRIGGERS ─── -->
+        <h2>🧩 What Creates a Stacking Context?</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Property</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>z-index</code> (positioned elements)</td><td><code>position: relative; z-index: 1;</code></td></tr>
+                <tr><td><code>opacity</code> &lt; 1</td><td><code>opacity: 0.9;</code></td></tr>
+                <tr><td><code>transform</code></td><td><code>transform: scale(1.1);</code></td></tr>
+                <tr><td><code>filter</code></td><td><code>filter: blur(2px);</code></td></tr>
+                <tr><td><code>will-change</code></td><td><code>will-change: transform;</code></td></tr>
+                <tr><td><code>position: sticky</code></td><td><code>position: sticky; top: 0;</code></td></tr>
+                <tr><td><code>isolation: isolate</code></td><td><code>isolation: isolate;</code></td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Understanding what creates a stacking context is crucial for debugging layering issues. A new stacking context isolates its children from the rest of the page.
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since Chrome 1 / Edge 12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since Firefox 1</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since Safari 1</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since Opera 4</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 8+ supports z-index (but with known bugs in IE 6/7)</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ In older versions of Internet Explorer (IE 6/7), <code>z-index</code> can behave unpredictably, especially with <code>position: relative</code> and <code>float</code>. Always test in modern browsers.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use modest values:</strong> Instead of <code>z-index: 99999</code>, use a structured system (e.g., 1–10 for most UI, 100 for modals).</li>
+                <li><strong>Keep it local:</strong> Avoid setting <code>z-index</code> globally — manage it within specific stacking contexts.</li>
+                <li><strong>Understand the source order:</strong> Elements later in the HTML appear on top when <code>z-index</code> is equal.</li>
+                <li><strong>Avoid <code>z-index: -1</code> for critical content:</strong> It can push content behind backgrounds or parent elements.</li>
+                <li><strong>Use <code>isolation: isolate</code></strong> to create a new stacking context without affecting layout, avoiding unwanted parent-child z-index conflicts.</li>
+                <li><strong>Test on all devices:</strong> Touch devices may handle stacking differently, especially with <code>position: sticky</code>.</li>
+                <li><strong>Use CSS variables:</strong> Define <code>--z-modal: 100; --z-dropdown: 50;</code> for consistent, maintainable values.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> When using <code>z-index</code> for overlays, modals, or popups,
+            ensure they are properly focusable and that keyboard navigation follows the visual stacking order.
+            Use <code>aria-modal="true"</code> and manage focus appropriately when overlays are active.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> The <code>z-index</code> property is essential for controlling the visual layering
+            of elements on a web page. By understanding stacking contexts, the order of elements, and how positioning affects
+            the Z‑axis, you can create complex, layered UIs with confidence. Use it wisely to build clean, accessible, and
+            maintainable designs.
+        </div>
+
+        <footer>
+            📐 CSS Z‑Index – Control the stacking order of elements on your page.
+        </footer>
+
+    </div>
+
+    <!-- ─── INTERACTIVE SCRIPT ─── -->
+    <script>
+        // Track original z-index values
+        const originalZ = {
+            1: 1,
+            2: 2,
+            3: 3
+        };
+
+        // Current z-index values
+        let currentZ = { ...originalZ };
+        let maxZ = 3;
+
+        function bringToFront(id) {
+            // Increment the global max
+            maxZ += 1;
+            // Set the clicked element to the new max
+            currentZ[id] = maxZ;
+
+            // Apply z-index values to all boxes
+            document.querySelectorAll('.interactive-demo .box').forEach(box => {
+                const boxId = parseInt(box.dataset.id);
+                box.style.zIndex = currentZ[boxId];
+            });
+        }
+
+        function resetZIndex() {
+            currentZ = { ...originalZ };
+            maxZ = 3;
+            document.querySelectorAll('.interactive-demo .box').forEach(box => {
+                const boxId = parseInt(box.dataset.id);
+                box.style.zIndex = originalZ[boxId];
+            });
+        }
+    </script>
+
+</body>
+</html>
+
+
+            `
+            },
+
+            {
+              id: "CSS-Minify",
+              name: "CSS Minify",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Minify – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0b8f6c;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #064e3b;
+        }
+
+        .last-updated {
+            color: #0b8f6c;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #ecfdf5;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #10b981;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #064e3b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #064e3b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #064e3b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #064e3b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── Minifier tool ── */
+        .minifier-tool {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin: 0.5rem 0;
+        }
+
+        .minifier-tool textarea {
+            width: 100%;
+            min-height: 180px;
+            padding: 0.8rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            border: 2px solid #cbd5e1;
+            border-radius: 12px;
+            resize: vertical;
+            background: #fafcff;
+            transition: border-color 0.2s;
+        }
+
+        .minifier-tool textarea:focus {
+            outline: none;
+            border-color: #10b981;
+            box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+        }
+
+        .minifier-tool .output-area {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 0.8rem;
+            border-radius: 12px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            min-height: 100px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+
+        .minifier-tool .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            justify-content: center;
+        }
+
+        .minifier-tool .button-group button {
+            padding: 0.6rem 1.5rem;
+            border: none;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            color: white;
+            background: #0b8f6c;
+            box-shadow: 0 4px 12px rgba(11, 143, 108, 0.3);
+        }
+
+        .minifier-tool .button-group button:hover {
+            transform: scale(1.03);
+            box-shadow: 0 8px 20px rgba(11, 143, 108, 0.4);
+        }
+
+        .minifier-tool .button-group button:active {
+            transform: scale(0.95);
+        }
+
+        .minifier-tool .button-group .btn-reset {
+            background: #64748b;
+            box-shadow: 0 4px 12px rgba(100, 116, 139, 0.3);
+        }
+
+        .minifier-tool .button-group .btn-reset:hover {
+            box-shadow: 0 8px 20px rgba(100, 116, 139, 0.4);
+        }
+
+        .size-stats {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            font-weight: 600;
+            padding: 0.5rem;
+            background: #f1f5f9;
+            border-radius: 12px;
+        }
+
+        .size-stats span {
+            color: #064e3b;
+        }
+
+        .size-stats .stat-value {
+            color: #0b8f6c;
+            font-size: 1.2rem;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .size-stats { flex-direction: column; gap: 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>⚡ CSS Minify</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS minification</strong> is the process of removing unnecessary characters (whitespace, comments, line breaks)
+            and sometimes shortening identifiers to reduce file size. The goal is to speed up loading times and improve
+            website performance. Minified CSS is essential for production environments, while the original, readable version
+            is kept for development.
+        </div>
+
+        <!-- ─── WHAT IS MINIFICATION ─── -->
+        <h2>📌 What is Minify in CSS?</h2>
+        <p>
+            When a CSS file is minified, extra characters like white spaces, line breaks, comments, and sometimes even
+            variable and class names are shortened to reduce file size. The main objective is to accelerate the delivery
+            of CSS files to web browsers so that websites load more quickly.
+        </p>
+        <p>
+            In development, we use indentation, comments, and descriptive names to make the code readable. However, each
+            component adds bytes. Minification strips these away, often reducing file size by 20–40% or more.
+        </p>
+        <div class="note">
+            💡 <strong>Important:</strong> Minification is a <em>production</em> optimization. Always keep a separate,
+            uncompressed copy for development and debugging. Minify only when deploying to production.
+        </div>
+
+        <!-- ─── BEFORE / AFTER EXAMPLE ─── -->
+        <h2>📖 Example: Before &amp; After Minification</h2>
+        <div class="demo-box">
+            <h3>🔹 Original CSS (readable)</h3>
+            <pre><code>/* Styles for a button */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 14px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* Styles for a container */
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+}</code></pre>
+
+            <h3>🔸 Minified CSS (compact)</h3>
+            <pre><code>.button{display:inline-block;padding:10px 20px;font-size:14px;background-color:#3498db;color:#fff;border:none;border-radius:5px;text-decoration:none}.container{width:100%;margin:0 auto;padding:20px;background-color:#f2f2f2}</code></pre>
+            <div class="note">
+                📉 The minified version removes all comments, line breaks, indentation, and extra spaces.
+                The file size is significantly reduced while maintaining the same functionality.
+            </div>
+        </div>
+
+        <!-- ─── WHY MINIFY ─── -->
+        <h2>🤔 Why Use Minification?</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🚀 Improved Performance</strong> Smaller files load faster, especially on slow networks.</div>
+            <div class="feature-card"><strong>💰 Bandwidth Optimization</strong> Reduces data transfer, lowering hosting costs.</div>
+            <div class="feature-card"><strong>⏱️ Faster Page Load</strong> Enhances user experience, reduces bounce rates.</div>
+            <div class="feature-card"><strong>📦 Efficient Caching</strong> Smaller files are easier to cache, improving repeat visits.</div>
+            <div class="feature-card"><strong>📈 SEO Benefits</strong> Faster sites rank better in search engines.</div>
+            <div class="feature-card"><strong>🌐 Reduced Overhead</strong> Less data per request, improving overall network efficiency.</div>
+        </div>
+
+        <!-- ─── INTERACTIVE MINIFIER TOOL ─── -->
+        <h2>🛠️ Live CSS Minifier</h2>
+        <div class="demo-box">
+            <p>Paste your CSS below, then click <strong>Minify</strong> to see the compressed version.</p>
+            <div class="minifier-tool">
+                <textarea id="cssInput" placeholder="/* Your CSS here */&#10;.example {&#10;  color: red;&#10;  font-size: 16px;&#10;}">/* Button styles */
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #3498db;
+  color: white;
+  border-radius: 6px;
+  border: none;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #2980b9;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}</textarea>
+                <div class="button-group">
+                    <button onclick="minifyCSS()">⚡ Minify</button>
+                    <button class="btn-reset" onclick="resetInput()">↩️ Reset</button>
+                </div>
+                <h3 style="margin-top:0.5rem;">📦 Minified Output</h3>
+                <div class="output-area" id="minifiedOutput">Click "Minify" to see the result.</div>
+                <div class="size-stats">
+                    <div>📄 Original size: <span class="stat-value" id="originalSize">0</span> bytes</div>
+                    <div>📦 Minified size: <span class="stat-value" id="minifiedSize">0</span> bytes</div>
+                    <div>📉 Reduction: <span class="stat-value" id="reductionPercent">0</span>%</div>
+                </div>
+            </div>
+            <div class="note">
+                🛠️ This tool demonstrates a simple minifier that removes comments, extra whitespace, and newlines.
+                Production minifiers also shorten identifiers and optimise values.
+            </div>
+        </div>
+
+        <!-- ─── LIMITATIONS ─── -->
+        <h2>⚠️ Limitations of Minification</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Reduced Readability:</strong> Minified CSS is hard to read and debug without proper source maps.</li>
+                <li><strong>Limited Debugging:</strong> Without line numbers, pinpointing errors becomes harder.</li>
+                <li><strong>Dependency on Build Process:</strong> You need to set up a build system or use tools.</li>
+                <li><strong>Potential Information Loss:</strong> Over‑aggressive minification (e.g., renaming classes) can break functionality if not handled carefully.</li>
+                <li><strong>Not a substitute for good coding:</strong> Minification doesn't fix inefficient CSS; it only reduces file size.</li>
+            </ul>
+        </div>
+
+        <!-- ─── TOOLS & TECHNIQUES ─── -->
+        <h2>🔧 Popular Minification Tools</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Tool</th><th>Type</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>cssnano</strong></td><td>Node.js / PostCSS plugin</td><td>Advanced minifier with optimisations (merging, reducing values).</td></tr>
+                <tr><td><strong>UglifyCSS</strong></td><td>Node.js / CLI</td><td>Fast and widely used, integrates with build tools.</td></tr>
+                <tr><td><strong>CleanCSS</strong></td><td>Node.js / CLI</td><td>Optimises CSS, removes unused rules, and compresses.</td></tr>
+                <tr><td><strong>Online tools</strong></td><td>Web-based</td><td>e.g., CSS Minifier, MinifyCSS — quick one‑off minification.</td></tr>
+                <tr><td><strong>Build tools</strong></td><td>Webpack, Gulp, Grunt</td><td>Integrate minification into your automated workflow.</td></tr>
+            </tbody>
+        </table>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Keep a source copy:</strong> Always maintain the original, unminified CSS for development.</li>
+                <li><strong>Use source maps:</strong> Generate source maps during minification to map back to the original source for debugging.</li>
+                <li><strong>Automate minification:</strong> Integrate minification into your build process (e.g., using npm scripts, Webpack).</li>
+                <li><strong>Combine with other optimisations:</strong> Combine CSS files, use <code>@import</code> carefully, and leverage caching.</li>
+                <li><strong>Test after minification:</strong> Ensure the minified version doesn't break any styles.</li>
+                <li><strong>Consider Gzip/Brotli compression:</strong> Minification + compression gives the smallest possible file size.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Minification does not affect the accessibility of your site. However,
+            faster load times improve the experience for all users, including those on assistive technologies.
+            Always ensure your CSS is still functional after minification.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#ecfdf5; border-left-color:#10b981; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS minification is a simple yet powerful way to boost website performance.
+            By removing unnecessary characters, you reduce file size, improve load times, and enhance user experience.
+            Use it as part of your production pipeline, but always keep a readable source for development.
+        </div>
+
+        <footer>
+            ⚡ CSS Minify – Optimise your stylesheets for speed and performance.
+        </footer>
+
+    </div>
+
+    <!-- ─── JAVASCRIPT FOR MINIFIER ─── -->
+    <script>
+        function minifyCSS() {
+            const input = document.getElementById('cssInput').value;
+            // Simple minifier: remove comments, extra whitespace, newlines
+            let minified = input
+                // Remove multi-line comments /* ... */
+                .replace(/\/\*[\s\S]*?\*\//g, '')
+                // Remove single-line comments // ...
+                .replace(/\/\/.*$/gm, '')
+                // Remove newlines and carriage returns
+                .replace(/\r?\n/g, '')
+                // Collapse multiple spaces into one
+                .replace(/\s+/g, ' ')
+                // Remove spaces before/after braces, colons, semicolons
+                .replace(/\s*\{\s*/g, '{')
+                .replace(/\s*\}\s*/g, '}')
+                .replace(/\s*:\s*/g, ':')
+                .replace(/\s*;\s*/g, ';')
+                // Remove trailing semicolons before closing brace
+                .replace(/;\}/g, '}')
+                // Trim leading/trailing spaces
+                .trim();
+
+            // Update output
+            document.getElementById('minifiedOutput').textContent = minified || '(empty)';
+
+            // Calculate sizes
+            const originalSize = input.length;
+            const minifiedSize = minified.length;
+            const reduction = originalSize > 0 ? ((originalSize - minifiedSize) / originalSize * 100).toFixed(1) : 0;
+
+            document.getElementById('originalSize').textContent = originalSize;
+            document.getElementById('minifiedSize').textContent = minifiedSize;
+            document.getElementById('reductionPercent').textContent = reduction;
+        }
+
+        function resetInput() {
+            const defaultCSS = \`
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #3498db;
+  color: white;
+  border-radius: 6px;
+  border: none;
+  font-weight: 600;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #2980b9;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}\`;
+            document.getElementById('cssInput').value = defaultCSS;
+            // Clear output and stats
+            document.getElementById('minifiedOutput').textContent = 'Click "Minify" to see the result.';
+            document.getElementById('originalSize').textContent = '0';
+            document.getElementById('minifiedSize').textContent = '0';
+            document.getElementById('reductionPercent').textContent = '0';
+        }
+
+        // Auto-minify on load with example
+        window.addEventListener('load', function() {
+            minifyCSS();
+        });
+    </script>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Loader",
+              name: "CSS Loader",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Loader – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f3e8ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #8b5cf6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.6rem;
+        }
+
+        .demo-stage {
+            background: #f1f5f9;
+            border-radius: 12px;
+            padding: 2rem 1.5rem;
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            border: 2px dashed #cbd5e1;
+            position: relative;
+        }
+
+        .demo-stage .stage-label {
+            position: absolute;
+            top: 6px;
+            left: 12px;
+            font-size: 0.65rem;
+            color: #94a3b8;
+            background: white;
+            padding: 0.1rem 0.6rem;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+        }
+
+        /* ─── LOADER STYLES ─── */
+
+        /* 1. Wave Loader */
+        .wave-loader {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            height: 80px;
+        }
+        .wave-loader .bar {
+            width: 6px;
+            height: 40px;
+            background: linear-gradient(45deg, #7c3aed, #a78bfa);
+            border-radius: 20px;
+            animation: waveAnim 1s ease-in-out infinite;
+        }
+        .wave-loader .bar:nth-child(2) { animation-delay: 0.1s; }
+        .wave-loader .bar:nth-child(3) { animation-delay: 0.2s; }
+        .wave-loader .bar:nth-child(4) { animation-delay: 0.3s; }
+        .wave-loader .bar:nth-child(5) { animation-delay: 0.4s; }
+        .wave-loader .bar:nth-child(6) { animation-delay: 0.5s; }
+        .wave-loader .bar:nth-child(7) { animation-delay: 0.6s; }
+        .wave-loader .bar:nth-child(8) { animation-delay: 0.7s; }
+        .wave-loader .bar:nth-child(9) { animation-delay: 0.8s; }
+        .wave-loader .bar:nth-child(10) { animation-delay: 0.9s; }
+
+        @keyframes waveAnim {
+            0%, 100% { transform: scaleY(0.3); }
+            50% { transform: scaleY(1); }
+        }
+
+        /* 2. Progress Bar */
+        .progress-loader {
+            width: 300px;
+            max-width: 90%;
+            height: 24px;
+            background: #e2e8f0;
+            border-radius: 40px;
+            overflow: hidden;
+            position: relative;
+            border: 2px solid #cbd5e1;
+        }
+        .progress-loader .fill {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, #7c3aed, #a78bfa, #7c3aed);
+            background-size: 200% 100%;
+            border-radius: 40px;
+            animation: progressFill 3s ease-in-out infinite, shimmer 2s linear infinite;
+        }
+        @keyframes progressFill {
+            0% { width: 0%; }
+            25% { width: 30%; }
+            50% { width: 55%; }
+            75% { width: 80%; }
+            100% { width: 100%; }
+        }
+        @keyframes shimmer {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+        .progress-label {
+            margin-top: 0.5rem;
+            font-weight: 600;
+            color: #7c3aed;
+            font-size: 0.95rem;
+        }
+
+        /* 3. Spinner (ease-in-out) */
+        .spinner-eio {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 5px solid #e2e8f0;
+            border-top-color: #7c3aed;
+            animation: spin 1s ease-in-out infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* 4. Rainbow Spinner */
+        .rainbow-loader {
+            position: relative;
+            width: 80px;
+            height: 80px;
+        }
+        .rainbow-loader .ring {
+            position: absolute;
+            border-radius: 50%;
+            border: 4px solid transparent;
+            animation: spin 1.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) infinite;
+        }
+        .rainbow-loader .ring:nth-child(1) {
+            width: 80px;
+            height: 80px;
+            border-color: #ef4444 transparent transparent transparent;
+            animation-delay: 0s;
+        }
+        .rainbow-loader .ring:nth-child(2) {
+            width: 64px;
+            height: 64px;
+            top: 8px;
+            left: 8px;
+            border-color: #f59e0b transparent transparent transparent;
+            animation-delay: 0.15s;
+        }
+        .rainbow-loader .ring:nth-child(3) {
+            width: 48px;
+            height: 48px;
+            top: 16px;
+            left: 16px;
+            border-color: #22c55e transparent transparent transparent;
+            animation-delay: 0.3s;
+        }
+        .rainbow-loader .ring:nth-child(4) {
+            width: 32px;
+            height: 32px;
+            top: 24px;
+            left: 24px;
+            border-color: #3b82f6 transparent transparent transparent;
+            animation-delay: 0.45s;
+        }
+
+        /* 5. Gradient Spinner (dots) */
+        .gradient-dots {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+        .gradient-dots .dot {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            animation: dotBounce 1.2s ease-in-out infinite;
+        }
+        .gradient-dots .dot:nth-child(1) { background: #ef4444; animation-delay: 0s; }
+        .gradient-dots .dot:nth-child(2) { background: #f59e0b; animation-delay: 0.15s; }
+        .gradient-dots .dot:nth-child(3) { background: #22c55e; animation-delay: 0.3s; }
+        .gradient-dots .dot:nth-child(4) { background: #3b82f6; animation-delay: 0.45s; }
+        .gradient-dots .dot:nth-child(5) { background: #8b5cf6; animation-delay: 0.6s; }
+
+        @keyframes dotBounce {
+            0%, 80%, 100% { transform: scale(0.4); opacity: 0.4; }
+            40% { transform: scale(1); opacity: 1; }
+        }
+
+        /* 6. Spinner with Text */
+        .spinner-text {
+            position: relative;
+            width: 120px;
+            height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .spinner-text .ring-border {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            border: 4px solid #3c3c3c;
+        }
+        .spinner-text .ring-spin {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            border: 4px solid transparent;
+            border-top-color: #fbbf24;
+            border-right-color: #fbbf24;
+            animation: spin 1.2s linear infinite;
+        }
+        .spinner-text .ring-spin::after {
+            content: '';
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: #fbbf24;
+            top: -6px;
+            right: -6px;
+            box-shadow: 0 0 20px #fbbf24;
+        }
+        .spinner-text .label {
+            font-family: sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: #fbbf24;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            text-shadow: 0 0 12px rgba(251, 191, 36, 0.4);
+            z-index: 1;
+        }
+
+        /* 7. Skeleton Screen */
+        .skeleton-demo {
+            width: 320px;
+            max-width: 100%;
+            background: #f1f5f9;
+            border-radius: 12px;
+            padding: 1.2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+        .skeleton-demo .skeleton-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: #e2e8f0;
+            animation: shimmerSkeleton 1.8s ease-in-out infinite;
+        }
+        .skeleton-demo .skeleton-line {
+            height: 14px;
+            border-radius: 8px;
+            background: #e2e8f0;
+            animation: shimmerSkeleton 1.8s ease-in-out infinite;
+        }
+        .skeleton-demo .skeleton-line.short { width: 60%; }
+        .skeleton-demo .skeleton-line.medium { width: 80%; }
+        .skeleton-demo .skeleton-line.long { width: 100%; }
+        .skeleton-demo .skeleton-row {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        .skeleton-demo .skeleton-col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        @keyframes shimmerSkeleton {
+            0% { opacity: 0.6; }
+            50% { opacity: 1; }
+            100% { opacity: 0.6; }
+        }
+
+        /* 8. Pulse Loader (simple) */
+        .pulse-loader {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            border: 5px solid #e2e8f0;
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(0.8); border-color: #7c3aed; }
+            50% { transform: scale(1.2); border-color: #a78bfa; }
+            100% { transform: scale(0.8); border-color: #7c3aed; }
+        }
+
+        /* 9. Determinate (with percentage) */
+        .determinate-demo {
+            text-align: center;
+        }
+        .determinate-demo .circular {
+            position: relative;
+            width: 80px;
+            height: 80px;
+            margin: 0 auto;
+        }
+        .determinate-demo .circular svg {
+            transform: rotate(-90deg);
+            width: 80px;
+            height: 80px;
+        }
+        .determinate-demo .circular .bg {
+            fill: none;
+            stroke: #e2e8f0;
+            stroke-width: 6;
+        }
+        .determinate-demo .circular .progress-ring {
+            fill: none;
+            stroke: #7c3aed;
+            stroke-width: 6;
+            stroke-linecap: round;
+            stroke-dasharray: 226.19;
+            stroke-dashoffset: 226.19;
+            animation: circleProgress 4s ease-in-out infinite;
+        }
+        @keyframes circleProgress {
+            0% { stroke-dashoffset: 226.19; }
+            50% { stroke-dashoffset: 56.55; }
+            100% { stroke-dashoffset: 0; }
+        }
+        .determinate-demo .percentage {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #1e1b4b;
+        }
+
+        /* 10. Dots loader */
+        .dots-loader {
+            display: flex;
+            gap: 8px;
+        }
+        .dots-loader .dot-pulse {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #7c3aed;
+            animation: dotPulse 1.4s ease-in-out infinite;
+        }
+        .dots-loader .dot-pulse:nth-child(2) { animation-delay: 0.2s; }
+        .dots-loader .dot-pulse:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes dotPulse {
+            0%, 80%, 100% { transform: scale(0.4); opacity: 0.3; }
+            40% { transform: scale(1); opacity: 1; }
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .demo-stage { padding: 1.5rem 0.8rem; min-height: 100px; }
+            .wave-loader .bar { height: 30px; width: 5px; }
+            .progress-loader { width: 200px; }
+            .skeleton-demo { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>⏳ CSS Loader</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS loaders</strong> (loading animations) provide visual feedback to users when content is loading
+            or a process is running in the background. They improve user experience by reducing perceived wait time and
+            assuring users that the system is still handling their request. This guide covers various types of loaders
+            with live examples and code snippets.
+        </div>
+
+        <!-- ─── WHAT IS A LOADING ANIMATION ─── -->
+        <h2>📌 What is a Loading Animation?</h2>
+        <p>
+            A loading animation is a visual notification that informs the user that the system is processing their request.
+            When a user clicks a button or navigates to a page, the loader appears until the operation completes.
+            Some loaders also include a progress bar that shows the remaining time, reducing user boredom and improving
+            perceived performance.
+        </p>
+
+        <div class="note">
+            💡 <strong>Why CSS Loaders?</strong> CSS loaders are lightweight, scalable, and easy to customise.
+            They can be paused, modified, and animated smoothly using the GPU. Unlike GIFs, they don't lose quality
+            when scaled and are fully editable in terms of colour, speed, and duration.
+        </div>
+
+        <!-- ─── TYPES OF LOADERS ─── -->
+        <h2>📋 Types of Loading Animations</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Type</th><th>Description</th><th>Use Case</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Infinite Loader</strong></td>
+                    <td>Continuous animation without a time indication.</td>
+                    <td>Unknown or very short wait times.</td>
+                </tr>
+                <tr>
+                    <td><strong>Determinate Loader</strong></td>
+                    <td>Shows progress as a percentage or fraction.</td>
+                    <td>Known wait times (e.g., file uploads).</td>
+                </tr>
+                <tr>
+                    <td><strong>Progress Bar</strong></td>
+                    <td>Linear progress indicator that fills over time.</td>
+                    <td>Form submissions, file downloads.</td>
+                </tr>
+                <tr>
+                    <td><strong>Skeleton Screen</strong></td>
+                    <td>Placeholder that mimics the final content layout.</td>
+                    <td>Content-heavy pages (e.g., dashboards).</td>
+                </tr>
+                <tr>
+                    <td><strong>Spinner</strong></td>
+                    <td>Circular rotating animation.</td>
+                    <td>General-purpose loading indicators.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- ─── 1. INFINITE LOADING ─── -->
+        <h2>📖 1. Infinite Loading Animation</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Infinite Wave Loader</span>
+                <div class="wave-loader">
+                    <div class="bar"></div><div class="bar"></div>
+                    <div class="bar"></div><div class="bar"></div>
+                    <div class="bar"></div><div class="bar"></div>
+                    <div class="bar"></div><div class="bar"></div>
+                    <div class="bar"></div><div class="bar"></div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="wave-loader"&gt;
+  &lt;div class="bar"&gt;&lt;/div&gt;
+  &lt;div class="bar"&gt;&lt;/div&gt;
+  &lt;!-- ... more bars ... --&gt;
+&lt;/div&gt;
+
+.wave-loader .bar {
+  width: 6px;
+  height: 40px;
+  background: linear-gradient(45deg, #7c3aed, #a78bfa);
+  border-radius: 20px;
+  animation: waveAnim 1s ease-in-out infinite;
+}
+.wave-loader .bar:nth-child(2) { animation-delay: 0.1s; }
+/* ... delays for each bar ... */
+
+@keyframes waveAnim {
+  0%, 100% { transform: scaleY(0.3); }
+  50% { transform: scaleY(1); }
+}</code></pre>
+            <div class="note">🌊 This infinite loader uses staggered animation delays on each bar to create a wave effect. It's perfect for unknown wait times.</div>
+        </div>
+
+        <!-- ─── 2. PROGRESS BAR ─── -->
+        <h2>📖 2. Progress Bar Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Determinate Progress Bar</span>
+                <div style="text-align:center; width:100%;">
+                    <div class="progress-loader">
+                        <div class="fill"></div>
+                    </div>
+                    <div class="progress-label">Loading…</div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="progress-loader"&gt;
+  &lt;div class="fill"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+.progress-loader .fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #7c3aed, #a78bfa, #7c3aed);
+  background-size: 200% 100%;
+  border-radius: 40px;
+  animation: progressFill 3s ease-in-out infinite,
+             shimmer 2s linear infinite;
+}
+
+@keyframes progressFill {
+  0% { width: 0%; }
+  25% { width: 30%; }
+  50% { width: 55%; }
+  75% { width: 80%; }
+  100% { width: 100%; }
+}</code></pre>
+            <div class="note">📊 This progress bar uses two animations: one for filling and another for a shimmer effect. Great for file uploads or form submissions with known progress.</div>
+        </div>
+
+        <!-- ─── 3. SPINNER (EASE-IN-OUT) ─── -->
+        <h2>📖 3. Loading Spinner (Ease-in-out)</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Ease-in-out Spinner</span>
+                <div class="spinner-eio"></div>
+            </div>
+            <pre><code>&lt;div class="spinner-eio"&gt;&lt;/div&gt;
+
+.spinner-eio {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 5px solid #e2e8f0;
+  border-top-color: #7c3aed;
+  animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}</code></pre>
+            <div class="note">🌀 The classic circular spinner with <code>ease-in-out</code> timing for a smooth start and end. Simple yet effective.</div>
+        </div>
+
+        <!-- ─── 4. RAINBOW SPINNER ─── -->
+        <h2>📖 4. Rainbow Loading Spinner</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Rainbow Spinner</span>
+                <div class="rainbow-loader">
+                    <div class="ring"></div>
+                    <div class="ring"></div>
+                    <div class="ring"></div>
+                    <div class="ring"></div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="rainbow-loader"&gt;
+  &lt;div class="ring"&gt;&lt;/div&gt;
+  &lt;div class="ring"&gt;&lt;/div&gt;
+  &lt;div class="ring"&gt;&lt;/div&gt;
+  &lt;div class="ring"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+.rainbow-loader .ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 4px solid transparent;
+  animation: spin 1.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) infinite;
+}
+.rainbow-loader .ring:nth-child(1) {
+  border-color: #ef4444 transparent transparent transparent;
+}
+/* ... nested rings with different colours ... */</code></pre>
+            <div class="note">🌈 This spinner uses nested rings with different colours and staggered animation delays, creating a vibrant rainbow effect.</div>
+        </div>
+
+        <!-- ─── 5. GRADIENT DOTS ─── -->
+        <h2>📖 5. Gradient Dots Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Gradient Dots</span>
+                <div class="gradient-dots">
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                    <div class="dot"></div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="gradient-dots"&gt;
+  &lt;div class="dot"&gt;&lt;/div&gt;
+  &lt;div class="dot"&gt;&lt;/div&gt;
+  &lt;!-- ... --&gt;
+&lt;/div&gt;
+
+.gradient-dots .dot {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  animation: dotBounce 1.2s ease-in-out infinite;
+}
+.gradient-dots .dot:nth-child(1) { background: #ef4444; animation-delay: 0s; }
+/* ... different colours and delays ... */
+
+@keyframes dotBounce {
+  0%, 80%, 100% { transform: scale(0.4); opacity: 0.4; }
+  40% { transform: scale(1); opacity: 1; }
+}</code></pre>
+            <div class="note">⚫ Each dot bounces with a different colour and delay, creating a playful, energetic loading animation.</div>
+        </div>
+
+        <!-- ─── 6. SPINNER WITH TEXT ─── -->
+        <h2>📖 6. Loading Spinner with Animated Text</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Spinner with Text</span>
+                <div class="spinner-text">
+                    <div class="ring-border"></div>
+                    <div class="ring-spin"></div>
+                    <span class="label">Loading</span>
+                </div>
+            </div>
+            <pre><code>&lt;div class="spinner-text"&gt;
+  &lt;div class="ring-border"&gt;&lt;/div&gt;
+  &lt;div class="ring-spin"&gt;&lt;/div&gt;
+  &lt;span class="label"&gt;Loading&lt;/span&gt;
+&lt;/div&gt;
+
+.spinner-text .ring-spin {
+  border: 4px solid transparent;
+  border-top-color: #fbbf24;
+  border-right-color: #fbbf24;
+  animation: spin 1.2s linear infinite;
+}
+.spinner-text .ring-spin::after {
+  content: '';
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fbbf24;
+  top: -6px;
+  right: -6px;
+  box-shadow: 0 0 20px #fbbf24;
+}</code></pre>
+            <div class="note">📝 A stylish spinner with "Loading" text in the centre. The glowing dot at the end of the spinning ring adds a premium feel.</div>
+        </div>
+
+        <!-- ─── 7. SKELETON SCREEN ─── -->
+        <h2>📖 7. Skeleton Screen Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage" style="flex-direction:column;">
+                <span class="stage-label">Skeleton Screen</span>
+                <div class="skeleton-demo">
+                    <div class="skeleton-row">
+                        <div class="skeleton-avatar"></div>
+                        <div class="skeleton-col">
+                            <div class="skeleton-line medium"></div>
+                            <div class="skeleton-line short"></div>
+                        </div>
+                    </div>
+                    <div class="skeleton-line long"></div>
+                    <div class="skeleton-line long"></div>
+                    <div class="skeleton-line medium"></div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="skeleton-demo"&gt;
+  &lt;div class="skeleton-row"&gt;
+    &lt;div class="skeleton-avatar"&gt;&lt;/div&gt;
+    &lt;div class="skeleton-col"&gt;
+      &lt;div class="skeleton-line medium"&gt;&lt;/div&gt;
+      &lt;div class="skeleton-line short"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="skeleton-line long"&gt;&lt;/div&gt;
+  &lt;div class="skeleton-line long"&gt;&lt;/div&gt;
+  &lt;div class="skeleton-line medium"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+.skeleton-line {
+  height: 14px;
+  border-radius: 8px;
+  background: #e2e8f0;
+  animation: shimmerSkeleton 1.8s ease-in-out infinite;
+}
+
+@keyframes shimmerSkeleton {
+  0% { opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { opacity: 0.6; }
+}</code></pre>
+            <div class="note">🧩 Skeleton screens are placeholders that mimic the final content layout. They reduce perceived load time and provide a smoother user experience.</div>
+        </div>
+
+        <!-- ─── 8. PULSE LOADER ─── -->
+        <h2>📖 8. Pulse Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Pulse Loader</span>
+                <div class="pulse-loader"></div>
+            </div>
+            <pre><code>&lt;div class="pulse-loader"&gt;&lt;/div&gt;
+
+.pulse-loader {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 5px solid #e2e8f0;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(0.8); border-color: #7c3aed; }
+  50% { transform: scale(1.2); border-color: #a78bfa; }
+  100% { transform: scale(0.8); border-color: #7c3aed; }
+}</code></pre>
+            <div class="note">💓 A simple pulsing circle that scales and changes colour — perfect for subtle loading indicators.</div>
+        </div>
+
+        <!-- ─── 9. DETERMINATE CIRCULAR ─── -->
+        <h2>📖 9. Determinate Circular Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Determinate Circular</span>
+                <div class="determinate-demo">
+                    <div class="circular">
+                        <svg viewBox="0 0 80 80">
+                            <circle class="bg" cx="40" cy="40" r="36" />
+                            <circle class="progress-ring" cx="40" cy="40" r="36" />
+                        </svg>
+                        <div class="percentage">0%</div>
+                    </div>
+                </div>
+            </div>
+            <pre><code>&lt;svg viewBox="0 0 80 80"&gt;
+  &lt;circle class="bg" cx="40" cy="40" r="36" /&gt;
+  &lt;circle class="progress-ring" cx="40" cy="40" r="36" /&gt;
+&lt;/svg&gt;
+
+.progress-ring {
+  fill: none;
+  stroke: #7c3aed;
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-dasharray: 226.19;
+  stroke-dashoffset: 226.19;
+  animation: circleProgress 4s ease-in-out infinite;
+}
+
+@keyframes circleProgress {
+  0% { stroke-dashoffset: 226.19; }
+  50% { stroke-dashoffset: 56.55; }
+  100% { stroke-dashoffset: 0; }
+}</code></pre>
+            <div class="note">⭕ This circular progress indicator uses SVG stroke-dasharray and stroke-dashoffset to create a filling circle effect. Great for dashboards and data visualisation.</div>
+        </div>
+
+        <!-- ─── 10. DOTS LOADER ─── -->
+        <h2>📖 10. Dots Pulse Loader</h2>
+        <div class="demo-box">
+            <div class="demo-stage">
+                <span class="stage-label">Dots Pulse</span>
+                <div class="dots-loader">
+                    <div class="dot-pulse"></div>
+                    <div class="dot-pulse"></div>
+                    <div class="dot-pulse"></div>
+                </div>
+            </div>
+            <pre><code>&lt;div class="dots-loader"&gt;
+  &lt;div class="dot-pulse"&gt;&lt;/div&gt;
+  &lt;div class="dot-pulse"&gt;&lt;/div&gt;
+  &lt;div class="dot-pulse"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+.dots-loader .dot-pulse {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #7c3aed;
+  animation: dotPulse 1.4s ease-in-out infinite;
+}
+.dots-loader .dot-pulse:nth-child(2) { animation-delay: 0.2s; }
+.dots-loader .dot-pulse:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes dotPulse {
+  0%, 80%, 100% { transform: scale(0.4); opacity: 0.3; }
+  40% { transform: scale(1); opacity: 1; }
+}</code></pre>
+            <div class="note">🔵 A three-dot pulsing loader — one of the most recognised loading patterns on the web. Simple, clean, and effective.</div>
+        </div>
+
+        <!-- ─── HOW TO MAKE A SIMPLE LOADER ─── -->
+        <h2>🛠️ How to Make a Simple Loading Animation</h2>
+        <div class="demo-box">
+            <h3>Step 1: HTML Structure</h3>
+            <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8" /&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+  &lt;title&gt;Loading Animation&lt;/title&gt;
+  &lt;link rel="stylesheet" href="styles.css" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;div class="loader-container"&gt;
+    &lt;div class="loader"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+            <h3>Step 2: CSS Styles</h3>
+            <pre><code>body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f2f2f2;
+}
+
+.loader {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 4px solid #f3f3f3;
+  animation: pulse 1.5s linear infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(0.8);
+    border-color: #3498db;
+  }
+  50% {
+    transform: scale(1.2);
+    border-color: #e74c3c;
+  }
+  100% {
+    transform: scale(0.8);
+    border-color: #2ecc71;
+  }
+}</code></pre>
+
+            <h3>Complete Code (Live Demo)</h3>
+            <div class="demo-stage">
+                <span class="stage-label">Simple Pulse Loader</span>
+                <div style="width:80px;height:80px;border-radius:50%;border:4px solid #f3f3f3;animation:pulse 1.5s linear infinite;background:transparent;"></div>
+            </div>
+            <div class="note">
+                ✅ This simple loader uses a pulsing circle with changing colours. It's easy to customise — just adjust the
+                <code>border-color</code> values and the <code>transform: scale()</code> percentages.
+            </div>
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices for Loading Animations</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Keep it short:</strong> The best loaders take the least amount of time. Users have limited patience — aim for under 3 seconds.</li>
+                <li><strong>Ease the pain of waiting:</strong> Make the animation engaging or interesting to keep users occupied.</li>
+                <li><strong>Align with your brand:</strong> Use your brand colours and consider adding your logo for brand recall.</li>
+                <li><strong>Provide context:</strong> Instead of "Loading…", use messages like "Fetching your data…" or "Preparing your document…"</li>
+                <li><strong>Consider accessibility:</strong> Ensure your loader doesn't cause seizures (avoid rapid flashing). Respect <code>prefers-reduced-motion</code>.</li>
+                <li><strong>Test across devices:</strong> Loaders should work on all screen sizes and browsers. Use fallbacks for older browsers.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>@keyframes</code> / <code>animation</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+ (with prefix)</td></tr>
+                <tr><td><code>transform</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (with -ms- prefix)</td></tr>
+                <tr><td><code>border-radius</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+</td></tr>
+                <tr><td><code>SVG</code> animations</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (limited)</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Internet Explorer 9 and Opera Mini do not support CSS animations. For these browsers, consider using GIF-based loaders as a fallback.
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Always respect <code>prefers-reduced-motion</code> for users with vestibular disorders.
+            <pre style="margin-top:0.6rem;"><code>@media (prefers-reduced-motion: reduce) {
+  .loader, .spinner, .wave-loader {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}</code></pre>
+            Also, ensure your loader is announced by screen readers using <code>aria-label="Loading, please wait"</code> on the container.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f3e8ff; border-left-color:#8b5cf6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS loaders are an essential part of modern web design, providing crucial feedback
+            during wait times. From simple spinners to complex skeleton screens, there's a loader for every use case.
+            Choose the right type for your context, keep it fast and engaging, and always consider accessibility.
+        </div>
+
+        <footer>
+            ⏳ CSS Loader – Keep users informed and engaged during wait times.
+        </footer>
+
+        <style>
+            /* Additional keyframe for the simple loader demo */
+            @keyframes pulse {
+                0% { transform: scale(0.8); border-color: #3498db; }
+                50% { transform: scale(1.2); border-color: #e74c3c; }
+                100% { transform: scale(0.8); border-color: #2ecc71; }
+            }
+        </style>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-units",
+              name: "CSS units",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Units – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0d9488;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #134e4a;
+        }
+
+        .last-updated {
+            color: #0d9488;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f0fdfa;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #14b8a6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #134e4a;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #134e4a;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #134e4a;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #134e4a;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── unit demo styles ── */
+
+        /* Absolute units demo */
+        .abs-demo p {
+            margin: 0.4rem 0;
+            padding: 0.2rem 0.5rem;
+            background: #f1f5f9;
+            border-radius: 6px;
+            display: inline-block;
+        }
+
+        /* Relative units demo */
+        .rel-demo p {
+            margin: 0.4rem 0;
+            padding: 0.2rem 0.5rem;
+            background: #f1f5f9;
+            border-radius: 6px;
+            display: inline-block;
+        }
+
+        /* Time units demo */
+        .time-demo-box {
+            width: 120px;
+            height: 120px;
+            background: #7c3aed;
+            border-radius: 16px;
+            transition-property: background, width, height, border-radius;
+            transition-duration: 1s, 2s, 3s;
+            margin: 0 auto;
+        }
+
+        .time-demo-box:hover {
+            width: 180px;
+            height: 180px;
+            background: #0d9488;
+            border-radius: 50%;
+        }
+
+        /* Angle units demo */
+        .angle-demo-img {
+            border: 6px ridge #94a3b8;
+            border-radius: 20px;
+            margin: 10px;
+            transition-duration: 1.2s;
+            width: 150px;
+            height: 120px;
+            object-fit: cover;
+            background: linear-gradient(135deg, #7c3aed, #0d9488);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1rem;
+        }
+
+        .angle-demo-img:hover {
+            transform: rotate(30deg);
+            transform-origin: center center;
+        }
+
+        /* Viewport units demo */
+        .vh-vw-demo {
+            background: linear-gradient(135deg, #7c3aed, #0d9488);
+            color: white;
+            padding: 1rem;
+            border-radius: 12px;
+            text-align: center;
+            font-weight: 600;
+            min-height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .vh-vw-demo .vh-box {
+            background: rgba(255,255,255,0.2);
+            padding: 0.4rem 1rem;
+            border-radius: 8px;
+            margin: 0.2rem 0;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>📏 CSS Units</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS units</strong> are used to express measurements and lengths for properties like <code>margin</code>,
+            <code>padding</code>, <code>font-size</code>, <code>width</code>, and <code>height</code>. They are essential
+            for defining the size and spacing of elements. Units can be <strong>absolute</strong> (fixed size) or
+            <strong>relative</strong> (scales based on other values). This guide covers all major CSS units with live examples.
+        </div>
+
+        <!-- ─── ABSOLUTE LENGTHS ─── -->
+        <h2>📐 Absolute Length Units</h2>
+        <p>
+            Absolute units are fixed and will appear as exactly that size regardless of screen or parent size.
+            They are <strong>not recommended for responsive design</strong> but are useful when the output medium
+            is known (e.g., print layouts).
+        </p>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Unit</th><th>Name</th><th>Explanation</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>cm</code></td><td>Centimeters</td><td>1cm = 37.8px (approx.)</td></tr>
+                <tr><td><code>mm</code></td><td>Millimeters</td><td>1mm = 1/10th of 1cm</td></tr>
+                <tr><td><code>in</code></td><td>Inches</td><td>1in = 96px = 2.54cm</td></tr>
+                <tr><td><code>pt</code></td><td>Points</td><td>1pt = 1/72 of 1 inch</td></tr>
+                <tr><td><code>pc</code></td><td>Picas</td><td>1pc = 12pt (6 picas = 1 inch)</td></tr>
+                <tr><td><code>px</code></td><td>Pixels</td><td>1px = 1/96th of 1 inch</td></tr>
+            </tbody>
+        </table>
+
+        <h3>📖 Absolute Units Example</h3>
+        <div class="demo-box">
+            <div class="demo-row abs-demo">
+                <div class="demo-item">
+                    <p style="font-size:20px;">font-size: 20px</p>
+                    <p style="font-size:1.2cm;">font-size: 1.2cm</p>
+                    <p style="font-size:0.7in;">font-size: 0.7in</p>
+                    <p style="font-size:18pt;">font-size: 18pt</p>
+                    <p style="font-size:2pc;">font-size: 2pc</p>
+                    <p style="font-size:10mm;">font-size: 10mm</p>
+                </div>
+            </div>
+            <pre><code>p { font-size: 20px; }
+p { font-size: 1.2cm; }
+p { font-size: 0.7in; }
+p { font-size: 18pt; }
+p { font-size: 2pc; }
+p { font-size: 10mm; }</code></pre>
+            <div class="note">
+                📌 Absolute units are fixed — they don't scale. <code>px</code> is the most commonly used absolute unit
+                for screen design, while <code>pt</code> and <code>in</code> are more common in print.
+            </div>
+        </div>
+
+        <!-- ─── RELATIVE LENGTHS ─── -->
+        <h2>📐 Relative Length Units</h2>
+        <p>
+            Relative units scale based on another value, such as the parent's font size, the viewport size, or the root
+            element's font size. They are <strong>essential for responsive design</strong> and work well across different
+            screen sizes.
+        </p>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Unit</th><th>Name</th><th>Explanation</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>em</code></td><td>Relative to parent</td><td>Relative to the font-size of the element (or parent).</td></tr>
+                <tr><td><code>ex</code></td><td>Relative to x-height</td><td>Relative to the x-height of the font (height of 'x'). Rarely used.</td></tr>
+                <tr><td><code>ch</code></td><td>Relative to '0' width</td><td>Relative to the width of the '0' character in the font.</td></tr>
+                <tr><td><code>rem</code></td><td>Root em</td><td>Relative to the font-size of the root element (<code>&lt;html&gt;</code>).</td></tr>
+                <tr><td><code>vh</code></td><td>Viewport height</td><td>1vh = 1% of the viewport height.</td></tr>
+                <tr><td><code>vw</code></td><td>Viewport width</td><td>1vw = 1% of the viewport width.</td></tr>
+                <tr><td><code>vmin</code></td><td>Viewport min</td><td>1vmin = 1% of the smaller dimension (height or width).</td></tr>
+                <tr><td><code>vmax</code></td><td>Viewport max</td><td>1vmax = 1% of the larger dimension (height or width).</td></tr>
+                <tr><td><code>%</code></td><td>Percentage</td><td>Relative to a parent value (e.g., 50% of parent width).</td></tr>
+            </tbody>
+        </table>
+
+        <h3>📖 Relative Units Example</h3>
+        <div class="demo-box">
+            <div class="demo-row rel-demo">
+                <div class="demo-item">
+                    <p style="font-size:2em;">font-size: 2em</p>
+                    <p style="font-size:8ex;">font-size: 8ex</p>
+                    <p style="font-size:6ch;">font-size: 6ch</p>
+                    <p style="font-size:4rem;">font-size: 4rem</p>
+                    <p style="font-size:4vw;">font-size: 4vw</p>
+                    <p style="font-size:10vh;">font-size: 10vh</p>
+                    <p style="font-size:10vmin;">font-size: 10vmin</p>
+                    <p style="font-size:8vmax;">font-size: 8vmax</p>
+                    <p style="font-size:400%;">font-size: 400%</p>
+                </div>
+            </div>
+            <pre><code>p { font-size: 2em; }   /* 2× parent font-size */
+p { font-size: 8ex; }   /* 8× x-height */
+p { font-size: 6ch; }   /* 6× width of '0' */
+p { font-size: 4rem; }  /* 4× root font-size */
+p { font-size: 4vw; }   /* 4% of viewport width */
+p { font-size: 10vh; }  /* 10% of viewport height */
+p { font-size: 10vmin; }/* 10% of smaller viewport dimension */
+p { font-size: 8vmax; } /* 8% of larger viewport dimension */
+p { font-size: 400%; }  /* 400% of parent font-size */</code></pre>
+            <div class="note">
+                📌 <strong>Best practice:</strong> Use <code>rem</code> for font sizes (consistent scaling),
+                <code>em</code> for spacing within components, <code>vw</code>/<code>vh</code> for full-screen layouts,
+                and <code>%</code> for flexible widths.
+            </div>
+        </div>
+
+        <!-- ─── TIME UNITS ─── -->
+        <h2>⏱️ Time Units</h2>
+        <p>Time units are used for animation and transition properties like <code>transition-duration</code> and <code>animation-duration</code>.</p>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Unit</th><th>Name</th><th>Explanation</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>s</code></td><td>Seconds</td><td>Duration in seconds (e.g., <code>2s</code>)</td></tr>
+                <tr><td><code>ms</code></td><td>Milliseconds</td><td>1ms = 1/1000 of a second (e.g., <code>500ms</code>)</td></tr>
+            </tbody>
+        </table>
+
+        <h3>📖 Time Units Example</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="time-demo-box"></div>
+                    <div class="demo-item-label">Hover to see transitions (1s, 2s, 3s)</div>
+                </div>
+            </div>
+            <pre><code>div {
+    width: 120px;
+    height: 120px;
+    background: #7c3aed;
+    border-radius: 16px;
+    transition-property: background, width, height;
+    transition-duration: 1s, 2s, 3s;
+}
+
+div:hover {
+    width: 180px;
+    height: 180px;
+    background: #0d9488;
+    border-radius: 50%;
+}</code></pre>
+            <div class="note">
+                ⏱️ Each property has its own duration: background changes in 1s, width in 2s, and height in 3s.
+                This creates a staggered transition effect.
+            </div>
+        </div>
+
+        <!-- ─── ANGLE UNITS ─── -->
+        <h2>📐 Angle Units</h2>
+        <p>Angle units are used with transform properties like <code>rotate()</code>, <code>skew()</code>, and <code>transform-origin</code>.</p>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Unit</th><th>Name</th><th>Explanation</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>deg</code></td><td>Degrees</td><td>360deg = full circle</td></tr>
+                <tr><td><code>grad</code></td><td>Gradians</td><td>400grad = full circle</td></tr>
+                <tr><td><code>turn</code></td><td>Turns</td><td>1turn = 360deg = full circle</td></tr>
+                <tr><td><code>rad</code></td><td>Radians</td><td>2π rad = full circle</td></tr>
+            </tbody>
+        </table>
+
+        <h3>📖 Angle Units Example</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="angle-demo-img">Hover to rotate 30deg</div>
+                    <div class="demo-item-label">transform: rotate(30deg)</div>
+                </div>
+            </div>
+            <pre><code>img:hover {
+    transform: rotate(30deg);
+    transform-origin: center center;
+}
+
+/* Other angle examples */
+.rotate-90deg { transform: rotate(90deg); }
+.rotate-0.5turn { transform: rotate(0.5turn); }
+.rotate-100grad { transform: rotate(100grad); }</code></pre>
+            <div class="note">
+                🔄 Angles are used for rotations, skews, and gradients. <code>deg</code> is the most commonly used,
+                while <code>turn</code> is great for circular animations (e.g., <code>rotate(0.5turn)</code> = 180deg).
+            </div>
+        </div>
+
+        <!-- ─── VIEWPORT UNITS IN ACTION ─── -->
+        <h2>📱 Viewport Units in Action</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item" style="width:100%;">
+                    <div class="vh-vw-demo" style="width:60vw; margin:0 auto;">
+                        <span>This box is <strong>60vw</strong> wide</span>
+                        <span style="font-size:0.8rem; opacity:0.8;">(60% of viewport width)</span>
+                        <div class="vh-box" style="width:40vw; margin-top:0.5rem;">
+                            <span>Inner box: <strong>40vw</strong></span>
+                        </div>
+                        <div class="vh-box" style="width:20vw; margin-top:0.3rem;">
+                            <span>Inner box: <strong>20vw</strong></span>
+                        </div>
+                    </div>
+                    <div class="demo-item-label">Resize your browser to see the boxes scale</div>
+                </div>
+            </div>
+            <pre><code>.container {
+    width: 60vw;   /* 60% of viewport width */
+}
+.inner {
+    width: 40vw;   /* 40% of viewport width */
+}
+.small {
+    width: 20vw;   /* 20% of viewport width */
+}</code></pre>
+            <div class="note">
+                📱 Viewport units (<code>vw</code>, <code>vh</code>, <code>vmin</code>, <code>vmax</code>) are
+                extremely useful for full-screen layouts, hero sections, and responsive typography.
+            </div>
+        </div>
+
+        <!-- ─── EM VS REM ─── -->
+        <h2>📊 <code>em</code> vs <code>rem</code> — Key Difference</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item" style="font-size:16px; background:#f1f5f9; padding:1rem; border-radius:12px; min-width:200px;">
+                    <div style="font-size:2em; background:#e2e8f0; padding:0.3rem 0.8rem; border-radius:8px; margin:0.2rem 0;">
+                        em (2× parent)
+                    </div>
+                    <div style="font-size:2rem; background:#cbd5e1; padding:0.3rem 0.8rem; border-radius:8px; margin:0.2rem 0;">
+                        rem (2× root)
+                    </div>
+                    <div style="font-size:1em; background:#e2e8f0; padding:0.3rem 0.8rem; border-radius:8px; margin:0.2rem 0;">
+                        em (1× parent)
+                    </div>
+                    <div style="font-size:1rem; background:#cbd5e1; padding:0.3rem 0.8rem; border-radius:8px; margin:0.2rem 0;">
+                        rem (1× root)
+                    </div>
+                    <div class="demo-item-label" style="margin-top:0.8rem;">
+                        Parent font-size: 16px · Root font-size: 16px (default)
+                    </div>
+                </div>
+            </div>
+            <pre><code>/* em: relative to parent's font-size */
+.child-em { font-size: 2em; }  /* 2× parent (32px if parent is 16px) */
+
+/* rem: relative to root (html) font-size */
+.child-rem { font-size: 2rem; } /* 2× root (32px if root is 16px) */</code></pre>
+            <div class="note">
+                💡 <strong>When to use:</strong> Use <code>rem</code> for global, consistent sizing (like font sizes).
+                Use <code>em</code> for component‑relative sizing (like padding inside a card). This makes components
+                more portable and easier to scale.
+            </div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use Each Unit</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>📱 <code>vw</code> / <code>vh</code></strong> Full‑screen layouts, hero sections, responsive typography.</div>
+            <div class="feature-card"><strong>📝 <code>rem</code></strong> Font sizes, global spacing, consistent design systems.</div>
+            <div class="feature-card"><strong>🧩 <code>em</code></strong> Component‑relative padding, margins, and font sizes.</div>
+            <div class="feature-card"><strong>📐 <code>%</code></strong> Flexible widths, heights, and layouts (e.g., grid columns).</div>
+            <div class="feature-card"><strong>🖨️ <code>pt</code> / <code>in</code></strong> Print stylesheets, physical measurements.</div>
+            <div class="feature-card"><strong>🎨 <code>px</code></strong> Precise control (e.g., borders, shadows, small details).</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Unit Type</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Absolute (<code>px, pt, in, cm, mm, pc</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td></tr>
+                <tr><td><code>em, ex, ch, %</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td></tr>
+                <tr><td><code>rem</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+</td></tr>
+                <tr><td><code>vh, vw</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (partial)</td></tr>
+                <tr><td><code>vmin, vmax</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (vmin only)</td></tr>
+                <tr><td>Time (<code>s, ms</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+</td></tr>
+                <tr><td>Angle (<code>deg, grad, turn, rad</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (deg only)</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Internet Explorer has limited support for <code>vmax</code> and <code>ch</code>. Always test your layouts
+            and provide fallbacks when supporting older browsers.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use <code>rem</code> for font sizes:</strong> It respects user's browser font-size settings and ensures accessibility.</li>
+                <li><strong>Use <code>em</code> for component spacing:</strong> Padding, margins, and border-radius inside a component scale together.</li>
+                <li><strong>Use <code>%</code> for layout widths:</strong> Perfect for grid columns, flex items, and fluid layouts.</li>
+                <li><strong>Use <code>vw</code> / <code>vh</code> for viewport‑relative sizing:</strong> Great for full‑screen backgrounds, hero sections, and responsive typography.</li>
+                <li><strong>Avoid <code>px</code> for font sizes:</strong> It overrides user preferences and can cause accessibility issues.</li>
+                <li><strong>Set a root font-size:</strong> <code>html { font-size: 16px; }</code> (or use <code>62.5%</code> for easier <code>rem</code> calculation).</li>
+                <li><strong>Combine units wisely:</strong> Use <code>calc()</code> to mix units (e.g., <code>calc(100% - 20px)</code>).</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Always use relative units (<code>rem</code>, <code>em</code>, <code>%</code>)
+            for text sizes and spacing. This allows users with visual impairments to resize text using browser zoom or
+            custom stylesheets. Avoid <code>px</code> for font sizes — it prevents text from scaling in some browsers.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS units are fundamental to web design. Understanding the difference between
+            absolute and relative units — and knowing when to use each — is key to building responsive, accessible websites.
+            Use <code>rem</code> and <code>em</code> for flexibility, <code>vw</code>/<code>vh</code> for viewport-aware
+            layouts, and absolute units only when necessary. With the right unit choices, your designs will scale beautifully
+            across all devices.
+        </div>
+
+        <footer>
+            📏 CSS Units – Master the measurement system of the web.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Combinators",
+              name: "CSS Combinators",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Combinators – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f3e8ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #8b5cf6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── combinator diagram styles ── */
+        .combinator-diagram {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.2rem;
+            padding: 1rem;
+            background: #f1f5f9;
+            border-radius: 12px;
+            border: 2px solid #e2e8f0;
+            margin: 0.5rem 0;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+        }
+
+        .combinator-diagram .row {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .combinator-diagram .box {
+            padding: 0.5rem 1.2rem;
+            border-radius: 8px;
+            border: 2px solid #94a3b8;
+            background: #e2e8f0;
+            font-weight: 600;
+            transition: all 0.2s;
+            text-align: center;
+            min-width: 60px;
+        }
+
+        .combinator-diagram .box.selected {
+            background: #7c3aed;
+            color: white;
+            border-color: #5b21b6;
+            box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
+        }
+
+        .combinator-diagram .box.highlight {
+            background: #a78bfa;
+            color: white;
+            border-color: #7c3aed;
+        }
+
+        .combinator-diagram .arrow {
+            font-size: 1.5rem;
+            color: #7c3aed;
+            font-weight: 700;
+        }
+
+        .combinator-diagram .label {
+            font-size: 0.7rem;
+            color: #64748b;
+            font-family: 'Segoe UI', sans-serif;
+            font-weight: 400;
+            margin-top: 0.2rem;
+        }
+
+        .combinator-diagram .symbol {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #7c3aed;
+            padding: 0 0.5rem;
+        }
+
+        /* ── live demo styles ── */
+
+        /* General sibling demo */
+        .gen-sibling-demo h1 ~ p {
+            color: #7c3aed;
+            font-size: 1.25rem;
+            font-weight: 600;
+            background: #f3e8ff;
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        /* Adjacent sibling demo */
+        .adj-sibling-demo p + p {
+            color: #0d9488;
+            font-size: 1.25rem;
+            font-weight: 600;
+            background: #f0fdfa;
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        /* Child selector demo */
+        .child-demo > p {
+            color: #d97706;
+            font-size: 1.25rem;
+            font-weight: 600;
+            background: #fffbeb;
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        /* Descendant selector demo */
+        .desc-demo p {
+            color: #dc2626;
+            font-size: 1.25rem;
+            font-weight: 600;
+            background: #fef2f2;
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        .desc-demo div p {
+            color: #7c3aed;
+            font-size: 1.25rem;
+            font-weight: 600;
+            background: #f3e8ff;
+            padding: 0.3rem 0.8rem;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        /* ── live preview boxes ── */
+        .combinator-preview {
+            background: white;
+            border-radius: 12px;
+            padding: 1.2rem;
+            border: 1px solid #e2e8f0;
+            margin: 0.5rem 0;
+            min-height: 100px;
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .combinator-preview .item {
+            padding: 0.3rem 0.8rem;
+            border-radius: 6px;
+            border: 1px solid #e2e8f0;
+            background: #f8fafc;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+        }
+
+        .combinator-preview .item.highlighted {
+            background: #f3e8ff;
+            border-color: #7c3aed;
+            box-shadow: 0 0 0 2px rgba(124, 58, 237, 0.2);
+        }
+
+        .combinator-preview .item-label {
+            font-size: 0.7rem;
+            color: #94a3b8;
+            font-family: 'Segoe UI', sans-serif;
+            font-weight: 400;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .combinator-diagram .row { gap: 0.8rem; }
+            .combinator-diagram .box { padding: 0.3rem 0.8rem; font-size: 0.8rem; min-width: 40px; }
+            .combinator-diagram .symbol { font-size: 1.2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🔗 CSS Combinators</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS combinators</strong> define the relationship between selectors. They allow you to target elements
+            based on their position in the document tree — whether they are siblings, children, descendants, or adjacent
+            to another element. There are <strong>four types</strong> of combinators in CSS, each with a specific purpose
+            and behaviour.
+        </div>
+
+        <!-- ─── OVERVIEW TABLE ─── -->
+        <h2>📋 Combinator Types</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Combinator</th><th>Symbol</th><th>Description</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>General Sibling</strong></td>
+                    <td><code>~</code></td>
+                    <td>Selects all siblings that follow the specified element</td>
+                    <td><code>h1 ~ p</code></td>
+                </tr>
+                <tr>
+                    <td><strong>Adjacent Sibling</strong></td>
+                    <td><code>+</code></td>
+                    <td>Selects the immediately following sibling element</td>
+                    <td><code>p + p</code></td>
+                </tr>
+                <tr>
+                    <td><strong>Child</strong></td>
+                    <td><code>&gt;</code></td>
+                    <td>Selects direct children of the specified element</td>
+                    <td><code>div &gt; p</code></td>
+                </tr>
+                <tr>
+                    <td><strong>Descendant</strong></td>
+                    <td><code>(space)</code></td>
+                    <td>Selects all descendants (any depth) of the specified element</td>
+                    <td><code>div p</code></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- ─── 1. GENERAL SIBLING SELECTOR ─── -->
+        <h2>📖 1. General Sibling Selector (<code>~</code>)</h2>
+        <p>
+            The <strong>general sibling selector</strong> (<code>~</code>) selects all elements that follow the first
+            selector, provided both are children of the same parent. It matches <em>all</em> siblings after the first
+            element, not just the immediate one.
+        </p>
+
+        <div class="demo-box">
+            <h3>🔹 Visual Diagram</h3>
+            <div class="combinator-diagram">
+                <div class="row">
+                    <div class="box" style="border-color:#7c3aed; background:#7c3aed; color:white;">h1</div>
+                    <span class="symbol">~</span>
+                    <span style="font-size:0.8rem; color:#64748b;">selects →</span>
+                </div>
+                <div class="row" style="margin-top:0.3rem;">
+                    <div class="box">div</div>
+                    <div class="box selected">p ✓</div>
+                    <div class="box">span</div>
+                    <div class="box selected">p ✓</div>
+                    <div class="box">div</div>
+                    <div class="box selected">p ✓</div>
+                </div>
+                <div class="label">All <code>&lt;p&gt;</code> elements that are siblings of <code>&lt;h1&gt;</code> (anywhere after)</div>
+            </div>
+
+            <h3>🔸 Live Example</h3>
+            <div class="combinator-preview gen-sibling-demo">
+                <div class="item"><strong>h1</strong> — General sibling selector (~)</div>
+                <div class="item highlighted"><strong>p</strong> — This paragraph is selected (sibling of h1)</div>
+                <div class="item"><strong>div</strong> — This div is not selected</div>
+                <div class="item highlighted"><strong>p</strong> — This paragraph is also selected (sibling of h1)</div>
+                <div class="item highlighted"><strong>p</strong> — This paragraph is selected too</div>
+                <div class="item-label">Selector: <code>h1 ~ p</code> — all <code>&lt;p&gt;</code> siblings after <code>&lt;h1&gt;</code></div>
+            </div>
+
+            <pre><code>/* Syntax */
+element ~ element {
+    /* style properties */
+}
+
+/* Example: Select all &lt;p&gt; elements that are siblings of &lt;h1&gt; */
+h1 ~ p {
+    color: #7c3aed;
+    font-weight: bold;
+}</code></pre>
+            <div class="note">
+                💡 <strong>Use case:</strong> The general sibling selector is useful for styling all siblings of a
+                particular element, such as highlighting all paragraphs that follow a heading.
+            </div>
+        </div>
+
+        <!-- ─── 2. ADJACENT SIBLING SELECTOR ─── -->
+        <h2>📖 2. Adjacent Sibling Selector (<code>+</code>)</h2>
+        <p>
+            The <strong>adjacent sibling selector</strong> (<code>+</code>) selects the element that <em>immediately</em>
+            follows the first element, provided both share the same parent. It only matches the <strong>directly adjacent</strong>
+            sibling — no elements in between.
+        </p>
+
+        <div class="demo-box">
+            <h3>🔹 Visual Diagram</h3>
+            <div class="combinator-diagram">
+                <div class="row">
+                    <div class="box" style="border-color:#0d9488; background:#0d9488; color:white;">p</div>
+                    <span class="symbol">+</span>
+                    <span style="font-size:0.8rem; color:#64748b;">selects →</span>
+                </div>
+                <div class="row" style="margin-top:0.3rem;">
+                    <div class="box">p</div>
+                    <div class="box selected">p ✓</div>
+                    <div class="box">div</div>
+                    <div class="box" style="border-color:#94a3b8;">p</div>
+                    <div class="box" style="border-color:#94a3b8;">p</div>
+                </div>
+                <div class="label">Only the <code>&lt;p&gt;</code> that <strong>immediately</strong> follows another <code>&lt;p&gt;</code></div>
+            </div>
+
+            <h3>🔸 Live Example</h3>
+            <div class="combinator-preview adj-sibling-demo">
+                <div class="item"><strong>p</strong> — First paragraph (not selected)</div>
+                <div class="item highlighted"><strong>p</strong> — This paragraph IS selected (immediately follows a p)</div>
+                <div class="item"><strong>div</strong> — Div element (not selected)</div>
+                <div class="item"><strong>p</strong> — This paragraph is NOT selected (doesn't immediately follow a p)</div>
+                <div class="item highlighted"><strong>p</strong> — This paragraph IS selected (immediately follows a p)</div>
+                <div class="item-label">Selector: <code>p + p</code> — <code>&lt;p&gt;</code> that immediately follows another <code>&lt;p&gt;</code></div>
+            </div>
+
+            <pre><code>/* Syntax */
+element + element {
+    /* style properties */
+}
+
+/* Example: Select &lt;p&gt; that immediately follows another &lt;p&gt; */
+p + p {
+    color: #0d9488;
+    font-weight: bold;
+}</code></pre>
+            <div class="note">
+                💡 <strong>Use case:</strong> The adjacent sibling selector is perfect for styling the first element after
+                a heading, adding spacing between consecutive paragraphs, or styling list items that follow another.
+            </div>
+        </div>
+
+        <!-- ─── 3. CHILD SELECTOR ─── -->
+        <h2>📖 3. Child Selector (<code>&gt;</code>)</h2>
+        <p>
+            The <strong>child selector</strong> (<code>&gt;</code>) selects elements that are <strong>direct children</strong>
+            of the specified parent. It does not match nested descendants — only the immediate next level in the DOM tree.
+        </p>
+
+        <div class="demo-box">
+            <h3>🔹 Visual Diagram</h3>
+            <div class="combinator-diagram">
+                <div class="row">
+                    <div class="box" style="border-color:#d97706; background:#d97706; color:white;">div</div>
+                    <span class="symbol">&gt;</span>
+                    <span style="font-size:0.8rem; color:#64748b;">selects →</span>
+                </div>
+                <div class="row" style="margin-top:0.3rem;">
+                    <div class="box" style="border:2px solid #d97706; background:#fffbeb;">
+                        div
+                        <div style="display:flex; gap:0.5rem; margin-top:0.3rem; flex-wrap:wrap; justify-content:center;">
+                            <div class="box selected" style="background:#d97706; color:white; border-color:#b45309;">p ✓</div>
+                            <div class="box selected" style="background:#d97706; color:white; border-color:#b45309;">p ✓</div>
+                            <div class="box" style="background:#e2e8f0; border-color:#94a3b8;">
+                                span
+                                <div style="display:flex; gap:0.3rem; margin-top:0.2rem; justify-content:center;">
+                                    <div class="box" style="background:#e2e8f0; border-color:#94a3b8; font-size:0.7rem;">p</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="label">Only <code>&lt;p&gt;</code> elements that are <strong>direct children</strong> of <code>&lt;div&gt;</code></div>
+            </div>
+
+            <h3>🔸 Live Example</h3>
+            <div class="combinator-preview child-demo">
+                <div class="item"><strong>div</strong> — Parent container</div>
+                <div style="padding-left:1.5rem; border-left:2px solid #d97706; margin:0.3rem 0;">
+                    <div class="item highlighted"><strong>p</strong> — This paragraph IS selected (direct child of div)</div>
+                    <div class="item highlighted"><strong>p</strong> — This paragraph IS also selected (direct child of div)</div>
+                    <div class="item" style="border-color:#94a3b8; background:#f1f5f9;">
+                        <strong>span</strong> — Span element (not selected)
+                        <div style="padding-left:1.5rem; margin-top:0.2rem;">
+                            <div class="item" style="border-color:#94a3b8; background:#e2e8f0; font-size:0.8rem;">
+                                <strong>p</strong> — Nested paragraph (NOT selected — not a direct child)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-label">Selector: <code>div &gt; p</code> — only direct children of <code>&lt;div&gt;</code></div>
+            </div>
+
+            <pre><code>/* Syntax */
+element > element {
+    /* style properties */
+}
+
+/* Example: Select &lt;p&gt; elements that are direct children of &lt;div&gt; */
+div > p {
+    color: #d97706;
+    font-weight: bold;
+}</code></pre>
+            <div class="note">
+                💡 <strong>Use case:</strong> The child selector is useful for styling navigation menus (e.g., <code>nav > ul > li</code>)
+                or any component where you want to target only the immediate children, avoiding deeper nested elements.
+            </div>
+        </div>
+
+        <!-- ─── 4. DESCENDANT SELECTOR ─── -->
+        <h2>📖 4. Descendant Selector (<code>space</code>)</h2>
+        <p>
+            The <strong>descendant selector</strong> (a single space) selects all elements that are descendants (children,
+            grandchildren, etc.) of the specified ancestor. It matches elements at <em>any depth</em> within the ancestor.
+        </p>
+
+        <div class="demo-box">
+            <h3>🔹 Visual Diagram</h3>
+            <div class="combinator-diagram">
+                <div class="row">
+                    <div class="box" style="border-color:#dc2626; background:#dc2626; color:white;">div</div>
+                    <span style="font-size:0.8rem; color:#64748b; padding:0 0.3rem;">(space)</span>
+                    <span style="font-size:0.8rem; color:#64748b;">selects →</span>
+                </div>
+                <div class="row" style="margin-top:0.3rem;">
+                    <div class="box" style="border:2px solid #dc2626; background:#fef2f2;">
+                        div
+                        <div style="display:flex; gap:0.5rem; margin-top:0.3rem; flex-wrap:wrap; justify-content:center;">
+                            <div class="box selected" style="background:#dc2626; color:white; border-color:#991b1b;">p ✓</div>
+                            <div class="box selected" style="background:#dc2626; color:white; border-color:#991b1b;">p ✓</div>
+                            <div class="box" style="background:#e2e8f0; border-color:#94a3b8;">
+                                span
+                                <div style="display:flex; gap:0.3rem; margin-top:0.2rem; justify-content:center;">
+                                    <div class="box selected" style="background:#dc2626; color:white; border-color:#991b1b; font-size:0.7rem;">p ✓</div>
+                                    <div class="box selected" style="background:#dc2626; color:white; border-color:#991b1b; font-size:0.7rem;">p ✓</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="label">All <code>&lt;p&gt;</code> elements <strong>anywhere inside</strong> <code>&lt;div&gt;</code> (any depth)</div>
+            </div>
+
+            <h3>🔸 Live Example</h3>
+            <div class="combinator-preview desc-demo">
+                <div class="item"><strong>div</strong> — Parent container</div>
+                <div style="padding-left:1.5rem; border-left:2px solid #dc2626; margin:0.3rem 0;">
+                    <div class="item highlighted"><strong>p</strong> — This paragraph IS selected (descendant of div)</div>
+                    <div class="item highlighted"><strong>p</strong> — This paragraph IS selected (descendant of div)</div>
+                    <div class="item" style="border-color:#94a3b8; background:#f1f5f9;">
+                        <strong>span</strong> — Span element
+                        <div style="padding-left:1.5rem; margin-top:0.2rem;">
+                            <div class="item highlighted" style="border-color:#7c3aed; background:#f3e8ff;">
+                                <strong>p</strong> — This paragraph IS selected (nested inside span, but still descendant of div)
+                            </div>
+                            <div class="item highlighted" style="border-color:#7c3aed; background:#f3e8ff;">
+                                <strong>p</strong> — This paragraph IS also selected (deeply nested)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item"><strong>p</strong> — This paragraph is NOT selected (outside the div)</div>
+                <div class="item-label">Selector: <code>div p</code> — all <code>&lt;p&gt;</code> descendants of <code>&lt;div&gt;</code></div>
+            </div>
+
+            <pre><code>/* Syntax */
+element element {
+    /* style properties */
+}
+
+/* Example: Select all &lt;p&gt; elements inside &lt;div&gt; (any depth) */
+div p {
+    color: #dc2626;
+    font-weight: bold;
+}</code></pre>
+            <div class="note">
+                💡 <strong>Use case:</strong> The descendant selector is the most commonly used combinator. It's perfect for
+                styling all elements inside a container, such as <code>article p</code> to style all paragraphs in an article,
+                regardless of nesting.
+            </div>
+        </div>
+
+        <!-- ─── COMPARISON TABLE ─── -->
+        <h2>📊 Combinator Comparison</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Combinator</th><th>Symbol</th><th>Target</th><th>Depth</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Descendant</strong></td>
+                    <td><code> </code> (space)</td>
+                    <td>All descendants (any depth)</td>
+                    <td>Any depth</td>
+                    <td><code>div p</code> — all p inside div</td>
+                </tr>
+                <tr>
+                    <td><strong>Child</strong></td>
+                    <td><code>&gt;</code></td>
+                    <td>Direct children only</td>
+                    <td>1 level</td>
+                    <td><code>div &gt; p</code> — p that are direct children</td>
+                </tr>
+                <tr>
+                    <td><strong>Adjacent Sibling</strong></td>
+                    <td><code>+</code></td>
+                    <td>Immediately following sibling</td>
+                    <td>Sibling (1 step)</td>
+                    <td><code>h1 + p</code> — p immediately after h1</td>
+                </tr>
+                <tr>
+                    <td><strong>General Sibling</strong></td>
+                    <td><code>~</code></td>
+                    <td>All following siblings</td>
+                    <td>Siblings (any after)</td>
+                    <td><code>h1 ~ p</code> — all p after h1</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use Each Combinator</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>📄 Descendant (<code> </code>)</strong> Style all elements inside a container (e.g., <code>article p</code>).</div>
+            <div class="feature-card"><strong>🎯 Child (<code>&gt;</code>)</strong> Style only direct children (e.g., <code>nav &gt; ul &gt; li</code>).</div>
+            <div class="feature-card"><strong>➡️ Adjacent (<code>+</code>)</strong> Style the element immediately after another (e.g., <code>h1 + p</code>).</div>
+            <div class="feature-card"><strong>🔀 General (<code>~</code>)</strong> Style all siblings after an element (e.g., <code>h2 ~ p</code>).</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Combinator</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Descendant (<code> </code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td>Child (<code>&gt;</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td>Adjacent Sibling (<code>+</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td>General Sibling (<code>~</code>)</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Internet Explorer 7 and 8 support all combinators except the general sibling selector (<code>~</code>),
+            which was introduced in IE 9. Always test your selectors in the browsers you need to support.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Be specific but not too specific:</strong> Use the most appropriate combinator for your use case. Overly specific selectors can make CSS hard to maintain.</li>
+                <li><strong>Use child selectors (<code>&gt;</code>) for component isolation:</strong> This prevents styles from leaking into nested components.</li>
+                <li><strong>Prefer descendant selectors for broad styling:</strong> Use <code>container p</code> to style all paragraphs inside a container.</li>
+                <li><strong>Use adjacent selectors for typography:</strong> <code>h1 + p</code> is great for styling the first paragraph after a heading differently.</li>
+                <li><strong>Avoid excessive nesting:</strong> Deeply nested selectors (e.g., <code>div > ul > li > a</code>) are hard to read and maintain.</li>
+                <li><strong>Keep it readable:</strong> Use comments and meaningful class names to complement combinators.</li>
+                <li><strong>Test with dynamic content:</strong> Combinators rely on the DOM structure — ensure your selectors work even if the structure changes slightly.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Combinators don't directly affect accessibility, but they can influence
+            the readability and maintainability of your CSS. Well‑structured selectors make it easier to ensure that
+            styles are applied consistently, which helps maintain visual clarity for all users, including those using
+            assistive technologies. Always use semantic HTML to provide a solid foundation for your selectors.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f3e8ff; border-left-color:#8b5cf6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS combinators are powerful tools for targeting elements based on their
+            relationship to other elements. Whether you need to style all descendants, only direct children, or specific
+            siblings, combinators give you precise control over your styles. Mastering them is essential for writing
+            efficient, maintainable CSS.
+        </div>
+
+        <footer>
+            🔗 CSS Combinators – Target elements based on their relationship in the DOM.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-masking",
+              name: "CSS masking",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Masking – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f3e8ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #8b5cf6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── masking demo styles ── */
+
+        .mask-demo-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+            padding: 0.5rem;
+        }
+
+        .mask-demo-container .mask-card {
+            text-align: center;
+            background: #f1f5f9;
+            padding: 1rem;
+            border-radius: 12px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .mask-demo-container .mask-card img,
+        .mask-demo-container .mask-card .mask-target {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .mask-demo-container .mask-card .mask-target {
+            background: linear-gradient(135deg, #7c3aed, #0d9488);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        .mask-demo-container .mask-card .label {
+            margin-top: 0.5rem;
+            font-size: 0.85rem;
+            color: #475569;
+            font-weight: 500;
+        }
+
+        /* Example 1: mask-box-image */
+        .mask-box-image {
+            -webkit-mask-box-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect width="100" height="100" fill="black"/%3E%3Ccircle cx="50" cy="50" r="30" fill="white"/%3E%3C/svg%3E') 25;
+            mask-box-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect width="100" height="100" fill="black"/%3E%3Ccircle cx="50" cy="50" r="30" fill="white"/%3E%3C/svg%3E') 25;
+        }
+
+        /* Example 2: stripes mask */
+        .mask-stripes {
+            -webkit-mask-box-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect width="100" height="100" fill="white"/%3E%3Crect x="0" y="0" width="20" height="100" fill="black"/%3E%3Crect x="40" y="0" width="20" height="100" fill="black"/%3E%3Crect x="80" y="0" width="20" height="100" fill="black"/%3E%3C/svg%3E');
+            mask-box-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="100"%3E%3Crect width="100" height="100" fill="white"/%3E%3Crect x="0" y="0" width="20" height="100" fill="black"/%3E%3Crect x="40" y="0" width="20" height="100" fill="black"/%3E%3Crect x="80" y="0" width="20" height="100" fill="black"/%3E%3C/svg%3E');
+            background-color: black;
+        }
+
+        /* Example 3: gradient mask (linear) */
+        .mask-gradient-linear {
+            -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));
+            mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));
+            border: 6px ridge #7c3aed;
+        }
+
+        /* Example 4: radial gradient mask (circle) */
+        .mask-radial-circle {
+            -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);
+            mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);
+            border: 6px ridge #7c3aed;
+        }
+
+        /* Example 5: ellipse mask */
+        .mask-radial-ellipse {
+            -webkit-mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);
+            mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);
+            border: 6px ridge #7c3aed;
+        }
+
+        /* Example 6: text mask */
+        .mask-text {
+            -webkit-mask-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="400" height="200"%3E%3Ctext x="50%25" y="55%25" font-size="80" font-family="Arial" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="white"%3EMASK%3C/text%3E%3C/svg%3E');
+            mask-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="400" height="200"%3E%3Ctext x="50%25" y="55%25" font-size="80" font-family="Arial" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="white"%3EMASK%3C/text%3E%3C/svg%3E');
+            -webkit-mask-size: contain;
+            mask-size: contain;
+            -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            mask-position: center;
+            background: linear-gradient(135deg, #7c3aed, #ec4899, #f59e0b);
+            width: 400px;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0;
+            border-radius: 12px;
+        }
+
+        /* Example 7: polygon mask (clip-path) */
+        .mask-polygon {
+            -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+            clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+        }
+
+        .mask-polygon-inverse {
+            -webkit-clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+            clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+        }
+
+        .mask-hexagon {
+            -webkit-clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+            clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+        }
+
+        .mask-star {
+            -webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+        }
+
+        .mask-diamond {
+            -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+            clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+        }
+
+        /* Mask size & position demos */
+        .mask-size-demo {
+            -webkit-mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+            mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+            -webkit-mask-size: 150px 150px;
+            mask-size: 150px 150px;
+            -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            mask-position: center;
+            border: 6px ridge #7c3aed;
+        }
+
+        .mask-size-demo-repeat {
+            -webkit-mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+            mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+            -webkit-mask-size: 80px 80px;
+            mask-size: 80px 80px;
+            -webkit-mask-repeat: repeat;
+            mask-repeat: repeat;
+            border: 6px ridge #7c3aed;
+        }
+
+        /* ── helper ── */
+        .mask-target-img {
+            width: 250px;
+            height: 250px;
+            object-fit: cover;
+            border-radius: 8px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .mask-target-img.small {
+            width: 200px;
+            height: 200px;
+        }
+
+        .mask-target-img.large {
+            width: 300px;
+            height: 300px;
+        }
+
+        /* ── SVG mask demo ── */
+        .svg-mask-demo {
+            width: 300px;
+            height: 200px;
+            background: linear-gradient(135deg, #7c3aed, #ec4899);
+            -webkit-mask-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="300" height="200"%3E%3Cdefs%3E%3Cmask id="m"%3E%3Crect width="300" height="200" fill="white"/%3E%3Ccircle cx="150" cy="100" r="60" fill="black"/%3E%3Crect x="50" y="80" width="200" height="40" fill="black"/%3E%3C/mask%3E%3C/defs%3E%3Crect width="300" height="200" fill="white" mask="url(%23m)"/%3E%3C/svg%3E');
+            mask-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="300" height="200"%3E%3Cdefs%3E%3Cmask id="m"%3E%3Crect width="300" height="200" fill="white"/%3E%3Ccircle cx="150" cy="100" r="60" fill="black"/%3E%3Crect x="50" y="80" width="200" height="40" fill="black"/%3E%3C/mask%3E%3C/defs%3E%3Crect width="300" height="200" fill="white" mask="url(%23m)"/%3E%3C/svg%3E');
+            -webkit-mask-size: cover;
+            mask-size: cover;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .svg-mask-demo .label {
+            background: rgba(0,0,0,0.4);
+            padding: 0.3rem 1rem;
+            border-radius: 8px;
+            backdrop-filter: blur(4px);
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .mask-demo-container { gap: 1rem; }
+            .mask-target-img { width: 150px; height: 150px; }
+            .mask-target-img.large { width: 200px; height: 200px; }
+            .mask-text { width: 280px; height: 140px; }
+            .svg-mask-demo { width: 100%; height: 150px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎭 CSS Masking</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS masking</strong> is a powerful technique that allows you to hide or reveal parts of an element
+            using an image, gradient, or SVG as a mask. The mask defines which areas are visible (opaque) and which are
+            hidden (transparent). Masking can be applied to images, backgrounds, text, and any other HTML element,
+            opening up endless creative possibilities.
+        </div>
+
+        <!-- ─── WHAT IS MASKING ─── -->
+        <h2>📌 What is CSS Masking?</h2>
+        <p>
+            Masking is a graphical operation that uses an image or graphical element as a <strong>luminance</strong> or
+            <strong>alpha mask</strong>. The mask determines the transparency of the element at each pixel:
+        </p>
+        <ul style="margin-left:1.5rem; margin-top:0.5rem;">
+            <li><strong>White / opaque</strong> → The element is fully visible.</li>
+            <li><strong>Black / transparent</strong> → The element is fully hidden.</li>
+            <li><strong>Grayscale</strong> → The element is partially visible (opacity = grayscale value).</li>
+        </ul>
+        <p style="margin-top:0.5rem;">
+            In CSS, masking is primarily achieved using the <code>mask-image</code> property, along with supporting
+            properties like <code>mask-size</code>, <code>mask-repeat</code>, and <code>mask-position</code>.
+        </p>
+
+        <div class="note">
+            💡 <strong>Key concept:</strong> Masking is different from clipping (using <code>clip-path</code>).
+            Clipping cuts away parts of an element, while masking uses transparency to show/hide parts, allowing
+            for gradients, soft edges, and partial transparency.
+        </div>
+
+        <!-- ─── SYNTAX & PROPERTIES ─── -->
+        <h2>📋 Key Masking Properties</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Property</th><th>Description</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>mask-image</code></td>
+                    <td>Specifies the image or gradient to use as the mask.</td>
+                    <td><code>mask-image: url(mask.png);</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-size</code></td>
+                    <td>Defines the size of the mask image (similar to <code>background-size</code>).</td>
+                    <td><code>mask-size: cover;</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-repeat</code></td>
+                    <td>Specifies how the mask image repeats.</td>
+                    <td><code>mask-repeat: no-repeat;</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-position</code></td>
+                    <td>Sets the starting position of the mask image.</td>
+                    <td><code>mask-position: center;</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-clip</code></td>
+                    <td>Defines the area where the mask is applied.</td>
+                    <td><code>mask-clip: content-box;</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-origin</code></td>
+                    <td>Specifies the origin (reference box) for the mask.</td>
+                    <td><code>mask-origin: padding-box;</code></td>
+                </tr>
+                <tr>
+                    <td><code>mask-border</code></td>
+                    <td>Shorthand for masking the border area.</td>
+                    <td><code>mask-border: url(border.png) 30;</code></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="warning">
+            ⚠️ <strong>Browser prefix:</strong> CSS masking properties (especially <code>mask-image</code>) require
+            the <code>-webkit-</code> prefix in many browsers, including Safari and older Chrome/Edge versions.
+            Always include both prefixed and unprefixed versions.
+        </div>
+
+        <!-- ─── EXAMPLE 1: MASK-BOX-IMAGE ─── -->
+        <h2>📖 Example 1: <code>mask-box-image</code></h2>
+        <div class="demo-box">
+            <p>Using an image mask with a transparent circle in the centre to reveal the image behind.</p>
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Original Image</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%237c3aed'/%3E%3Ctext x='100' y='100' font-size='24' text-anchor='middle' dominant-baseline='central' fill='white'%3EIMAGE%3C/text%3E%3C/svg%3E" alt="Original" style="width:200px;height:200px;border-radius:8px;object-fit:cover;" />
+                    <div class="label">Original</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Mask Image</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='black'/%3E%3Ccircle cx='100' cy='100' r='60' fill='white'/%3E%3C/svg%3E" alt="Mask" style="width:200px;height:200px;border-radius:8px;object-fit:cover;border:2px solid #e2e8f0;" />
+                    <div class="label">Mask (white = visible)</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%237c3aed'/%3E%3Ctext x='100' y='100' font-size='24' text-anchor='middle' dominant-baseline='central' fill='white'%3EIMAGE%3C/text%3E%3C/svg%3E" alt="Masked" style="width:200px;height:200px;border-radius:8px;object-fit:cover;-webkit-mask-box-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22black%22/%3E%3Ccircle cx=%2250%22 cy=%2250%22 r=%2230%22 fill=%22white%22/%3E%3C/svg%3E') 25;mask-box-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22black%22/%3E%3Ccircle cx=%2250%22 cy=%2250%22 r=%2230%22 fill=%22white%22/%3E%3C/svg%3E') 25;border:6px ridge #7c3aed;" />
+                    <div class="label">mask-box-image</div>
+                </div>
+            </div>
+            <pre><code>/* Using mask-box-image with a circular mask */
+.masked {
+    -webkit-mask-box-image: url(mask.png) 25;
+    mask-box-image: url(mask.png) 25;
+    border: 6px ridge #7c3aed;
+}</code></pre>
+            <div class="note">
+                🎯 <code>mask-box-image</code> applies the mask to the entire element, including its border.
+                The <code>25</code> value defines the border‑slice offset for the mask.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 2: STRIPES MASK ─── -->
+        <h2>📖 Example 2: Stripes Mask</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Mask: Stripes</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='white'/%3E%3Crect x='0' y='0' width='40' height='200' fill='black'/%3E%3Crect x='80' y='0' width='40' height='200' fill='black'/%3E%3Crect x='160' y='0' width='40' height='200' fill='black'/%3E%3C/svg%3E" alt="Stripes" style="width:200px;height:200px;border-radius:8px;object-fit:cover;border:2px solid #e2e8f0;" />
+                    <div class="label">Stripes mask</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%237c3aed'/%3E%3Ctext x='100' y='100' font-size='24' text-anchor='middle' dominant-baseline='central' fill='white'%3EIMAGE%3C/text%3E%3C/svg%3E" alt="Stripes Masked" style="width:200px;height:200px;border-radius:8px;object-fit:cover;-webkit-mask-box-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22white%22/%3E%3Crect x=%220%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3Crect x=%2240%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3Crect x=%2280%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3C/svg%3E');mask-box-image: url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22%3E%3Crect width=%22100%22 height=%22100%22 fill=%22white%22/%3E%3Crect x=%220%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3Crect x=%2240%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3Crect x=%2280%22 y=%220%22 width=%2220%22 height=%22100%22 fill=%22black%22/%3E%3C/svg%3E');background-color:black;border:6px ridge #7c3aed;" />
+                    <div class="label">Stripes mask applied</div>
+                </div>
+            </div>
+            <pre><code>/* Stripes mask using mask-box-image */
+.masked {
+    -webkit-mask-box-image: url(stripes.png);
+    mask-box-image: url(stripes.png);
+    background-color: black;
+}</code></pre>
+            <div class="note">
+                🎯 The stripes mask creates a "Venetian blind" effect. The black stripes hide parts of the image,
+                while the white areas reveal it.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 3: GRADIENT MASK ─── -->
+        <h2>📖 Example 3: Gradient Mask (Linear)</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Linear Gradient Mask</h4>
+                    <div style="width:200px;height:200px;border-radius:8px;background:linear-gradient(to bottom, transparent 0%, black 100%);border:2px solid #e2e8f0;"></div>
+                    <div class="label">Mask: transparent → black</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%230d9488'/%3E%3Ctext x='100' y='100' font-size='20' text-anchor='middle' dominant-baseline='central' fill='white'%3EGRADIENT%3C/text%3E%3C/svg%3E" alt="Gradient Masked" style="width:200px;height:200px;border-radius:8px;object-fit:cover;-webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));border:6px ridge #7c3aed;" />
+                    <div class="label">Fade to transparent</div>
+                </div>
+            </div>
+            <pre><code>/* Linear gradient mask – fades from transparent to opaque */
+.masked {
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.9));
+    border: 6px ridge #7c3aed;
+}</code></pre>
+            <div class="note">
+                🌅 A gradient mask creates a smooth fade effect. The top of the image fades out (transparent),
+                while the bottom remains fully visible (opaque). Perfect for hero images or subtle transitions.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 4: RADIAL CIRCLE MASK ─── -->
+        <h2>📖 Example 4: Radial Circle Mask</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Radial Circle Mask</h4>
+                    <div style="width:200px;height:200px;border-radius:8px;background:radial-gradient(circle at 50% 50%, black 40%, transparent 70%);border:2px solid #e2e8f0;"></div>
+                    <div class="label">Mask: black centre → transparent edge</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%23ec4899'/%3E%3Ctext x='100' y='100' font-size='20' text-anchor='middle' dominant-baseline='central' fill='white'%3ECIRCLE%3C/text%3E%3C/svg%3E" alt="Radial Masked" style="width:200px;height:200px;border-radius:8px;object-fit:cover;-webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);border:6px ridge #7c3aed;" />
+                    <div class="label">Circular spotlight effect</div>
+                </div>
+            </div>
+            <pre><code>/* Radial gradient mask – circular spotlight */
+.masked {
+    -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);
+    mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 70%);
+}</code></pre>
+            <div class="note">
+                🔵 The radial gradient creates a circular spotlight effect — the centre is fully visible,
+                while the edges fade into transparency.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 5: ELLIPSE MASK ─── -->
+        <h2>📖 Example 5: Ellipse Mask</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Ellipse Mask</h4>
+                    <div style="width:200px;height:200px;border-radius:8px;background:radial-gradient(ellipse 80% 30% at 50% 50%, black 40%, transparent 55%);border:2px solid #e2e8f0;"></div>
+                    <div class="label">Mask: horizontal ellipse</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%23f59e0b'/%3E%3Ctext x='100' y='100' font-size='20' text-anchor='middle' dominant-baseline='central' fill='white'%3EELLIPSE%3C/text%3E%3C/svg%3E" alt="Ellipse Masked" style="width:200px;height:200px;border-radius:8px;object-fit:cover;-webkit-mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);border:6px ridge #7c3aed;" />
+                    <div class="label">Elliptical reveal</div>
+                </div>
+            </div>
+            <pre><code>/* Ellipse mask – horizontal oval */
+.masked {
+    -webkit-mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);
+    mask-image: radial-gradient(ellipse 80% 30% at 50% 50%, rgba(0,0,0,1) 40%, rgba(0,0,0,0.3) 55%);
+}</code></pre>
+            <div class="note">
+                🏉 The ellipse mask creates a horizontal oval shape. The <code>80% 30%</code> defines the
+                horizontal and vertical radii of the ellipse.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 6: TEXT MASK ─── -->
+        <h2>📖 Example 6: Text Mask</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Mask: "MASK" text</h4>
+                    <div style="width:200px;height:100px;border-radius:8px;background:black;color:white;display:flex;align-items:center;justify-content:center;font-size:40px;font-weight:bold;border:2px solid #e2e8f0;">MASK</div>
+                    <div class="label">Text as mask</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <div class="mask-text"></div>
+                    <div class="label">Gradient background revealed through text</div>
+                </div>
+            </div>
+            <pre><code>/* Text mask using SVG mask-image */
+.masked {
+    -webkit-mask-image: url('data:image/svg+xml,...');
+    mask-image: url('data:image/svg+xml,...');
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: linear-gradient(135deg, #7c3aed, #ec4899, #f59e0b);
+}</code></pre>
+            <div class="note">
+                ✨ Text masking reveals a gradient background through the shape of the text.
+                The SVG mask defines the text shape, and the element's background shines through.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 7: CLIP-PATH SHAPES ─── -->
+        <h2>📖 Example 7: Clip‑Path Shapes (Masking Alternative)</h2>
+        <div class="demo-box">
+            <p><code>clip-path</code> is a related technique that cuts an element into a specific shape.</p>
+            <div class="demo-row">
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Crect width='150' height='150' fill='%237c3aed'/%3E%3Ctext x='75' y='75' font-size='14' text-anchor='middle' dominant-baseline='central' fill='white'%3ETRIANGLE%3C/text%3E%3C/svg%3E" style="width:150px;height:150px;object-fit:cover;border-radius:8px;-webkit-clip-path:polygon(50% 0%,0% 100%,100% 100%);clip-path:polygon(50% 0%,0% 100%,100% 100%);" />
+                    <div class="demo-item-label">Triangle</div>
+                </div>
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Crect width='150' height='150' fill='%230d9488'/%3E%3Ctext x='75' y='75' font-size='14' text-anchor='middle' dominant-baseline='central' fill='white'%3ESTAR%3C/text%3E%3C/svg%3E" style="width:150px;height:150px;object-fit:cover;border-radius:8px;-webkit-clip-path:polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%);clip-path:polygon(50% 0%,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%);" />
+                    <div class="demo-item-label">Star</div>
+                </div>
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Crect width='150' height='150' fill='%23ec4899'/%3E%3Ctext x='75' y='75' font-size='14' text-anchor='middle' dominant-baseline='central' fill='white'%3EHEXAGON%3C/text%3E%3C/svg%3E" style="width:150px;height:150px;object-fit:cover;border-radius:8px;-webkit-clip-path:polygon(25% 0%,75% 0%,100% 50%,75% 100%,25% 100%,0% 50%);clip-path:polygon(25% 0%,75% 0%,100% 50%,75% 100%,25% 100%,0% 50%);" />
+                    <div class="demo-item-label">Hexagon</div>
+                </div>
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Crect width='150' height='150' fill='%23f59e0b'/%3E%3Ctext x='75' y='75' font-size='14' text-anchor='middle' dominant-baseline='central' fill='white'%3EDIAMOND%3C/text%3E%3C/svg%3E" style="width:150px;height:150px;object-fit:cover;border-radius:8px;-webkit-clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);" />
+                    <div class="demo-item-label">Diamond</div>
+                </div>
+            </div>
+            <pre><code>/* Clip-path shapes – cutting elements into specific shapes */
+.triangle { clip-path: polygon(50% 0%, 0% 100%, 100% 100%); }
+.star { clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); }
+.hexagon { clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); }
+.diamond { clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); }</code></pre>
+            <div class="note">
+                ✂️ <code>clip-path</code> is a powerful tool for creating geometric shapes. Unlike masking,
+                it physically cuts away parts of the element, and the cut area is not clickable.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 8: MASK SIZE & REPEAT ─── -->
+        <h2>📖 Example 8: Mask Size &amp; Repeat</h2>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%237c3aed'/%3E%3Ctext x='100' y='100' font-size='16' text-anchor='middle' dominant-baseline='central' fill='white'%3ESIZE%26%23x200B;REPEAT%3C/text%3E%3C/svg%3E" style="width:200px;height:200px;object-fit:cover;border-radius:8px;-webkit-mask-image:radial-gradient(circle at 50% 50%, black 40%, transparent 70%);mask-image:radial-gradient(circle at 50% 50%, black 40%, transparent 70%);-webkit-mask-size:150px 150px;mask-size:150px 150px;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-position:center;mask-position:center;border:6px ridge #7c3aed;" />
+                    <div class="demo-item-label">mask-size: 150px · no-repeat</div>
+                </div>
+                <div class="demo-item">
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%230d9488'/%3E%3Ctext x='100' y='100' font-size='16' text-anchor='middle' dominant-baseline='central' fill='white'%3EREPEAT%3C/text%3E%3C/svg%3E" style="width:200px;height:200px;object-fit:cover;border-radius:8px;-webkit-mask-image:radial-gradient(circle at 50% 50%, black 40%, transparent 70%);mask-image:radial-gradient(circle at 50% 50%, black 40%, transparent 70%);-webkit-mask-size:80px 80px;mask-size:80px 80px;-webkit-mask-repeat:repeat;mask-repeat:repeat;border:6px ridge #7c3aed;" />
+                    <div class="demo-item-label">mask-size: 80px · repeat</div>
+                </div>
+            </div>
+            <pre><code>/* Mask size and repeat properties */
+.size-no-repeat {
+    mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+    mask-size: 150px 150px;
+    mask-repeat: no-repeat;
+    mask-position: center;
+}
+.size-repeat {
+    mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 70%);
+    mask-size: 80px 80px;
+    mask-repeat: repeat;
+}</code></pre>
+            <div class="note">
+                📐 <code>mask-size</code> and <code>mask-repeat</code> work just like their background equivalents.
+                The first example shows a single, centred mask, while the second repeats the mask pattern.
+            </div>
+        </div>
+
+        <!-- ─── EXAMPLE 9: SVG MASK ─── -->
+        <h2>📖 Example 9: SVG Mask</h2>
+        <div class="demo-box">
+            <div class="mask-demo-container">
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">SVG Mask</h4>
+                    <div style="width:300px;height:200px;border-radius:8px;background:#0f172a;color:white;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:bold;border:2px solid #e2e8f0;flex-direction:column;gap:0.2rem;">
+                        <div>SVG Mask</div>
+                        <div style="font-size:10px;opacity:0.6;">white rect · black circle + rect</div>
+                    </div>
+                    <div class="label">Mask: white background, black shapes cut out</div>
+                </div>
+                <div class="mask-card">
+                    <h4 style="margin-bottom:0.5rem;">Masked Result</h4>
+                    <div class="svg-mask-demo">
+                        <span class="label">SVG Mask</span>
+                    </div>
+                    <div class="label">Gradient revealed through SVG mask</div>
+                </div>
+            </div>
+            <pre><code>/* SVG mask using mask-image with inline SVG */
+.masked {
+    mask-image: url('data:image/svg+xml,...');
+    mask-size: cover;
+    background: linear-gradient(135deg, #7c3aed, #ec4899);
+}</code></pre>
+            <div class="note">
+                🎨 SVG masks offer the most flexibility. You can define complex shapes, paths, and even
+                animated masks using SVG's native capabilities.
+            </div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use CSS Masking</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>🖼️ Image Reveals</strong> Create stunning image transitions and reveals.</div>
+            <div class="feature-card"><strong>🎯 Spotlight Effects</strong> Highlight specific areas of an image.</div>
+            <div class="feature-card"><strong>✏️ Text Effects</strong> Create gradient-filled text with SVG or image masks.</div>
+            <div class="feature-card"><strong>🎨 Creative Layouts</strong> Cut images into shapes (hearts, stars, etc.).</div>
+            <div class="feature-card"><strong>🌅 Hero Sections</strong> Fade images into solid backgrounds.</div>
+            <div class="feature-card"><strong>🖱️ Hover Effects</strong> Reveal images on hover with masking.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>mask-image</code> (standard)</td><td>✅ Full (with -webkit-)</td><td>✅ Full (since 53)</td><td>✅ Full (with -webkit-)</td><td>❌ Not supported</td></tr>
+                <tr><td><code>mask-box-image</code></td><td>✅ Full (with -webkit-)</td><td>⚠️ Partial</td><td>✅ Full (with -webkit-)</td><td>❌ Not supported</td></tr>
+                <tr><td><code>clip-path</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+ (with -ms- prefix)</td></tr>
+                <tr><td>SVG <code>&lt;mask&gt;</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ <strong>Important:</strong> Always include the <code>-webkit-</code> prefix for <code>mask-image</code>,
+            <code>mask-size</code>, and related properties to ensure compatibility with Safari and older Chrome/Edge versions.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Always use vendor prefixes:</strong> Include <code>-webkit-</code> for mask properties to ensure cross-browser compatibility.</li>
+                <li><strong>Provide fallbacks:</strong> For browsers that don't support masking, ensure your content is still usable (e.g., a solid background).</li>
+                <li><strong>Use SVG for complex masks:</strong> SVG masks are more powerful and flexible than CSS gradients for complex shapes.</li>
+                <li><strong>Optimise mask images:</strong> Keep mask images small and simple to maintain performance.</li>
+                <li><strong>Consider using <code>clip-path</code> for simple shapes:</strong> If you just need a geometric cut-out, <code>clip-path</code> is often simpler and better supported.</li>
+                <li><strong>Test on multiple browsers:</strong> Masking support varies, especially on mobile browsers.</li>
+                <li><strong>Be mindful of accessibility:</strong> Masking is purely visual — ensure your content remains accessible to screen readers.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> CSS masking is a visual effect and does not affect the accessibility
+            of your content. However, ensure that any text or interactive elements within a masked area remain
+            focusable and readable. Avoid using masking to hide important content, and always provide alternative
+            ways to access hidden information.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f3e8ff; border-left-color:#8b5cf6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS masking is a versatile and powerful tool for creating visually stunning
+            web experiences. Whether you're fading images, creating geometric cut-outs, or revealing content through
+            text shapes, masking gives you fine-grained control over visibility. Combine it with gradients, SVG, and
+            animations to unlock even more creative possibilities.
+        </div>
+
+        <footer>
+            🎭 CSS Masking – Reveal, hide, and shape elements with precision.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Transition",
+              name: "CSS Transition",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Transition Property – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0d9488;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #134e4a;
+        }
+
+        .last-updated {
+            color: #0d9488;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f0fdfa;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #14b8a6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #134e4a;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #134e4a;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #134e4a;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #134e4a;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── transition demo styles ── */
+
+        /* Basic width transition */
+        .trans-width {
+            width: 100px;
+            height: 100px;
+            background: #f59e0b;
+            transition: width 1s;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 0.8rem;
+            margin: 0 auto;
+        }
+        .trans-width:hover {
+            width: 300px;
+        }
+
+        /* Multiple transitions */
+        .trans-multiple {
+            padding: 15px;
+            width: 150px;
+            height: 100px;
+            background: #7c3aed;
+            color: white;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: width 2s, height 2s, transform 2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .trans-multiple:hover {
+            width: 300px;
+            height: 200px;
+            transform: rotate(360deg);
+        }
+
+        /* Shorthand demo */
+        .trans-shorthand {
+            width: 100px;
+            height: 100px;
+            background: #0d9488;
+            transition: width 0.5s ease-in-out 0.2s;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 0.8rem;
+            margin: 0 auto;
+        }
+        .trans-shorthand:hover {
+            width: 200px;
+        }
+
+        /* Timing function demos - each box */
+        .timing-demo {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            justify-content: center;
+        }
+        .timing-box {
+            width: 120px;
+            height: 120px;
+            background: #3b82f6;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-align: center;
+            padding: 0.2rem;
+            transition: transform 1s, background 1s;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .timing-box:hover {
+            transform: translateX(60px) scale(1.05);
+            background: #0d9488;
+        }
+        .timing-box.ease { transition-timing-function: ease; }
+        .timing-box.linear { transition-timing-function: linear; }
+        .timing-box.ease-in { transition-timing-function: ease-in; }
+        .timing-box.ease-out { transition-timing-function: ease-out; }
+        .timing-box.ease-in-out { transition-timing-function: ease-in-out; }
+        .timing-box.cubic { transition-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55); }
+
+        /* Focus trigger */
+        .trans-focus {
+            width: 200px;
+            padding: 1rem;
+            border: 2px solid #cbd5e1;
+            border-radius: 8px;
+            transition: border-color 0.5s, box-shadow 0.5s, background 0.5s;
+            background: white;
+            font-size: 1rem;
+            outline: none;
+            margin: 0 auto;
+            display: block;
+        }
+        .trans-focus:focus {
+            border-color: #0d9488;
+            box-shadow: 0 0 0 4px rgba(13, 148, 136, 0.3);
+            background: #f0fdfa;
+        }
+
+        /* Class change trigger via JS */
+        .trans-class {
+            width: 150px;
+            height: 80px;
+            background: #ec4899;
+            border-radius: 8px;
+            transition: background 0.6s, transform 0.6s, border-radius 0.6s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            margin: 0 auto;
+            cursor: pointer;
+        }
+        .trans-class.active {
+            background: #7c3aed;
+            transform: scale(1.1) rotate(10deg);
+            border-radius: 50%;
+        }
+
+        /* Entry/exit different speeds */
+        .trans-entry-exit {
+            width: 150px;
+            height: 80px;
+            background: #f59e0b;
+            border-radius: 8px;
+            transition: background 2000ms ease-in;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            margin: 0 auto;
+        }
+        .trans-entry-exit:hover {
+            background: #0d9488;
+            transition: background 150ms ease;
+        }
+
+        /* Delay demo */
+        .trans-delay {
+            width: 120px;
+            height: 80px;
+            background: #8b5cf6;
+            border-radius: 8px;
+            transition: transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.5s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            margin: 0 auto;
+        }
+        .trans-delay:hover {
+            transform: translateX(80px);
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .timing-box { width: 90px; height: 90px; font-size: 0.65rem; }
+            .trans-multiple { width: 120px; height: 80px; }
+            .trans-multiple:hover { width: 200px; height: 140px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🔄 CSS Transition Property</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS transitions</strong> allow you to change property values smoothly over a specified duration,
+            creating elegant animations without Flash or JavaScript. They are triggered by state changes like
+            <code>:hover</code>, <code>:focus</code>, or class changes, and they interpolate between the starting
+            and ending values of a property.
+        </div>
+
+        <!-- ─── COMPONENTS ─── -->
+        <h2>📌 Components of CSS Transitions</h2>
+        <ul style="margin-left:1.5rem; margin-bottom:0.5rem;">
+            <li><strong>Transition Properties</strong> – The CSS properties you want to animate (e.g., <code>width</code>, <code>opacity</code>, <code>transform</code>).</li>
+            <li><strong>Duration</strong> – The time the transition takes, in seconds (<code>s</code>) or milliseconds (<code>ms</code>).</li>
+            <li><strong>Timing Function</strong> – The acceleration curve (e.g., <code>ease</code>, <code>linear</code>, <code>cubic-bezier()</code>).</li>
+            <li><strong>Delay</strong> – Optional time before the transition starts.</li>
+        </ul>
+        <div class="note">
+            💡 Transitions are <strong>triggered</strong> by property changes. Common triggers include <code>:hover</code>, <code>:focus</code>, <code>:active</code>, and JavaScript class additions.
+        </div>
+
+        <!-- ─── SYNTAX ─── -->
+        <h2>📋 Syntax &amp; Properties</h2>
+        <pre><code>transition: property duration timing-function delay;</code></pre>
+
+        <table class="op-table">
+            <thead>
+                <tr><th>Property</th><th>Description</th><th>Example</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>transition-property</code></td>
+                    <td>Specifies which CSS property to transition (e.g., <code>width</code>, <code>all</code>).</td>
+                    <td><code>transition-property: width;</code></td>
+                </tr>
+                <tr>
+                    <td><code>transition-duration</code></td>
+                    <td>Time for the transition to complete (e.g., <code>2s</code>, <code>500ms</code>).</td>
+                    <td><code>transition-duration: 1s;</code></td>
+                </tr>
+                <tr>
+                    <td><code>transition-timing-function</code></td>
+                    <td>Speed curve (e.g., <code>ease</code>, <code>linear</code>, <code>ease-in-out</code>).</td>
+                    <td><code>transition-timing-function: ease-in;</code></td>
+                </tr>
+                <tr>
+                    <td><code>transition-delay</code></td>
+                    <td>Delay before the transition starts (e.g., <code>0.5s</code>).</td>
+                    <td><code>transition-delay: 0.2s;</code></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="warning">
+            ⚠️ <strong>Note:</strong> If you omit the duration, the default value is <code>0</code>, and the transition will have no visible effect. Also, IE9 and earlier do not support CSS transitions.
+        </div>
+
+        <!-- ─── BASIC EXAMPLE ─── -->
+        <h2>📖 Basic Example: Width Transition</h2>
+        <div class="demo-box">
+            <div class="trans-width">Hover me</div>
+            <pre><code>.box {
+    width: 100px;
+    height: 100px;
+    background: #f59e0b;
+    transition: width 1s;  /* property duration */
+}
+.box:hover {
+    width: 300px;
+}</code></pre>
+            <div class="note">🖱️ Hover over the orange box to see the width expand smoothly over 1 second. Remove the cursor, and it returns to its original size.</div>
+        </div>
+
+        <!-- ─── MULTIPLE TRANSITIONS ─── -->
+        <h2>📖 Multiple Transition Effect</h2>
+        <div class="demo-box">
+            <div class="trans-multiple">Hover me<br />(width, height, rotate)</div>
+            <pre><code>.box {
+    transition: width 2s, height 2s, transform 2s;
+}
+.box:hover {
+    width: 300px;
+    height: 200px;
+    transform: rotate(360deg);
+}</code></pre>
+            <div class="note">🌀 This box transitions <code>width</code>, <code>height</code>, and <code>transform</code> (rotation) simultaneously over 2 seconds when hovered.</div>
+        </div>
+
+        <!-- ─── SHORTHAND ─── -->
+        <h2>📖 Shorthand Transition</h2>
+        <div class="demo-box">
+            <div class="trans-shorthand">Hover me</div>
+            <pre><code>.box {
+    transition: width 0.5s ease-in-out 0.2s;
+}
+.box:hover {
+    width: 200px;
+}</code></pre>
+            <div class="note">⚡ The shorthand includes <code>property duration timing-function delay</code>. Here, the transition starts after a 0.2s delay with an ease-in-out curve.</div>
+        </div>
+
+        <!-- ─── TIMING FUNCTIONS ─── -->
+        <h2>⏱️ Timing Functions: Speed Curves</h2>
+        <p>Hover over each box to see how different timing functions affect the movement.</p>
+        <div class="demo-box">
+            <div class="timing-demo">
+                <div class="timing-box ease">ease</div>
+                <div class="timing-box linear">linear</div>
+                <div class="timing-box ease-in">ease-in</div>
+                <div class="timing-box ease-out">ease-out</div>
+                <div class="timing-box ease-in-out">ease-in-out</div>
+                <div class="timing-box cubic">cubic-bezier<br />(0.68, -0.55, 0.27, 1.55)</div>
+            </div>
+            <pre><code>/* Different timing functions */
+.ease       { transition-timing-function: ease; }
+.linear     { transition-timing-function: linear; }
+.ease-in    { transition-timing-function: ease-in; }
+.ease-out   { transition-timing-function: ease-out; }
+.ease-in-out { transition-timing-function: ease-in-out; }
+.cubic      { transition-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55); }</code></pre>
+            <div class="note">
+                📊 <code>ease</code> (default) starts slow, speeds up, then slows down. <code>linear</code> is constant speed.
+                <code>ease-in</code> starts slow, <code>ease-out</code> ends slow, and <code>ease-in-out</code> combines both.
+                <code>cubic-bezier()</code> gives you complete control over the curve.
+            </div>
+        </div>
+
+        <!-- ─── TRIGGERS ─── -->
+        <h2>🎯 Transition Triggers</h2>
+        <p>Transitions are triggered by state changes. Here are some common triggers:</p>
+
+        <h3>:hover Trigger</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="trans-width" style="margin:0 auto;">Hover</div>
+                    <div class="demo-item-label">:hover – width change</div>
+                </div>
+            </div>
+        </div>
+
+        <h3>:focus Trigger</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <input type="text" class="trans-focus" placeholder="Focus me" value="Click to focus" />
+                    <div class="demo-item-label">:focus – border, shadow, background</div>
+                </div>
+            </div>
+            <pre><code>input:focus {
+    border-color: #0d9488;
+    box-shadow: 0 0 0 4px rgba(13,148,136,0.3);
+    background: #f0fdfa;
+}</code></pre>
+            <div class="note">⌨️ Focus the input field to see the border, shadow, and background transition smoothly.</div>
+        </div>
+
+        <h3>Class Change via JavaScript</h3>
+        <div class="demo-box">
+            <div class="demo-row">
+                <div class="demo-item">
+                    <div class="trans-class" id="jsToggle">Click me</div>
+                    <div style="margin-top:0.5rem;">
+                        <button onclick="toggleClass()" style="background:#0d9488;color:white;border:none;padding:0.5rem 1.2rem;border-radius:40px;cursor:pointer;font-weight:600;transition:background 0.2s;" onmouseover="this.style.background='#0f766e'" onmouseout="this.style.background='#0d9488'">Toggle Class</button>
+                    </div>
+                    <div class="demo-item-label">JavaScript adds/removes class → transition</div>
+                </div>
+            </div>
+            <pre><code>/* CSS */
+.box.active {
+    background: #7c3aed;
+    transform: scale(1.1) rotate(10deg);
+    border-radius: 50%;
+}
+
+/* JavaScript */
+button.onclick = function() {
+    document.querySelector('.box').classList.toggle('active');
+};</code></pre>
+            <div class="note">🔄 Click the button to toggle the <code>active</code> class. The transition smooths the change between states.</div>
+        </div>
+
+        <!-- ─── ENTRY/EXIT DIFFERENT SPEEDS ─── -->
+        <h2>📖 Different Transitions for Entry &amp; Exit</h2>
+        <div class="demo-box">
+            <div class="trans-entry-exit">Hover me</div>
+            <pre><code>.box {
+    background: #f59e0b;
+    transition: background 2000ms ease-in; /* exit (slow) */
+}
+.box:hover {
+    background: #0d9488;
+    transition: background 150ms ease;    /* entry (fast) */
+}</code></pre>
+            <div class="note">⏩ The transition on hover is fast (150ms), while the transition back (exit) is slow (2000ms). This creates a subtle "pop" effect on entry and a slow fade on exit.</div>
+        </div>
+
+        <!-- ─── DELAY ─── -->
+        <h2>📖 Transition Delay</h2>
+        <div class="demo-box">
+            <div class="trans-delay">Delay 0.5s</div>
+            <pre><code>.box {
+    transition: transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) 0.5s;
+}
+.box:hover {
+    transform: translateX(80px);
+}</code></pre>
+            <div class="note">⏳ The transition starts after a 0.5‑second delay, then moves with a spring‑like overshoot effect (cubic-bezier).</div>
+        </div>
+
+        <!-- ─── TRANSITIONABLE VS NON-TRANSITIONABLE ─── -->
+        <h2>📋 Transitionable &amp; Non-Transitionable Properties</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Transitionable</th><th>Non-Transitionable</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <code>width</code>, <code>height</code>, <code>margin</code>, <code>padding</code><br />
+                        <code>font-size</code>, <code>color</code>, <code>background-color</code><br />
+                        <code>border-*</code>, <code>box-shadow</code>, <code>opacity</code><br />
+                        <code>transform</code>, <code>top</code>, <code>left</code>, <code>right</code>, <code>bottom</code>
+                    </td>
+                    <td>
+                        <code>display</code> (use <code>opacity</code> + <code>visibility</code> instead)<br />
+                        <code>position</code>, <code>float</code>, <code>clear</code><br />
+                        <code>font-family</code>, <code>text-align</code><br />
+                        <code>background-image</code> (use <code>opacity</code> on overlays)<br />
+                        <code>content</code>, <code>list-style</code>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="note">
+            💡 Numeric values and colors can be interpolated. Non‑numeric properties cannot be smoothly transitioned.
+            For <code>display: none</code> to <code>block</code>, use <code>opacity</code> and <code>visibility</code> with a delay.
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since Chrome 26 / Edge 12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since Firefox 16 (with prefix before)</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since Safari 6.1 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since Opera 12.1</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 10+ supports with -ms- prefix; IE 9 and below do not</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers, use vendor prefixes (<code>-webkit-</code>, <code>-moz-</code>, <code>-ms-</code>) and provide fallbacks.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Prefer <code>transform</code> and <code>opacity</code></strong> for smooth, GPU-accelerated animations.</li>
+                <li><strong>Avoid transitioning layout properties</strong> like <code>width</code> and <code>height</code> on large elements (causes repaints). Use <code>transform: scale()</code> instead.</li>
+                <li><strong>Use appropriate durations</strong> – 150–300ms for UI feedback, longer for storytelling.</li>
+                <li><strong>Test with <code>prefers-reduced-motion</code></strong> to respect user accessibility preferences.</li>
+                <li><strong>Always define a default state</strong> so the element looks correct before and after the transition.</li>
+                <li><strong>Use <code>will-change</code></strong> sparingly for properties you know will be animated to hint the browser.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Ensure that transitions are not the only way to convey information.
+            Also, respect <code>prefers-reduced-motion</code> to reduce or disable animations for users with vestibular disorders.
+            <pre style="margin-top:0.6rem;"><code>@media (prefers-reduced-motion: reduce) {
+    * {
+        transition-duration: 0.01ms !important;
+        transition-delay: 0s !important;
+    }
+}</code></pre>
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS transitions are a simple yet powerful tool for adding polish to your web interfaces.
+            By defining which properties to animate, for how long, and with what easing curve, you can create smooth, engaging
+            interactions that enhance user experience. Combine transitions with other CSS features like transforms and
+            animations for even more dynamic effects.
+        </div>
+
+        <footer>
+            🔄 CSS Transition – Smooth animations for state changes.
+        </footer>
+
+    </div>
+
+    <!-- ─── SCRIPT FOR CLASS TOGGLE ─── -->
+    <script>
+        function toggleClass() {
+            const el = document.getElementById('jsToggle');
+            el.classList.toggle('active');
+        }
+    </script>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Tooltips",
+              name: "CSS Tooltips",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Tooltips – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #d97706;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #78350f;
+        }
+
+        .last-updated {
+            color: #d97706;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #fffbeb;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f59e0b;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #78350f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #78350f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #78350f;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #78350f;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── tooltip styles ── */
+
+        .tooltip-demo {
+            position: relative;
+            display: inline-block;
+            border-bottom: 2px dotted #78350f;
+            cursor: help;
+            font-weight: 600;
+            font-size: 1.2rem;
+            color: #78350f;
+            padding: 0.2rem 0.4rem;
+        }
+
+        .tooltip-demo .tooltiptext {
+            visibility: hidden;
+            width: 180px;
+            background-color: #1e293b;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 8px 12px;
+            position: absolute;
+            z-index: 10;
+            font-weight: 400;
+            font-size: 0.9rem;
+            opacity: 0;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+            box-shadow: 0 8px 25px -8px rgba(0, 0, 0, 0.3);
+            line-height: 1.4;
+        }
+
+        .tooltip-demo .tooltiptext::after {
+            content: '';
+            position: absolute;
+            border-width: 6px;
+            border-style: solid;
+            border-color: transparent;
+        }
+
+        .tooltip-demo:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* ── Top tooltip ── */
+        .tooltip-top .tooltiptext {
+            bottom: 110%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .tooltip-top .tooltiptext::after {
+            top: 100%;
+            left: 50%;
+            margin-left: -6px;
+            border-top-color: #1e293b;
+            border-bottom-color: transparent;
+        }
+
+        /* ── Bottom tooltip ── */
+        .tooltip-bottom .tooltiptext {
+            top: 110%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .tooltip-bottom .tooltiptext::after {
+            bottom: 100%;
+            left: 50%;
+            margin-left: -6px;
+            border-bottom-color: #1e293b;
+            border-top-color: transparent;
+        }
+
+        /* ── Left tooltip ── */
+        .tooltip-left .tooltiptext {
+            top: 50%;
+            right: 110%;
+            transform: translateY(-50%);
+        }
+        .tooltip-left .tooltiptext::after {
+            top: 50%;
+            left: 100%;
+            margin-top: -6px;
+            border-left-color: #1e293b;
+            border-right-color: transparent;
+        }
+
+        /* ── Right tooltip ── */
+        .tooltip-right .tooltiptext {
+            top: 50%;
+            left: 110%;
+            transform: translateY(-50%);
+        }
+        .tooltip-right .tooltiptext::after {
+            top: 50%;
+            right: 100%;
+            margin-top: -6px;
+            border-right-color: #1e293b;
+            border-left-color: transparent;
+        }
+
+        /* ── Tooltip with arrow (colored) ── */
+        .tooltip-colored .tooltiptext {
+            background-color: #d97706;
+            color: #fff;
+        }
+        .tooltip-colored .tooltiptext::after {
+            border-top-color: #d97706;
+        }
+        .tooltip-colored.tooltip-bottom .tooltiptext::after {
+            border-bottom-color: #d97706;
+            border-top-color: transparent;
+        }
+        .tooltip-colored.tooltip-left .tooltiptext::after {
+            border-left-color: #d97706;
+            border-right-color: transparent;
+        }
+        .tooltip-colored.tooltip-right .tooltiptext::after {
+            border-right-color: #d97706;
+            border-left-color: transparent;
+        }
+
+        /* ── Large tooltip ── */
+        .tooltip-large .tooltiptext {
+            width: 240px;
+            font-size: 0.95rem;
+            padding: 12px 16px;
+        }
+
+        /* ── Tooltip with custom background ── */
+        .tooltip-custom .tooltiptext {
+            background: linear-gradient(135deg, #7c3aed, #0d9488);
+            color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 12px 30px -8px rgba(124, 58, 237, 0.4);
+        }
+        .tooltip-custom .tooltiptext::after {
+            border-top-color: #7c3aed;
+        }
+        .tooltip-custom.tooltip-bottom .tooltiptext::after {
+            border-bottom-color: #7c3aed;
+            border-top-color: transparent;
+        }
+        .tooltip-custom.tooltip-left .tooltiptext::after {
+            border-left-color: #7c3aed;
+            border-right-color: transparent;
+        }
+        .tooltip-custom.tooltip-right .tooltiptext::after {
+            border-right-color: #7c3aed;
+            border-left-color: transparent;
+        }
+
+        /* ── Tooltip with delay ── */
+        .tooltip-delay .tooltiptext {
+            transition: opacity 0.5s ease, visibility 0.5s ease 0.3s;
+        }
+
+        /* ── Interactive demo grid ── */
+        .tooltip-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            padding: 1rem 0;
+            justify-items: center;
+        }
+
+        .tooltip-grid .tooltip-demo {
+            font-size: 1rem;
+            border-bottom: 2px dotted #78350f;
+            padding: 0.3rem 0.6rem;
+        }
+
+        /* ── Style variants demo ── */
+        .style-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 2rem;
+            padding: 1rem 0;
+            justify-items: center;
+        }
+
+        .style-grid .tooltip-demo {
+            font-size: 1rem;
+            padding: 0.3rem 0.6rem;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .tooltip-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
+            .style-grid { grid-template-columns: 1fr; gap: 1.5rem; }
+            .tooltip-demo .tooltiptext { width: 140px; font-size: 0.8rem; }
+            .tooltip-large .tooltiptext { width: 180px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>💬 CSS Tooltips</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS tooltips</strong> are a great way to display extra information about an element when the user
+            hovers over it. They provide context, guidance, or additional details without cluttering the UI.
+            Tooltips are created using pure CSS with positioned elements, transitions, and the <code>:hover</code>
+            pseudo-class. This guide covers everything from basic tooltips to advanced styling and positioning.
+        </div>
+
+        <!-- ─── BASIC TOOLTIP ─── -->
+        <h2>📌 Basic Tooltip</h2>
+        <p>
+            A basic tooltip consists of a container element and a hidden tooltip text that appears on hover.
+            The tooltip is positioned absolutely relative to its parent.
+        </p>
+
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip-demo">
+                    Hover over me
+                    <span class="tooltiptext">This is a basic tooltip</span>
+                </div>
+            </div>
+            <pre><code>&lt;div class="tooltip"&gt;
+    Hover over me
+    &lt;span class="tooltiptext"&gt;This is a basic tooltip&lt;/span&gt;
+&lt;/div&gt;
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    cursor: help;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #1e293b;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}</code></pre>
+            <div class="note">💡 The tooltip uses <code>visibility: hidden</code> and <code>opacity: 0</code> to hide it initially, then reveals it on hover with a smooth fade transition.</div>
+        </div>
+
+        <!-- ─── POSITIONING ─── -->
+        <h2>📐 Positioning Tooltips</h2>
+        <p>Tooltips can be positioned in four directions: <strong>top</strong>, <strong>bottom</strong>, <strong>left</strong>, and <strong>right</strong> of the target element.</p>
+
+        <div class="demo-box">
+            <div class="tooltip-grid">
+                <div class="tooltip-demo tooltip-top">
+                    Top
+                    <span class="tooltiptext">Tooltip on top</span>
+                </div>
+                <div class="tooltip-demo tooltip-bottom">
+                    Bottom
+                    <span class="tooltiptext">Tooltip at bottom</span>
+                </div>
+                <div class="tooltip-demo tooltip-left">
+                    Left
+                    <span class="tooltiptext">Tooltip on left</span>
+                </div>
+                <div class="tooltip-demo tooltip-right">
+                    Right
+                    <span class="tooltiptext">Tooltip on right</span>
+                </div>
+            </div>
+
+            <h3>Top Tooltip</h3>
+            <pre><code>.tooltip .tooltiptext {
+    bottom: 100%;      /* Position above the element */
+    left: 50%;
+    transform: translateX(-50%);
+}
+.tooltip .tooltiptext::after {
+    content: '';
+    position: absolute;
+    top: 100%;         /* Arrow at the bottom of tooltip */
+    left: 50%;
+    margin-left: -6px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: #1e293b transparent transparent transparent;
+}</code></pre>
+
+            <h3>Bottom Tooltip</h3>
+            <pre><code>.tooltip .tooltiptext {
+    top: 100%;         /* Position below the element */
+    left: 50%;
+    transform: translateX(-50%);
+}
+.tooltip .tooltiptext::after {
+    bottom: 100%;      /* Arrow at the top of tooltip */
+    left: 50%;
+    margin-left: -6px;
+    border-color: transparent transparent #1e293b transparent;
+}</code></pre>
+
+            <h3>Left Tooltip</h3>
+            <pre><code>.tooltip .tooltiptext {
+    top: 50%;
+    right: 110%;       /* Position to the left */
+    transform: translateY(-50%);
+}
+.tooltip .tooltiptext::after {
+    top: 50%;
+    left: 100%;        /* Arrow on the right side */
+    margin-top: -6px;
+    border-color: transparent transparent transparent #1e293b;
+}</code></pre>
+
+            <h3>Right Tooltip</h3>
+            <pre><code>.tooltip .tooltiptext {
+    top: 50%;
+    left: 110%;        /* Position to the right */
+    transform: translateY(-50%);
+}
+.tooltip .tooltiptext::after {
+    top: 50%;
+    right: 100%;       /* Arrow on the left side */
+    margin-top: -6px;
+    border-color: transparent #1e293b transparent transparent;
+}</code></pre>
+
+            <div class="note">🎯 Each position uses <code>top</code>, <code>bottom</code>, <code>left</code>, or <code>right</code> offsets combined with <code>transform</code> to center the tooltip. The <code>::after</code> pseudo-element creates the arrow.</div>
+        </div>
+
+        <!-- ─── STYLE VARIANTS ─── -->
+        <h2>🎨 Style Variants</h2>
+        <div class="demo-box">
+            <div class="style-grid">
+                <div class="tooltip-demo tooltip-top tooltip-colored">
+                    Colored
+                    <span class="tooltiptext">Orange tooltip with matching arrow</span>
+                </div>
+                <div class="tooltip-demo tooltip-bottom tooltip-custom">
+                    Gradient
+                    <span class="tooltiptext">Gradient background with shadow</span>
+                </div>
+                <div class="tooltip-demo tooltip-right tooltip-large">
+                    Large
+                    <span class="tooltiptext">This tooltip has a wider width and larger padding for more content</span>
+                </div>
+                <div class="tooltip-demo tooltip-top tooltip-delay">
+                    Delayed
+                    <span class="tooltiptext">Appears after 0.3s delay</span>
+                </div>
+            </div>
+
+            <pre><code>/* Colored tooltip */
+.tooltip-colored .tooltiptext {
+    background-color: #d97706;
+}
+.tooltip-colored .tooltiptext::after {
+    border-top-color: #d97706;
+}
+
+/* Gradient tooltip */
+.tooltip-custom .tooltiptext {
+    background: linear-gradient(135deg, #7c3aed, #0d9488);
+    border-radius: 12px;
+    box-shadow: 0 12px 30px -8px rgba(124, 58, 237, 0.4);
+}
+
+/* Large tooltip */
+.tooltip-large .tooltiptext {
+    width: 240px;
+    padding: 12px 16px;
+    font-size: 0.95rem;
+}
+
+/* Delayed tooltip */
+.tooltip-delay .tooltiptext {
+    transition: opacity 0.5s ease, visibility 0.5s ease 0.3s;
+}</code></pre>
+            <div class="note">✨ You can customise tooltips with different colours, gradients, sizes, and delays. The arrow colour automatically matches the tooltip background.</div>
+        </div>
+
+        <!-- ─── TOOLTIP WITH HTML CONTENT ─── -->
+        <h2>📖 Tooltip with HTML Content</h2>
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip-demo tooltip-bottom">
+                    Hover for details
+                    <span class="tooltiptext" style="width:220px; text-align:left; padding:12px 16px; line-height:1.6;">
+                        <strong>📌 Product Info</strong><br />
+                        <span style="font-size:0.85rem; opacity:0.9;">
+                            • Name: CSS Mastery<br />
+                            • Price: $29.99<br />
+                            • Rating: ⭐⭐⭐⭐⭐
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <pre><code>&lt;div class="tooltip-demo"&gt;
+    Hover for details
+    &lt;span class="tooltiptext"&gt;
+        &lt;strong&gt;📌 Product Info&lt;/strong&gt;&lt;br /&gt;
+        &lt;span&gt;• Name: CSS Mastery&lt;/span&gt;&lt;br /&gt;
+        &lt;span&gt;• Price: $29.99&lt;/span&gt;&lt;br /&gt;
+        &lt;span&gt;• Rating: ⭐⭐⭐⭐⭐&lt;/span&gt;
+    &lt;/span&gt;
+&lt;/div&gt;</code></pre>
+            <div class="note">📝 Tooltips can contain HTML content — not just plain text. This allows for rich tooltips with formatting, lists, and even images.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use Tooltips</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>💡 Contextual Help</strong> Explain icons, buttons, or technical terms.</div>
+            <div class="feature-card"><strong>📊 Data Labels</strong> Show values on hover over charts or graphs.</div>
+            <div class="feature-card"><strong>🖼️ Image Descriptions</strong> Provide alt-text or extra details on images.</div>
+            <div class="feature-card"><strong>🔗 Link Previews</strong> Show where a link leads before clicking.</div>
+            <div class="feature-card"><strong>📝 Form Hints</strong> Guide users with input field examples or requirements.</div>
+            <div class="feature-card"><strong>🎨 UI Enhancement</strong> Add subtle interactivity and polish.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>:hover</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td><code>position: absolute</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td><code>transform</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (with -ms-)</td></tr>
+                <tr><td><code>transition</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+</td></tr>
+                <tr><td><code>::after</code> pseudo-element</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 8+</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Internet Explorer 8 and below do not support <code>::after</code> pseudo-elements. For full compatibility, consider using a <code>span</code> instead of <code>::after</code> for the arrow.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Keep it concise:</strong> Tooltips should be short and helpful — not lengthy paragraphs.</li>
+                <li><strong>Use semantic markup:</strong> Wrap tooltip text in a <code>span</code> or <code>div</code> with a descriptive class.</li>
+                <li><strong>Ensure sufficient contrast:</strong> Tooltip text must be readable against its background.</li>
+                <li><strong>Provide keyboard accessibility:</strong> Consider using <code>:focus</code> alongside <code>:hover</code> for keyboard users.</li>
+                <li><strong>Test on touch devices:</strong> On mobile, tooltips may not work reliably; consider alternative patterns (e.g., click-to-reveal).</li>
+                <li><strong>Don't hide critical information:</strong> Important content should not be hidden behind tooltips.</li>
+                <li><strong>Add a small delay:</strong> A tiny delay (100–300ms) prevents tooltips from appearing accidentally during quick mouse movements.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Tooltips should be accessible to all users. Add <code>aria-label</code> or
+            <code>role="tooltip"</code> to tooltip elements. Ensure that tooltip content is announced by screen readers.
+            For touch devices, consider using <code>click</code> events instead of <code>hover</code>.
+            <pre style="margin-top:0.6rem;"><code>&lt;span class="tooltiptext" role="tooltip" aria-label="Additional information"&gt;...&lt;/span&gt;</code></pre>
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#fffbeb; border-left-color:#f59e0b; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS tooltips are a simple yet effective way to enhance user experience by
+            providing contextual information on demand. With pure CSS, you can create tooltips in any position, with
+            custom colours, sizes, and animations. Remember to keep them accessible, concise, and well‑styled for a
+            polished UI.
+        </div>
+
+        <footer>
+            💬 CSS Tooltips – Provide extra information with style and precision.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Tooltip-Animation-Fade-In-Tooltips",
+              name: "CSS Tooltip Animation/ Fade In Tooltips",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Tooltip Animation – Fade In & More</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #7c3aed;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #1e1b4b;
+        }
+
+        .last-updated {
+            color: #7c3aed;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f3e8ff;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #8b5cf6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #1e1b4b;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e1b4b;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #1e1b4b;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #1e1b4b;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── tooltip base styles ── */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 2px dotted #7c3aed;
+            cursor: help;
+            font-weight: 600;
+            font-size: 1.2rem;
+            color: #1e1b4b;
+            padding: 0.2rem 0.4rem;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 180px;
+            background-color: #1e293b;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 8px 12px;
+            position: absolute;
+            z-index: 10;
+            font-weight: 400;
+            font-size: 0.9rem;
+            opacity: 0;
+            box-shadow: 0 8px 25px -8px rgba(0, 0, 0, 0.3);
+            line-height: 1.4;
+            transition-property: opacity, visibility, transform;
+            transition-duration: 0.3s;
+            transition-timing-function: ease;
+            pointer-events: none;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: '';
+            position: absolute;
+            border-width: 6px;
+            border-style: solid;
+            border-color: transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* ── positioning ── */
+        .tooltip-top .tooltiptext {
+            bottom: 110%;
+            left: 50%;
+            transform: translateX(-50%) translateY(10px);
+        }
+        .tooltip-top .tooltiptext::after {
+            top: 100%;
+            left: 50%;
+            margin-left: -6px;
+            border-top-color: #1e293b;
+            border-bottom-color: transparent;
+        }
+        .tooltip-top:hover .tooltiptext {
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .tooltip-bottom .tooltiptext {
+            top: 110%;
+            left: 50%;
+            transform: translateX(-50%) translateY(-10px);
+        }
+        .tooltip-bottom .tooltiptext::after {
+            bottom: 100%;
+            left: 50%;
+            margin-left: -6px;
+            border-bottom-color: #1e293b;
+            border-top-color: transparent;
+        }
+        .tooltip-bottom:hover .tooltiptext {
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .tooltip-left .tooltiptext {
+            top: 50%;
+            right: 110%;
+            transform: translateY(-50%) translateX(10px);
+        }
+        .tooltip-left .tooltiptext::after {
+            top: 50%;
+            left: 100%;
+            margin-top: -6px;
+            border-left-color: #1e293b;
+            border-right-color: transparent;
+        }
+        .tooltip-left:hover .tooltiptext {
+            transform: translateY(-50%) translateX(0);
+        }
+
+        .tooltip-right .tooltiptext {
+            top: 50%;
+            left: 110%;
+            transform: translateY(-50%) translateX(-10px);
+        }
+        .tooltip-right .tooltiptext::after {
+            top: 50%;
+            right: 100%;
+            margin-top: -6px;
+            border-right-color: #1e293b;
+            border-left-color: transparent;
+        }
+        .tooltip-right:hover .tooltiptext {
+            transform: translateY(-50%) translateX(0);
+        }
+
+        /* ── animation variants ── */
+
+        /* Fade only (no slide) */
+        .tooltip-fade .tooltiptext {
+            transform: none;
+        }
+        .tooltip-fade .tooltiptext::after {
+            /* keep arrow positioning */
+        }
+        .tooltip-fade:hover .tooltiptext {
+            transform: none;
+        }
+
+        /* Fade with different durations */
+        .tooltip-fast .tooltiptext {
+            transition-duration: 0.2s;
+        }
+        .tooltip-slow .tooltiptext {
+            transition-duration: 1.5s;
+        }
+        .tooltip-medium .tooltiptext {
+            transition-duration: 0.8s;
+        }
+
+        /* Different timing functions */
+        .tooltip-ease .tooltiptext {
+            transition-timing-function: ease;
+        }
+        .tooltip-linear .tooltiptext {
+            transition-timing-function: linear;
+        }
+        .tooltip-ease-in .tooltiptext {
+            transition-timing-function: ease-in;
+        }
+        .tooltip-ease-out .tooltiptext {
+            transition-timing-function: ease-out;
+        }
+        .tooltip-ease-in-out .tooltiptext {
+            transition-timing-function: ease-in-out;
+        }
+
+        /* Scale-in animation (using transform) */
+        .tooltip-scale .tooltiptext {
+            transform: translateX(-50%) scale(0.8);
+            transform-origin: bottom center;
+            transition-property: opacity, visibility, transform;
+            transition-duration: 0.4s;
+            transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+        .tooltip-scale .tooltiptext::after {
+            /* arrow position remains */
+        }
+        .tooltip-scale:hover .tooltiptext {
+            transform: translateX(-50%) scale(1);
+        }
+
+        /* Slide in from left */
+        .tooltip-slide-left .tooltiptext {
+            transform: translateX(-50%) translateX(-20px);
+            transition-property: opacity, visibility, transform;
+            transition-duration: 0.4s;
+        }
+        .tooltip-slide-left:hover .tooltiptext {
+            transform: translateX(-50%) translateX(0);
+        }
+
+        /* Slide in from right */
+        .tooltip-slide-right .tooltiptext {
+            transform: translateX(-50%) translateX(20px);
+            transition-property: opacity, visibility, transform;
+            transition-duration: 0.4s;
+        }
+        .tooltip-slide-right:hover .tooltiptext {
+            transform: translateX(-50%) translateX(0);
+        }
+
+        /* Bounce effect (using keyframes) */
+        .tooltip-bounce .tooltiptext {
+            animation: none;
+            transition-property: opacity, visibility;
+            transition-duration: 0.3s;
+        }
+        .tooltip-bounce:hover .tooltiptext {
+            animation: bounceIn 0.6s ease forwards;
+        }
+        @keyframes bounceIn {
+            0% {
+                opacity: 0;
+                transform: translateX(-50%) scale(0.3);
+            }
+            50% {
+                opacity: 1;
+                transform: translateX(-50%) scale(1.1);
+            }
+            70% {
+                transform: translateX(-50%) scale(0.9);
+            }
+            100% {
+                opacity: 1;
+                transform: translateX(-50%) scale(1);
+            }
+        }
+
+        /* Pulse effect (continuous) */
+        .tooltip-pulse .tooltiptext {
+            animation: pulseGlow 2s ease-in-out infinite;
+            transition: none;
+        }
+        @keyframes pulseGlow {
+            0%, 100% {
+                opacity: 0.6;
+                transform: translateX(-50%) scale(0.95);
+            }
+            50% {
+                opacity: 1;
+                transform: translateX(-50%) scale(1.05);
+            }
+        }
+
+        /* Reduce motion support */
+        @media (prefers-reduced-motion: reduce) {
+            .tooltip .tooltiptext,
+            .tooltip-scale .tooltiptext,
+            .tooltip-slide-left .tooltiptext,
+            .tooltip-slide-right .tooltiptext {
+                transition-duration: 0.01ms !important;
+                animation-duration: 0.01ms !important;
+            }
+        }
+
+        /* ── interactive demo grid ── */
+        .demo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            padding: 1rem 0;
+            justify-items: center;
+        }
+
+        .demo-grid .tooltip {
+            font-size: 1rem;
+            border-bottom: 2px dotted #7c3aed;
+            padding: 0.3rem 0.6rem;
+        }
+
+        .demo-grid .tooltip .tooltiptext {
+            width: 150px;
+            font-size: 0.85rem;
+        }
+
+        .demo-grid .tooltip-top .tooltiptext {
+            bottom: 120%;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .demo-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
+            .tooltip .tooltiptext { width: 130px; font-size: 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>🎬 CSS Tooltip Animation</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS tooltip animations</strong> enhance user experience by making tooltips appear smoothly
+            rather than abruptly. Using <code>transition</code> and <code>@keyframes</code>, you can create
+            fade-in, slide-in, scale-in, and even bounce effects. This guide covers a variety of animation
+            techniques with live demos and best practices.
+        </div>
+
+        <!-- ─── WHY ANIMATE ─── -->
+        <h2>📌 Why Animate Tooltips?</h2>
+        <ul style="margin-left:1.5rem; margin-bottom:0.5rem;">
+            <li><strong>Polished UX:</strong> Smooth transitions feel more professional and less jarring.</li>
+            <li><strong>Attention guidance:</strong> Movement draws the eye to the tooltip content.</li>
+            <li><strong>Perceived performance:</strong> Even if the tooltip takes a moment to appear, the animation makes it feel responsive.</li>
+            <li><strong>Brand personality:</strong> Custom animations can reflect your brand's style.</li>
+        </ul>
+
+        <!-- ─── BASIC FADE-IN ─── -->
+        <h2>📖 Basic Fade-In Tooltip</h2>
+        <p>
+            The simplest animation uses <code>opacity</code> and <code>transition</code> to fade the tooltip in and out.
+            The duration controls how fast the fade occurs.
+        </p>
+
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-fade tooltip-top">
+                    Hover me (fade)
+                    <span class="tooltiptext">Fades in over 0.3s</span>
+                </div>
+            </div>
+            <pre><code>.tooltip .tooltiptext {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+.tooltip:hover .tooltiptext {
+    opacity: 1;
+    visibility: visible;
+}</code></pre>
+            <div class="note">💡 The <code>visibility</code> property is also transitioned to prevent the tooltip from blocking mouse events while hidden.</div>
+        </div>
+
+        <!-- ─── DIFFERENT DURATIONS ─── -->
+        <h2>⏱️ Adjusting Fade Duration</h2>
+        <div class="demo-box">
+            <div class="demo-grid">
+                <div class="tooltip tooltip-top tooltip-fade tooltip-fast">
+                    Fast (0.2s)
+                    <span class="tooltiptext">Quick fade</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-medium">
+                    Medium (0.8s)
+                    <span class="tooltiptext">Smooth fade</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-slow">
+                    Slow (1.5s)
+                    <span class="tooltiptext">Very gradual</span>
+                </div>
+            </div>
+            <pre><code>/* Different durations */
+.tooltip-fast .tooltiptext { transition-duration: 0.2s; }
+.tooltip-medium .tooltiptext { transition-duration: 0.8s; }
+.tooltip-slow .tooltiptext { transition-duration: 1.5s; }</code></pre>
+            <div class="note">📊 Choose the duration based on context – 0.2–0.4s is typical for UI feedback, while longer durations may be used for decorative or storytelling effects.</div>
+        </div>
+
+        <!-- ─── TIMING FUNCTIONS ─── -->
+        <h2>📐 Timing Functions (Easing)</h2>
+        <p>The <code>transition-timing-function</code> controls the acceleration of the animation.</p>
+        <div class="demo-box">
+            <div class="demo-grid">
+                <div class="tooltip tooltip-top tooltip-fade tooltip-ease">
+                    ease
+                    <span class="tooltiptext">Default smooth</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-linear">
+                    linear
+                    <span class="tooltiptext">Constant speed</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-ease-in">
+                    ease-in
+                    <span class="tooltiptext">Slow start</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-ease-out">
+                    ease-out
+                    <span class="tooltiptext">Slow end</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-fade tooltip-ease-in-out">
+                    ease-in-out
+                    <span class="tooltiptext">Slow both ends</span>
+                </div>
+            </div>
+            <pre><code>/* Timing functions */
+.ease       { transition-timing-function: ease; }
+.linear     { transition-timing-function: linear; }
+.ease-in    { transition-timing-function: ease-in; }
+.ease-out   { transition-timing-function: ease-out; }
+.ease-in-out { transition-timing-function: ease-in-out; }</code></pre>
+            <div class="note">⚙️ <code>ease</code> is the default and works well for most cases. <code>ease-out</code> gives a quick start and slow end, which feels responsive.</div>
+        </div>
+
+        <!-- ─── SLIDE-IN ANIMATIONS ─── -->
+        <h2>📖 Slide-In Tooltips</h2>
+        <p>Combine fade with a subtle slide movement for a more dynamic effect.</p>
+        <div class="demo-box">
+            <div class="demo-grid">
+                <div class="tooltip tooltip-top tooltip-slide-left">
+                    Slide Left
+                    <span class="tooltiptext">Slides from left</span>
+                </div>
+                <div class="tooltip tooltip-top tooltip-slide-right">
+                    Slide Right
+                    <span class="tooltiptext">Slides from right</span>
+                </div>
+                <div class="tooltip tooltip-bottom tooltip-slide-left">
+                    Slide Left (bottom)
+                    <span class="tooltiptext">Slides from left</span>
+                </div>
+            </div>
+            <pre><code>.tooltip-slide-left .tooltiptext {
+    transform: translateX(-50%) translateX(-20px);
+    transition: opacity 0.4s, visibility 0.4s, transform 0.4s;
+}
+.tooltip-slide-left:hover .tooltiptext {
+    transform: translateX(-50%) translateX(0);
+}</code></pre>
+            <div class="note">➡️ The tooltip slides in from the direction specified while fading in. This adds a sense of direction and motion.</div>
+        </div>
+
+        <!-- ─── SCALE-IN / POP ─── -->
+        <h2>📖 Scale-In (Pop) Tooltip</h2>
+        <p>A scaling effect makes the tooltip "pop" into place, which is great for drawing attention.</p>
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-top tooltip-scale">
+                    Hover me (pop)
+                    <span class="tooltiptext">Scale-in effect</span>
+                </div>
+            </div>
+            <pre><code>.tooltip-scale .tooltiptext {
+    transform: translateX(-50%) scale(0.8);
+    transition: opacity 0.4s, visibility 0.4s, transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.tooltip-scale:hover .tooltiptext {
+    transform: translateX(-50%) scale(1);
+}</code></pre>
+            <div class="note">🎯 The <code>cubic-bezier(0.34, 1.56, 0.64, 1)</code> creates a slight overshoot, giving a "springy" pop effect.</div>
+        </div>
+
+        <!-- ─── BOUNCE ANIMATION (KEYFRAMES) ─── -->
+        <h2>📖 Bounce Animation</h2>
+        <p>Using <code>@keyframes</code>, you can create more complex animations like a bounce.</p>
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-top tooltip-bounce">
+                    Hover me (bounce)
+                    <span class="tooltiptext">Bounces in</span>
+                </div>
+            </div>
+            <pre><code>@keyframes bounceIn {
+    0%   { opacity: 0; transform: translateX(-50%) scale(0.3); }
+    50%  { opacity: 1; transform: translateX(-50%) scale(1.1); }
+    70%  { transform: translateX(-50%) scale(0.9); }
+    100% { opacity: 1; transform: translateX(-50%) scale(1); }
+}
+.tooltip-bounce:hover .tooltiptext {
+    animation: bounceIn 0.6s ease forwards;
+}</code></pre>
+            <div class="note">🏀 The bounce effect uses keyframes to create an elastic feel. It starts small, overshoots, and settles into place.</div>
+        </div>
+
+        <!-- ─── PULSE EFFECT ─── -->
+        <h2>📖 Continuous Pulse Animation</h2>
+        <p>For a subtle, always‑active indicator, you can apply a pulsing animation that runs continuously.</p>
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-top tooltip-pulse">
+                    Hover me (pulse)
+                    <span class="tooltiptext">Always pulsing</span>
+                </div>
+            </div>
+            <pre><code>@keyframes pulseGlow {
+    0%, 100% { opacity: 0.6; transform: translateX(-50%) scale(0.95); }
+    50%      { opacity: 1; transform: translateX(-50%) scale(1.05); }
+}
+.tooltip-pulse .tooltiptext {
+    animation: pulseGlow 2s ease-in-out infinite;
+}</code></pre>
+            <div class="note">✨ The pulse animation runs continuously, even without hover, to draw attention. This can be useful for important notifications or call‑to‑action elements.</div>
+        </div>
+
+        <!-- ─── COMBINING WITH POSITIONS ─── -->
+        <h2>📐 Combining Animations with All Positions</h2>
+        <p>You can apply these animations to any position (top, bottom, left, right).</p>
+        <div class="demo-box">
+            <div class="demo-grid">
+                <div class="tooltip tooltip-top tooltip-scale">
+                    Top
+                    <span class="tooltiptext">Scale-in top</span>
+                </div>
+                <div class="tooltip tooltip-bottom tooltip-scale">
+                    Bottom
+                    <span class="tooltiptext">Scale-in bottom</span>
+                </div>
+                <div class="tooltip tooltip-left tooltip-slide-left">
+                    Left
+                    <span class="tooltiptext">Slide-in left</span>
+                </div>
+                <div class="tooltip tooltip-right tooltip-slide-right">
+                    Right
+                    <span class="tooltiptext">Slide-in right</span>
+                </div>
+            </div>
+            <div class="note">🧩 Adjust the transform origins or slide directions accordingly to keep the effect consistent with the tooltip's position.</div>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <h2>♿ Accessibility & Reduced Motion</h2>
+        <p>
+            Always respect the user's preference for reduced motion. Use the <code>prefers-reduced-motion</code>
+            media query to disable or minimise animations.
+        </p>
+        <div class="demo-box">
+            <pre><code>@media (prefers-reduced-motion: reduce) {
+    .tooltip .tooltiptext,
+    .tooltip-scale .tooltiptext,
+    .tooltip-slide-left .tooltiptext,
+    .tooltip-slide-right .tooltiptext {
+        transition-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+    }
+}</code></pre>
+            <div class="note">
+                ♿ By setting durations to an extremely small value, the animation effectively becomes instant,
+                providing a non‑animated experience for users who need it.
+            </div>
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices for Tooltip Animations</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Keep it short:</strong> Aim for 0.2–0.4s for most tooltip animations. Longer durations feel sluggish.</li>
+                <li><strong>Use appropriate easing:</strong> <code>ease</code> or <code>ease-out</code> generally work best for tooltips.</li>
+                <li><strong>Don't overdo it:</strong> Too many effects (bounce + scale + slide) can be distracting. Stick to one or two.</li>
+                <li><strong>Test on touch devices:</strong> Tooltips triggered by hover don't work on touch. Consider click‑to‑reveal alternatives.</li>
+                <li><strong>Ensure legibility:</strong> The animation shouldn't make the tooltip text hard to read.</li>
+                <li><strong>Provide a fallback:</strong> If animations are unsupported, the tooltip should still appear (using <code>visibility</code> without transitions).</li>
+                <li><strong>Respect reduced motion:</strong> Always include the <code>prefers-reduced-motion</code> media query.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>transition</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+</td></tr>
+                <tr><td><code>@keyframes</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 10+</td></tr>
+                <tr><td><code>transform</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (with -ms-)</td></tr>
+                <tr><td><code>prefers-reduced-motion</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>❌ Not supported</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers (IE 9 and below), provide a fallback with no transitions. Use feature detection or graceful degradation.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f3e8ff; border-left-color:#8b5cf6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS tooltip animations add polish and clarity to your UI. Whether you choose
+            a simple fade, a slide, a scale pop, or a playful bounce, the right animation can make your tooltips feel
+            more responsive and engaging. Always keep accessibility in mind and test across devices for the best experience.
+        </div>
+
+        <footer>
+            🎬 CSS Tooltip Animation – Bring your tooltips to life with smooth transitions.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Arrow",
+              name: "CSS Arrow",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Arrow – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #d97706;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #78350f;
+        }
+
+        .last-updated {
+            color: #d97706;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #fffbeb;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f59e0b;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #78350f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #78350f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #78350f;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #78350f;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── Tooltip with arrow styles ── */
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 2px dotted #78350f;
+            cursor: help;
+            font-weight: 600;
+            font-size: 1.2rem;
+            color: #78350f;
+            padding: 0.2rem 0.4rem;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 180px;
+            background-color: #1e293b;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 10px 14px;
+            position: absolute;
+            z-index: 10;
+            font-weight: 400;
+            font-size: 0.9rem;
+            opacity: 0;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+            box-shadow: 0 8px 25px -8px rgba(0, 0, 0, 0.3);
+            line-height: 1.4;
+            pointer-events: none;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: '';
+            position: absolute;
+            border-width: 8px;
+            border-style: solid;
+            border-color: transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* ── Top arrow (tooltip below, arrow on top) ── */
+        .tooltip-arrow-top .tooltiptext {
+            top: 150%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .tooltip-arrow-top .tooltiptext::after {
+            bottom: 100%;
+            left: 50%;
+            margin-left: -8px;
+            border-color: transparent transparent #1e293b transparent;
+        }
+
+        /* ── Bottom arrow (tooltip above, arrow on bottom) ── */
+        .tooltip-arrow-bottom .tooltiptext {
+            bottom: 150%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .tooltip-arrow-bottom .tooltiptext::after {
+            top: 100%;
+            left: 50%;
+            margin-left: -8px;
+            border-color: #1e293b transparent transparent transparent;
+        }
+
+        /* ── Left arrow (tooltip on right, arrow on left) ── */
+        .tooltip-arrow-left .tooltiptext {
+            top: 50%;
+            left: 110%;
+            transform: translateY(-50%);
+        }
+        .tooltip-arrow-left .tooltiptext::after {
+            top: 50%;
+            right: 100%;
+            margin-top: -8px;
+            border-color: transparent #1e293b transparent transparent;
+        }
+
+        /* ── Right arrow (tooltip on left, arrow on right) ── */
+        .tooltip-arrow-right .tooltiptext {
+            top: 50%;
+            right: 110%;
+            transform: translateY(-50%);
+        }
+        .tooltip-arrow-right .tooltiptext::after {
+            top: 50%;
+            left: 100%;
+            margin-top: -8px;
+            border-color: transparent transparent transparent #1e293b;
+        }
+
+        /* ── Colored arrow variants ── */
+
+        .tooltip-color-blue .tooltiptext {
+            background-color: #3b82f6;
+        }
+        .tooltip-color-blue.tooltip-arrow-top .tooltiptext::after {
+            border-color: transparent transparent #3b82f6 transparent;
+        }
+        .tooltip-color-blue.tooltip-arrow-bottom .tooltiptext::after {
+            border-color: #3b82f6 transparent transparent transparent;
+        }
+        .tooltip-color-blue.tooltip-arrow-left .tooltiptext::after {
+            border-color: transparent #3b82f6 transparent transparent;
+        }
+        .tooltip-color-blue.tooltip-arrow-right .tooltiptext::after {
+            border-color: transparent transparent transparent #3b82f6;
+        }
+
+        .tooltip-color-green .tooltiptext {
+            background-color: #22c55e;
+        }
+        .tooltip-color-green.tooltip-arrow-top .tooltiptext::after {
+            border-color: transparent transparent #22c55e transparent;
+        }
+        .tooltip-color-green.tooltip-arrow-bottom .tooltiptext::after {
+            border-color: #22c55e transparent transparent transparent;
+        }
+        .tooltip-color-green.tooltip-arrow-left .tooltiptext::after {
+            border-color: transparent #22c55e transparent transparent;
+        }
+        .tooltip-color-green.tooltip-arrow-right .tooltiptext::after {
+            border-color: transparent transparent transparent #22c55e;
+        }
+
+        .tooltip-color-purple .tooltiptext {
+            background: linear-gradient(135deg, #7c3aed, #8b5cf6);
+        }
+        .tooltip-color-purple.tooltip-arrow-top .tooltiptext::after {
+            border-color: transparent transparent #7c3aed transparent;
+        }
+        .tooltip-color-purple.tooltip-arrow-bottom .tooltiptext::after {
+            border-color: #7c3aed transparent transparent transparent;
+        }
+        .tooltip-color-purple.tooltip-arrow-left .tooltiptext::after {
+            border-color: transparent #7c3aed transparent transparent;
+        }
+        .tooltip-color-purple.tooltip-arrow-right .tooltiptext::after {
+            border-color: transparent transparent transparent #7c3aed;
+        }
+
+        /* ── Large arrow ── */
+        .tooltip-arrow-large .tooltiptext::after {
+            border-width: 12px;
+            margin-left: -12px;
+            margin-top: -12px;
+        }
+        .tooltip-arrow-large .tooltiptext {
+            padding: 14px 18px;
+            border-radius: 12px;
+            font-size: 1rem;
+            width: 200px;
+        }
+
+        /* ── Demo grid ── */
+        .arrow-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            padding: 1rem 0;
+            justify-items: center;
+        }
+
+        .arrow-grid .tooltip {
+            font-size: 1rem;
+            border-bottom: 2px dotted #78350f;
+            padding: 0.3rem 0.6rem;
+        }
+
+        .arrow-grid .tooltip .tooltiptext {
+            width: 150px;
+            font-size: 0.85rem;
+        }
+
+        /* ── Arrow-only demo (no tooltip) ── */
+        .arrow-only-demo {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            justify-content: center;
+            padding: 1rem 0;
+        }
+
+        .arrow-box {
+            position: relative;
+            width: 60px;
+            height: 60px;
+            background: #1e293b;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .arrow-box::after {
+            content: '';
+            position: absolute;
+            border-width: 10px;
+            border-style: solid;
+            border-color: transparent;
+        }
+
+        .arrow-box.arrow-up::after {
+            bottom: 100%;
+            left: 50%;
+            margin-left: -10px;
+            border-color: transparent transparent #1e293b transparent;
+        }
+
+        .arrow-box.arrow-down::after {
+            top: 100%;
+            left: 50%;
+            margin-left: -10px;
+            border-color: #1e293b transparent transparent transparent;
+        }
+
+        .arrow-box.arrow-left::after {
+            top: 50%;
+            right: 100%;
+            margin-top: -10px;
+            border-color: transparent #1e293b transparent transparent;
+        }
+
+        .arrow-box.arrow-right::after {
+            top: 50%;
+            left: 100%;
+            margin-top: -10px;
+            border-color: transparent transparent transparent #1e293b;
+        }
+
+        .arrow-box .label {
+            color: white;
+            font-weight: 600;
+            font-size: 0.7rem;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .arrow-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
+            .arrow-only-demo { gap: 1rem; }
+            .tooltip .tooltiptext { width: 130px; font-size: 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>➡️ CSS Arrow</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS arrows</strong> are commonly used with tooltips to create speech‑bubble‑like indicators that point
+            to the target element. Using the <code>::after</code> pseudo‑element with borders, you can create arrows in
+            <strong>four directions</strong>: top, bottom, left, and right. This guide covers everything from basic arrow
+            creation to advanced styling and integration with tooltips.
+        </div>
+
+        <!-- ─── HOW ARROWS WORK ─── -->
+        <h2>📌 How CSS Arrows Work</h2>
+        <p>
+            A CSS arrow is created using the <code>::after</code> pseudo‑element with transparent borders. The arrow is
+            formed by making one side of the border opaque (the direction the arrow points) and the other three sides
+            transparent. The <code>border-width</code> determines the size of the arrow.
+        </p>
+
+        <div class="demo-box">
+            <h3>🔹 Arrow‑Only Demo</h3>
+            <div class="arrow-only-demo">
+                <div class="arrow-box arrow-up">
+                    <span class="label">UP</span>
+                </div>
+                <div class="arrow-box arrow-down">
+                    <span class="label">DOWN</span>
+                </div>
+                <div class="arrow-box arrow-left">
+                    <span class="label">LEFT</span>
+                </div>
+                <div class="arrow-box arrow-right">
+                    <span class="label">RIGHT</span>
+                </div>
+            </div>
+            <pre><code>/* Arrow pointing UP (arrow below the box) */
+.arrow-up::after {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #1e293b transparent;
+}
+
+/* Arrow pointing DOWN (arrow above the box) */
+.arrow-down::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #1e293b transparent transparent transparent;
+}
+
+/* Arrow pointing LEFT (arrow to the right of the box) */
+.arrow-left::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent #1e293b transparent transparent;
+}
+
+/* Arrow pointing RIGHT (arrow to the left of the box) */
+.arrow-right::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    margin-top: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent transparent #1e293b;
+}</code></pre>
+            <div class="note">💡 The arrow is created entirely with CSS borders. The colour of the arrow matches the background of the box it's attached to.</div>
+        </div>
+
+        <!-- ─── ARROW WITH TOOLTIP ─── -->
+        <h2>📖 Arrow with Tooltip</h2>
+        <p>
+            Arrows are most commonly used with tooltips to indicate which element the tooltip belongs to.
+            The arrow points from the tooltip toward the target element.
+        </p>
+
+        <div class="demo-box">
+            <div class="arrow-grid">
+                <div class="tooltip tooltip-arrow-top">
+                    Top Arrow
+                    <span class="tooltiptext">Arrow points up<br />Tooltip below</span>
+                </div>
+                <div class="tooltip tooltip-arrow-bottom">
+                    Bottom Arrow
+                    <span class="tooltiptext">Arrow points down<br />Tooltip above</span>
+                </div>
+                <div class="tooltip tooltip-arrow-left">
+                    Left Arrow
+                    <span class="tooltiptext">Arrow points left<br />Tooltip on right</span>
+                </div>
+                <div class="tooltip tooltip-arrow-right">
+                    Right Arrow
+                    <span class="tooltiptext">Arrow points right<br />Tooltip on left</span>
+                </div>
+            </div>
+
+            <h3>🔸 How Each Arrow is Built</h3>
+
+            <h4>Top Arrow (tooltip below, arrow points up)</h4>
+            <pre><code>.tooltip-arrow-top .tooltiptext {
+    top: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.tooltip-arrow-top .tooltiptext::after {
+    bottom: 100%;
+    left: 50%;
+    margin-left: -8px;
+    border-color: transparent transparent #1e293b transparent;
+}</code></pre>
+
+            <h4>Bottom Arrow (tooltip above, arrow points down)</h4>
+            <pre><code>.tooltip-arrow-bottom .tooltiptext {
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.tooltip-arrow-bottom .tooltiptext::after {
+    top: 100%;
+    left: 50%;
+    margin-left: -8px;
+    border-color: #1e293b transparent transparent transparent;
+}</code></pre>
+
+            <h4>Left Arrow (tooltip on right, arrow points left)</h4>
+            <pre><code>.tooltip-arrow-left .tooltiptext {
+    top: 50%;
+    left: 110%;
+    transform: translateY(-50%);
+}
+.tooltip-arrow-left .tooltiptext::after {
+    top: 50%;
+    right: 100%;
+    margin-top: -8px;
+    border-color: transparent #1e293b transparent transparent;
+}</code></pre>
+
+            <h4>Right Arrow (tooltip on left, arrow points right)</h4>
+            <pre><code>.tooltip-arrow-right .tooltiptext {
+    top: 50%;
+    right: 110%;
+    transform: translateY(-50%);
+}
+.tooltip-arrow-right .tooltiptext::after {
+    top: 50%;
+    left: 100%;
+    margin-top: -8px;
+    border-color: transparent transparent transparent #1e293b;
+}</code></pre>
+
+            <div class="note">🎯 The arrow is positioned at the edge of the tooltip, pointing toward the target element. The <code>border-color</code> values determine the direction.</div>
+        </div>
+
+        <!-- ─── COLOURED ARROWS ─── -->
+        <h2>🎨 Coloured Arrows</h2>
+        <p>You can customise the arrow colour to match your brand or design system. Just update the <code>border-color</code> and <code>background-color</code> together.</p>
+
+        <div class="demo-box">
+            <div class="arrow-grid">
+                <div class="tooltip tooltip-arrow-top tooltip-color-blue">
+                    Blue
+                    <span class="tooltiptext">Blue arrow</span>
+                </div>
+                <div class="tooltip tooltip-arrow-bottom tooltip-color-green">
+                    Green
+                    <span class="tooltiptext">Green arrow</span>
+                </div>
+                <div class="tooltip tooltip-arrow-left tooltip-color-purple">
+                    Purple
+                    <span class="tooltiptext">Purple gradient</span>
+                </div>
+            </div>
+            <pre><code>/* Blue arrow */
+.tooltip-color-blue .tooltiptext {
+    background-color: #3b82f6;
+}
+.tooltip-color-blue.tooltip-arrow-top .tooltiptext::after {
+    border-color: transparent transparent #3b82f6 transparent;
+}
+/* ... and so on for other directions and colours */</code></pre>
+            <div class="note">🌈 The arrow colour must match the tooltip background colour for a seamless look. You can also use gradients for the background, but the arrow will need a solid colour.</div>
+        </div>
+
+        <!-- ─── LARGER ARROWS ─── -->
+        <h2>📐 Adjusting Arrow Size</h2>
+        <p>The <code>border-width</code> controls the arrow size. Increase it for a larger, more prominent arrow.</p>
+
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-arrow-top tooltip-arrow-large">
+                    Large Arrow
+                    <span class="tooltiptext">Bigger arrow,<br />more padding</span>
+                </div>
+            </div>
+            <pre><code>.tooltip-arrow-large .tooltiptext::after {
+    border-width: 12px;      /* Larger arrow */
+    margin-left: -12px;
+    margin-top: -12px;
+}
+.tooltip-arrow-large .tooltiptext {
+    padding: 14px 18px;      /* More padding */
+    border-radius: 12px;
+    font-size: 1rem;
+    width: 200px;
+}</code></pre>
+            <div class="note">📏 Remember to adjust the <code>margin-left</code> and <code>margin-top</code> values to keep the arrow centred when changing the <code>border-width</code>.</div>
+        </div>
+
+        <!-- ─── ARROW BORDER RADIUS ─── -->
+        <h2>🔄 Arrows with Rounded Tooltips</h2>
+        <p>When your tooltip has a border-radius, the arrow still works perfectly — it attaches to the edge of the tooltip.</p>
+
+        <div class="demo-box">
+            <div style="text-align:center; padding:1rem 0;">
+                <div class="tooltip tooltip-arrow-bottom" style="--tooltip-radius: 20px;">
+                    Rounded Tooltip
+                    <span class="tooltiptext" style="border-radius:20px; background-color:#7c3aed;">
+                        Rounded corners<br />Arrow still works
+                    </span>
+                </div>
+            </div>
+            <pre><code>.tooltip .tooltiptext {
+    border-radius: 20px;  /* Any border-radius works */
+}
+/* Arrow attaches seamlessly to the edge */</code></pre>
+            <div class="note">🎨 The arrow is positioned at the edge of the tooltip, so border-radius doesn't interfere with the arrow — it attaches to the flat edge.</div>
+        </div>
+
+        <!-- ─── USE CASES ─── -->
+        <h2>⚙️ When to Use CSS Arrows</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>💬 Tooltips</strong> Point to the element the tooltip describes.</div>
+            <div class="feature-card"><strong>🗨️ Speech Bubbles</strong> Create chat or comment bubbles.</div>
+            <div class="feature-card"><strong>📌 Popovers</strong> Indicate the source of a popover.</div>
+            <div class="feature-card"><strong>🎯 Callouts</strong> Draw attention to specific UI elements.</div>
+            <div class="feature-card"><strong>🖼️ Image Captions</strong> Point from a caption to an image.</div>
+            <div class="feature-card"><strong>📊 Charts</strong> Label data points with arrows.</div>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Feature</th><th>Chrome / Edge</th><th>Firefox</th><th>Safari</th><th>IE</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><code>::after</code> pseudo‑element</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 8+</td></tr>
+                <tr><td><code>border</code> with transparency</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td></tr>
+                <tr><td><code>position: absolute</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>✅ IE 7+</td></tr>
+                <tr><td><code>transform</code></td><td>✅ Full</td><td>✅ Full</td><td>✅ Full</td><td>⚠️ IE 9+ (with -ms-)</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ Internet Explorer 8 and below may have issues with <code>::after</code> and transparency. For full compatibility, use a <code>span</code> element instead of <code>::after</code> for the arrow.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Match arrow and background colours:</strong> The arrow should always match the tooltip's background colour for a seamless look.</li>
+                <li><strong>Keep arrow size proportional:</strong> A good rule of thumb is arrow size = 8–12px, tooltip padding = 8–16px.</li>
+                <li><strong>Use <code>transform</code> for centering:</strong> Use <code>translateX(-50%)</code> or <code>translateY(-50%)</code> for perfect centering.</li>
+                <li><strong>Test with long content:</strong> Ensure the arrow stays aligned when the tooltip contains longer text.</li>
+                <li><strong>Consider using <code>clip-path</code> for complex shapes:</strong> For non‑standard arrow shapes (e.g., curved), consider SVG or <code>clip-path</code>.</li>
+                <li><strong>Provide fallbacks:</strong> For older browsers, ensure the tooltip is still usable without the arrow.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> CSS arrows are purely decorative. They do not affect screen readers.
+            However, ensure that the tooltip content itself is accessible with <code>role="tooltip"</code> and
+            appropriate ARIA attributes. The arrow is visual only and should not convey critical information.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#fffbeb; border-left-color:#f59e0b; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS arrows are a simple yet powerful way to add direction and clarity to tooltips
+            and other UI elements. Using the <code>::after</code> pseudo‑element with borders, you can create arrows in any
+            direction with custom colours and sizes. Combine them with tooltips, popovers, and speech bubbles to create
+            intuitive, polished interfaces.
+        </div>
+
+        <footer>
+            ➡️ CSS Arrow – Point the way with custom, border‑based arrows.
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Flexbox",
+              name: "CSS Flexbox",
+              description:  String.raw `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Flexbox – Complete Guide</title>
+    <style>
+        /* ── reset & base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.1);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #0d9488;
+            padding-left: 1.2rem;
+            margin-bottom: 0.5rem;
+            color: #134e4a;
+        }
+
+        .last-updated {
+            color: #0d9488;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+
+        .intro-text {
+            background: #f0fdfa;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #14b8a6;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: #134e4a;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #134e4a;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+
+        .op-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .op-table th {
+            background-color: #134e4a;
+            color: white;
+            padding: 12px 16px;
+            text-align: left;
+        }
+
+        .op-table td {
+            border: 1px solid #e2e8f0;
+            padding: 10px 16px;
+            background-color: #ffffff;
+        }
+
+        .op-table tr:nth-child(even) td {
+            background-color: #fafcff;
+        }
+
+        .op-table tr:hover td {
+            background-color: #f1f5f9;
+        }
+
+        code {
+            background: #f1f5f9;
+            padding: 0.2rem 0.4rem;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #b91c1c;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 1rem 0;
+        }
+
+        .demo-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .note {
+            background: #e6f7ec;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2e7d32;
+            margin: 1rem 0;
+        }
+
+        .warning {
+            background: #fff3e0;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #ed6c02;
+            margin: 1rem 0;
+        }
+
+        .feature-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+
+        .feature-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1rem 1.2rem;
+            flex: 1 1 200px;
+            border: 1px solid #e2e8f0;
+            transition: 0.2s;
+        }
+
+        .feature-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background: #ffffff;
+        }
+
+        .feature-card strong {
+            font-size: 1.1rem;
+            color: #134e4a;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .demo-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 1rem 0;
+        }
+
+        .demo-item {
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        .demo-item-label {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-top: 0.4rem;
+        }
+
+        /* ── flex demo styles ── */
+
+        .flex-container {
+            display: flex;
+            background: #e2e8f0;
+            border-radius: 12px;
+            padding: 1rem;
+            gap: 0.5rem;
+            min-height: 120px;
+            border: 2px dashed #94a3b8;
+            flex-wrap: wrap;
+            transition: all 0.3s ease;
+        }
+
+        .flex-item {
+            background: #0d9488;
+            color: white;
+            padding: 0.8rem 1.2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            text-align: center;
+            min-width: 50px;
+            transition: all 0.3s ease;
+        }
+
+        .flex-item:nth-child(2) { background: #7c3aed; }
+        .flex-item:nth-child(3) { background: #d97706; }
+        .flex-item:nth-child(4) { background: #dc2626; }
+        .flex-item:nth-child(5) { background: #3b82f6; }
+
+        .flex-item.small { padding: 0.4rem 0.8rem; font-size: 0.8rem; }
+        .flex-item.large { padding: 1.2rem 2rem; font-size: 1.1rem; }
+
+        /* ── interactive flex controls ── */
+        .flex-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            margin: 0.8rem 0;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .flex-controls select,
+        .flex-controls input[type="number"] {
+            padding: 0.4rem 0.8rem;
+            border: 2px solid #cbd5e1;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            background: white;
+            font-family: inherit;
+        }
+
+        .flex-controls select:focus,
+        .flex-controls input:focus {
+            outline: none;
+            border-color: #0d9488;
+        }
+
+        .flex-controls label {
+            font-weight: 600;
+            font-size: 0.9rem;
+            color: #134e4a;
+        }
+
+        /* ── property demo tables ── */
+
+        .prop-demo-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+
+        .prop-demo-grid .flex-container {
+            min-width: 200px;
+            flex: 1;
+        }
+
+        /* ── property controls ── */
+
+        .prop-control {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            align-items: center;
+            justify-content: center;
+            margin: 0.5rem 0;
+        }
+
+        .prop-control button {
+            padding: 0.3rem 1rem;
+            border: 2px solid #cbd5e1;
+            border-radius: 8px;
+            background: white;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+            color: #134e4a;
+        }
+
+        .prop-control button:hover {
+            background: #0d9488;
+            color: white;
+            border-color: #0d9488;
+        }
+
+        .prop-control button.active {
+            background: #0d9488;
+            color: white;
+            border-color: #0d9488;
+        }
+
+        /* ── flex item property demo ── */
+
+        .item-prop-demo .flex-item {
+            transition: all 0.4s ease;
+        }
+
+        /* ── Live flexbox example ── */
+        .live-example {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .live-example .flex-container {
+            min-height: 180px;
+        }
+
+        /* ── responsive tweaks ── */
+        .flex-container.column {
+            flex-direction: column;
+        }
+        .flex-container.row-reverse {
+            flex-direction: row-reverse;
+        }
+        .flex-container.column-reverse {
+            flex-direction: column-reverse;
+        }
+        .flex-container.nowrap {
+            flex-wrap: nowrap;
+        }
+        .flex-container.wrap-reverse {
+            flex-wrap: wrap-reverse;
+        }
+
+        .flex-container.justify-start { justify-content: flex-start; }
+        .flex-container.justify-center { justify-content: center; }
+        .flex-container.justify-end { justify-content: flex-end; }
+        .flex-container.justify-between { justify-content: space-between; }
+        .flex-container.justify-around { justify-content: space-around; }
+        .flex-container.justify-evenly { justify-content: space-evenly; }
+
+        .flex-container.align-start { align-items: flex-start; }
+        .flex-container.align-center { align-items: center; }
+        .flex-container.align-end { align-items: flex-end; }
+        .flex-container.align-stretch { align-items: stretch; }
+
+        .flex-container .flex-item.grow-1 { flex-grow: 1; }
+        .flex-container .flex-item.grow-2 { flex-grow: 2; }
+        .flex-container .flex-item.grow-3 { flex-grow: 3; }
+
+        .flex-container .flex-item.shrink-0 { flex-shrink: 0; }
+        .flex-container .flex-item.shrink-1 { flex-shrink: 1; }
+
+        .flex-container .flex-item.order-1 { order: 1; }
+        .flex-container .flex-item.order-2 { order: 2; }
+        .flex-container .flex-item.order-3 { order: 3; }
+        .flex-container .flex-item.order-4 { order: 4; }
+        .flex-container .flex-item.order-5 { order: 5; }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 1.6rem; }
+            .demo-row { gap: 1rem; }
+            .flex-container { min-height: 80px; padding: 0.6rem; }
+            .flex-item { padding: 0.5rem 0.8rem; font-size: 0.8rem; }
+            .flex-controls { flex-direction: column; align-items: stretch; }
+            .flex-controls select,
+            .flex-controls input { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ─── HEADER ─── -->
+        <h1>📐 Flexbox in CSS</h1>
+        <div class="last-updated">📅 Last Updated : 17 Mar 2025</div>
+
+        <div class="intro-text">
+            <strong>CSS Flexbox</strong> (Flexible Box Layout) is a powerful layout model that provides a more efficient
+            way to arrange, align, and distribute space among items in a container — even when their sizes are unknown or
+            dynamic. Flexbox is perfect for building <strong>responsive</strong> and <strong>dynamic</strong> user interfaces
+            with less code and fewer hacks.
+        </div>
+
+        <!-- ─── WHAT IS FLEXBOX ─── -->
+        <h2>📌 What is Flexbox?</h2>
+        <p>
+            Flexbox is a one‑dimensional layout model that allows you to control the alignment, sizing, and positioning
+            of elements within a container, regardless of their order in the HTML document. It consists of two main parts:
+        </p>
+        <ul style="margin-left:1.5rem; margin-top:0.5rem;">
+            <li><strong>Flex Container</strong> – The parent element with <code>display: flex</code> or <code>inline-flex</code>.</li>
+            <li><strong>Flex Items</strong> – The direct children of the flex container.</li>
+        </ul>
+        <p style="margin-top:0.5rem;">
+            Flexbox provides powerful properties to control:
+            <strong>direction</strong> (<code>flex-direction</code>), <strong>alignment</strong> (<code>justify-content</code>,
+            <code>align-items</code>), <strong>wrapping</strong> (<code>flex-wrap</code>), and <strong>sizing</strong>
+            (<code>flex-grow</code>, <code>flex-shrink</code>, <code>flex-basis</code>).
+        </p>
+
+        <!-- ─── BASIC EXAMPLE ─── -->
+        <h2>📖 Basic Flexbox Example</h2>
+        <div class="demo-box">
+            <div class="flex-container" style="display:flex; flex-direction:column; min-height:200px;">
+                <div class="flex-item" style="flex:1; background:lightblue; color:#134e4a;">Header (flex: 1)</div>
+                <div class="flex-item" style="flex:2; background:lightgreen; color:#134e4a;">Content (flex: 2)</div>
+                <div class="flex-item" style="flex:1; background:lightyellow; color:#134e4a;">Footer (flex: 1)</div>
+            </div>
+            <pre><code>.container {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+}
+.header { flex: 1; background: lightblue; }
+.content { flex: 2; background: lightgreen; }
+.footer { flex: 1; background: lightyellow; }</code></pre>
+            <div class="note">💡 This example shows a classic header‑content‑footer layout. The <code>flex</code> property controls how space is distributed — content takes up twice the space of the header and footer.</div>
+        </div>
+
+        <!-- ─── FEATURES ─── -->
+        <h2>⚡ Features of Flexbox</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>📐 Directional Flexibility</strong> Arrange items in rows or columns using <code>flex-direction</code>.</div>
+            <div class="feature-card"><strong>📏 Automatic Sizing</strong> Control growth and shrinkage with <code>flex-grow</code>, <code>flex-shrink</code>, and <code>flex-basis</code>.</div>
+            <div class="feature-card"><strong>🎯 Alignment Control</strong> Align items on both axes with <code>justify-content</code> and <code>align-items</code>.</div>
+            <div class="feature-card"><strong>🔄 Flexible Wrapping</strong> Wrap items onto multiple lines with <code>flex-wrap</code>.</div>
+            <div class="feature-card"><strong>📋 Order Control</strong> Change visual order without altering HTML using <code>order</code>.</div>
+            <div class="feature-card"><strong>📱 Responsive</strong> Automatically adapts to available space — ideal for responsive design.</div>
+        </div>
+
+        <!-- ─── FLEX CONTAINER PROPERTIES ─── -->
+        <h2>📋 Flex Container Properties</h2>
+
+        <h3>1. display: flex</h3>
+        <div class="demo-box">
+            <div class="flex-container" style="display:flex;">
+                <div class="flex-item">Item 1</div>
+                <div class="flex-item">Item 2</div>
+                <div class="flex-item">Item 3</div>
+            </div>
+            <pre><code>.container {
+    display: flex;  /* or inline-flex */
+}</code></pre>
+            <div class="note">🔹 <code>display: flex</code> creates a block‑level flex container. <code>inline-flex</code> creates an inline‑level flex container.</div>
+        </div>
+
+        <h3>2. flex-direction</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setFlexDirection('row')" class="active">row</button>
+                <button onclick="setFlexDirection('row-reverse')">row-reverse</button>
+                <button onclick="setFlexDirection('column')">column</button>
+                <button onclick="setFlexDirection('column-reverse')">column-reverse</button>
+            </div>
+            <div class="flex-container" id="flexDirectionDemo">
+                <div class="flex-item">1</div>
+                <div class="flex-item">2</div>
+                <div class="flex-item">3</div>
+                <div class="flex-item">4</div>
+                <div class="flex-item">5</div>
+            </div>
+            <pre><code>.container {
+    flex-direction: row;        /* default — left to right */
+    flex-direction: row-reverse; /* right to left */
+    flex-direction: column;      /* top to bottom */
+    flex-direction: column-reverse; /* bottom to top */
+}</code></pre>
+            <div class="note">📐 <code>flex-direction</code> defines the main axis — the direction in which flex items are placed.</div>
+        </div>
+
+        <h3>3. flex-wrap</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setFlexWrap('nowrap')" class="active">nowrap</button>
+                <button onclick="setFlexWrap('wrap')">wrap</button>
+                <button onclick="setFlexWrap('wrap-reverse')">wrap-reverse</button>
+            </div>
+            <div class="flex-container" id="flexWrapDemo" style="width:300px; max-width:100%;">
+                <div class="flex-item" style="width:80px;">1</div>
+                <div class="flex-item" style="width:80px;">2</div>
+                <div class="flex-item" style="width:80px;">3</div>
+                <div class="flex-item" style="width:80px;">4</div>
+                <div class="flex-item" style="width:80px;">5</div>
+                <div class="flex-item" style="width:80px;">6</div>
+            </div>
+            <pre><code>.container {
+    flex-wrap: nowrap;        /* default — no wrapping */
+    flex-wrap: wrap;          /* wrap onto multiple lines */
+    flex-wrap: wrap-reverse;  /* wrap in reverse order */
+}</code></pre>
+            <div class="note">🔄 <code>flex-wrap</code> controls whether items wrap onto multiple lines when there isn't enough space.</div>
+        </div>
+
+        <h3>4. flex-flow (shorthand)</h3>
+        <div class="demo-box">
+            <pre><code>.container {
+    flex-flow: row wrap;  /* flex-direction + flex-wrap */
+}</code></pre>
+            <div class="note">⚡ <code>flex-flow</code> is a shorthand for <code>flex-direction</code> and <code>flex-wrap</code> combined.</div>
+        </div>
+
+        <h3>5. justify-content (main axis)</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setJustifyContent('flex-start')" class="active">flex-start</button>
+                <button onclick="setJustifyContent('center')">center</button>
+                <button onclick="setJustifyContent('flex-end')">flex-end</button>
+                <button onclick="setJustifyContent('space-between')">space-between</button>
+                <button onclick="setJustifyContent('space-around')">space-around</button>
+                <button onclick="setJustifyContent('space-evenly')">space-evenly</button>
+            </div>
+            <div class="flex-container" id="justifyContentDemo">
+                <div class="flex-item">1</div>
+                <div class="flex-item">2</div>
+                <div class="flex-item">3</div>
+                <div class="flex-item">4</div>
+            </div>
+            <pre><code>.container {
+    justify-content: flex-start;   /* default — items at start */
+    justify-content: center;       /* items centered */
+    justify-content: flex-end;     /* items at end */
+    justify-content: space-between; /* equal space between items */
+    justify-content: space-around;  /* space around each item */
+    justify-content: space-evenly;  /* equal space all around */
+}</code></pre>
+            <div class="note">📏 <code>justify-content</code> aligns items along the <strong>main axis</strong> (horizontal by default).</div>
+        </div>
+
+        <h3>6. align-items (cross axis)</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setAlignItems('stretch')" class="active">stretch</button>
+                <button onclick="setAlignItems('flex-start')">flex-start</button>
+                <button onclick="setAlignItems('center')">center</button>
+                <button onclick="setAlignItems('flex-end')">flex-end</button>
+                <button onclick="setAlignItems('baseline')">baseline</button>
+            </div>
+            <div class="flex-container" id="alignItemsDemo" style="min-height:160px;">
+                <div class="flex-item" style="height:40px;">1</div>
+                <div class="flex-item" style="height:60px;">2</div>
+                <div class="flex-item" style="height:80px;">3</div>
+                <div class="flex-item" style="height:50px;">4</div>
+            </div>
+            <pre><code>.container {
+    align-items: stretch;      /* default — stretch to fill */
+    align-items: flex-start;   /* align to start of cross axis */
+    align-items: center;       /* center on cross axis */
+    align-items: flex-end;     /* align to end of cross axis */
+    align-items: baseline;     /* align by text baseline */
+}</code></pre>
+            <div class="note">📏 <code>align-items</code> aligns items along the <strong>cross axis</strong> (vertical by default).</div>
+        </div>
+
+        <h3>7. align-content (multi-line cross axis)</h3>
+        <div class="demo-box">
+            <p>Controls alignment of <strong>multiple lines</strong> when <code>flex-wrap: wrap</code> is used.</p>
+            <div class="prop-control">
+                <button onclick="setAlignContent('stretch')" class="active">stretch</button>
+                <button onclick="setAlignContent('flex-start')">flex-start</button>
+                <button onclick="setAlignContent('center')">center</button>
+                <button onclick="setAlignContent('flex-end')">flex-end</button>
+                <button onclick="setAlignContent('space-between')">space-between</button>
+                <button onclick="setAlignContent('space-around')">space-around</button>
+            </div>
+            <div class="flex-container" id="alignContentDemo" style="flex-wrap:wrap; min-height:200px; width:300px; max-width:100%;">
+                <div class="flex-item" style="width:70px; height:40px;">1</div>
+                <div class="flex-item" style="width:70px; height:40px;">2</div>
+                <div class="flex-item" style="width:70px; height:40px;">3</div>
+                <div class="flex-item" style="width:70px; height:40px;">4</div>
+                <div class="flex-item" style="width:70px; height:40px;">5</div>
+                <div class="flex-item" style="width:70px; height:40px;">6</div>
+            </div>
+            <pre><code>.container {
+    align-content: stretch;       /* default */
+    align-content: flex-start;
+    align-content: center;
+    align-content: flex-end;
+    align-content: space-between;
+    align-content: space-around;
+}</code></pre>
+            <div class="note">📐 <code>align-content</code> aligns the <strong>entire set of lines</strong> along the cross axis when there is extra space.</div>
+        </div>
+
+        <!-- ─── FLEX ITEM PROPERTIES ─── -->
+        <h2>📋 Flex Item Properties</h2>
+
+        <h3>1. flex-grow</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setFlexGrow('equal')">Equal (1:1:1)</button>
+                <button onclick="setFlexGrow('unequal')">Unequal (1:2:3)</button>
+                <button onclick="setFlexGrow('none')">None (0)</button>
+            </div>
+            <div class="flex-container" id="flexGrowDemo">
+                <div class="flex-item" id="grow1">1</div>
+                <div class="flex-item" id="grow2">2</div>
+                <div class="flex-item" id="grow3">3</div>
+            </div>
+            <pre><code>.item-1 { flex-grow: 1; }
+.item-2 { flex-grow: 2; }
+.item-3 { flex-grow: 3; }
+
+/* flex-grow: 0 — item does NOT grow */</code></pre>
+            <div class="note">📈 <code>flex-grow</code> controls how much an item grows relative to others. A value of <code>0</code> means it won't grow.</div>
+        </div>
+
+        <h3>2. flex-shrink</h3>
+        <div class="demo-box">
+            <p>Controls how an item shrinks when there isn't enough space.</p>
+            <div class="flex-container" style="width:300px; max-width:100%;" id="flexShrinkDemo">
+                <div class="flex-item" style="width:150px; flex-shrink:0;" id="shrink1">No shrink</div>
+                <div class="flex-item" style="width:150px; flex-shrink:1;" id="shrink2">Shrink</div>
+                <div class="flex-item" style="width:150px; flex-shrink:2;" id="shrink3">Shrink 2x</div>
+            </div>
+            <pre><code>.item-1 { flex-shrink: 0; }  /* will NOT shrink */
+.item-2 { flex-shrink: 1; }  /* will shrink (default) */
+.item-3 { flex-shrink: 2; }  /* shrinks twice as much */</code></pre>
+            <div class="note">📉 <code>flex-shrink</code> controls how much an item shrinks. The default is <code>1</code>. <code>0</code> prevents shrinking.</div>
+        </div>
+
+        <h3>3. flex-basis</h3>
+        <div class="demo-box">
+            <pre><code>.item {
+    flex-basis: 100px;  /* initial size before grow/shrink */
+    flex-basis: 30%;    /* percentage of parent */
+    flex-basis: auto;   /* default — based on content */
+}</code></pre>
+            <div class="note">📐 <code>flex-basis</code> sets the initial main size of a flex item before <code>flex-grow</code> and <code>flex-shrink</code> are applied.</div>
+        </div>
+
+        <h3>4. flex (shorthand)</h3>
+        <div class="demo-box">
+            <pre><code>.item {
+    flex: 1;           /* flex-grow: 1, flex-shrink: 1, flex-basis: 0% */
+    flex: 2 1 100px;   /* grow: 2, shrink: 1, basis: 100px */
+    flex: 0 0 auto;    /* no grow, no shrink, auto basis */
+    flex: 1 0 auto;    /* grow: 1, no shrink, auto basis — common */
+}</code></pre>
+            <div class="note">⚡ <code>flex</code> is the recommended shorthand. <code>flex: 1</code> is commonly used for equal‑sized items.</div>
+        </div>
+
+        <h3>5. align-self</h3>
+        <div class="demo-box">
+            <p>Overrides <code>align-items</code> for individual items.</p>
+            <div class="flex-container" style="min-height:160px;">
+                <div class="flex-item" style="height:40px; align-self:flex-start;">start</div>
+                <div class="flex-item" style="height:60px; align-self:center;">center</div>
+                <div class="flex-item" style="height:80px; align-self:flex-end;">end</div>
+                <div class="flex-item" style="height:50px; align-self:stretch;">stretch</div>
+            </div>
+            <pre><code>.item-1 { align-self: flex-start; }
+.item-2 { align-self: center; }
+.item-3 { align-self: flex-end; }
+.item-4 { align-self: stretch; }</code></pre>
+            <div class="note">🎯 <code>align-self</code> allows individual items to override the container's <code>align-items</code>.</div>
+        </div>
+
+        <h3>6. order</h3>
+        <div class="demo-box">
+            <div class="prop-control">
+                <button onclick="setOrder('default')">Default (1,2,3,4,5)</button>
+                <button onclick="setOrder('reversed')">Reversed (5,4,3,2,1)</button>
+                <button onclick="setOrder('custom')">Custom (3,1,4,2,5)</button>
+            </div>
+            <div class="flex-container" id="orderDemo">
+                <div class="flex-item" data-order="1">1</div>
+                <div class="flex-item" data-order="2">2</div>
+                <div class="flex-item" data-order="3">3</div>
+                <div class="flex-item" data-order="4">4</div>
+                <div class="flex-item" data-order="5">5</div>
+            </div>
+            <pre><code>.item-1 { order: 1; }  /* default is 0 */
+.item-2 { order: 2; }
+/* Lower order values appear first */</code></pre>
+            <div class="note">📋 <code>order</code> changes the visual order of items without altering the HTML. Default is <code>0</code>.</div>
+        </div>
+
+        <!-- ─── LIVE INTERACTIVE SANDBOX ─── -->
+        <h2>🎮 Live Flexbox Sandbox</h2>
+        <div class="demo-box">
+            <p>Experiment with flex properties in real‑time!</p>
+            <div class="live-example">
+                <div class="flex-controls">
+                    <label>flex-direction:</label>
+                    <select id="liveDirection" onchange="updateLiveFlex()">
+                        <option value="row">row</option>
+                        <option value="row-reverse">row-reverse</option>
+                        <option value="column">column</option>
+                        <option value="column-reverse">column-reverse</option>
+                    </select>
+                    <label>justify-content:</label>
+                    <select id="liveJustify" onchange="updateLiveFlex()">
+                        <option value="flex-start">flex-start</option>
+                        <option value="center">center</option>
+                        <option value="flex-end">flex-end</option>
+                        <option value="space-between">space-between</option>
+                        <option value="space-around">space-around</option>
+                        <option value="space-evenly">space-evenly</option>
+                    </select>
+                    <label>align-items:</label>
+                    <select id="liveAlign" onchange="updateLiveFlex()">
+                        <option value="stretch">stretch</option>
+                        <option value="flex-start">flex-start</option>
+                        <option value="center">center</option>
+                        <option value="flex-end">flex-end</option>
+                    </select>
+                </div>
+                <div class="flex-controls">
+                    <label>flex-wrap:</label>
+                    <select id="liveWrap" onchange="updateLiveFlex()">
+                        <option value="nowrap">nowrap</option>
+                        <option value="wrap">wrap</option>
+                        <option value="wrap-reverse">wrap-reverse</option>
+                    </select>
+                    <label>gap:</label>
+                    <input type="number" id="liveGap" value="8" min="0" max="40" onchange="updateLiveFlex()" style="width:60px;" /> px
+                    <label>Item count:</label>
+                    <input type="number" id="liveCount" value="5" min="2" max="12" onchange="updateLiveFlex()" style="width:60px;" />
+                </div>
+                <div class="flex-container" id="liveFlexContainer" style="min-height:180px; transition:all 0.3s ease;">
+                    <!-- Items will be inserted by JS -->
+                </div>
+                <pre id="liveCode" style="margin-top:0.5rem; font-size:0.8rem; background:#0f172a; color:#e2e8f0; padding:0.8rem; border-radius:12px; overflow-x:auto;"></pre>
+            </div>
+            <div class="note">🛠️ Tweak the properties above and see the layout update instantly. This is a great way to learn how flex properties interact!</div>
+        </div>
+
+        <!-- ─── WHY USE FLEXBOX ─── -->
+        <h2>🤔 Why Use Flexbox?</h2>
+        <div class="feature-grid">
+            <div class="feature-card"><strong>📱 Responsive Layouts</strong> Automatically adjusts to screen size.</div>
+            <div class="feature-card"><strong>🎯 Easy Centering</strong> Perfect vertical and horizontal centering.</div>
+            <div class="feature-card"><strong>📋 Order Control</strong> Rearrange elements visually without touching HTML.</div>
+            <div class="feature-card"><strong>🧩 Complex Layouts</strong> Nest containers for multi‑dimensional designs.</div>
+            <div class="feature-card"><strong>🚫 Fewer Hacks</strong> No need for floats, tables, or positioning tricks.</div>
+            <div class="feature-card"><strong>🌐 Cross‑browser</strong> Widely supported in all modern browsers.</div>
+        </div>
+
+        <!-- ─── LIMITATIONS ─── -->
+        <h2>⚠️ Limitations of Flexbox</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Single‑axis control:</strong> Flexbox works in one dimension at a time (row or column). For full 2D control, use CSS Grid.</li>
+                <li><strong>No native grid alignment:</strong> Lacks built‑in support for consistent rows and columns across both axes.</li>
+                <li><strong>Gap/gutter support:</strong> Modern Flexbox supports <code>gap</code>, but older browsers require margins.</li>
+                <li><strong>Content overflow:</strong> May overflow if content exceeds available space — use <code>overflow</code> or <code>min-width</code> / <code>max-width</code>.</li>
+            </ul>
+        </div>
+
+        <!-- ─── BROWSER SUPPORT ─── -->
+        <h2>🌐 Browser Support</h2>
+        <table class="op-table">
+            <thead>
+                <tr><th>Browser</th><th>Support</th><th>Notes</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>Chrome / Edge</td><td>✅ Full</td><td>Supported since Chrome 29 / Edge 12</td></tr>
+                <tr><td>Firefox</td><td>✅ Full</td><td>Supported since Firefox 28</td></tr>
+                <tr><td>Safari</td><td>✅ Full</td><td>Supported since Safari 9 (with -webkit- prefix)</td></tr>
+                <tr><td>Opera</td><td>✅ Full</td><td>Supported since Opera 17</td></tr>
+                <tr><td>Internet Explorer</td><td>⚠️ Partial</td><td>IE 10+ supports with -ms- prefix (buggy); IE 9 and below do not</td></tr>
+            </tbody>
+        </table>
+        <div class="warning">
+            ⚠️ For older browsers, use vendor prefixes (<code>-webkit-</code>, <code>-ms-</code>) and provide fallbacks.
+            Consider using <code>@supports</code> for feature detection.
+        </div>
+
+        <!-- ─── BEST PRACTICES ─── -->
+        <h2>📌 Best Practices</h2>
+        <div class="demo-box">
+            <ul style="margin-left:1.5rem;">
+                <li><strong>Use <code>flex: 1</code> for equal‑sized items:</strong> This is the most common use case for distributing space evenly.</li>
+                <li><strong>Set <code>min-width</code> / <code>min-height</code>:</strong> Prevents items from shrinking too much.</li>
+                <li><strong>Use <code>gap</code> for spacing:</strong> Modern browsers support <code>gap</code> on flex containers — cleaner than margins.</li>
+                <li><strong>Avoid over‑nesting:</strong> Use CSS Grid for complex 2D layouts rather than deeply nested flex containers.</li>
+                <li><strong>Use <code>flex-wrap: wrap</code> for responsiveness:</strong> Items will wrap to the next line on smaller screens.</li>
+                <li><strong>Test with different content lengths:</strong> Ensure your layout works with both short and long content.</li>
+            </ul>
+        </div>
+
+        <!-- ─── ACCESSIBILITY ─── -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ♿ <strong>Accessibility Tip:</strong> Flexbox changes the visual order of elements, but screen readers still
+            follow the HTML source order. When using <code>order</code> or <code>row-reverse</code>, ensure the logical
+            (source) order matches the visual order for keyboard navigation and screen reader users.
+        </div>
+
+        <!-- ─── CONCLUSION ─── -->
+        <div class="intro-text" style="background:#f0fdfa; border-left-color:#14b8a6; margin-top:2rem;">
+            ✅ <strong>Conclusion:</strong> CSS Flexbox is an essential tool for modern web development, providing a robust
+            way to create responsive, flexible layouts with minimal code. By mastering its properties — from
+            <code>flex-direction</code> and <code>justify-content</code> to <code>flex-grow</code> and <code>order</code> —
+            you can build dynamic UIs that adapt seamlessly to any screen size. Use it alongside CSS Grid for the ultimate
+            layout toolkit.
+        </div>
+
+        <footer>
+            📐 CSS Flexbox – Build flexible, responsive layouts with ease.
+        </footer>
+
+    </div>
+
+    <!-- ─── SCRIPTS ─── -->
+    <script>
+        // ── Flex Direction ──
+        function setFlexDirection(value) {
+            const container = document.getElementById('flexDirectionDemo');
+            container.className = 'flex-container ' + value;
+            document.querySelectorAll('#flexDirectionDemo ~ .prop-control button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // ── Flex Wrap ──
+        function setFlexWrap(value) {
+            const container = document.getElementById('flexWrapDemo');
+            container.className = 'flex-container ' + value;
+            document.querySelectorAll('#flexWrapDemo ~ .prop-control button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // ── Justify Content ──
+        function setJustifyContent(value) {
+            const container = document.getElementById('justifyContentDemo');
+            container.className = 'flex-container justify-' + value;
+            document.querySelectorAll('#justifyContentDemo ~ .prop-control button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // ── Align Items ──
+        function setAlignItems(value) {
+            const container = document.getElementById('alignItemsDemo');
+            container.className = 'flex-container align-' + value;
+            document.querySelectorAll('#alignItemsDemo ~ .prop-control button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // ── Align Content ──
+        function setAlignContent(value) {
+            const container = document.getElementById('alignContentDemo');
+            container.className = 'flex-container align-content-' + value;
+            document.querySelectorAll('#alignContentDemo ~ .prop-control button').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // ── Flex Grow ──
+        function setFlexGrow(mode) {
+            const items = document.querySelectorAll('#flexGrowDemo .flex-item');
+            if (mode === 'equal') {
+                items.forEach(el => el.style.flexGrow = '1');
+            } else if (mode === 'unequal') {
+                items[0].style.flexGrow = '1';
+                items[1].style.flexGrow = '2';
+                items[2].style.flexGrow = '3';
+            } else {
+                items.forEach(el => el.style.flexGrow = '0');
+            }
+        }
+
+        // ── Order ──
+        function setOrder(mode) {
+            const container = document.getElementById('orderDemo');
+            const items = container.querySelectorAll('.flex-item');
+            if (mode === 'default') {
+                items.forEach(el => { el.style.order = '0'; });
+                container.style.flexDirection = 'row';
+            } else if (mode === 'reversed') {
+                items.forEach((el, i) => { el.style.order = (items.length - i).toString(); });
+            } else {
+                const orders = [3, 1, 4, 2, 5];
+                items.forEach((el, i) => { el.style.order = orders[i]; });
+            }
+        }
+
+        // ── Live Flexbox Sandbox ──
+        function updateLiveFlex() {
+            const container = document.getElementById('liveFlexContainer');
+            const direction = document.getElementById('liveDirection').value;
+            const justify = document.getElementById('liveJustify').value;
+            const align = document.getElementById('liveAlign').value;
+            const wrap = document.getElementById('liveWrap').value;
+            const gap = document.getElementById('liveGap').value;
+            const count = parseInt(document.getElementById('liveCount').value) || 5;
+
+            // Clear and recreate items
+            container.innerHTML = '';
+            const colors = ['#0d9488', '#7c3aed', '#d97706', '#dc2626', '#3b82f6', '#ec4899', '#8b5cf6', '#f59e0b', '#14b8a6', '#ef4444', '#8b5cf6', '#22c55e'];
+            for (let i = 1; i <= count; i++) {
+                const item = document.createElement('div');
+                item.className = 'flex-item';
+                item.textContent = i;
+                item.style.backgroundColor = colors[(i - 1) % colors.length];
+                container.appendChild(item);
+            }
+
+            // Apply styles
+            container.style.flexDirection = direction;
+            container.style.justifyContent = justify;
+            container.style.alignItems = align;
+            container.style.flexWrap = wrap;
+            container.style.gap = gap + 'px';
+
+            // Update code preview
+            const code = document.getElementById('liveCode');
+            code.textContent =
+                \`.flex-container {\n  display: flex;\n  flex-direction: \${direction};\n  justify-content: \${justify};\n  align-items: \${align};\n  flex-wrap: \${wrap};\n  gap: \${gap}px;\n}\`;
+        }
+
+        // ── Init live sandbox ──
+        document.addEventListener('DOMContentLoaded', function() {
+            updateLiveFlex();
+        });
+
+        // ── Fix event handling for buttons ──
+        document.querySelectorAll('.prop-control button').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                // Remove active class from siblings
+                const parent = this.closest('.prop-control');
+                parent.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+
+        // Override setFlexDirection to handle active state
+        const origSetFlexDirection = setFlexDirection;
+        setFlexDirection = function(value) {
+            origSetFlexDirection(value);
+            const container = document.getElementById('flexDirectionDemo');
+            container.className = 'flex-container ' + value;
+        };
+
+        // Override other set functions similarly
+        const origSetFlexWrap = setFlexWrap;
+        setFlexWrap = function(value) {
+            origSetFlexWrap(value);
+            const container = document.getElementById('flexWrapDemo');
+            container.className = 'flex-container ' + value;
+        };
+
+        const origSetJustifyContent = setJustifyContent;
+        setJustifyContent = function(value) {
+            origSetJustifyContent(value);
+            const container = document.getElementById('justifyContentDemo');
+            container.className = 'flex-container justify-' + value;
+        };
+
+        const origSetAlignItems = setAlignItems;
+        setAlignItems = function(value) {
+            origSetAlignItems(value);
+            const container = document.getElementById('alignItemsDemo');
+            container.className = 'flex-container align-' + value;
+        };
+
+        const origSetAlignContent = setAlignContent;
+        setAlignContent = function(value) {
+            origSetAlignContent(value);
+            const container = document.getElementById('alignContentDemo');
+            container.className = 'flex-container align-content-' + value;
+        };
+    </script>
+
+</body>
+</html>
+
+
+                  `
+            },
+
+            {
+              id: "CSS-Flex-Direction",
+              name: "CSS Flex Direction",
+              description:  String.raw `
+
+
+                  `
+            },
+
+            
+
+
 
             
 

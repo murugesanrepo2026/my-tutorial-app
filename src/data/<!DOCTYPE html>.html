@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Cookies – Complete Guide</title>
+    <style>
+        /* ── Reset & Base ── */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: #f4f7fc;
+            color: #1e2a3a;
+            padding: 2rem;
+            line-height: 1.6;
+            transition: background-color 0.3s ease;
+        }
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 24px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.10);
+            padding: 2rem 2rem 2.5rem 2rem;
+        }
+
+        /* ── Typography ── */
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            border-left: 6px solid #f97316;
+            padding-left: 1.2rem;
+            margin-bottom: 0.3rem;
+            color: #0b3b4f;
+        }
+        .last-updated {
+            color: #f97316;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 0.75rem;
+        }
+        .intro-text {
+            background: #fff7ed;
+            padding: 1.2rem 1.8rem;
+            border-radius: 20px;
+            margin: 1.5rem 0;
+            border-left: 5px solid #f97316;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-top: 2.2rem;
+            margin-bottom: 1rem;
+            color: #0f4c5f;
+            border-bottom: 3px solid #cbd5e1;
+            padding-bottom: 0.4rem;
+        }
+        h3 {
+            font-size: 1.4rem;
+            margin: 1.5rem 0 0.8rem 0;
+            color: #1e4a5f;
+            display: inline-block;
+            background: #f1f5f9;
+            padding: 0.2rem 1rem;
+            border-radius: 40px;
+        }
+        h4 {
+            font-size: 1.1rem;
+            margin: 1.2rem 0 0.5rem 0;
+            color: #1e4a5f;
+        }
+
+        /* ── Quick Nav ── */
+        .quick-nav {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 0.6rem;
+            margin: 1.5rem 0;
+        }
+        .quick-nav a {
+            display: block;
+            background: #f1f5f9;
+            padding: 0.5rem 0.8rem;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #1e2a3a;
+            font-weight: 500;
+            border-left: 4px solid #f97316;
+            font-size: 0.78rem;
+            transition: 0.2s;
+        }
+        .quick-nav a:hover {
+            background: #f97316;
+            color: white;
+            transform: translateX(5px);
+        }
+
+        /* ── How Cookies Work ── */
+        .workflow {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        .workflow-step {
+            background: #f1f5f9;
+            padding: 1.2rem;
+            border-radius: 16px;
+            text-align: center;
+            border: 1px solid #e2e8f0;
+        }
+        .workflow-step .step-num {
+            display: inline-block;
+            background: #f97316;
+            color: white;
+            width: 32px;
+            height: 32px;
+            line-height: 32px;
+            border-radius: 50%;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        .workflow-step p {
+            font-size: 0.9rem;
+            margin-top: 0.3rem;
+        }
+
+        /* ── Cards ── */
+        .demo-card {
+            background: #f8fafc;
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            border: 1px solid #e2e8f0;
+        }
+        .demo-card .badge {
+            display: inline-block;
+            font-weight: 700;
+            font-size: 0.75rem;
+            padding: 0.15rem 0.7rem;
+            border-radius: 20px;
+            background: #0ea5e9;
+            color: white;
+            margin-right: 0.5rem;
+        }
+        .demo-card .badge.orange {
+            background: #f97316;
+        }
+        .demo-card .badge.green {
+            background: #6db33f;
+        }
+        .demo-card .badge.purple {
+            background: #8b5cf6;
+        }
+
+        .demo-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.8rem;
+            margin: 0.8rem 0 1.2rem 0;
+        }
+        .demo-buttons input[type="button"],
+        .demo-buttons button {
+            background: #0f172a;
+            color: white;
+            border: none;
+            padding: 0.5rem 1.2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.2s;
+            font-size: 0.85rem;
+        }
+        .demo-buttons input[type="button"]:hover,
+        .demo-buttons button:hover {
+            background: #f97316;
+            transform: scale(1.02);
+        }
+        .demo-buttons input[type="button"].danger:hover,
+        .demo-buttons button.danger:hover {
+            background: #dc2626;
+        }
+
+        .cookie-status {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 0.6rem 1.2rem;
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 0.85rem;
+            margin: 0.6rem 0;
+            min-height: 2.8rem;
+            word-break: break-all;
+        }
+
+        pre {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 1rem;
+            border-radius: 16px;
+            overflow-x: auto;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 0.8rem 0;
+        }
+
+        .note-info {
+            background: #e6f0fa;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #2563eb;
+            margin: 1rem 0;
+        }
+        .note-warning {
+            background: #fef3c7;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #f59e0b;
+            margin: 1rem 0;
+        }
+        .note-success {
+            background: #eaf7e6;
+            padding: 0.8rem 1.2rem;
+            border-radius: 12px;
+            border-left: 4px solid #6db33f;
+            margin: 1rem 0;
+        }
+
+        .compile-btn {
+            display: inline-block;
+            background-color: #f97316;
+            color: #fff;
+            border-radius: 8px;
+            padding: 0.6rem 1.2rem;
+            font-weight: 600;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            font-size: 0.95rem;
+        }
+        .compile-btn:hover {
+            background-color: #ea580c;
+        }
+
+        /* ── Color picker preview ── */
+        .color-preview {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin: 0.8rem 0;
+        }
+        .color-preview select {
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            border: 1px solid #cbd5e1;
+            font-size: 0.9rem;
+            background: white;
+        }
+        .color-swatch {
+            width: 40px;
+            height: 40px;
+            border-radius: 8px;
+            border: 2px solid #e2e8f0;
+            transition: background-color 0.3s ease;
+        }
+
+        footer {
+            margin-top: 2.5rem;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #5b6e8c;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        /* ── Responsive ── */
+        @media (max-width: 768px) {
+            .workflow {
+                grid-template-columns: 1fr;
+            }
+            body {
+                padding: 1rem;
+            }
+            .container {
+                padding: 1rem;
+            }
+            h1 {
+                font-size: 1.6rem;
+                padding-left: 0.8rem;
+            }
+            .quick-nav {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        @media (max-width: 480px) {
+            .quick-nav {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- ====== HEADER ====== -->
+        <h1>🍪 JavaScript Cookies</h1>
+        <div class="last-updated">📅 Last Updated : 11 Jun 2026</div>
+
+        <!-- ====== INTRO ====== -->
+        <div class="intro-text">
+            <strong>A cookie</strong> is a small piece of information that persists between a server and a client.
+            Web browsers store this information at the time of browsing. Cookies are typically stored as
+            <strong>name-value pairs</strong> separated by semicolons.
+            <br /><br />
+            They help <strong>maintain user state</strong> and remember user information across all web pages,
+            enabling features like session management, personalization, and tracking.
+        </div>
+
+        <!-- ====== QUICK NAV ====== -->
+        <div class="quick-nav">
+            <a href="#how-it-works">⚙️ How Cookies Work</a>
+            <a href="#example1">📝 Example 1</a>
+            <a href="#example2">🔍 Example 2</a>
+            <a href="#example3">🎨 Example 3</a>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== HOW COOKIES WORK ====== -->
+        <h2 id="how-it-works">⚙️ How Cookies Work</h2>
+        <p>
+            Cookies enable the server to recognize returning users. Here's the step-by-step flow:
+        </p>
+
+        <div class="workflow">
+            <div class="workflow-step">
+                <div class="step-num">1</div>
+                <strong>User sends request</strong>
+                <p>Browser sends a request to the server. Each request is treated as a new user unless a cookie identifies them.</p>
+            </div>
+            <div class="workflow-step">
+                <div class="step-num">2</div>
+                <strong>Server sets cookie</strong>
+                <p>The server adds a <code>Set-Cookie</code> header in the response. The browser stores it locally.</p>
+            </div>
+            <div class="workflow-step">
+                <div class="step-num">3</div>
+                <strong>Cookie sent automatically</strong>
+                <p>On subsequent requests, the browser automatically includes the cookie in the request header, allowing the server to recognize the user.</p>
+            </div>
+        </div>
+
+        <div class="note-info">
+            <strong>📌 Key Point:</strong> In JavaScript, cookies are accessed and manipulated via the
+            <code>document.cookie</code> property. You can create, read, update, and delete cookies using this interface.
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== EXAMPLE 1 ====== -->
+        <h2 id="example1">📝 Example 1: Setting &amp; Retrieving a Cookie</h2>
+        <p>
+            This example demonstrates how to create a cookie using JavaScript and retrieve its value.
+            Click the buttons below to set and display the cookie.
+        </p>
+
+        <div class="demo-card">
+            <h4><span class="badge">Basic</span> Set &amp; Get Cookie</h4>
+
+            <div class="demo-buttons">
+                <input type="button" value="🍪 Set Cookie" onclick="setBasicCookie()" />
+                <input type="button" value="🔍 Get Cookie" onclick="getBasicCookie()" />
+                <input type="button" value="🗑️ Delete Cookie" onclick="deleteBasicCookie()" class="danger" />
+            </div>
+
+            <div class="cookie-status" id="cookieStatusBasic">No cookie set yet.</div>
+
+            <pre>
+                function setBasicCookie() {
+                document.cookie = "username=Duke Martin";
+                }
+
+                function getBasicCookie() {
+                if (document.cookie.length != 0) {
+                alert(document.cookie);
+                } else {
+                alert("Cookie not available");
+                }
+                }
+
+                function deleteBasicCookie() {
+                document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+                location.reload();
+                }
+            </pre>
+
+            <div class="note-success">
+                <strong>✅ Result:</strong> When you click <strong>"Set Cookie"</strong>, a cookie named
+                <code>username</code> with value <code>Duke Martin</code> is stored. Click
+                <strong>"Get Cookie"</strong> to display the full cookie string.
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== EXAMPLE 2 ====== -->
+        <h2 id="example2">🔍 Example 2: Displaying Name &amp; Value Separately</h2>
+        <p>
+            This example shows how to split the cookie string into its name and value parts, displaying them individually.
+        </p>
+
+        <div class="demo-card">
+            <h4><span class="badge orange">Parsing</span> Name &amp; Value Split</h4>
+
+            <div class="demo-buttons">
+                <input type="button" value="🍪 Set Cookie" onclick="setSplitCookie()" />
+                <input type="button" value="🔍 Get Cookie (split)" onclick="getSplitCookie()" />
+                <input type="button" value="🗑️ Delete Cookie" onclick="deleteSplitCookie()" class="danger" />
+            </div>
+
+            <div class="cookie-status" id="cookieStatusSplit">No cookie set yet.</div>
+
+            <pre>
+                function setSplitCookie() {
+                document.cookie = "username=Duke Martin";
+                }
+
+                function getSplitCookie() {
+                if (document.cookie.length != 0) {
+                var array = document.cookie.split("=");
+                alert("Name=" + array[0] + " " + "Value=" + array[1]);
+                } else {
+                alert("Cookie not available");
+                }
+                }
+
+                function deleteSplitCookie() {
+                document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+                location.reload();
+                }
+            </pre>
+
+            <div class="note-info">
+                <strong>💡 Tip:</strong> Splitting the cookie string with <code>split("=")</code> gives you
+                <code>array[0]</code> as the name and <code>array[1]</code> as the value. This is useful when you
+                need to work with the cookie data programmatically.
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== EXAMPLE 3 ====== -->
+        <h2 id="example3">🎨 Example 3: Storing User Preferences (Background Color)</h2>
+        <p>
+            This example demonstrates how cookies can remember a user's preference — in this case, a selected
+            background color. The choice is stored in a cookie and automatically applied when the page reloads.
+        </p>
+
+        <div class="demo-card" style="background: #f8fafc;" id="prefDemoCard">
+            <h4><span class="badge purple">Preference</span> Remember Background Color</h4>
+
+            <div class="color-preview">
+                <label for="colorSelect" style="font-weight:600;">Choose background color:</label>
+                <select id="colorSelect" onchange="applyColorPreference()">
+                    <option value="Select Color">Select Color</option>
+                    <option value="#fef9c3">Yellow</option>
+                    <option value="#dcfce7">Green</option>
+                    <option value="#fee2e2">Red</option>
+                    <option value="#dbeafe">Blue</option>
+                    <option value="#f3e8ff">Purple</option>
+                    <option value="#ffffff">White (default)</option>
+                </select>
+                <div class="color-swatch" id="colorSwatch" style="background: #ffffff;"></div>
+                <span style="font-size:0.85rem; color:#5b6e8c;">(preview)</span>
+            </div>
+
+            <div class="demo-buttons">
+                <input type="button" value="🎨 Apply &amp; Save Color" onclick="applyColorPreference()" />
+                <input type="button" value="🗑️ Clear Preference" onclick="clearColorPreference()" class="danger" />
+                <input type="button" value="🔄 Reload Page (retains color)" onclick="location.reload()" />
+            </div>
+
+            <div class="cookie-status" id="cookieStatusPref">No color preference stored.</div>
+
+            <pre>
+                function applyColorPreference() {
+                var select = document.getElementById("colorSelect");
+                var value = select.value;
+                if (value != "Select Color") {
+                document.bgColor = value;
+                // Also update the swatch
+                document.getElementById("colorSwatch").style.backgroundColor = value;
+                document.cookie = "color=" + value;
+                }
+                }
+
+                window.onload = function() {
+                if (document.cookie.length != 0) {
+                var array = document.cookie.split("=");
+                if (array[0] === "color") {
+                var color = array[1];
+                document.bgColor = color;
+                document.getElementById("colorSelect").value = color;
+                document.getElementById("colorSwatch").style.backgroundColor = color;
+                }
+                }
+                }
+
+                function clearColorPreference() {
+                document.cookie = "color=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+                document.bgColor = "#ffffff";
+                document.getElementById("colorSelect").value = "Select Color";
+                document.getElementById("colorSwatch").style.backgroundColor = "#ffffff";
+                location.reload();
+                }
+            </pre>
+
+            <div class="note-success">
+                <strong>🎯 How it works:</strong>
+                <ol style="margin-left:1.5rem; margin-top:0.3rem;">
+                    <li>Select a color from the dropdown and click <strong>"Apply &amp; Save Color"</strong>.</li>
+                    <li>The color is saved in a cookie named <code>color</code>.</li>
+                    <li>When you reload the page, the <code>window.onload</code> event reads the cookie and
+                        automatically restores your preferred background color.</li>
+                </ol>
+            </div>
+
+            <div class="note-warning">
+                <strong>⚠️ Note:</strong> The background color change is applied to the <strong>entire page</strong>
+                (including the container). This demo uses <code>document.bgColor</code> for simplicity.
+                In modern applications, you'd typically use CSS variables or class-based theming.
+            </div>
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== COOKIE ATTRIBUTES REFERENCE ====== -->
+        <h2>📋 Cookie Attributes – Quick Reference</h2>
+
+        <div style="overflow-x: auto; margin: 1.5rem 0;">
+            <table style="width:100%; border-collapse: collapse; font-size:0.9rem; background:#f8fafc; border-radius:16px; overflow:hidden;">
+                <thead>
+                    <tr style="background:#0f172a; color:white;">
+                        <th style="padding:0.8rem 1rem; text-align:left;">Attribute</th>
+                        <th style="padding:0.8rem 1rem; text-align:left;">Description</th>
+                        <th style="padding:0.8rem 1rem; text-align:left;">Example</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="border-bottom:1px solid #e2e8f0;">
+                        <td style="padding:0.8rem 1rem; font-weight:700; color:#0ea5e9;">expires</td>
+                        <td style="padding:0.8rem 1rem;">Cookie valid until a specific date &amp; time</td>
+                        <td style="padding:0.8rem 1rem; font-family:monospace; font-size:0.8rem;">expires=Sun, 20 Aug 2030 12:00:00 UTC</td>
+                    </tr>
+                    <tr style="border-bottom:1px solid #e2e8f0;">
+                        <td style="padding:0.8rem 1rem; font-weight:700; color:#f97316;">max-age</td>
+                        <td style="padding:0.8rem 1rem;">Cookie valid for a duration in seconds</td>
+                        <td style="padding:0.8rem 1rem; font-family:monospace; font-size:0.8rem;">max-age=31536000</td>
+                    </tr>
+                    <tr style="border-bottom:1px solid #e2e8f0;">
+                        <td style="padding:0.8rem 1rem; font-weight:700; color:#6db33f;">path</td>
+                        <td style="padding:0.8rem 1rem;">Defines the URL path where cookie is accessible</td>
+                        <td style="padding:0.8rem 1rem; font-family:monospace; font-size:0.8rem;">path=/</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:0.8rem 1rem; font-weight:700; color:#8b5cf6;">domain</td>
+                        <td style="padding:0.8rem 1rem;">Specifies the domain (and subdomains) for the cookie</td>
+                        <td style="padding:0.8rem 1rem; font-family:monospace; font-size:0.8rem;">domain=example.com</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="note-info">
+            <strong>📚 Learn more:</strong> For a deeper dive into cookie attributes like
+            <code>expires</code>, <code>max-age</code>, <code>path</code>, and <code>domain</code>,
+            check out the <strong>JavaScript Cookie Attributes</strong> guide.
+        </div>
+
+        <!-- ============================================================ -->
+        <!-- ====== CONCLUSION ====== -->
+        <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
+            ✅ <strong>Conclusion:</strong> JavaScript cookies are a fundamental tool for maintaining state,
+            remembering user preferences, and enabling personalized web experiences.
+            <br /><br />
+            <strong>Best practices:</strong>
+            <ul style="margin-left:1.5rem; margin-top:0.5rem;">
+                <li>Keep cookies small (under 4KB).</li>
+                <li>Never store sensitive information (passwords, credit cards) in cookies.</li>
+                <li>Use <code>Secure</code> and <code>HttpOnly</code> flags for enhanced security.</li>
+                <li>Always set an expiration (or use <code>max-age</code>) for persistent cookies.</li>
+                <li>Consider using <code>path=/</code> to make cookies available site-wide.</li>
+            </ul>
+        </div>
+
+        <div style="text-align: center; margin-top: 2rem;">
+            <a href="https://www.dreamztouch.in/compiler/javascript" target="_blank" class="compile-btn">▶ Open JavaScript Compiler</a>
+        </div>
+
+        <footer>
+            JavaScript Cookies – Complete Guide | Create · Read · Update · Delete · Preferences
+        </footer>
+
+    </div>
+
+    <!-- ============================================================ -->
+    <!-- ====== JAVASCRIPT – DEMO FUNCTIONS ====== -->
+    <script>
+        // ── Shared helper to update status displays ──
+        function updateStatus(id, message) {
+            const el = document.getElementById(id);
+            if (el) el.textContent = message;
+        }
+
+        function refreshAllStatuses() {
+            const cookie = document.cookie;
+            const msg = cookie.length !== 0 ? '🍪 Current cookie: ' + cookie : '❌ No cookie set.';
+            updateStatus('cookieStatusBasic', msg);
+            updateStatus('cookieStatusSplit', msg);
+            // For the preference demo, we show a more specific message
+            if (document.cookie.indexOf('color=') !== -1) {
+                const parts = document.cookie.split('=');
+                if (parts[0] === 'color') {
+                    updateStatus('cookieStatusPref', '🎨 Color preference saved: ' + parts[1]);
+                }
+            } else {
+                updateStatus('cookieStatusPref', 'No color preference stored.');
+            }
+        }
+
+        // ── EXAMPLE 1: Basic Set / Get ──
+        function setBasicCookie() {
+            document.cookie = "username=Duke Martin";
+            refreshAllStatuses();
+            alert("✅ Cookie set: username=Duke Martin");
+        }
+
+        function getBasicCookie() {
+            if (document.cookie.length !== 0) {
+                alert("📦 Full cookie: " + document.cookie);
+            } else {
+                alert("❌ Cookie not available");
+            }
+            refreshAllStatuses();
+        }
+
+        function deleteBasicCookie() {
+            document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+            refreshAllStatuses();
+            alert("🗑️ Cookie deleted. Page will reload.");
+            location.reload();
+        }
+
+        // ── EXAMPLE 2: Split Name / Value ──
+        function setSplitCookie() {
+            document.cookie = "username=Duke Martin";
+            refreshAllStatuses();
+            alert("✅ Cookie set: username=Duke Martin");
+        }
+
+        function getSplitCookie() {
+            if (document.cookie.length !== 0) {
+                var array = document.cookie.split("=");
+                alert("📛 Name=" + array[0] + "\n📝 Value=" + array[1]);
+            } else {
+                alert("❌ Cookie not available");
+            }
+            refreshAllStatuses();
+        }
+
+        function deleteSplitCookie() {
+            document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+            refreshAllStatuses();
+            alert("🗑️ Cookie deleted. Page will reload.");
+            location.reload();
+        }
+
+        // ── EXAMPLE 3: Color Preference ──
+        function applyColorPreference() {
+            var select = document.getElementById("colorSelect");
+            var value = select.value;
+            if (value !== "Select Color") {
+                // Apply to page background
+                document.bgColor = value;
+                // Update swatch
+                document.getElementById("colorSwatch").style.backgroundColor = value;
+                // Save to cookie
+                document.cookie = "color=" + value + "; max-age=" + (60 * 60 * 24 * 365) + "; path=/;";
+                refreshAllStatuses();
+                updateStatus('cookieStatusPref', '🎨 Color preference saved: ' + value);
+                alert("✅ Color saved to cookie: " + value);
+            } else {
+                alert("⚠️ Please select a color first.");
+            }
+        }
+
+        function clearColorPreference() {
+            document.cookie = "color=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+            document.bgColor = "#ffffff";
+            document.getElementById("colorSelect").value = "Select Color";
+            document.getElementById("colorSwatch").style.backgroundColor = "#ffffff";
+            refreshAllStatuses();
+            updateStatus('cookieStatusPref', 'No color preference stored.');
+            alert("🗑️ Color preference cleared.");
+            location.reload();
+        }
+
+        // ── Restore color preference on page load ──
+        window.onload = function() {
+            // Check for color cookie
+            if (document.cookie.length !== 0) {
+                var parts = document.cookie.split("=");
+                if (parts.length >= 2 && parts[0].trim() === "color") {
+                    var color = parts[1];
+                    // Remove any trailing semicolon or path info
+                    if (color.includes(';')) {
+                        color = color.split(';')[0];
+                    }
+                    color = color.trim();
+                    // Apply if it's a valid color
+                    if (color && color !== "Select Color") {
+                        document.bgColor = color;
+                        document.getElementById("colorSelect").value = color;
+                        document.getElementById("colorSwatch").style.backgroundColor = color;
+                        updateStatus('cookieStatusPref', '🎨 Color preference restored: ' + color);
+                    }
+                }
+            }
+
+            // Refresh all status displays
+            refreshAllStatuses();
+        };
+    </script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JavaScript dblclick event
+Last Updated : 11 Jun 2026
+The dblclick event generates an event on double click the element. The event fires when an element is clicked twice in a very short span of time. We can also use the JavaScript's addEventListener() method to fire the double click event.
+
+In HTML, we can use the ondblclick attribute to create a double click event.
+
+Syntax
+Now, we see the syntax of creating double click event in HTML and in javascript (without using addEventListener() method or by using the addEventListener() method).
+
+In HTML
+<element ondblclick = "fun()">  
+In JavaScript
+object.ondblclick = function() { myScript };  
+In JavaScript by using the addEventListener() method
+object.addEventListener("dblclick", myScript);  
+Examples of JavaScript dblclick Event
+Let's see some of the illustrations to understand the double click event.
+
+Discover more
+programming languages
+Programming
+Software
+Example - Using ondblclick attribute in HTML
+In this example, we are creating the double click event using the HTML ondblclick attribute.
+
+<!DOCTYPE html>  
+<html>  
+<head>  
+</head>  
+  
+<body>  
+<h1 id = "heading" ondblclick = "fun()"> Hello world :):) </h1>  
+<h2> Double Click the text "Hello world" to see the effect. </h2>  
+<p> This is an example of using the <b> ondblclick </b> attribute. </p>  
+<script>  
+function fun() {  
+document.getElementById("heading").innerHTML = " Welcome to the TpointTech.com ";  
+}  
+</script>  
+</body>  
+</html>  
+ 
+Output
+
+After the execution of the above code, the output will be -
+
+JavaScript dblclick event
+After double-clicking the text "Hello world", the output will be -
+
+JavaScript dblclick event
+Discover more
+script
+Java (Programming Language)
+programming
+Now, we will see how to create double click event using JavaScript.
+
+Example - Using JavaScript
+<!DOCTYPE html>  
+<html>  
+<head>  
+</head>  
+  
+<body>  
+<h1 id = "heading"> Hello world :):) </h1>  
+<h2> Double Click the text "Hello world" to see the effect. </h2>  
+<p> This is an example of creating the double click event using JavaScript. </p>  
+<script>  
+document.getElementById("heading").ondblclick = function() { fun() };  
+function fun() {  
+document.getElementById("heading").innerHTML = " Welcome to the TpointTech.com ";  
+}  
+</script>  
+</body>  
+  
+</html>  
+ 
+Output
+
+JavaScript dblclick event
+After double-clicking the text "Hello world", the output will be -
+
+JavaScript dblclick event
+Discover more
+Scripting Languages
+Computer Science
+Software Testing
+Example - Using JavaScript's addEventListener() method
+<!DOCTYPE html>  
+<html>  
+<head>  
+</head>  
+  
+<body>  
+<h1 id = "heading"> Hello world :):) </h1>  
+<h2> Double Click the text "Hello world" to see the effect. </h2>  
+<p> This is an example of creating the double click event using the <b> addEventListener() method </b>. </p>  
+<script>  
+document.getElementById("heading").addEventListener("dblclick", fun);  
+function fun() {  
+document.getElementById("heading").innerHTML = " Welcome to the TpointTech.com ";  
+}  
+</script>  
+</body>  
+  
+</html>  
+ 
+Output
+
+JavaScript dblclick event
+After double-clicking the text "Hello world", the output will be -
+
+JavaScript dblclick event

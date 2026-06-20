@@ -96,30 +96,47 @@
 
 // src/components/HomePage.jsx
 import React, { useState, useMemo, useCallback, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate ,useLocation} from 'react-router-dom';
 import { tutorialData, getFlatSubtopicsForMain, findSubTopicBySlug } from '../data';
 import Header from '../components/Header';
 import Sidebar from '../components/Sidebar';
 import ContentArea from '../components/ContentArea';
 import Cards from '../components/Cards';
+import { getTutorialByPath } from '../data/tutorialMap';
 
 // Helper to create URL-friendly slug from a name
 const slugify = (str) => str.toLowerCase().replace(/\s+/g, '-');
 
 function HomePage() {
+
+  const location = useLocation();
+
   const { mainTopic: mainSlug, subTopic: subSlug } = useParams();
   const navigate = useNavigate();
   const [searchTerm, setSearchTerm] = useState('');
 
   // 1. Determine current main topic from URL slug
+  // const selectedMain = useMemo(() => {
+  //   if (mainSlug) {
+  //     const found = tutorialData.find(t => slugify(t.name) === mainSlug);
+  //     if (found) return found;
+  //   }
+  //   // Fallback to first tutorial if slug invalid or root route
+  //   return tutorialData[0];
+  // }, [mainSlug]);
+
   const selectedMain = useMemo(() => {
-    if (mainSlug) {
-      const found = tutorialData.find(t => slugify(t.name) === mainSlug);
-      if (found) return found;
-    }
-    // Fallback to first tutorial if slug invalid or root route
-    return tutorialData[0];
-  }, [mainSlug]);
+      // Try to get the tutorial from the full path
+      const pathTutorial = getTutorialByPath(location.pathname);
+      if (pathTutorial) return pathTutorial;
+
+      // Fallback: try matching by mainSlug (as before)
+      if (mainSlug) {
+        const found = tutorialData.find(t => slugify(t.name) === mainSlug);
+        if (found) return found;
+      }
+      return tutorialData[0];
+    }, [location.pathname, mainSlug]);
 
   // 2. Flatten all leaf subtopics for this main topic
   const flatSubtopics = useMemo(() => {
