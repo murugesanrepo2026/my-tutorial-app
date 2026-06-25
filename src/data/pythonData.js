@@ -287,7 +287,7 @@ export const pythonData = {
     <div class="note">
         💡 In Python, printing "Hello World" takes just one line of code – simple and clean!
         <div style="margin-top: 0.5rem;">
-            <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/python', '_blank')">Compile and Run Python</button>
+            <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/python', '_blank')">Compile and Run Python</button>
         </div>
     </div>
 

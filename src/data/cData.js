@@ -1006,7 +1006,7 @@ int main() {
 
     <div class="note">
         <strong>Try it online now!</strong> Click the button below to open an online C compiler and start coding immediately.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open Online C Compiler</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open Online C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -11894,7 +11894,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with call by value and call by reference.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -12381,7 +12381,7 @@ int a = 20;</code></pre>
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with storage classes.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -12909,7 +12909,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -13332,7 +13332,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with 2D arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -13771,7 +13771,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with returning arrays.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -14193,7 +14193,7 @@ int* Bubble_Sort(int a[]) {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with passing arrays to functions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -14739,7 +14739,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with strings.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15208,7 +15208,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with string functions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15608,7 +15608,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>gets()</code> and <code>puts()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -15995,7 +15995,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strcat()</code> and <code>strncat()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -16383,7 +16383,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strcpy()</code> and <code>strncpy()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -16775,7 +16775,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strlen()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17186,7 +17186,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strcmp()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17583,7 +17583,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strlwr()</code> (if available) or the custom version.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -17980,7 +17980,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strupr()</code> (if available) or the custom version.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -18390,7 +18390,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>strstr()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -18794,7 +18794,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with safe string reversal.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -19333,7 +19333,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with structures.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -19824,7 +19824,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with arrays of structures.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -20294,7 +20294,7 @@ void display(struct employee emp) {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with nested structures.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -20730,7 +20730,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with unions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -21159,7 +21159,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>typedef</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -21709,7 +21709,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -22170,7 +22170,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with double pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -22668,7 +22668,7 @@ int showadd(int b) {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with pointer arithmetic.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -23109,7 +23109,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with constant pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -23578,7 +23578,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with void pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -24001,7 +24001,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with dangling pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -24433,7 +24433,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>sizeof()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -24826,7 +24826,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with null pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -25298,7 +25298,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with function pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -25684,7 +25684,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with function pointers as arguments.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26066,7 +26066,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with dereferencing pointers.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26517,7 +26517,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with dynamic memory allocation.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -26995,7 +26995,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with math functions.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27454,7 +27454,7 @@ void main()
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and run your own file handling code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -27872,7 +27872,7 @@ void main()
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and run your own file handling code.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -28301,7 +28301,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>fputs()</code> and <code>fgets()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -28695,7 +28695,7 @@ getch();
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>fputc()</code> and <code>fgetc()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29142,7 +29142,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>rewind()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29552,7 +29552,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>fseek()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -29975,7 +29975,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with <code>ftell()</code>.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -30749,7 +30749,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with Fibonacci series.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31099,7 +31099,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with prime number checking.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31455,7 +31455,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the button below to open an online C compiler and experiment with palindrome checking.<br>
-        <button class="compile-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
+        <button class="compile-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Compile and Run C (Online Compiler)</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -31744,7 +31744,7 @@ int main() {
         <h2>1️⃣ Hello World Program</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    printf(\"Hello, World!\\n\");\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     printf("Hello, World!\n");
@@ -31761,7 +31761,7 @@ int main() {
         <p><strong>Output:</strong> 0 1 1 2 3 5 8 13 21 34</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n1=0, n2=1, n3, i, number;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&number);\n    printf(\"%d %d\", n1, n2);\n    for(i=2; i<number; ++i) {\n        n3 = n1 + n2;\n        printf(\" %d\", n3);\n        n1 = n2;\n        n2 = n3;\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n1=0, n2=1, n3, i, number;
@@ -31786,7 +31786,7 @@ int main() {
         <p><strong>Input:</strong> 44 → Output: not prime number</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, i, flag=0;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    for(i=2; i<=n/2; i++) {\n        if(n%i==0) { flag=1; break; }\n    }\n    if(flag==0) printf(\"prime number\");\n    else printf(\"not prime number\");\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, i, flag=0;
@@ -31809,7 +31809,7 @@ int main() {
         <p><strong>Input:</strong> 329 → Output: not palindrome number</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, r, sum=0, temp;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    temp=n;\n    while(n>0) {\n        r = n%10;\n        sum = sum*10 + r;\n        n /= 10;\n    }\n    if(temp==sum) printf(\"palindrome number\");\n    else printf(\"not palindrome number\");\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, r, sum=0, temp;
@@ -31834,7 +31834,7 @@ int main() {
         <p><strong>Input:</strong> 5 → Output: 120</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, fact=1, i;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    for(i=1; i<=n; i++) fact *= i;\n    printf(\"Factorial = %d\", fact);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, fact=1, i;
@@ -31853,7 +31853,7 @@ int main() {
         <p><strong>Input:</strong> 153 → Output: armstrong</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, r, sum=0, temp;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    temp=n;\n    while(n>0) {\n        r = n%10;\n        sum += r*r*r;\n        n /= 10;\n    }\n    if(temp==sum) printf(\"armstrong\");\n    else printf(\"not armstrong\");\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, r, sum=0, temp;
@@ -31878,7 +31878,7 @@ int main() {
         <p><strong>Input:</strong> 234 → Output: 9</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, sum=0;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    while(n>0) {\n        sum += n%10;\n        n /= 10;\n    }\n    printf(\"Sum = %d\", sum);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, sum=0;
@@ -31900,7 +31900,7 @@ int main() {
         <p><strong>Input:</strong> 123 → Output: 321</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, rev=0;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    while(n>0) {\n        rev = rev*10 + n%10;\n        n /= 10;\n    }\n    printf(\"Reversed = %d\", rev);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, rev=0;
@@ -31922,7 +31922,7 @@ int main() {
         <p><strong>Input:</strong> a=10, b=20 → Output: a=20, b=10</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int a, b;\n    printf(\"Enter a and b: \");\n    scanf(\"%d %d\",&a,&b);\n    a = a + b;\n    b = a - b;\n    a = a - b;\n    printf(\"a=%d, b=%d\", a, b);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int a, b;
@@ -31942,7 +31942,7 @@ int main() {
         <h2>🔟 Print "hello" without using semicolon</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    if(printf(\"hello\")) {}\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     if(printf("hello")) {}
@@ -31957,7 +31957,7 @@ int main() {
         <h2>1️⃣1️⃣ Matrix Multiplication</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int a[3][3]={{1,1,1},{2,2,2},{3,3,3}};\n    int b[3][3]={{1,1,1},{2,2,2},{3,3,3}};\n    int c[3][3], i, j, k;\n    for(i=0;i<3;i++)\n        for(j=0;j<3;j++) {\n            c[i][j]=0;\n            for(k=0;k<3;k++)\n                c[i][j] += a[i][k] * b[k][j];\n        }\n    printf(\"Result matrix:\\n\");\n    for(i=0;i<3;i++) {\n        for(j=0;j<3;j++)\n            printf(\"%d \", c[i][j]);\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int a[3][3]={{1,1,1},{2,2,2},{3,3,3}};
@@ -31992,7 +31992,7 @@ int main() {
         <p><strong>Input:</strong> 5 → Output: 101</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, bin[32], i=0;\n    printf(\"Enter decimal: \");\n    scanf(\"%d\",&n);\n    while(n>0) {\n        bin[i++] = n%2;\n        n /= 2;\n    }\n    printf(\"Binary: \");\n    for(int j=i-1; j>=0; j--) printf(\"%d\", bin[j]);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, bin[32], i=0;
@@ -32015,7 +32015,7 @@ int main() {
         <p><strong>Input:</strong> 6</p>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, i, j;\n    printf(\"Enter range: \");\n    scanf(\"%d\",&n);\n    for(i=1; i<=n; i++) {\n        for(j=1; j<=i; j++) printf(\"%d\", j);\n        for(j=i-1; j>=1; j--) printf(\"%d\", j);\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int n, i, j;
@@ -32044,7 +32044,7 @@ int main() {
         <h2>1️⃣4️⃣ Linear Search</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int arr[] = {5, 8, 3, 9, 2}, key, i, found=0;\n    printf(\"Enter element to search: \");\n    scanf(\"%d\",&key);\n    for(i=0; i<5; i++) {\n        if(arr[i]==key) { found=1; break; }\n    }\n    if(found) printf(\"Found at index %d\", i);\n    else printf(\"Not found\");\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int arr[] = {5, 8, 3, 9, 2}, key, i, found=0;
@@ -32065,7 +32065,7 @@ int main() {
         <h2>1️⃣5️⃣ Bubble Sort</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int arr[] = {64, 34, 25, 12, 22, 11, 90};\n    int n = sizeof(arr)/sizeof(arr[0]), i, j, temp;\n    for(i=0; i<n-1; i++)\n        for(j=0; j<n-i-1; j++)\n            if(arr[j] > arr[j+1]) {\n                temp = arr[j];\n                arr[j] = arr[j+1];\n                arr[j+1] = temp;\n            }\n    printf(\"Sorted array: \");\n    for(i=0; i<n; i++) printf(\"%d \", arr[i]);\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include<stdio.h>
 int main() {
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
@@ -32422,7 +32422,7 @@ int main() {
     <h2>1️⃣ Concatenate two strings using a loop</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    char first_string[20], second_string[20];\n    int i, j;\n    printf(\"Enter first string: \");\n    scanf(\"%s\", first_string);\n    printf(\"Enter second string: \");\n    scanf(\"%s\", second_string);\n    for(i=0; first_string[i]!='\\0'; i++);\n    for(j=0; second_string[j]!='\\0'; j++) {\n        first_string[i] = second_string[j];\n        i++;\n    }\n    first_string[i] = '\\0';\n    printf(\"Concatenated string: %s\", first_string);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 int main() {
     char first_string[20], second_string[20];
@@ -32451,7 +32451,7 @@ int main() {
     <h2>2️⃣ Concatenate two strings using pointers</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    char string1[20], string2[20];\n    char *str1, *str2;\n    printf(\"Enter first string: \");\n    scanf(\"%s\", string1);\n    printf(\"Enter second string: \");\n    scanf(\"%s\", string2);\n    str1 = string1;\n    str2 = string2;\n    while(*str1) str1++;\n    while(*str2) {\n        *str1 = *str2;\n        str1++;\n        str2++;\n    }\n    *str1 = '\\0';\n    printf(\"Concatenated string: %s\", string1);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 int main() {
     char string1[20], string2[20];
@@ -32483,7 +32483,7 @@ int main() {
     <h2>3️⃣ Concatenate two strings using strcat() function</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <string.h>\nint main() {\n    char s1[20], s2[20];\n    printf(\"Enter first string: \");\n    scanf(\"%s\", s1);\n    printf(\"Enter second string: \");\n    scanf(\"%s\", s2);\n    strcat(s1, s2);\n    printf(\"Concatenated string: %s\", s1);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <string.h>
 int main() {
@@ -32510,7 +32510,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -32826,7 +32826,7 @@ int main() {
     <h2>1️⃣ Basic Armstrong Number Check (While Loop)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint main() {\n    int num, originalNum, remainder, result = 0, n = 0;\n    printf(\"Enter an integer: \");\n    scanf(\"%d\", &num);\n    originalNum = num;\n    while (originalNum != 0) {\n        originalNum /= 10;\n        n++;\n    }\n    originalNum = num;\n    while (originalNum != 0) {\n        remainder = originalNum % 10;\n        result += pow(remainder, n);\n        originalNum /= 10;\n    }\n    if (result == num)\n        printf(\"%d is an Armstrong number.\\n\", num);\n    else\n        printf(\"%d is not an Armstrong number.\\n\", num);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int main() {
@@ -32861,7 +32861,7 @@ int main() {
     <h2>2️⃣ Armstrong Number using Recursion</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint countDigits(int num) {\n    if (num == 0) return 0;\n    return 1 + countDigits(num / 10);\n}\nint armstrongSum(int num, int power) {\n    if (num == 0) return 0;\n    int digit = num % 10;\n    return pow(digit, power) + armstrongSum(num / 10, power);\n}\nint main() {\n    int num, n, sum;\n    printf(\"Enter an integer: \");\n    scanf(\"%d\", &num);\n    n = countDigits(num);\n    sum = armstrongSum(num, n);\n    if (sum == num)\n        printf(\"%d is an Armstrong number.\\n\", num);\n    else\n        printf(\"%d is not an Armstrong number.\\n\", num);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int countDigits(int num) {
@@ -32896,7 +32896,7 @@ int main() {
     <h2>3️⃣ Armstrong Numbers in a Range (For Loop)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint main() {\n    int num, temp, remain, n, result;\n    printf(\"Armstrong numbers from 1 to 1000:\\n\");\n    for (num = 1; num <= 1000; num++) {\n        temp = num;\n        n = 0;\n        result = 0;\n        for (int i = temp; i != 0; i /= 10) n++;\n        temp = num;\n        for (int i = temp; i != 0; i /= 10) {\n            remain = i % 10;\n            result += pow(remain, n);\n        }\n        if (result == num) printf(\"%d \", num);\n    }\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int main() {
@@ -32925,7 +32925,7 @@ int main() {
     <h2>4️⃣ Armstrong Number using Function</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint isArmstrong(int num) {\n    int originalNum = num, remainder, result = 0, n = 0;\n    int temp = num;\n    while (temp != 0) { temp /= 10; n++; }\n    temp = num;\n    while (temp != 0) {\n        remainder = temp % 10;\n        result += pow(remainder, n);\n        temp /= 10;\n    }\n    return (result == num);\n}\nint main() {\n    int number;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &number);\n    if (isArmstrong(number))\n        printf(\"%d is an Armstrong number.\\n\", number);\n    else\n        printf(\"%d is not an Armstrong number.\\n\", number);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int isArmstrong(int num) {
@@ -32959,7 +32959,7 @@ int main() {
     <h2>5️⃣ Armstrong Number using Arrays</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint main() {\n    int num, temp, digits[10], count = 0, result = 0;\n    printf(\"Enter a Number: \");\n    scanf(\"%d\", &num);\n    temp = num;\n    while (temp > 0) {\n        digits[count] = temp % 10;\n        temp /= 10;\n        count++;\n    }\n    for (int i = 0; i < count; i++) {\n        result += pow(digits[i], count);\n    }\n    if (result == num)\n        printf(\"%d is an Armstrong number.\\n\", num);\n    else\n        printf(\"%d is not an Armstrong number.\\n\", num);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int main() {
@@ -32995,7 +32995,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33294,7 +33294,7 @@ int main() {
     <h2>💻 C Program to Sum Digits</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, sum=0, m;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &n);\n    while(n>0) {\n        m = n % 10;\n        sum = sum + m;\n        n = n / 10;\n    }\n    printf(\"Sum is = %d\", sum);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     int n, sum=0, m;
@@ -33324,7 +33324,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33611,7 +33611,7 @@ int main() {
     <h2>💻 C Program to Reverse a Number</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int n, reverse=0, rem;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &n);\n    while(n != 0) {\n        rem = n % 10;\n        reverse = reverse * 10 + rem;\n        n /= 10;\n    }\n    printf(\"Reversed Number: %d\", reverse);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     int n, reverse=0, rem;
@@ -33637,7 +33637,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -33910,7 +33910,7 @@ int main() {
     <h2>1️⃣ Using + and - (Addition and Subtraction)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    int a=10, b=20;\n    printf(\"Before swap a=%d b=%d\\n\", a, b);\n    a = a + b;\n    b = a - b;\n    a = a - b;\n    printf(\"After swap a=%d b=%d\\n\", a, b);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     int a=10, b=20;
@@ -33931,7 +33931,7 @@ int main() {
     <h2>2️⃣ Using * and / (Multiplication and Division)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<stdlib.h>\nint main() {\n    int a=10, b=20;\n    printf(\"Before swap a=%d b=%d\\n\", a, b);\n    a = a * b;\n    b = a / b;\n    a = a / b;\n    printf(\"After swap a=%d b=%d\\n\", a, b);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<stdlib.h>
 int main() {
@@ -33956,7 +33956,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -34232,7 +34232,7 @@ int main() {
     <h2>1️⃣ Using while loop</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n, count=0;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &n);\n    while(n != 0) {\n        n /= 10;\n        count++;\n    }\n    printf(\"Number of digits: %d\\n\", count);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 int main() {
     int n, count=0;
@@ -34254,7 +34254,7 @@ int main() {
     <h2>2️⃣ Using log10() function (math.h)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <math.h>\nint main() {\n    int num, count;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &num);\n    count = (num == 0) ? 1 : log10(num) + 1;\n    printf(\"Number of digits: %d\\n\", count);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <math.h>
 int main() {
@@ -34275,7 +34275,7 @@ int main() {
     <h2>3️⃣ Using a separate function</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint countDigits(int n) {\n    int count = 0;\n    while(n != 0) {\n        n /= 10;\n        count++;\n    }\n    return count;\n}\nint main() {\n    int num;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &num);\n    printf(\"Number of digits: %d\\n\", countDigits(num));\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 int countDigits(int n) {
     int count = 0;
@@ -34301,7 +34301,7 @@ int main() {
     <h2>4️⃣ Using recursion</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\nint countDigitsRec(int n) {\n    static int count = 0;\n    if(n > 0) {\n        count++;\n        return countDigitsRec(n / 10);\n    }\n    return count;\n}\nint main() {\n    int num;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &num);\n    printf(\"Number of digits: %d\\n\", countDigitsRec(num));\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 int countDigitsRec(int n) {
     static int count = 0;
@@ -34331,7 +34331,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -34613,7 +34613,7 @@ int main() {
     <h2>1️⃣ Using if statement</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    if(printf(\"hello world\")) {}\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     if(printf("hello world")) {}
@@ -34626,7 +34626,7 @@ int main() {
     <h2>2️⃣ Using switch statement</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    switch(printf(\"hello world\")) {}\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     switch(printf("hello world")) {}
@@ -34639,7 +34639,7 @@ int main() {
     <h2>3️⃣ Using while loop</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\nint main() {\n    while(!printf(\"hello world\")) {}\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 int main() {
     while(!printf("hello world")) {}
@@ -34655,7 +34655,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -34934,7 +34934,7 @@ int main() {
     <h2>💻 Program Using #define</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#define start main\nvoid start() {\n    printf(\"Hello\");\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #define start main
 void start() {
@@ -34950,7 +34950,7 @@ void start() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -35224,7 +35224,7 @@ void start() {
     <h2>💻 C Program for Matrix Multiplication</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<stdlib.h>\nint main(){\n    int a[10][10], b[10][10], mul[10][10], r, c, i, j, k;\n    system(\"cls\");\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\", &r);\n    printf(\"Enter number of columns: \");\n    scanf(\"%d\", &c);\n    printf(\"Enter first matrix elements:\\n\");\n    for(i=0; i<r; i++)\n        for(j=0; j<c; j++)\n            scanf(\"%d\", &a[i][j]);\n    printf(\"Enter second matrix elements:\\n\");\n    for(i=0; i<r; i++)\n        for(j=0; j<c; j++)\n            scanf(\"%d\", &b[i][j]);\n    for(i=0; i<r; i++)\n        for(j=0; j<c; j++) {\n            mul[i][j] = 0;\n            for(k=0; k<c; k++)\n                mul[i][j] += a[i][k] * b[k][j];\n        }\n    printf(\"Product matrix:\\n\");\n    for(i=0; i<r; i++) {\n        for(j=0; j<c; j++)\n            printf(\"%d\\t\", mul[i][j]);\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<stdlib.h>
 int main(){
@@ -35281,7 +35281,7 @@ int main(){
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -35555,7 +35555,7 @@ int main(){
     <h2>💻 C Program for Number Triangle</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<stdlib.h>\nint main(){\n    int i, j, k, l, n;\n    system(\"cls\");\n    printf(\"Enter the range: \");\n    scanf(\"%d\", &n);\n    for(i=1; i<=n; i++) {\n        for(j=1; j<=n-i; j++)\n            printf(\" \");\n        for(k=1; k<=i; k++)\n            printf(\"%d\", k);\n        for(l=i-1; l>=1; l--)\n            printf(\"%d\", l);\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<stdlib.h>
 int main(){
@@ -35597,7 +35597,7 @@ int main(){
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -35871,7 +35871,7 @@ int main(){
     <h2>💻 C Program for Fibonacci Triangle</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<stdlib.h>\nint main(){\n    int a=0,b=1,i,c,n,j;\n    system(\"cls\");\n    printf(\"Enter the limit: \");\n    scanf(\"%d\",&n);\n    for(i=1;i<=n;i++) {\n        a=0;\n        b=1;\n        printf(\"%d\\t\",b);\n        for(j=1;j<i;j++) {\n            c=a+b;\n            printf(\"%d\\t\",c);\n            a=b;\n            b=c;\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<stdlib.h>
 int main(){
@@ -35919,7 +35919,7 @@ int main(){
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -36193,7 +36193,7 @@ int main(){
     <h2>💻 C Program for Alphabet Triangle</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<stdlib.h>\nint main(){\n    int ch=65;\n    int i,j,k,m;\n    system(\"cls\");\n    for(i=1;i<=5;i++) {\n        for(j=5;j>=i;j--)\n            printf(\" \");\n        for(k=1;k<=i;k++)\n            printf(\"%c\",ch++);\n        ch--;\n        for(m=1;m<i;m++)\n            printf(\"%c\",--ch);\n        printf(\"\\n\");\n        ch=65;\n    }\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<stdlib.h>
 int main(){
@@ -36229,7 +36229,7 @@ ABCDEDCBA</pre>
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -36512,7 +36512,7 @@ ABCDEDCBA</pre>
         <h2>1️⃣ Square Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=0;i<n;i++) {\n        for(int j=0;j<n;j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36537,7 +36537,7 @@ int main() {
         <h2>2️⃣ Hollow Square Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=n;j++) {\n            if(i==1 || i==n || j==1 || j==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36566,7 +36566,7 @@ int main() {
         <h2>3️⃣ Hollow Square Pattern with Diagonal</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=n;j++) {\n            if(i==1 || i==n || j==1 || j==n-i+1 || i==j || j==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36595,7 +36595,7 @@ int main() {
         <h2>4️⃣ Rhombus Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i-1;j++)\n            printf(\" \");\n        for(int k=1;k<=n;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36622,7 +36622,7 @@ int main() {
         <h2>5️⃣ Hollow Rhombus Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i-1;j++)\n            printf(\" \");\n        for(int k=1;k<=n;k++) {\n            if(i==1 || i==n || k==1 || k==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36653,7 +36653,7 @@ int main() {
         <h2>6️⃣ Mirrored Rhombus Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<i;j++)\n            printf(\" \");\n        for(int k=1;k<=n;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36680,7 +36680,7 @@ int main() {
         <h2>7️⃣ Hollow Mirrored Rhombus Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<i;j++)\n            printf(\" \");\n        for(int k=1;k<=n;k++) {\n            if(i==1 || i==n || k==1 || k==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36711,7 +36711,7 @@ int main() {
         <h2>8️⃣ Right Triangle Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=i;j++)\n            printf(\"* \");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36736,7 +36736,7 @@ int main() {
         <h2>9️⃣ Hollow Right Triangle Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=i;j++) {\n            if(j==1 || j==i || i==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36765,7 +36765,7 @@ int main() {
         <h2>🔟 Mirrored Right Triangle Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m=1;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i-1;j++)\n            printf(\" \");\n        for(int k=1;k<=m;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n        m++;\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m=1;
@@ -36793,7 +36793,7 @@ int main() {
         <h2>1️⃣1️⃣ Hollow Mirrored Right Triangle</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m=1;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i-1;j++)\n            printf(\" \");\n        for(int k=1;k<=m;k++) {\n            if(k==1 || k==m || m==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n        m++;\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m=1;
@@ -36825,7 +36825,7 @@ int main() {
         <h2>1️⃣2️⃣ Inverted Right Triangle Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i;j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36850,7 +36850,7 @@ int main() {
         <h2>1️⃣3️⃣ Hollow Inverted Right Triangle</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<=i;j++) {\n            if(j==1 || j==i || i==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -36879,7 +36879,7 @@ int main() {
         <h2>1️⃣4️⃣ Inverted Mirrored Right Triangle</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    m=n;\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<i;j++)\n            printf(\" \");\n        for(int k=1;k<=m;k++)\n            printf(\"*\");\n        m--;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m;
@@ -36908,7 +36908,7 @@ int main() {
         <h2>1️⃣5️⃣ Hollow Inverted Mirrored Right Triangle</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    m=n;\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<i;j++)\n            printf(\" \");\n        for(int k=1;k<=m;k++) {\n            if(i==1 || k==1 || k==m)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        m--;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m;
@@ -36941,7 +36941,7 @@ int main() {
         <h2>1️⃣6️⃣ Pyramid Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    m=n;\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=m-1;j++)\n            printf(\" \");\n        for(int k=1;k<=2*i-1;k++)\n            printf(\"*\");\n        m--;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m;
@@ -36970,7 +36970,7 @@ int main() {
         <h2>1️⃣7️⃣ Hollow Pyramid Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    m=n;\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=m-1;j++)\n            printf(\" \");\n        for(int k=1;k<=2*i-1;k++) {\n            if(k==1 || k==2*i-1 || i==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        m--;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m;
@@ -37003,7 +37003,7 @@ int main() {
         <h2>1️⃣8️⃣ Inverted Pyramid Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m=1;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<m;j++)\n            printf(\" \");\n        for(int k=1;k<=2*i-1;k++)\n            printf(\"*\");\n        m++;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m=1;
@@ -37031,7 +37031,7 @@ int main() {
         <h2>1️⃣9️⃣ Hollow Inverted Pyramid Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m=1;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    for(int i=n;i>=1;i--) {\n        for(int j=1;j<m;j++)\n            printf(\" \");\n        for(int k=1;k<=2*i-1;k++) {\n            if(k==1 || k==2*i-1 || i==n)\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        m++;\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m=1;
@@ -37063,7 +37063,7 @@ int main() {
         <h2>2️⃣0️⃣ Half Diamond Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of columns: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=i;j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    for(int i=n-1;i>=1;i--) {\n        for(int j=1;j<=i;j++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -37093,7 +37093,7 @@ int main() {
         <h2>2️⃣1️⃣ Diamond Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n, spaces, stars=1;\n    printf(\"Enter number of rows: \");\n    scanf(\"%d\",&n);\n    spaces=n-1;\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=spaces;j++)\n            printf(\" \");\n        for(int k=1;k<=stars;k++)\n            printf(\"*\");\n        if(spaces>i) {\n            spaces--;\n            stars+=2;\n        } else if(spaces<i) {\n            spaces++;\n            stars-=2;\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n, spaces, stars=1;
@@ -37128,7 +37128,7 @@ int main() {
         <h2>2️⃣2️⃣ Right Arrow Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of columns: \");\n    scanf(\"%d\",&n);\n    for(int i=0;i<n;i++) {\n        for(int j=0;j<i;j++)\n            printf(\" \");\n        for(int k=1;k<=n-i;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    for(int i=1;i<n;i++) {\n        for(int j=1;j<n-i;j++)\n            printf(\" \");\n        for(int k=1;k<=i+1;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -37162,7 +37162,7 @@ int main() {
         <h2>2️⃣3️⃣ Left Arrow Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter number of columns: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        for(int j=1;j<=n-i;j++)\n            printf(\" \");\n        for(int k=0;k<=n-i;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    for(int i=1;i<n;i++) {\n        for(int j=1;j<i+1;j++)\n            printf(\" \");\n        for(int k=1;k<=i+1;k++)\n            printf(\"*\");\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -37196,7 +37196,7 @@ int main() {
         <h2>2️⃣4️⃣ Plus Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n;\n    printf(\"Enter odd number: \");\n    scanf(\"%d\",&n);\n    for(int i=1;i<=n;i++) {\n        if(i==(n/2)+1) {\n            for(int j=1;j<=n;j++)\n                printf(\"+\");\n        } else {\n            for(int j=1;j<=n/2;j++)\n                printf(\" \");\n            printf(\"+\");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n;
@@ -37227,7 +37227,7 @@ int main() {
         <h2>2️⃣5️⃣ X Star Pattern</h2>
         <div class="code-block-wrapper">
             <button class="ai-icon" data-code="#include <stdio.h>\nint main() {\n    int n,m;\n    printf(\"Enter number: \");\n    scanf(\"%d\",&n);\n    m=2*n-1;\n    for(int i=1;i<=m;i++) {\n        for(int j=1;j<=m;j++) {\n            if(i==j || j==(m-i+1))\n                printf(\"*\");\n            else\n                printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}">🤖</button>
-            <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+            <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
             <pre><code>#include <stdio.h>
 int main() {
     int n,m;
@@ -37258,7 +37258,7 @@ int main() {
 
     <div class="note">
         <strong>Try any pattern!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <footer>
@@ -37552,7 +37552,7 @@ int main() {
     <h2>💻 C Program to Check Leap Year (Single Year)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<conio.h>\nvoid main() {\n    int year;\n    printf(\"Enter a year: \");\n    scanf(\"%d\", &year);\n    if(((year%4==0) && (year%100!=0)) || (year%400==0))\n        printf(\"%d is a leap year\", year);\n    else\n        printf(\"%d is not a leap year\", year);\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<conio.h>
 void main() {
@@ -37578,7 +37578,7 @@ void main() {
     <h2>📊 C Program to Print Leap Years in a Range</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<conio.h>\nvoid main() {\n    int startYear, endYear, i;\n    printf(\"Enter start year: \");\n    scanf(\"%d\", &startYear);\n    printf(\"Enter end year: \");\n    scanf(\"%d\", &endYear);\n    printf(\"Leap years between %d and %d:\\n\", startYear, endYear);\n    for(i=startYear; i<=endYear; i++) {\n        if(((i%4==0) && (i%100!=0)) || (i%400==0))\n            printf(\"%d\\n\", i);\n    }\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<conio.h>
 void main() {
@@ -37610,7 +37610,7 @@ void main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -37887,7 +37887,7 @@ void main() {
     <h2>1️⃣ Using for Loop – Check Single Number</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<conio.h>\nvoid main() {\n    int num, rem, sum = 0, i;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &num);\n    for(i = 1; i < num; i++) {\n        rem = num % i;\n        if(rem == 0)\n            sum = sum + i;\n    }\n    if(sum == num)\n        printf(\"%d is a Perfect Number\\n\", num);\n    else\n        printf(\"%d is not a Perfect Number\\n\", num);\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<conio.h>
 void main() {
@@ -37916,7 +37916,7 @@ void main() {
     <h2>2️⃣ Using while Loop – Check Single Number</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<conio.h>\nvoid main() {\n    int i = 1, num, Sum = 0;\n    printf(\"Enter a number: \");\n    scanf(\"%d\", &num);\n    while(i < num) {\n        if(num % i == 0)\n            Sum = Sum + i;\n        i++;\n    }\n    if(Sum == num)\n        printf(\"%d is a Perfect Number\\n\", num);\n    else\n        printf(\"%d is not a Perfect Number\\n\", num);\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<conio.h>
 void main() {
@@ -37943,7 +37943,7 @@ void main() {
     <h2>3️⃣ Find Perfect Numbers in a Range</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include<stdio.h>\n#include<conio.h>\nvoid main() {\n    int num, Sum = 0, i, Max, Min;\n    printf(\"Enter minimum and maximum: \");\n    scanf(\"%d %d\", &Min, &Max);\n    printf(\"Perfect numbers between %d and %d:\\n\", Min, Max);\n    for(num = Min; num <= Max; num++) {\n        Sum = 0;\n        for(i = 1; i < num; i++) {\n            if(num % i == 0)\n                Sum = Sum + i;\n        }\n        if(Sum == num)\n            printf(\"%d\\t\", num);\n    }\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include<stdio.h>
 #include<conio.h>
 void main() {
@@ -37975,7 +37975,7 @@ void main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">
@@ -38255,7 +38255,7 @@ void main() {
     <h2>1️⃣ LCM using while loop</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <conio.h>\nvoid main() {\n    int num1, num2, max_div, flag = 1;\n    printf(\"Enter two positive numbers: \");\n    scanf(\"%d %d\", &num1, &num2);\n    max_div = (num1 > num2) ? num1 : num2;\n    while(flag) {\n        if(max_div % num1 == 0 && max_div % num2 == 0) {\n            printf(\"LCM of %d and %d is %d.\\n\", num1, num2, max_div);\n            break;\n        }\n        ++max_div;\n    }\n    getch();\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <conio.h>
 void main() {
@@ -38281,7 +38281,7 @@ void main() {
     <h2>2️⃣ LCM using GCD (Euclidean algorithm)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <conio.h>\nint main() {\n    int num1, num2, i, gcd, LCM;\n    printf(\"Enter two positive numbers: \");\n    scanf(\"%d %d\", &num1, &num2);\n    for(i = 1; i <= num1 && i <= num2; ++i) {\n        if(num1 % i == 0 && num2 % i == 0)\n            gcd = i;\n    }\n    LCM = (num1 * num2) / gcd;\n    printf(\"LCM of %d and %d is %d.\\n\", num1, num2, LCM);\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <conio.h>
 int main() {
@@ -38306,7 +38306,7 @@ int main() {
     <h2>3️⃣ LCM using function (recursive style)</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <conio.h>\nint get_lcm(int a, int b);\nint main() {\n    int n1, n2, lcm;\n    printf(\"Enter two positive numbers: \");\n    scanf(\"%d %d\", &n1, &n2);\n    lcm = get_lcm(n1, n2);\n    printf(\"LCM of %d and %d is %d.\\n\", n1, n2, lcm);\n    return 0;\n}\nint get_lcm(int n1, int n2) {\n    static int max = 1;\n    if(max % n1 == 0 && max % n2 == 0)\n        return max;\n    else {\n        max++;\n        get_lcm(n1, n2);\n        return max;\n    }\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <conio.h>
 int get_lcm(int a, int b);
@@ -38337,7 +38337,7 @@ int get_lcm(int n1, int n2) {
     <h2>4️⃣ LCM using recursive GCD function</h2>
     <div class="code-block-wrapper">
         <button class="ai-icon" data-code="#include <stdio.h>\n#include <conio.h>\nint gcd(int num1, int num2) {\n    if(num1 == 0)\n        return num2;\n    return gcd(num2 % num1, num1);\n}\nint lcm_fun(int num1, int num2) {\n    return (num1 / gcd(num1, num2)) * num2;\n}\nint main() {\n    int num1, num2;\n    printf(\"Enter two positive numbers: \");\n    scanf(\"%d %d\", &num1, &num2);\n    printf(\"LCM of %d and %d is %d.\\n\", num1, num2, lcm_fun(num1, num2));\n    return 0;\n}">🤖</button>
-        <button class="run-btn" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">▶ Run</button>
+        <button class="run-btn" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">▶ Run</button>
         <pre><code>#include <stdio.h>
 #include <conio.h>
 int gcd(int num1, int num2) {
@@ -38367,7 +38367,7 @@ int main() {
 
     <div class="note">
         <strong>Try it yourself!</strong> Click the <strong>▶ Run</strong> button on any code block to open an online C compiler and test the code.<br>
-        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouchtech.com/compiler/c', '_blank')">Open C Compiler</button>
+        <button class="compile-btn" style="background-color:#306998; margin-top:0.5rem;" onclick="window.open('https://www.dreamztouch.in/compiler/c', '_blank')">Open C Compiler</button>
     </div>
 
     <div class="intro-text" style="background:#f1f5f9; border-left-color:#64748b;">

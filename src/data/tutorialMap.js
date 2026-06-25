@@ -9,6 +9,9 @@ import { htmlData } from './htmlData';
 import { cssData } from './cssData';
 import { javascriptData } from './javascriptData';
 import { springbootData } from './springbootData';
+import { csharpData } from './csharpData';
+import { reactData } from './reactData';
+import { mysqlData } from './mysqlData';
 
 // Path → data mapping
 const pathToDataMap = {
@@ -22,11 +25,11 @@ const pathToDataMap = {
   '/springboot/spring-boot-tutorial': springbootData,
   // For missing ones, set to null (you can later add data)
   '/sql/sql-home': null,
-  '/reactjs/react-home': null,
+  '/reactjs/react-home': reactData,
   '/node-js/node.js-home': null,
-  '/c#/.net-framework': null,   // ⚠️ FIX THIS PATH
+  '/csharp/Dotnet-framework': csharpData,   // ⚠️ FIX THIS PATH
   '/php/php-tutorial': null,
-  '/mysql/mysql-home': null,
+  '/mysql/mysql-home': mysqlData,
 };
 
 export const getTutorialByPath = (path) => pathToDataMap[path] || null;

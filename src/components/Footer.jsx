@@ -1129,6 +1129,8 @@ import { htmlData } from '../data/htmlData';
 import { cssData } from '../data/cssData';
 import { javascriptData } from '../data/javascriptData';
 import { springbootData } from '../data/springbootData';
+import { csharpData } from '../data/csharpData';
+import { mysqlData } from '../data/mysqlData';
 
 // ---------- TUTORIALS (14 links) ----------
 const tutorialItems = [
@@ -1143,9 +1145,9 @@ const tutorialItems = [
   { name: 'React JS', path: '/reactjs/react-home', icon: '⚛️' },
   { name: 'Node.js', path: '/node-js/node.js-home', icon: '🟢' },
   { name: 'Spring Boot', path: '/springboot/spring-boot-tutorial', icon: '🍃' ,data: springbootData},
-  { name: 'C#', path: '/c#/.net-framework', icon: '🎯' },
+  { name: 'C#', path: '/csharp/Dotnet-framework', icon: '🎯' ,data:csharpData},
   { name: 'PHP', path: '/php/php-tutorial', icon: '🐘' },
-  { name: 'MySQL', path: '/mysql/mysql-home', icon: '🐬' }
+  { name: 'MySQL', path: '/mysql/mysql-home', icon: '🐬', data:mysqlData }
 ];
 
 

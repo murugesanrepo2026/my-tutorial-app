@@ -7,13 +7,14 @@ import { htmlData } from './htmlData';
 import { cssData } from './cssData';
 import { javascriptData } from './javascriptData';
 import { springbootData } from './springbootData';
-// import { csharpData } from './csharpData';
+import { reactData } from './reactData';
+import { csharpData } from './csharpData';
 // import { phpData } from './phpData';
 import { mysqlData } from './mysqlData';
 // import other languages...
 
 // Combine into the original tutorialData array
-export const tutorialData = [cData,cppData,javaData, pythonData,htmlData , cssData, javascriptData, springbootData,mysqlData];
+export const tutorialData = [cData,cppData,javaData, pythonData,htmlData , cssData, javascriptData, springbootData,mysqlData,reactData,csharpData];
 
 // Re-export helper functions so components can import from '../data'
 export { findSubTopicBySlug, getFlatSubtopicsForMain } from './helpers';
